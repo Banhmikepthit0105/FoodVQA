@@ -155,7 +155,7 @@ def crawl_recipe(url):
         }
 
         with open("output.csv", "a", encoding="utf-8") as file:
-            file.write(f"\n{_fileName},{_title},{_subheading},{list_ingredients}, {_calories}")
+            file.write(f'\n{_fileName},{_title},"{_subheading}",{list_ingredients}, {_calories}')
         
         df = pd.DataFrame(data)
         print("================================================================")
