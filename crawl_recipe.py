@@ -55,6 +55,10 @@ def crawl_recipe(url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
 
+        with open("crawled_urls.txt", "a", encoding="utf-8") as file:
+            file.write(f"{url}\n")
+
+
     # if url:
     #     driver = get_selenium_driver()
 
@@ -150,6 +154,9 @@ def crawl_recipe(url):
             "Calories": [_calories],
         }
 
+        with open("output.csv", "a", encoding="utf-8") as file:
+            file.write(f"\n{_fileName},{_title},{_subheading},{list_ingredients}, {_calories}")
+        
         df = pd.DataFrame(data)
         print("================================================================")
         time.sleep(1)
@@ -190,13 +197,18 @@ def save_urls_to_File(urls, file_name='urlsRecipe.txt'):
             f.write(f"{url}\n")
 
 def read_urls_from_file(file_name='urlsRecipe.txt'):
+    crawled = []
+    with open("crawled_urls.txt", 'r') as f:
+        crawled = [line.strip() for line in f.readlines()]
+
     with open(file_name, 'r') as f:
-        urls = [line.strip() for line in f.readlines()]
+        urls = [line.strip() for line in f.readlines() if line.strip() not in crawled]
     return urls
 
 
 
 def crawl_allRecipes_inSitemap(urls):
+
     results = []
     
     with ThreadPoolExecutor(max_workers=10) as executor:
@@ -232,17 +244,25 @@ def crawl_links():
 # Chỉnh url_file thành file .txt chứa các url cần crawl
 
 def main():
-    url_file = r"links/urlsRecipe_sitemap3.txt"
+    url_file = r"links/urlsRecipe_sitemap1.txt"
 
     # Folder chứa thư mục ảnh
     img_folder = "assets"
     if not os.path.exists(img_folder):
         os.makedirs(img_folder)
 
+    if not os.path.exists("crawled_urls.txt"):
+        f = open("crawled_urls.txt", "w", encoding="utf-8")
+
+    if not os.path.exists("output.csv"):
+        with open("output.csv", "w", encoding="utf-8") as file:
+            file.write("Image,Food Name,Summary,Ingredients,Calories")
+
     _urls = read_urls_from_file(url_file)
     df_recipes = crawl_allRecipes_inSitemap(_urls)
-    df_recipes.to_csv('recipes.csv', index=False)
-    print(df_recipes)
+    #df_recipes.to_csv('recipes.csv', index=False)
+    #print(df_recipes)
+    print(_urls)
 
 if __name__ == '__main__':
     main()
