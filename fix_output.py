@@ -17,7 +17,7 @@ def parse_line(line):
     remaining = line[image_end+1:]
     
     # 2. Food Name: from the first comma to the second comma.
-    food_end = remaining.find(',')
+    food_end = remaining.find(',"')
     if food_end == -1:
         return None
     food_name = remaining[:food_end].strip()
