@@ -9,7 +9,7 @@ import re
 import PIL.Image
 
 # parent folder of the csv files
-data_file = 'cleaned_data_new.csv'
+data_file = 'cleaned_data_old.csv'
 image_folder = 'assets'
 output_file = 'img_description.csv'
 
@@ -18,7 +18,7 @@ df = pd.read_csv(data_file, delimiter=" ")
 
 extensions = [".jpg", ".jpeg", ".png", ".JPG", ".JPEG", ".PNG"]
 
-genai.configure(api_key='GEMINI_API_KEY')
+genai.configure(api_key='AIzaSyA-AZjiQVJzYk9InkQ1bZcD5_L4Bm0Rbxg')
 
 # for m in genai.list_models():
 #   if 'generateContent' in m.supported_generation_methods:
@@ -48,7 +48,9 @@ if not file_exists:
         csvwriter.writerow(['Image', 'Image description'])
 
 print('Generate...')
-for index, row in df.iterrows():
+
+for i in range(200, 1532):
+    row = df.iloc[i]
     image_id = str(row['Image']).strip()
     image_path = None
     for ext in extensions:
