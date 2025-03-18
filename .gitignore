@@ -1,3 +1,5 @@
 test.py
 .gemini_api
 .DS_Store
+*.png
+*.env
