@@ -8,11 +8,10 @@ from transformers import AutoModel, AutoTokenizer
 
 def main():
     error_counter = 0
-    working_dir = '/kaggle/input/foodvqa'
-    image_dir = os.path.join(working_dir, 'assets', 'assets')
-    test_path = os.path.join(working_dir, 'test.csv')
+    image_dir = '/root/Users/Vuong/Downloads/archive/assets/assets'
+    test_path = '/root/test_refined.csv'
 
-    test_df = pd.read_csv(test_csv_path, sep=' ', header=0)
+    test_df = pd.read_csv(test_path, header=0)
     result_df = pd.DataFrame(columns=['Image', 'Question', 'Answer', 'Predict'])
     image_extensions = ['.jpg', '.JPG', '.jpeg', '.JPEG', '.png', '.PNG']
 
@@ -44,7 +43,13 @@ def main():
         if image_path is None:
             error_counter += 1
         
-        image = Image.open(image_path).convert('RGB')
+        img = Image.open(image_path).convert('RGB')
+        base_width = 480
+        wpercent = (base_width / float(img.size[0]))
+        hsize = int((float(img.size[1]) * float(wpercent)))
+        img = img.resize((base_width, hsize), Image.Resampling.LANCZOS)
+        img.save('curr.jpg')
+        image = Image.open('curr.jpg').convert('RGB')
 
         question = row['Question']
         true_answer = row['Answer']
