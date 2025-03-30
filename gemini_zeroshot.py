@@ -9,9 +9,9 @@ import re
 import PIL.Image
 
 # parent folder of the csv files
-data_file = 'cleaned_data_old.csv'
+data_file = 'test.csv'
 image_folder = 'assets'
-output_file = 'img_description.csv'
+output_file = 'predictions.csv'
 
 df = pd.read_csv(data_file, delimiter=" ")
 # df = df.dropna(subset=['Food Name'])
@@ -30,7 +30,7 @@ def create_prompt(food_question='', additional_info=''):
     prompt = (
         f"In the image,{food_question}.\n"
         "Instruction:\n"
-        "- **Only** print the final description, don't print anything else like headers or human-like response!\n"
+        "- **Only** print the final answer, don't print anything else like headers or human-like response!\n"
         "- The answer has maximum 5 words\n"
     )
     
@@ -41,13 +41,15 @@ file_exists = os.path.exists(output_file)
 if not file_exists:
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(['Image', 'Image description'])
+        csvwriter.writerow(['Image', 'Question', 'Answer', 'Predicted Answer'])
 
 print('Generate...')
 
-for i in range(200, 1532):
+for i in range(len(df)):
     row = df.iloc[i]
     image_id = str(row['Image']).strip()
+    question = row['Question']
+    answer = row['Answer']
     image_path = None
     for ext in extensions:
         potential_path = os.path.join(image_folder, image_id + ext)
@@ -61,8 +63,7 @@ for i in range(200, 1532):
 
     image = PIL.Image.open(image_path)
     prompt = create_prompt(
-        food_name = row['Food Name'],
-        additional_info = row['Summary']
+        food_question =  row['Question']
     )
 
     response = model.generate_content([prompt, image])
@@ -71,15 +72,8 @@ for i in range(200, 1532):
         summary = response.text.strip()
     else:
         summary = "NaN"
-
     with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerow([image_id, summary])
-
+        csvwriter.writerow([image_id, question, answer, summary])
     print(f"Processed: {image_path}")
-
     time.sleep(5)
-    # if index == 10:
-    #     break
-
-print("Processing completed!")
