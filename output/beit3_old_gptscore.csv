@@ -1,0 +1,3700 @@
+reference,hypothesis,gpt_score
+golden-brown,golden-brown,1.0
+enchiladas,salad,0.1
+white,white,1.0
+on the left side,on the left side,1.0
+tomatoes,tomatoes,1.0
+white,white,1.0
+melted,melted,1.0
+covering,covering,1.0
+green,green,1.0
+across the bake,on top,0.1
+golden-brown,golden-brown,1.0
+chicken,chicken,1.0
+yellow,yellow,1.0
+on a plate,on the left,0.2
+green,green,1.0
+cilantro,parsley,0.6
+yellow,orange,0.7
+chicken,chicken,1.0
+on a sheet pan,on a baking sheet,0.9
+chicken,beef,0.1
+green,orange,0.2
+atop the fajita filling,on top of,0.5
+golden-brown,golden-brown,1.0
+Mahi Mahi,halibut,0.2
+red,red,1.0
+throughout the center,on a baking sheet,0.1
+white,white,1.0
+steak,meat,0.8
+brownish-red,brown,0.7
+on the plate,on a plate,0.9
+mushrooms,mushrooms,1.0
+beige,beige,1.0
+golden-brown,golden-brown,1.0
+falafels,fritters,0.6
+yellow,yellow,1.0
+brown,brown,1.0
+mushrooms,mushrooms,1.0
+green,green,1.0
+on top of,on top of,1.0
+yes,vegan,0.0
+farro,rice,0.3
+orange,red,0.2
+throughout,in the center,0.0
+zucchini,zucchini,1.0
+glass,glass,1.0
+yellow,green,0.2
+contained within,contained,0.8
+sealed,jars,0.2
+red,red,1.0
+feta fingers,taquitos,0.1
+golden,yellow,0.7
+blue,blue,1.0
+salad,salad,1.0
+yellow,yellow,1.0
+white,white,1.0
+fills,fills,1.0
+fettuccine,spaghetti,0.5
+creamy,creamy,1.0
+cheese,cheese,1.0
+on top of,on top of,1.0
+white,creamy,0.4
+located throughout,in the center,0.2
+chicken,chicken,1.0
+asparagus,brown,0.0
+purple,black,0.1
+figs,blueberries,0.2
+on top of,on top of,1.0
+creamy,creamy,1.0
+scattered,scattered,1.0
+pinkish-red,pink,0.7
+filet,beef,0.5
+brown,brown,1.0
+on a plate,on a plate,1.0
+seared,browned,0.8
+blue,blue,1.0
+fish,fish,1.0
+dill,rosemary,0.1
+white,white,1.0
+Lemony,spicy,0.1
+Fish,meat,0.2
+Orange,orange,1.0
+on plate,on top of,0.8
+Green,green,1.0
+yellow,white,0.2
+fish,fish,1.0
+golden-brown,golden-brown,1.0
+on a plate,on top of,0.6
+green,green,1.0
+white,white,1.0
+fish,rice,0.0
+brown,orange,0.2
+on top of,on top of,1.0
+green,green,1.0
+drink,coffee,0.7
+white,white,1.0
+reddish-orange,red,0.6
+on top of,on top of,1.0
+shiny,smooth,0.4
+flan,cake,0.2
+white,white,1.0
+caramel-colored,brown,0.7
+chicken,chicken,1.0
+drizzled,drizzled,1.0
+purple,purple,1.0
+yellow,yellow,1.0
+diced,cut,0.8
+pineapple,pineapple,1.0
+moist,creamy,0.3
+throughout the dish,scattered,0.2
+glass,bowl,0.5
+filling,filling,1.0
+cranberries,cranberries,1.0
+grapes,cranberries,0.2
+to the brim,on top of,0.2
+yellow,yellow,1.0
+focaccia,bread,0.7
+green,green,1.0
+wooden,wooden,1.0
+yellow,yellow,1.0
+bowl,bowl,1.0
+toasted,toasted,1.0
+golden-brown,golden-brown,1.0
+down from,pot,0.0
+brown,brown,1.0
+pretzel,popcorn,0.2
+brown,golden-brown,0.8
+dessert,bread,0.2
+rectangular,squares,0.8
+brown,brown,1.0
+almonds,almonds,1.0
+scattered,arranged,0.1
+white,white,1.0
+casserole,casserole,1.0
+scattered,scattered,1.0
+reddish-brown,brown,0.7
+on top,on top of,0.9
+black,black,1.0
+yellow,yellow,1.0
+scattered,scattered,1.0
+tomatoes,tomatoes,1.0
+in a black pan,on top of,0.1
+yellow,yellow,1.0
+broccoli,spinach,0.5
+light,light,1.0
+cheddar,cheese,0.8
+brown,golden-brown,0.8
+clustered,arranged,0.6
+plate,plate,1.0
+yellow,yellow,1.0
+on the left,on the left,1.0
+golden-brown,golden-brown,1.0
+fritter,fritters,1.0
+crispy,crispy,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+stack,scattered,0.1
+brown,brown,1.0
+on a plate,on a plate,1.0
+swirled,round,0.2
+pink,pink,1.0
+cupcake,cupcakes,1.0
+cherry,blueberry,0.4
+on top of,on top of,1.0
+bowls,bowls,1.0
+coats,covers,0.6
+cake,cake,1.0
+brown,brown,1.0
+on the plate,on a plate,0.9
+blue,blue,1.0
+fries,casserole,0.1
+orange,yellow,0.3
+on top of,on top,0.9
+yellow,yellow,1.0
+casserole,casserole,1.0
+white,white,1.0
+fries,fish,0.1
+golden-brown,red,0.2
+orange,orange,1.0
+on top of,on top,0.9
+yellow,golden-brown,0.6
+potato,potatoes,1.0
+reddish-brown,golden-brown,0.5
+on a plate,on a plate,1.0
+yellow,orange,0.7
+fries,fries,1.0
+charred,browned,0.7
+in the center,in the center,1.0
+blue,blue,1.0
+white,creamy,0.5
+fudge,cake,0.2
+red,red,1.0
+walnuts,pecans,0.7
+brown,brown,1.0
+fudge,fudge,1.0
+on the left,in the center,0.2
+sheen,glossy,0.8
+golden-brown,golden-brown,1.0
+red,red,1.0
+atop the galette,on top,0.5
+green,green,1.0
+golden-brown,golden-brown,1.0
+pastry,bread,0.7
+white,white,1.0
+sprinkled,scattered,0.8
+strawberry,strawberries,1.0
+golden-brown,golden-brown,1.0
+blueberries,blueberries,1.0
+towards the top,on top of,0.8
+tan,golden,0.1
+garlic,garlic,1.0
+yellow,orange,0.7
+silver,silver,1.0
+green,green,1.0
+dessert,salad,0.1
+gelatin,creamy,0.2
+creamy,vibrant,0.1
+golden-brown,golden-brown,1.0
+bowl,bowl,1.0
+sliced,mixed,0.2
+green,green,1.0
+on top of,on top of,1.0
+ginger,garlic,0.2
+chicken,tofu,0.1
+white,white,1.0
+on a plate,on a plate,1.0
+red,red,1.0
+translucent,translucent,1.0
+jar,jar,1.0
+amber,yellow,0.7
+in the center,in the center,1.0
+yellow,golden-brown,0.6
+gingerbread,crackers,0.2
+chocolate,sprinkled,0.1
+beige,white,0.2
+brown,brown,1.0
+yes,visible,0.0
+white,white,1.0
+flower,rectangular,0.0
+green,green,1.0
+on top,on the left,0.2
+gingerbread cookies,cookies,0.7
+brown,brown,1.0
+on a plate,on the plate,0.9
+beige,creamy,0.7
+cookies,cookies,1.0
+stacked,stacked,1.0
+on top of,on top,1.0
+white,white,1.0
+yellow,yellow,1.0
+bacon,bacon,1.0
+on top,on top of,0.9
+gnocchi,pasta,0.7
+shrimp,shrimp,1.0
+green,green,1.0
+brownish-red,brown,0.7
+gnocchi,dumplings,0.7
+green,green,1.0
+on a plate,on a plate,1.0
+yellow,brown,0.2
+pasta,pasta,1.0
+red,red,1.0
+on top of,on top of,1.0
+green,green,1.0
+orange-brown,orange,0.7
+macaroni,pasta,0.8
+scattered,scattered,1.0
+red,red,1.0
+at the top,on the left,0.0
+scattered,scattered,1.0
+beef,beef,1.0
+yellow,yellow,1.0
+orange,orange,1.0
+yellow,yellow,1.0
+lemon,lemon,1.0
+glass,glass,1.0
+watermelon,watermelon,1.0
+mint,garnish,0.2
+brown,brown,1.0
+granola,oatmeal,0.4
+red,red,1.0
+brown,brown,1.0
+granola,oatmeal,0.4
+red,red,1.0
+scattered,scattered,1.0
+in the mixture,in the center,0.2
+yellow,creamy,0.2
+potatoes,potatoes,1.0
+yellow,yellow,1.0
+in a baking dish,on top of,0.2
+yellow,blue,0.1
+dish,bowl,0.7
+white,white,1.0
+yellow,creamy,0.2
+in the lower center,in the center,0.7
+diced,large,0.0
+shrimp,shrimp,1.0
+orange,orange,1.0
+broth,sauce,0.6
+on the left,submerged,0.0
+bowl,bowl,1.0
+lemon,yellow,0.3
+yellow,yellow,1.0
+on the left side,on top of,0.1
+scattered,scattered,1.0
+brown,red,0.2
+chicken,chicken,1.0
+sausage,beef,0.2
+beige,tan,0.8
+gyros,quesadillas,0.1
+brown,brown,1.0
+on the left side,in the center,0.2
+green,green,1.0
+crispy,crispy,1.0
+halibut,salmon,0.3
+white,white,1.0
+green,green,1.0
+on top,on top of,0.9
+beige,golden-brown,0.6
+Halibut,halibut,1.0
+green,green,1.0
+on the right,plate,0.0
+golden-brown,golden-brown,1.0
+halloumi,cheese,0.8
+gray,gray,1.0
+on the left,on the left,1.0
+yellow,yellow,1.0
+apricot,apple,0.3
+reddish-brown,reddish-brown,1.0
+bowl,sauce,0.2
+in the upper right,on the plate,0.1
+pink,pink,1.0
+ham,brisket,0.2
+pink,pink,1.0
+sandwich,sandwich,1.0
+green,green,1.0
+on a plate,on a plate,1.0
+green,green,1.0
+pink,pink,1.0
+ham,ham,1.0
+caramelized,browned,0.8
+layered on,on top of,0.9
+lettuce,salad,0.6
+potato,potatoes,1.0
+orange,orange,1.0
+throughout,on top,0.2
+yellow,yellow,1.0
+brownish,brown,0.9
+plate,plate,1.0
+yellow,yellow,1.0
+sprinkled on top,on top of,0.7
+white,white,1.0
+orange,orange,1.0
+potato,potatoes,1.0
+fried,fried,1.0
+on top of,on top of,1.0
+bacon,bacon,1.0
+hash browns,pancakes,0.1
+golden-brown,golden-brown,1.0
+yes,overlapping,0.0
+on a plate,on top of,0.6
+golden-brown,golden-brown,1.0
+plate,plate,1.0
+orange,orange,1.0
+chives,sprinkled,0.1
+brown,brown,1.0
+chicken,beef,0.1
+yellow,yellow,1.0
+in the upper right,in the center,0.2
+golden-brown,brown,0.7
+hen,hens,1.0
+brown,brown,1.0
+at the top left,in the center,0.1
+salad,salad,1.0
+green-white,colorful,0.2
+over the salad leaves,on top,0.3
+tomatoes,cabbage,0.1
+edamame,beans,0.7
+hummus,rice,0.1
+black,green,0.0
+on top of,on top of,1.0
+yellow,yellow,1.0
+hummus,hummus,1.0
+submerged,on top of,0.0
+crackers,fries,0.1
+on the right,on top of,0.2
+bowl,bowl,1.0
+brownish-green,yellow,0.1
+towards the top left,in the center,0.2
+beige,white,0.2
+hummus,eggs,0.1
+yellow,yellow,1.0
+tomatoes,tomatoes,1.0
+spices,sprinkled,0.2
+yellow-beige,yellow,0.8
+bowl,bowl,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+on the plate,on a plate,0.9
+reddish-brown,reddish-brown,1.0
+jars,jars,1.0
+in the center,in the center,1.0
+orange,orange,1.0
+jars,jars,1.0
+glass,glass,1.0
+in the center,on the left,0.0
+pinkish-white,white,0.7
+in the center,in the center,1.0
+bottom half,jar,0.0
+orange,orange,1.0
+vibrant,vibrant,1.0
+glass,jars,0.6
+papaya,peach,0.2
+fresh,fresh,1.0
+on a white cloth,on a wooden surface,0.2
+dark brown,brown,0.8
+cubes,triangular,0.1
+beige,brown,0.7
+scattered,scattered,1.0
+black,brown,0.3
+dark,reddish-brown,0.3
+stacked,arranged,0.6
+dish,bowl,0.7
+in the center,in the center,1.0
+brown,brown,1.0
+beef jerky,meat,0.6
+scattered,scattered,1.0
+reddish-brown,white,0.0
+around the edges,on the left,0.2
+brown,brown,1.0
+beef jerky,meat,0.5
+overlapping,stacked,0.2
+dark brown,brown,0.8
+located inside,jar,0.1
+jar,jar,1.0
+sitting,filling,0.0
+wooden,wooden,1.0
+yellow-tan,yellow,0.8
+plate,on a plate,0.7
+white,white,1.0
+glazed,textured,0.2
+Sloppy Joe,sandwich,0.7
+reddish-brown,reddish-brown,1.0
+yellow,yellow,1.0
+on the bottom,located,0.2
+golden-brown,tan,0.7
+chicken,chicken,1.0
+orange,brown,0.2
+on top,on top of,0.9
+chips,chips,1.0
+golden-brown,brown,0.7
+bun,covering,0.0
+gray,white,0.3
+on a plate,on top,0.5
+tan,tan,1.0
+bun,sandwich,0.3
+red,red,1.0
+on top,on top,1.0
+diced,orange,0.0
+beige,beige,1.0
+juice,smoothie,0.7
+on the table,in the center,0.2
+glass,glass,1.0
+in a glass,located,0.1
+vibrant,vibrant,1.0
+glass,glass,1.0
+yellow,yellow,1.0
+watermelon,blueberries,0.1
+pink,orange,0.2
+blueberries,blueberries,1.0
+green surface,green,0.8
+4th of July,Christmas,0.1
+golden-brown,reddish-brown,0.6
+dispersed,scattered,1.0
+kale,spinach,0.7
+bowl,bowl,1.0
+green,green,1.0
+chips,salad,0.1
+bowl,bowl,1.0
+on a wooden surface,on a wooden surface,1.0
+brownish,green,0.1
+dark green,green,0.7
+kale,spinach,0.7
+red,red,1.0
+on top of,in the center,0.2
+colorful,colorful,1.0
+kebabs,vegetables,0.1
+red,brown,0.4
+on a plate,on a plate,1.0
+pineapple,pineapple,1.0
+white,white,1.0
+kohlrabi,potatoes,0.1
+arranged,arranged,1.0
+brown,brown,1.0
+on a plate,on a plate,1.0
+yellow,gray,0.2
+noodles,pasta,0.9
+yellow,yellow,1.0
+on the top,across the top,0.8
+golden-yellow,golden-brown,0.8
+baking,baking,1.0
+sprinkling,sprinkled,0.9
+noodles,cheese,0.1
+brown,brown,1.0
+brown,brown,1.0
+lamb,turkey,0.2
+in the center,pot,0.0
+reddish-brown,reddish-brown,1.0
+stew,soup,0.5
+fills,fills,1.0
+white,white,1.0
+throughout the stew,in the center,0.1
+white,white,1.0
+lamb,chicken,0.2
+brown,brown,1.0
+scattered around,on top of,0.1
+lamb,beef,0.2
+gradient,caramelized,0.1
+brown,brown,1.0
+onions,meat,0.0
+cooked,cooked,1.0
+orange,red,0.2
+lasagna,soup,0.1
+creamy,creamy,1.0
+white,white,1.0
+on the surface,on top,0.8
+golden-brown,orange,0.4
+lasagna,lasagna,1.0
+black,black,1.0
+on a black stovetop,on a baking sheet,0.2
+green,yellow,0.2
+green,green,1.0
+lasagna,salad,0.1
+red,red,1.0
+yellow,orange,0.7
+on top of,on a plate,0.3
+banana,lemon,0.3
+yellow,yellow,1.0
+on the left,on top of,0.1
+green,green,1.0
+clear,clear,1.0
+yellow,brown,0.2
+into the lassi,inserted,0.1
+green,green,1.0
+transparent,clear,1.0
+white,white,1.0
+tan,brown,0.2
+on a plate,on a plate,1.0
+white,white,1.0
+tan,beige,0.1
+on top of,on top of,1.0
+strawberry,strawberries,1.0
+white,white,1.0
+latte,coffee,0.7
+shaved chocolate,sprinkled,0.1
+brown,white,0.1
+on top of,on top,0.9
+yellow,yellow,1.0
+in the center,sits,0.1
+pie,pie,1.0
+triangular,triangular,1.0
+on the top,on top of,0.9
+lemon,lemon,1.0
+yellow,yellow,1.0
+spoon,spoon,1.0
+yellow,yellow,1.0
+jars,jars,1.0
+lemon curd,hummus,0.0
+on the tray,on top of,0.5
+tan,golden-brown,0.2
+cookies,cookies,1.0
+on a sheet,on a baking sheet,0.9
+pink,pink,1.0
+strawberry,watermelon,0.2
+yellow,yellow,1.0
+on the rim,on the rim,1.0
+Lemonade,cocktail,0.3
+Lemonade,filled,0.1
+yellow,yellow,1.0
+brown,brown,1.0
+brown,brown,1.0
+lentils,soup,0.2
+visible,visible,1.0
+light brown,brown,0.8
+dispersed,in the center,0.0
+yellowish-orange,green,0.2
+lentils,soup,0.2
+dispersed,scattered,1.0
+green,green,1.0
+dispersed,in the center,0.0
+red,red,1.0
+green,green,1.0
+orange-brown,yellow,0.2
+on the left,on the left,1.0
+to the right,on top of,0.1
+grain,rice,0.9
+translucent,green,0.1
+glass,glass,1.0
+whitish-yellow,yellow,0.7
+on the rim,on the rim,1.0
+lime,lemon,0.5
+yellow,yellow,1.0
+linguine,spaghetti,0.7
+green,green,1.0
+scattered,scattered,1.0
+beige,yellow,0.3
+pasta,pasta,1.0
+brown,brown,1.0
+green,green,1.0
+on top of,on top of,1.0
+white,white,1.0
+golden-brown,golden-brown,1.0
+on a plate,on a plate,1.0
+blueberries,blueberries,1.0
+wooden,wooden,1.0
+cheese,bread,0.2
+yellow,yellow,1.0
+on the left,on the left,1.0
+yes,vegan,0.0
+white,white,1.0
+in the center,in the center,1.0
+golden,golden-brown,0.8
+overlapping,overlapping,1.0
+reddish-brown,golden-brown,0.5
+reddish-brown,reddish-brown,1.0
+on the right side,on the left,0.0
+bowl,bowl,1.0
+yellow,orange,0.7
+covering,covering,1.0
+vibrant,colorful,0.9
+skillet,skillet,1.0
+browned,brown,0.9
+yellow,orange,0.7
+on top of,on top,0.9
+green,green,1.0
+in the center,on top of,0.1
+macaroni,pasta,0.8
+yellow,yellow,1.0
+on the top,on top,0.9
+yellow,yellow,1.0
+macaroni,pasta,0.8
+clustered,piled,0.7
+on the left side,on the right side,0.0
+ginger,spicy,0.3
+Mahi Mahi,salmon,0.2
+brown,brown,1.0
+in the bottom center,on the left side,0.1
+golden-brown,golden-brown,1.0
+Mahi Mahi,salmon,0.2
+yellow,yellow,1.0
+beans,asparagus,0.1
+white,white,1.0
+reddish-brown,brown,0.7
+green,green,1.0
+orange,white,0.0
+spinach,spinach,1.0
+melted,melted,1.0
+sticky,shredded,0.1
+yellow,yellow,1.0
+arranged,scattered,0.1
+on top of,on top of,1.0
+pink,pink,1.0
+Cadillac,cocktail,0.1
+white,white,1.0
+on the surface,on the rim,0.5
+green,green,1.0
+yellowish-green,yellow,0.5
+margaritas,cocktail,0.7
+silver,silver,1.0
+yellow-green,yellow,0.5
+white,white,1.0
+yellow,yellow,1.0
+white,white,1.0
+from the top,on top of,0.9
+margaritas,cocktail,0.7
+blue,blue,1.0
+on the plate,on a plate,0.9
+green,green,1.0
+red,red,1.0
+blackberries,blueberries,0.4
+on the wooden surface,on top of,0.4
+green,green,1.0
+marinade,cheese,0.1
+surrounding,on top,0.1
+chicken,chicken,1.0
+glossy,glossy,1.0
+in the background,on top of,0.0
+viscous,thick,0.8
+marinade,soup,0.2
+in the bowl,contained,0.2
+in the center,in the center,1.0
+lemon,lemon,1.0
+reddish-brown,brown,0.7
+coats,covers,0.6
+skewers,plate,0.1
+white,white,1.0
+reddish-brown,brown,0.7
+chicken,chicken,1.0
+on the upper chicken,on top of,0.2
+amber,vibrant,0.2
+marmalade,jam,0.8
+amber,orange,0.6
+glass,glass,1.0
+orange,red,0.2
+amber,vibrant,0.2
+marmalade,salsa,0.2
+striped,striped,1.0
+to its left,to the left,0.9
+brown,white,0.1
+coated,coated,1.0
+three,jars,0.0
+on the left,on the left,1.0
+coconut,coconut,1.0
+marshmallows,taffy,0.2
+light pink,pink,0.8
+on a small plate,on a plate,0.8
+bottom,on top of,0.0
+vibrant,vibrant,1.0
+watermelon,lime,0.2
+pink,red,0.5
+on the top,on the rim,0.4
+green,green,1.0
+red,red,1.0
+stemmed,glasses,0.0
+brown,white,0.1
+on top of,in the center,0.2
+reddish-purple,red,0.5
+martini,cocktail,0.7
+red,red,1.0
+with two bright red cherries,cherry,0.2
+agave,bottle,0.1
+pistachio,almond,0.5
+green,green,1.0
+cylindrical,rectangular,0.2
+rectangular bar,rectangular,0.8
+on the left side,on the left side,1.0
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+in a bowl,bowl,0.8
+crispy,browned,0.6
+chicken,chicken,1.0
+white,white,1.0
+yellow,yellow,1.0
+on a plate,on a plate,1.0
+mayo,mustard,0.2
+smooth,creamy,0.8
+gray,silver,0.7
+in the upper left corner,on top,0.2
+bowl,bowl,1.0
+orange,orange,1.0
+basil,basil,1.0
+on a light-colored surface,on a white plate,0.8
+light green,green,0.7
+fills,fills,1.0
+bowl,bowl,1.0
+leaves,with,0.0
+to the right of,to the left,0.0
+yellow,yellow,1.0
+meatballs,chicken,0.2
+on top,on top of,0.9
+green,green,1.0
+orange-brown,golden-brown,0.7
+tomato sauce,sauce,0.7
+covers,covers,1.0
+green,green,1.0
+sweet,spicy,0.1
+meatballs,meatballs,1.0
+brownish-red,brown,0.7
+in the center,on top of,0.1
+bowl,bowl,1.0
+creamy,creamy,1.0
+meatballs,chicken,0.2
+orange,orange,1.0
+underneath,on top of,0.0
+green,green,1.0
+brown,brown,1.0
+salad,salad,1.0
+sliced,sliced,1.0
+is in,located in,0.9
+golden,yellow,0.7
+meatloaf,meatloaf,1.0
+light-brown,brown,0.8
+reddish-brown,reddish-brown,1.0
+towards the right side,on the left side,0.0
+dark,brown,0.5
+meatloaf,meat,0.8
+white,white,1.0
+with sprigs,herbs,0.5
+bright,green,0.3
+broccoli,broccoli,1.0
+red,red,1.0
+browned,appear,0.1
+across the image,throughout,0.3
+yellow,orange,0.7
+smoothie,smoothie,1.0
+glass,glass,1.0
+white,orange,0.1
+near to,on the rim,0.3
+clear,clear,1.0
+pitcher,jar,0.2
+beige,light,0.5
+in the center-left,on a wooden surface,0.0
+pink,pink,1.0
+milkshakes,smoothie,0.6
+topped,on top of,0.7
+red,red,1.0
+on each milkshake,on top of,0.2
+chocolate,chocolate,1.0
+brown,yellow,0.2
+on top,on top,1.0
+clear,clear,1.0
+pitcher,glass,0.1
+yellow,yellow,1.0
+on a wooden board,on a wooden surface,0.9
+yellowish,yellow,0.8
+tofu,garlic,0.1
+scattered across,scattered,0.8
+blue,white,0.1
+reddish-brown,reddish-brown,1.0
+jar,jar,1.0
+viscous,smooth,0.5
+on the top,on top,0.9
+tomatoes,tomatoes,1.0
+bowl,bowl,1.0
+mixed,mixed,1.0
+brown,golden-brown,0.8
+orange,orange,1.0
+in a clear glass bowl,in a bowl,0.7
+brown,brown,1.0
+bowl,bowl,1.0
+candies,popcorn,0.2
+golden-brown,brown,0.7
+blue,blue,1.0
+wooden,wooden,1.0
+pretzels,nuts,0.1
+orange,brown,0.2
+on the left,on the left,1.0
+beige,brown,0.7
+brown,brown,1.0
+towards the bottom,throughout,0.1
+brown,brown,1.0
+jar,jar,1.0
+filled,filling,0.8
+white,brown,0.2
+to the left of,in the center,0.1
+brown,brown,1.0
+foamy,creamy,0.5
+with whipped cream,topped,0.5
+scattered,on top,0.1
+yellow-green,green,0.7
+mojito,cocktail,0.7
+green,green,1.0
+by the Pitcher,served,0.1
+fresh,translucent,0.1
+green,green,1.0
+mojito,cocktail,0.7
+yellow,yellow,1.0
+strawberry,strawberries,1.0
+transparent,clear,1.0
+mousse,mousse,1.0
+brown,brown,1.0
+creamy,creamy,1.0
+on a silver tray,on a plate,0.5
+golden-yellow,yellow,0.8
+muffins,muffins,1.0
+obscuring,filling,0.1
+blue,blue,1.0
+beverage,cocktail,0.8
+fill,fills,0.9
+white,white,1.0
+on top of,at the top,0.8
+copper,glass,0.1
+mug,mug,1.0
+green,green,1.0
+yellow,orange,0.7
+on the wooden surface,on the rim,0.2
+brown,brown,1.0
+mushrooms,mushrooms,1.0
+glossy,glossy,1.0
+green,green,1.0
+in a pile,scattered,0.2
+yellow,yellow,1.0
+eggs,rice,0.0
+mushroom,cabbage,0.1
+brown,brown,1.0
+chicken,chicken,1.0
+brown,beige,0.5
+on the right,in the center,0.2
+herbs,herbs,1.0
+creamy,creamy,1.0
+mushrooms,mushrooms,1.0
+black,black,1.0
+from the pan,skillet,0.2
+brown,brown,1.0
+yellow,yellow,1.0
+enoki mushrooms,mushrooms,0.7
+tangled,appear,0.1
+strands,diced,0.1
+immersed,sliced,0.1
+mussels,mussels,1.0
+orange-red,reddish-brown,0.5
+brownish-red,reddish-brown,1.0
+on the left,in the center,0.2
+yellow-orange,orange,0.8
+pouring,dripping,0.3
+jar,jar,1.0
+wooden,wooden,1.0
+above the jar,on the rim,0.5
+glass,glass,1.0
+wooden,wooden,1.0
+mustard,mustard,1.0
+to the right,to the left,0.0
+Dijon,cheesy,0.2
+tan,yellow,0.1
+lined up,arranged,0.8
+jars,jars,1.0
+creamy,creamy,1.0
+nachos,chips,0.7
+light-orange,orange,0.8
+on top of,scattered,0.0
+bowl,with,0.0
+potato,tortilla,0.2
+white,white,1.0
+golden-brown,golden-brown,1.0
+cheese,cheese,1.0
+on a plate,on a plate,1.0
+chocolate,drizzled,0.1
+nachos,chips,0.7
+brown,golden-brown,0.8
+white,white,1.0
+on top of,on top,0.9
+smooth,creamy,0.8
+glass,glass,1.0
+pink,pink,1.0
+refresher,smoothie,0.2
+soup,soup,1.0
+green,green,1.0
+chicken,chicken,1.0
+on the lower-right,on the left,0.1
+light blue,blue,0.8
+bowl,bowl,1.0
+fill,fills,0.9
+yellow,yellow,1.0
+in the center,in the center,1.0
+crunchy,crispy,0.8
+nuggets,fritters,0.2
+white,white,1.0
+on the right side,located,0.2
+red,red,1.0
+corn nuts,pecans,0.1
+brown,brown,1.0
+on the napkin,located,0.1
+golden-brown,golden-brown,1.0
+oatmeal,pie,0.1
+filling,filling,1.0
+white,golden-brown,0.3
+on a white surface,on a plate,0.5
+beige,brown,0.7
+fill,fills,0.9
+blueberries,blueberries,1.0
+red,red,1.0
+on top,on top of,0.9
+black,black,1.0
+rice,rice,1.0
+green,green,1.0
+okra,okra,1.0
+in a black cooking pot,skillet,0.2
+beige,brown,0.7
+chicken,chicken,1.0
+green,green,1.0
+on top,on top of,0.9
+tomatoes,tomatoes,1.0
+golden,green,0.1
+olives,fritters,0.1
+cut,cut,1.0
+on the bottom,on top of,0.0
+green,green,1.0
+wooden,wooden,1.0
+bread,bread,1.0
+black,black,1.0
+golden-brown,golden-brown,1.0
+on a wooden cutting board,on a wooden cutting board,1.0
+visible,visible,1.0
+olives,vegetables,0.2
+glass,glass,1.0
+white,white,1.0
+yellow,yellow,1.0
+spilling out of,filling,0.1
+bacon,bacon,1.0
+mixed,sliced,0.2
+located on the left side,on top of,0.0
+omelette,cheese,0.3
+scattered,scattered,1.0
+red,red,1.0
+caramelized,red,0.0
+melted,melted,1.0
+onions,cheese,0.1
+brown,white,0.1
+cheese,cheese,1.0
+towards the bottom,on the left,0.1
+reddish-brown,reddish-brown,1.0
+nestled,arranged,0.2
+orange,reddish-brown,0.2
+to the left of,to the left,0.9
+orange,orange,1.0
+plate,plate,1.0
+vibrant,vibrant,1.0
+thick,creamy,0.6
+drink,smoothie,0.7
+garnished,garnished,1.0
+green,green,1.0
+at the bottom,on top,0.0
+pink,pink,1.0
+Oreo,filling,0.2
+sprinkled,chocolate,0.1
+on top surface,on top,0.9
+circular,round,1.0
+crust,crust,1.0
+star-shaped,round,0.1
+oysters,mussels,0.7
+green,green,1.0
+on a star-shaped plate,on a plate,0.6
+white,white,1.0
+oysters,mussels,0.7
+yellow,green,0.2
+reddish-brown,reddish-brown,1.0
+white,white,1.0
+yellow,yellow,1.0
+scattered,scattered,1.0
+shrimp,shrimp,1.0
+in a bowl,in the center,0.2
+chicken,chicken,1.0
+scattered,scattered,1.0
+orange-brown,brown,0.7
+shrimp,shrimp,1.0
+green,green,1.0
+pancake,quesadillas,0.1
+white,white,1.0
+golden brown,golden-brown,1.0
+on the left side,on the left,0.9
+salty,sweet,0.1
+pancakes,crepes,0.7
+cooking,cut,0.3
+yellow,yellow,1.0
+golden yellow,yellow,0.8
+paneer,tofu,0.3
+reddish-brown,brown,0.7
+on top,on top,1.0
+vibrant,fresh,0.6
+green,green,1.0
+bowl,bowl,1.0
+blue,blue,1.0
+scattered,scattered,1.0
+on top,on top,1.0
+cranberry,apple,0.2
+glass,glass,1.0
+red,clear,0.1
+on a table,on a wooden surface,0.7
+white,white,1.0
+parfaits,ice cream,0.5
+red,red,1.0
+on top,on top,1.0
+orange,blueberries,0.1
+yellow,yellow,1.0
+fills,fills,1.0
+vegetable,chowder,0.2
+white,white,1.0
+in the center,in the center,1.0
+round,bowl,0.7
+parsnips,potatoes,0.3
+beige,yellow,0.3
+smooth,creamy,0.8
+chicken,chicken,1.0
+reddish-orange,red,0.7
+pasta,pasta,1.0
+scattered amidst,in the center,0.0
+diced,large,0.0
+orange,orange,1.0
+pasta,rice,0.2
+melted,melted,1.0
+brownish-tan,yellow,0.2
+beige,yellow,0.3
+pasta,pasta,1.0
+shrimp,shrimp,1.0
+green,green,1.0
+over the shrimp,on top of,0.3
+scattered,scattered,1.0
+pasta,pasta,1.0
+yellow,yellow,1.0
+on top,on top of,0.9
+dish,pasta,0.4
+red,red,1.0
+scattered,scattered,1.0
+eggplant,eggplant,1.0
+golden-yellow,yellow,0.7
+bowls,in a bowl,0.7
+with a brown wooden handle,brown,0.5
+white,white,1.0
+yellow,yellow,1.0
+blueberries,blueberries,1.0
+nestled among,on top of,0.1
+pavlova,cake,0.2
+greenish-yellow,green,0.7
+soup,soup,1.0
+white,white,1.0
+submerged,submerged,1.0
+peas,beans,0.7
+bowl,in a bowl,0.7
+Italian,Italian,1.0
+on the right side,in the center,0.2
+vibrant,vibrant,1.0
+holding,adding,0.1
+white,black,0.0
+in the center,in the center,1.0
+yellow-orange,orange,0.8
+glasses,glass,0.8
+wooden,wooden,1.0
+on the rim,on top of,0.3
+reddish-yellow,orange,0.7
+margaritas,cocktail,0.7
+served,served,1.0
+bright,vibrant,0.8
+glasses,glass,0.8
+in the center,in the center,1.0
+tea,smoothie,0.1
+drinking,drinking,1.0
+peach,lemon,0.3
+yellow,yellow,1.0
+to the right,on the left,0.0
+peachy-orange,orange,0.8
+pitcher,glass,0.1
+red,red,1.0
+on the left,on the left,1.0
+dark,brown,0.5
+peanut butter,peanut butter,1.0
+golden brown,brown,0.8
+on the lower right,located,0.2
+cookie,tarts,0.2
+light brown,brown,0.8
+ice cream,coconut,0.2
+smooth,thick,0.1
+near the top,in the center,0.2
+yellow,beige,0.5
+muffins,tarts,0.3
+perfect,colorful,0.1
+white,white,1.0
+on the plate,on a plate,0.9
+red,red,1.0
+in the left side,in the center,0.2
+brown,brown,1.0
+pecan,pecans,1.0
+white,white,1.0
+on top,on top,1.0
+reddish-brown,brown,0.7
+tan,golden-brown,0.2
+overlapping,arranged,0.1
+brown,brown,1.0
+on the cracker,on top of,0.6
+appetizer,pie,0.2
+penne,pasta,0.7
+distributed,scattered,0.8
+red,red,1.0
+cilantro,parsley,0.6
+on top of,on top of,1.0
+penne,pasta,0.7
+red-orange,red,0.5
+sauteed,sliced,0.2
+peppers,vegetables,0.5
+green,green,1.0
+peppers,spinach,0.2
+scattered across,scattered,0.8
+glistening,glistening,1.0
+white,white,1.0
+pesto,pesto,1.0
+container,container,1.0
+vibrant,vibrant,1.0
+textured,crispy,0.3
+pesto,pesto,1.0
+fills,fills,1.0
+white,white,1.0
+on top of,on top of,1.0
+chicken,fish,0.1
+falling onto,on top,0.2
+green,green,1.0
+scattered,scattered,1.0
+pickles,vegetables,0.4
+glass,glass,1.0
+full,filling,0.5
+yellow,green,0.2
+sliced,cut,0.9
+yellowish-green,yellow,0.5
+pickles,pickles,1.0
+on the left side,on the left,0.9
+white,white,1.0
+clear,clear,1.0
+pickles,vegetables,0.3
+green,green,1.0
+in a jar,contained,0.3
+melted,melted,1.0
+pie,pizza,0.5
+tan,golden-brown,0.2
+silver,silver,1.0
+apricot,apple,0.4
+golden-brown,golden-brown,1.0
+pies,cookies,0.2
+uneven,crispy,0.1
+pie,pie,1.0
+white,white,1.0
+green plate,green,0.8
+yellow,yellow,1.0
+pierogi,wontons,0.4
+on the plate,on a plate,0.9
+center,in the center,0.9
+white,white,1.0
+pinkish-red,red,0.8
+on a plate,on a plate,1.0
+rice,rice,1.0
+inside the bowl,in a bowl,0.9
+yellow,white,0.2
+scattered,scattered,1.0
+rice,rice,1.0
+red,red,1.0
+on the left,on top of,0.1
+large,large,1.0
+to the lower left,on the right,0.0
+chocolate,chocolate,1.0
+brown,brown,1.0
+on the left,on the left,1.0
+hot,hot,1.0
+brown,brown,1.0
+on top,on top of,0.9
+bread,bread,1.0
+brown,beige,0.5
+on the plate,on top of,0.6
+crumbs,sprinkled,0.2
+white,white,1.0
+bread,bread,1.0
+red,red,1.0
+tan,tan,1.0
+on a white plate,on top of,0.2
+arranged,scattered,0.1
+pear,apple,0.5
+on top of,on top of,1.0
+silver,silver,1.0
+pizza,tortillas,0.2
+red,red,1.0
+beige,beige,1.0
+on a round,round,0.9
+golden-brown,golden-brown,1.0
+on the left,located,0.2
+plum bread,cornbread,0.2
+white,white,1.0
+tan,brown,0.2
+cracked,crispy,0.2
+on a plate,on a wooden surface,0.4
+pink,green,0.1
+plate,plate,1.0
+red,light,0.1
+parsley,parsley,1.0
+polenta,omelet,0.1
+yellow,yellow,1.0
+green,green,1.0
+polenta,casserole,0.2
+in the lower center,located in,0.3
+roasted,mixed,0.2
+beige,white,0.2
+chicken,chicken,1.0
+yellow,beige,0.5
+cream,beige,0.5
+yellow,orange,0.7
+rice,rice,1.0
+brown,brown,1.0
+in light yellow,white,0.3
+interspersed,scattered,0.8
+rice,rice,1.0
+red,red,1.0
+green,green,1.0
+above the rice,on top of,0.7
+pink,pink,1.0
+cake,cupcakes,0.8
+colorful,colorful,1.0
+on a light brown surface,on a wooden surface,0.6
+brown,brown,1.0
+ice pops,crackers,0.0
+white,white,1.0
+on a white plate,on a plate,0.8
+blurred,on a white plate,0.0
+brown,brown,1.0
+cookies,cookies,1.0
+on a metal baking sheet,on a baking sheet,0.8
+shiny,glossy,0.9
+rice,brown,0.3
+brown,golden-brown,0.8
+stacked on,arranged,0.3
+pink,pink,1.0
+bowl,bowl,1.0
+brown,brown,1.0
+almonds,almonds,1.0
+jar,jar,1.0
+on the same surface,on top of,0.8
+orange,orange,1.0
+on the bottom center,wooden,0.0
+green,green,1.0
+vibrant,orange,0.5
+sweet potatoes,potatoes,0.7
+orange,white,0.1
+within the bowl,on top of,0.1
+brown,brown,1.0
+apples,apples,1.0
+white,white,1.0
+yellow,yellow,1.0
+in a bowl,in a bowl,1.0
+applesauce,bowl,0.1
+blue,blue,1.0
+red,red,1.0
+on a surface,on a wooden surface,0.9
+applesauce,golden-brown,0.1
+golden-brown,golden-brown,1.0
+scooped,adding,0.0
+white,white,1.0
+in the bowl,located in,0.3
+golden-amber,yellow,0.6
+jar,jar,1.0
+yellow,yellow,1.0
+on the table,on a wooden surface,0.6
+white,white,1.0
+meat,meat,1.0
+carrots,cabbage,0.2
+fried,cut,0.1
+on the plate,located in,0.2
+adjacent,to the left,0.4
+green,green,1.0
+artichoke,zucchini,0.2
+white,white,1.0
+to the right,on the left,0.0
+green,green,1.0
+asparagus,asparagus,1.0
+arranged,scattered,0.1
+green,green,1.0
+asparagus,asparagus,1.0
+upwards,towards,0.5
+on top of,on the plate,0.3
+green,green,1.0
+avocado,pineapple,0.1
+white,white,1.0
+on its outer skin,on top,0.3
+scattered,on top,0.0
+green,green,1.0
+pie,pie,1.0
+white,white,1.0
+on top,on top of,0.9
+golden-brown,golden-brown,1.0
+avocado,tofu,0.1
+green,green,1.0
+on a white square plate,on a plate,0.5
+vary,vegan,0.1
+raspberries,raspberries,1.0
+scattered,scattered,1.0
+red,red,1.0
+on the white cloth,baking,0.0
+glistening,glossy,0.8
+bacon,ham,0.5
+dark brown,brown,0.8
+separated by,to the left,0.1
+bacon,ham,0.5
+oven,on a grill,0.2
+on a wire rack,on a grill,0.3
+golden-brown,golden-brown,1.0
+bagel bites,cookies,0.1
+blue,in the center,0.0
+in the bottom half,visible,0.1
+broken,white,0.0
+golden-brown,golden-brown,1.0
+bagels,donuts,0.6
+spice,sprinkled,0.2
+on a wire rack,on a black wire rack,0.9
+pumpernickel,bread,0.7
+brown,brown,1.0
+bagels,donuts,0.6
+on a black wire rack,on a black wire rack,1.0
+white,white,1.0
+golden-brown,golden-brown,1.0
+melted,melted,1.0
+plate,plate,1.0
+sesame,sesame,1.0
+on the left,located in,0.2
+white,white,1.0
+cheese,cheese,1.0
+sausage,mushrooms,0.1
+brown,brown,1.0
+within the cheese,on top of,0.1
+beige,beige,1.0
+bananas,banana,1.0
+yellow,yellow,1.0
+to the left of,to the left,0.9
+brown,brown,1.0
+chocolate,chocolate,1.0
+loaves,bars,0.3
+golden-brown,golden-brown,1.0
+towards the center,on the left,0.0
+fries,fries,1.0
+brown,golden-brown,0.8
+white,white,1.0
+on a plate,on a plate,1.0
+bananas,mango,0.2
+golden-yellow,yellow,0.8
+in coconut milk,milk,0.5
+bowl,bowl,1.0
+golden-brown,golden-brown,1.0
+banana,apples,0.2
+together,stacked,0.5
+tempura,casserole,0.1
+irregular,round,0.0
+yellow,yellow,1.0
+banana,blueberries,0.2
+white,white,1.0
+on top of,on the plate,0.3
+dark blue,blue,0.7
+golden,brown,0.3
+bars,rectangular,0.2
+white,brown,0.2
+reddish-brown,brown,0.7
+chicken,chicken,1.0
+white,white,1.0
+on top of,on top of,1.0
+green,green,1.0
+mix,mix,1.0
+white,white,1.0
+dispersed,scattered,1.0
+orange,orange,1.0
+of beef,beef,1.0
+white,white,1.0
+chicken,chicken,1.0
+brown,white,0.1
+green,green,1.0
+at the bottom,located in,0.2
+overlapping,arranged,0.1
+Sea Bass,halibut,0.3
+white,white,1.0
+on the left side,in the center,0.2
+green,green,1.0
+yellowish,browned,0.3
+scattered,scattered,1.0
+sea bass,halibut,0.4
+on the rack,on a black wire rack,0.7
+green,green,1.0
+smooth,smooth,1.0
+batter,chocolate,0.0
+brown,light,0.1
+on top,scattered,0.0
+yes,scattered,0.0
+tangy,spicy,0.4
+beef,beef,1.0
+tan,tan,1.0
+orange,red,0.2
+shredded,shredded,1.0
+meat,meat,1.0
+coating,glossy,0.3
+yellowish,golden-brown,0.7
+chicken,chicken,1.0
+reddish-brown,reddish-brown,1.0
+ribs,chicken,0.2
+grill,on a grill,0.9
+unevenly,scattered,0.7
+on the top,on top,0.9
+tasty,glistening,0.2
+pan,skillet,0.3
+green,green,1.0
+green beans,beans,0.7
+in the center,in the center,1.0
+reddish-brown,brown,0.7
+orange,orange,1.0
+with other ingredients,mixed,0.5
+plate,plate,1.0
+green,green,1.0
+beans,beans,1.0
+tangled,scattered,0.5
+yes,visible,0.0
+in the bottom center,in the center,0.6
+glossy,textured,0.2
+beans,beans,1.0
+peppered,pepper,0.8
+overlapping,scattered,0.0
+throughout the entire image frame,in the center,0.2
+tan,brown,0.2
+bowl,bowl,1.0
+fill,fills,0.9
+brown,brown,1.0
+in the broth,in the center,0.2
+sliced,sliced,1.0
+beef,beef,1.0
+brown,brown,1.0
+with peppers,mixed,0.2
+slow,grilled,0.0
+reddish-brown,reddish-brown,1.0
+meat,meat,1.0
+in the upper-right portion,in the center,0.2
+brown,brown,1.0
+white,white,1.0
+at the top,at the top,1.0
+glasses,glasses,1.0
+amber,reddish-brown,0.4
+surface,on the rim,0.2
+red,red,1.0
+beets,potatoes,0.2
+green,green,1.0
+yellow,yellow,1.0
+cake,cake,1.0
+on a clear glass,plate,0.0
+yellow,yellow,1.0
+biscuits,cookies,0.8
+clustered,stacked,0.3
+baked,cut,0.1
+golden-brown,golden-brown,1.0
+pale,white,0.6
+cream,white,0.5
+on a wire rack,located,0.2
+beige,yellow,0.3
+biscuits,cookies,0.8
+orange,orange,1.0
+across the image,in the center,0.2
+flaky,crispy,0.3
+light-colored,blue,0.3
+blondies,pie,0.0
+brown,golden-brown,0.8
+on top,on top,1.0
+drizzle,chocolate,0.0
+purple,purple,1.0
+blueberries,blueberries,1.0
+pink,pink,1.0
+bowl,bowl,1.0
+under the bowl,on the plate,0.2
+golden-brown,golden-brown,1.0
+reddish-brown,reddish-brown,1.0
+covering,filling,0.3
+plate,pasta,0.2
+yellow,yellow,1.0
+in the center,in the center,1.0
+green,green,1.0
+spinach,spinach,1.0
+avocado,green,0.3
+closer to,on top of,0.2
+tan,brown,0.2
+rice,rice,1.0
+on the left side,in the center,0.2
+green,green,1.0
+reddish-brown,brown,0.7
+brats,kielbasa,0.1
+green,green,1.0
+draped over,on top of,0.5
+liquid,with,0.0
+walnuts,nuts,0.7
+speckled,fresh,0.1
+on top,on top,1.0
+white,brown,0.2
+loaf,bread,1.0
+tan,brown,0.2
+overlapping,arranged,0.1
+on the board,on a wooden cutting board,0.8
+white,beige,0.7
+golden-brown,golden-brown,1.0
+stacked,stacked,1.0
+beige,golden-brown,0.6
+bread,bread,1.0
+creamy,beige,0.2
+on a wire rack,on a black wire rack,0.9
+bright,white,0.6
+orange,yellow,0.3
+around the eggs,scattered,0.2
+brown,brown,1.0
+beef brisket,beef,0.5
+green,green,1.0
+gravy,sauce,0.7
+on the plate,in the center,0.2
+golden-brown,golden-brown,1.0
+within,on top of,0.1
+brown,brown,1.0
+beef,beef,1.0
+green,green,1.0
+on a plate,on the plate,0.9
+rice,rice,1.0
+broccoli,broccoli,1.0
+green,green,1.0
+red,red,1.0
+cooked,sliced,0.2
+on a plate,on the plate,0.9
+broth,sauce,0.6
+green,green,1.0
+within the broth,in the center,0.2
+square,rectangular,0.5
+brown,brown,1.0
+on top,on top of,0.9
+green,green,1.0
+brown,brown,1.0
+shiny,glistening,1.0
+pecans,pecans,1.0
+brown,brown,1.0
+brownies,cake,0.5
+cracked,smooth,0.0
+walnuts,chocolate,0.1
+on top of,on top of,1.0
+dark-brown,brown,0.8
+arranged,arranged,1.0
+brownies,cake,0.5
+within the chocolate,on top,0.0
+white,white,1.0
+bruschetta,sandwich,0.4
+red,red,1.0
+on the center,on the plate,0.2
+toasted,bread,0.5
+melted,melted,1.0
+black,plate,0.0
+red,red,1.0
+on top,on top of,0.9
+reddish-brown,reddish-brown,1.0
+beef,beef,1.0
+glistening,glossy,0.8
+on top of,in the center,0.2
+orange,orange,1.0
+one-third,in the image,0.0
+burgers,meatballs,0.2
+brownish-tan,brown,0.8
+of the burgers,meatballs,0.0
+green,green,1.0
+white,white,1.0
+melted,melted,1.0
+orange,yellow,0.3
+in the dish,located in,0.5
+layers,stacked,0.7
+vegan,vegan,1.0
+burritos,burritos,1.0
+tan,brown,0.2
+on top,on top of,0.9
+sweet,sweet,1.0
+burritos,burritos,1.0
+black,red,0.0
+on a black plate,on a plate,0.7
+orange,orange,1.0
+white,white,1.0
+cupcake,cake,0.7
+light blue,white,0.2
+on top of,on top of,1.0
+rectangular,rectangular,1.0
+cake,cake,1.0
+blue,blue,1.0
+caramel,chocolate,0.3
+around the perimeter,on top,0.1
+shredded,shredded,1.0
+cabbage,beets,0.2
+on the top-right,in the center,0.1
+white,bowl,0.1
+pinkish-red,red,0.8
+white,white,1.0
+bowl,bowl,1.0
+breadcrumbs,cheese,0.1
+golden,golden-brown,0.8
+shredded,shredded,1.0
+green-cabbage,cabbage,0.8
+white,white,1.0
+orange,orange,1.0
+within the salad,on top of,0.2
+reddish-orange,orange,0.7
+cabbage,cabbage,1.0
+yellowish-green,yellow,0.5
+beans,beans,1.0
+in the center,in the center,1.0
+cabbage,carrots,0.2
+brown,brown,1.0
+on top of the plate,on top of,0.8
+orange,orange,1.0
+Evenly-distributed ,scattered,0.2
+floating in,in the center,0.2
+red,red,1.0
+orange,orange,1.0
+light-brown,brown,0.8
+chicken,chicken,1.0
+red,red,1.0
+on the right side,in the center,0.2
+spaghetti,noodles,0.8
+reddish-brown,red,0.6
+chicken,meatballs,0.2
+light-yellow,yellow,0.8
+in the center,on top of,0.1
+light,yellow,0.3
+chicken,sausage,0.3
+red,red,1.0
+cheese,sprinkled,0.1
+golden,golden-brown,0.8
+calamari,clams,0.3
+arranging,arranged,0.9
+white,white,1.0
+on the plate,on top of,0.6
+yellow,yellow,1.0
+bowl,bowl,1.0
+brown,brown,1.0
+on top of,on top of,1.0
+yellow,yellow,1.0
+plate,plate,1.0
+beef,beef,1.0
+brown,brown,1.0
+in broth,with,0.1
+yellow,yellow,1.0
+chocolate,chocolate,1.0
+candy,blondies,0.2
+brown,yellow,0.2
+right of orange ribbon,to the left,0.0
+brown,brown,1.0
+sugar,chocolate,0.5
+white,white,1.0
+to the left,on top of,0.0
+brownish-red,reddish-brown,1.0
+meat,meat,1.0
+dark brown,brown,0.8
+charred,browned,0.7
+vegetables,meat,0.0
+hard,coated,0.1
+candy,chips,0.2
+orange,orange,1.0
+coated,with,0.0
+throughout,in the center,0.1
+green,green,1.0
+candy,jerky,0.1
+reddish-brown,reddish-brown,1.0
+center,in the center,0.9
+on the plate,on a plate,0.9
+red,red,1.0
+poured,drizzled,0.6
+candy,cake,0.3
+translucent,translucent,1.0
+on a piece,on top of,0.4
+yellow,yellow,1.0
+center of the image,in the center,0.8
+fluffy and toasted,glistening,0.1
+meringue,pie,0.2
+silver,golden-brown,0.2
+light-green,yellow,0.2
+pasta,pasta,1.0
+black,brown,0.4
+in a creamy sauce,cheese,0.2
+silver,gray,0.5
+brown,brown,1.0
+meat,soup,0.2
+bubbling,filling,0.2
+yellow-brown,brown,0.7
+orange,orange,1.0
+carrots,carrots,1.0
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+glistening,glistening,1.0
+in the center,in the center,1.0
+green,green,1.0
+yellowish,yellow,0.8
+rice,mushrooms,0.1
+orange,orange,1.0
+green,green,1.0
+cashews,pecans,0.3
+tan,golden-brown,0.2
+Piled randomly,piled,0.8
+on a purple surface,on a wooden surface,0.2
+triangular,rectangular,0.3
+casserole,casserole,1.0
+green,green,1.0
+with cheese,mixed,0.1
+egg,cheese,0.1
+beige,golden-brown,0.6
+catfish,salmon,0.2
+reddish-orange,red,0.7
+in the upper-center,in the center,0.7
+fried,cut,0.1
+golden-brown,golden-brown,1.0
+catfish,salmon,0.2
+center,located,0.4
+green,green,1.0
+on the foreground,in the center,0.3
+fills,fills,1.0
+cauliflower,potatoes,0.2
+blue,blue,1.0
+yellow,yellow,1.0
+creamy,creamy,1.0
+mac-n-cheese,salad,0.0
+white,white,1.0
+orange-yellow,yellow,0.7
+off-white,white,0.5
+cauliflower,cauliflower,1.0
+green,green,1.0
+broccoli,broccoli,1.0
+broccoli,broccoli,1.0
+glass jars,jars,0.8
+white,white,1.0
+orange,orange,1.0
+on the countertop,on a wooden surface,0.6
+golden-brown,golden-brown,1.0
+bread,bread,1.0
+on the cutting board,on top of,0.4
+yellow,yellow,1.0
+dark green,green,0.8
+chard,spinach,0.3
+garlic,garlic,1.0
+white,white,1.0
+in a bowl,located in,0.3
+rainbow,red,0.2
+chard,kale,0.3
+green,green,1.0
+in a bowl,in the center,0.2
+vegetables,onions,0.8
+cheeseburger,burger,0.8
+yellow,yellow,1.0
+golden-brown,yellow,0.5
+pickle,zucchini,0.1
+on a white plate,on a plate,0.8
+tan,tan,1.0
+burger,sandwich,0.7
+orange,orange,1.0
+located to the left,to the left,0.9
+beige,beige,1.0
+filling,covering,0.3
+right side of the image,in the center,0.1
+silver,blue,0.1
+golden-brown,brown,0.7
+cheesecake,cake,0.7
+white,white,1.0
+sprinkled,sprinkled,1.0
+white,golden-brown,0.3
+cheesecake,pie,0.3
+blue,blue,1.0
+on the plate,on top of,0.6
+syrup,drizzled,0.2
+red,red,1.0
+jar,jar,1.0
+on top of,jar,0.1
+dark-brown,brown,0.8
+cheesecake,cake,0.6
+glaze,creamy,0.1
+strawberries,strawberries,1.0
+on top of,on top,0.9
+creamy,creamy,1.0
+cherries,blueberries,0.2
+fills,fills,1.0
+purple,purple,1.0
+throughout the bowl,scattered,0.1
+red,orange,0.5
+cherries,cherries,1.0
+brown,brown,1.0
+on the left,located,0.2
+orange,orange,1.0
+browned,brown,0.8
+chicken,chicken,1.0
+on top of the plate,in the center,0.3
+parsley,parsley,1.0
+golden,golden-brown,0.8
+brown,golden-brown,0.8
+reddish-brown sauce,reddish-brown,0.9
+on and around the chicken,on top,0.3
+yellow,yellow,1.0
+red,red,1.0
+sprinkled on top,on top,0.7
+fork,spoon,0.7
+crispy,creamy,0.1
+large,large,1.0
+chili,meat,0.1
+red,reddish-brown,0.7
+in a pot,in the bowl,0.3
+sausage,beef,0.2
+green,green,1.0
+bowl,bowl,1.0
+in the bowl,located in,0.3
+green,pink,0.1
+dip in,submerged,0.3
+scattered,scattered,1.0
+chips,vegetables,0.1
+green,green,1.0
+golden-yellow,orange,0.5
+towards the central region,in the center,0.8
+swirled,striped,0.2
+tan,brown,0.2
+many,filling,0.0
+rectangular,bars,0.2
+in clear plastic,glass,0.2
+dessert,dessert,1.0
+clear,clear,1.0
+raspberries,raspberries,1.0
+scattered,scattered,1.0
+on a metallic surface,on top of,0.3
+chocolate,brown,0.3
+brown,yellow,0.2
+golden-brown,white,0.0
+on top of,on top of,1.0
+creamy,creamy,1.0
+cake,chocolate,0.5
+brown,brown,1.0
+on top,on top of,0.9
+chocolate,chocolate,1.0
+drizzled,covering,0.2
+brown,chocolate,0.7
+ice cream,ice cream,1.0
+white,white,1.0
+at the bottom,bowl,0.1
+yellow,yellow,1.0
+bowl,bowl,1.0
+dispersed,scattered,1.0
+carrots,carrots,1.0
+on the surface,on top of,0.8
+corn,corn,1.0
+brown,reddish-brown,0.8
+yellow,yellow,1.0
+across the surface,scattered,0.2
+red,red,1.0
+bowl,bowl,1.0
+center of the bowl,located in,0.2
+fills,fills,1.0
+pulpy,thick,0.5
+jar,jar,1.0
+brownish-yellow,brown,0.7
+with the chutney,filling,0.0
+label,jar,0.1
+red,yellow,0.2
+apple,apples,0.9
+slices,with,0.0
+green,green,1.0
+in a clear liquid,on the left,0.0
+white,white,1.0
+bowl,bowl,1.0
+brown,brown,1.0
+in the center,in the center,1.0
+off-white,white,0.5
+chowder,chowder,1.0
+sits on,sits,0.8
+circle,toasted,0.0
+herbs,herbs,1.0
+white,white,1.0
+clams,mussels,0.7
+brown,brown,1.0
+in a bowl,bowl,0.8
+green,green,1.0
+golden-brown,golden-brown,1.0
+pumpkin,pumpkin,1.0
+white,white,1.0
+on the plate,on a plate,0.9
+crumbly,crispy,0.3
+golden-brown,golden-brown,1.0
+cobbler,cake,0.1
+yellow,yellow,1.0
+with variations,crust,0.0
+baking,baking,1.0
+homemade,homemade,1.0
+jars,jars,1.0
+yes,overlapping,0.0
+vegetable,orange,0.2
+yes,overlapping,0.0
+Cocktail,cocktail,1.0
+float,fills,0.1
+clear,clear,1.0
+glass,glass,1.0
+in a slight curve,scattered,0.1
+clear,clear,1.0
+glass,glass,1.0
+white,white,1.0
+yellow,yellow,1.0
+on top of,on the rim,0.5
+turquoise-blue,blue,0.7
+jar,jar,1.0
+red,red,1.0
+on the rim,jar,0.1
+shark,garnished,0.0
+garnished,drizzled,0.4
+orange,orange,1.0
+yellow-orange,orange,0.8
+Monkey Gland,martini,0.1
+on the surface,at the top,0.6
+yes,plate,0.0
+cocoa,chocolate,0.9
+no,plate,0.0
+yes,light,0.0
+on the upper left,visible,0.1
+spiced,spicy,0.9
+chocolate-brown,brown,0.8
+two,scoops,0.0
+on top of,behind,0.0
+golden-brown,white,0.0
+cod,salmon,0.3
+resting,filling,0.0
+on top of,on top of,1.0
+glass,glass,1.0
+green,green,1.0
+green,green,1.0
+on the rim,on the rim,1.0
+vibrant red,vibrant,0.5
+light,brown,0.1
+mug,mug,1.0
+red,red,1.0
+across a light brown surface,on a wooden surface,0.5
+coffe beans,seeds,0.3
+clear,clear,1.0
+coffee,coffee,1.0
+brown,white,0.1
+straw,ice,0.1
+white,cream,0.8
+coffee,coffee,1.0
+glass,glass,1.0
+whipped cream,topped,0.2
+on the rim,on top of,0.3
+at the center,in the center,1.0
+sausages,bacon,0.3
+brown with a slight char,orange,0.1
+white,white,1.0
+filling,filling,1.0
+white,white,1.0
+bowl,bowl,1.0
+green,green,1.0
+pink,pink,1.0
+multicolored,colorful,0.9
+creamy,creamy,1.0
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the left,on the left,0.9
+onion,cabbage,0.3
+green,green,1.0
+bowl,bowl,1.0
+orange,orange,1.0
+creamy,creamy,1.0
+in a glass bowl,bowl,0.5
+red-purple,red,0.5
+in the bowl,contained,0.1
+wooden board,on a wooden cutting board,0.8
+Cutting and serving,on a wooden cutting board,0.3
+to the right of,in the center,0.1
+yes,melted,0.0
+cookie,cake,0.4
+brown,brown,1.0
+on the pan,on a black wire rack,0.2
+clear,clear,1.0
+jar,jar,1.0
+brown,brown,1.0
+with red ribbon,checkered,0.0
+bright,vibrant,0.8
+on the colorful surface,on a wooden surface,0.2
+orange juice,fills,0.0
+into the cooler,inserted,0.2
+yellow,yellow,1.0
+yes,corn,0.0
+across the majority of,located,0.0
+melted and browned cheese,cheese,0.5
+brownish-orange,reddish-brown,0.6
+light,golden-brown,0.3
+golden-brown,brown,0.7
+glass,bowl,0.5
+on the top-left,on the left,0.7
+yellow,yellow,1.0
+corn,corn,1.0
+mixed,mixed,1.0
+red,red,1.0
+brown,black,0.2
+beans,vegetables,0.3
+red,red,1.0
+on the right,on the left,0.0
+white,white,1.0
+scattered,scattered,1.0
+yellow,yellow,1.0
+in a bowl,on top of,0.2
+in a bowl,located,0.1
+golden-yellow,yellow,0.8
+cornbread,cornbread,1.0
+black,black,1.0
+coarse,crispy,0.2
+golden,yellow,0.7
+cornbread,cornbread,1.0
+white,white,1.0
+on a plate,on top of,0.6
+cornbread,herbs,0.1
+cornbread,cornbread,1.0
+green,green,1.0
+on the top-left,on the left,0.7
+cottage cheese,cheese,0.7
+white,white,1.0
+yellow,yellow,1.0
+around the cottage cheese,on top of,0.2
+chicken,chicken,1.0
+on the pan,in the center,0.1
+spinach,spinach,1.0
+white,white,1.0
+in the foreground,on top of,0.5
+yellow,yellow,1.0
+couscous,rice,0.3
+white,white,1.0
+green,green,1.0
+on top of,on top of,1.0
+tan,beige,0.1
+filling,filling,1.0
+couscous,quinoa,0.5
+white,white,1.0
+creamy,creamy,1.0
+tan,light,0.0
+couscous,quinoa,0.5
+red,green,0.1
+green,brown,0.2
+within the pot,in the center,0.2
+bowl,bowl,1.0
+white,yellow,0.2
+beige,brown,0.7
+small and round,bowl,0.5
+in a white bowl,bowl,0.5
+yellowish-orange,yellow,0.7
+green,green,1.0
+across the top,scattered,0.1
+spoon,spoon,1.0
+crab cakes,fish,0.2
+golden,golden-brown,0.8
+green,green,1.0
+reddish-orange,orange,0.7
+crab,mussels,0.1
+clustered,scattered,0.0
+sausages,chicken,0.2
+red,red,1.0
+pie,pie,1.0
+tan,brown,0.2
+golden,golden-brown,0.8
+towards the left,overlapping,0.0
+cranberry,sauce,0.2
+chicken,chicken,1.0
+light blue,white,0.2
+golden brown,golden-brown,1.0
+on a plate,on a plate,1.0
+fills,fills,1.0
+bowl,bowl,1.0
+thick,thick,1.0
+light brown and red,reddish-brown,0.8
+in the center,in the center,1.0
+crawfish,shrimp,0.6
+green,green,1.0
+within a white bowl,in a bowl,0.7
+beige,beige,1.0
+piled,piled,1.0
+crawfish,shrimp,0.6
+red,red,1.0
+on top of,on top of,1.0
+light,creamy,0.1
+walnuts,almonds,0.6
+beige,white,0.2
+on top,on top of,0.9
+bowl,bowl,1.0
+soft,creamy,0.7
+cream,ice cream,0.9
+off-white,white,0.5
+fills,fills,1.0
+on top,on top of,0.9
+white,white,1.0
+blueberries,blueberries,1.0
+brown,brown,1.0
+blueberries,with,0.0
+on the plate,scattered,0.1
+golden brown,golden-brown,1.0
+crepe,cheese,0.1
+darker,browned,0.6
+in the center,in the image,0.2
+purple,purple,1.0
+rolls,pinwheels,0.4
+golden brown ,brown,0.7
+flaky dough,filling,0.1
+on the lower right,to the left,0.0
+golden-yellow,yellow,0.8
+overlap,stacked,0.1
+cheese,chips,0.1
+lacy,crispy,0.1
+on the upper-left,located,0.2
+white,white,1.0
+brown,brown,1.0
+on a white plate,on a plate,0.8
+the crisp in the front,larger,0.0
+green,green,1.0
+cones,triangular,0.1
+golden-brown,golden-brown,1.0
+lies,arranged,0.0
+brown,brown,1.0
+croquettes,fritters,0.6
+dark,brown,0.5
+on a plate,on a plate,1.0
+arranged,arranged,1.0
+yummylicious,fresh,0.2
+croquettes,fritters,0.6
+golden,golden-brown,0.8
+on a silver metal rack,on a black wire rack,0.4
+brown,golden-brown,0.8
+beige,white,0.2
+croquettes,fritters,0.6
+golden brown,golden-brown,1.0
+resting on the plate,on a plate,0.8
+yes,visible,0.0
+pie,pie,1.0
+green,green,1.0
+off-white,white,0.5
+on a white plate,on a plate,0.8
+red,red,1.0
+bowl,bowl,1.0
+orange,orange,1.0
+mixed,mixed,1.0
+on top of,on top of,1.0
+red,red,1.0
+bowl,bowl,1.0
+yes,filling,0.0
+golden-brown,brown,0.7
+at the bottom,on top of,0.0
+pie,pie,1.0
+red,red,1.0
+beneath,on top of,0.0
+brown,orange,0.2
+green,green,1.0
+scattered,scattered,1.0
+brown,brown,1.0
+berries,blueberries,0.9
+atop,bowl,0.1
+golden-brown,golden-brown,1.0
+pie,pie,1.0
+lattice,checkered,0.5
+across the entire top,on top of,0.7
+leaves,checkered,0.0
+yellow,beige,0.4
+pie,pie,1.0
+crust,crust,1.0
+crimped,crimped,1.0
+in the center,in the center,1.0
+golden,golden-brown,0.8
+pie,pie,1.0
+red,red,1.0
+tan,yellow,0.1
+dripping,melted,0.3
+tan,golden-brown,0.2
+premium,textured,0.1
+cheese,cheese,1.0
+in the lower portion,in the center,0.3
+green,green,1.0
+cucumbers,zucchini,0.7
+white,white,1.0
+creamy,creamy,1.0
+throughout the image,throughout,0.8
+white,white,1.0
+salad,salad,1.0
+red,red,1.0
+on a plate,on a plate,1.0
+green,green,1.0
+green,green,1.0
+salad,salad,1.0
+visible,visible,1.0
+white,white,1.0
+inside a transparent bowl,in a bowl,0.7
+green,green,1.0
+cucumbers,zucchini,0.7
+sliced,sliced,1.0
+on their surfaces,on top,0.6
+fresh,vibrant,0.6
+cucumbers,zucchini,0.7
+green,green,1.0
+overlapping,scattered,0.1
+yellow,yellow,1.0
+margaritas,cocktail,0.7
+white,white,1.0
+cucumber,zucchini,0.8
+on the rim,on top of,0.3
+green,green,1.0
+cucumber,zucchini,0.8
+wooden,wooden,1.0
+cucumbers,zucchini,0.7
+fill,fills,0.9
+white,white,1.0
+in a shallow bowl,in a bowl,0.8
+white,white,1.0
+golden-brown,golden-brown,1.0
+on a white surface,on a plate,0.5
+pink,brown,0.1
+reddish-brown,brown,0.7
+cupcake,cupcakes,1.0
+on the plate,on a plate,0.9
+yellow,yellow,1.0
+curd,flan,0.2
+glass,bowl,0.5
+submerged inside,submerged,0.8
+smooth,creamy,0.8
+curry,soup,0.2
+white,white,1.0
+golden-brown,brown,0.7
+on top of,on top of,1.0
+covering,covering,1.0
+cake,cake,1.0
+roses,swirled,0.1
+swirling,scattered,0.3
+over the entire surface,on top,0.5
+yellow,yellow,1.0
+custard,ice cream,0.5
+into the custard,inserted,0.1
+orange-brown,orange,0.7
+custard,pudding,0.7
+fills,fills,1.0
+white,white,1.0
+on the plate,on a plate,0.9
+pale,yellow,0.3
+chicken,chicken,1.0
+brown,green,0.1
+on top,on top of,0.9
+red,red,1.0
+white,white,1.0
+immersing,covering,0.2
+dark,black,1.0
+spices,pepper,0.9
+across the bowl,scattered,0.1
+raspberry,strawberries,0.5
+golden-brown,golden-brown,1.0
+plate,on a plate,0.7
+red,red,1.0
+on a plate,on top of,0.6
+Turkish Delight,cookies,0.2
+coated,sugar,0.1
+white,white,1.0
+scattered,scattered,1.0
+across the frame,in the center,0.2
+dessert,dessert,1.0
+taking,covering,0.2
+white,white,1.0
+on top,on top of,0.9
+glossy,creamy,0.2
+baking,baking,1.0
+yellow,yellow,1.0
+melted,melted,1.0
+in a clear glass,casserole,0.0
+filling,filling,1.0
+bean,hummus,0.3
+brown-black,brown,0.7
+in the center-left,in the center,0.7
+white,white,1.0
+pizza,salad,0.2
+red,red,1.0
+across the surface,scattered,0.2
+green,green,1.0
+golden-brown,yellow,0.5
+corn dogs,fish,0.1
+reddish-brown,brown,0.7
+on a white plate,on a plate,0.8
+chocolate,chocolate,1.0
+donuts,donuts,1.0
+brown,brown,1.0
+in the bottom left,in the center,0.1
+white,white,1.0
+pierogi,wontons,0.5
+beige,beige,1.0
+on plate,on a plate,1.0
+fried,cooking,0.4
+brown,golden-brown,0.8
+doughnuts,donuts,1.0
+yellow,golden-brown,0.6
+stacked,arranged,0.6
+on top of,in the center,0.2
+doughnuts,cookies,0.3
+white,white,1.0
+in the center,on top of,0.1
+orange-brown,brown,0.7
+doughnuts,donuts,1.0
+maple,chocolate,0.1
+green,green,1.0
+vanilla,vanilla,1.0
+tan,golden-brown,0.2
+in the front,in the center,0.3
+salad,salad,1.0
+Best,translucent,0.0
+brownish,yellow,0.2
+black,brown,0.4
+in the lower-left corner,in the center,0.0
+orange,orange,1.0
+salad,salad,1.0
+drizzled,drizzled,1.0
+top of the salad,at the top,0.7
+lettuce,lettuce,1.0
+white,white,1.0
+bowl,bowl,1.0
+brown,brown,1.0
+wasabi,sauce,0.3
+towards the upper-right,in the center,0.1
+orange-red,orange,0.7
+fills,fills,1.0
+pitcher,pitcher,1.0
+white,white,1.0
+to the bottom left,to the left,0.7
+yellow,yellow,1.0
+jar,jar,1.0
+creamy,creamy,1.0
+greenish,red,0.1
+on a red surface,on a wooden surface,0.2
+crispy,crispy,1.0
+drumsticks,wings,0.3
+white,white,1.0
+blue,blue,1.0
+on a plate,on a plate,1.0
+decorative,plate,0.2
+drumsticks,chicken,0.5
+pinkish-tan,brown,0.6
+on the left,on the plate,0.2
+green,green,1.0
+pink,pink,1.0
+duck,ham,0.0
+sliced,sliced,1.0
+yellow,pink,0.2
+to the left,on the plate,0.1
+Duck Adobo,curry,0.1
+covering,covering,1.0
+white,white,1.0
+glossy,glossy,1.0
+in the center,on the left,0.1
+brown,golden-brown,0.8
+duck,chicken,0.5
+crispy,crispy,1.0
+green,green,1.0
+on an oval platter,on a plate,0.7
+golden-brown,golden-brown,1.0
+dumplings,crackers,0.2
+metal,metal,1.0
+in a metal baking pan,on a baking sheet,0.5
+amber,reddish-brown,0.5
+yellow,yellow,1.0
+egg,bread,0.1
+sprinkled on,on top,0.6
+white,white,1.0
+translucent,translucent,1.0
+golden-brown,white,0.0
+eggs,filling,0.1
+white,white,1.0
+on a plate,on a plate,1.0
+yellow,yellow,1.0
+golden-brown,golden-brown,1.0
+eggnog,toast,0.0
+white,white,1.0
+on top,on top,1.0
+syrup,sauce,0.4
+round,diced,0.2
+eggplant,spinach,0.2
+white,white,1.0
+in the top-center,in the center,0.7
+eggplant,eggplant,1.0
+red,red,1.0
+on top of,on top of,1.0
+golden-brown,golden-brown,1.0
+empanada,wontons,0.3
+white,white,1.0
+on a patterned napkin,on top of,0.2
+creamy,creamy,1.0
+yellow,yellow,1.0
+scattered across,on top of,0.2
+red,red,1.0
+peeks,on top,0.1
+white,white,1.0
+popcorn,popcorn,1.0
+spilling out,filling,0.2
+brown,brown,1.0
+tilted,overlapping,0.2
+red,red,1.0
+popcorn,popcorn,1.0
+peppermint,chocolate,0.1
+glass,glass,1.0
+in a bowl,in a bowl,1.0
+blue,blue,1.0
+bowl,bowl,1.0
+white,beige,0.6
+keto,vegan,0.1
+poppers,poppers,1.0
+green,green,1.0
+white,white,1.0
+on a black metal rack,on top of,0.2
+gray,gray,1.0
+poppers,cookies,0.1
+wrapped,arranged,0.2
+green,green,1.0
+green,green,1.0
+jalapeño,jalapeno,1.0
+bacon,bacon,1.0
+on a white plate,on a plate,0.8
+crisp,glossy,0.2
+green,green,1.0
+poppers,vegetables,0.0
+cream cheese,cheese,0.7
+orange,orange,1.0
+white,orange,0.1
+chicken,chicken,1.0
+orange,orange,1.0
+on top,on top of,0.9
+brown,tan,0.7
+light,beige,0.2
+potatoes,rice,0.2
+black,black,1.0
+at the center,on top,0.2
+potatoes,potatoes,1.0
+brown,orange,0.2
+reddish-brown,reddish-brown,1.0
+coated,creamy,0.2
+on the plate,on a plate,0.9
+yellow,golden-brown,0.6
+potatoes,fries,0.7
+crispy,browned,0.6
+fork,spoon,0.7
+on the left,to the left,0.9
+spiced,pepper,0.8
+potatoes,potatoes,1.0
+yellowish-tan,golden-brown,0.7
+across the entire image,in the center,0.2
+brown,brown,1.0
+potato,potatoes,1.0
+yellow,golden-brown,0.6
+scattered,scattered,1.0
+roasting,baking,0.5
+in the dish,on top of,0.2
+brown,golden-brown,0.8
+potatoes,potatoes,1.0
+green,green,1.0
+on top,on top,1.0
+checkered,checkered,1.0
+light brown,brown,0.8
+pralines,cookies,0.2
+reddish-brown,reddish-brown,1.0
+on a plate,on a plate,1.0
+visible,visible,1.0
+white,white,1.0
+prawns,shrimp,0.9
+orange-brown,orange,0.7
+on a plate,on a plate,1.0
+beige,light,0.3
+pudding,cake,0.2
+cinnamon,cinnamon,1.0
+brown,brown,1.0
+golden-yellow,yellow,0.8
+pudding,casserole,0.1
+creamy,creamy,1.0
+on a white plate,on a plate,0.8
+corn,corn,1.0
+white,white,1.0
+tan,golden-brown,0.2
+filling,cheese,0.1
+cracked,browned,0.2
+to the left,on the plate,0.1
+yellow,yellow,1.0
+loaves,cookies,0.2
+brown,brown,1.0
+on top,in the center,0.2
+mottled,browned,0.4
+orange,orange,1.0
+bowl,bowl,1.0
+fills,fills,1.0
+thick,filling,0.2
+in the center,in the center,1.0
+white,white,1.0
+bowl,jar,0.4
+beige,beige,1.0
+at the bottom,in the center,0.1
+glasses,glass,0.8
+wooden,wooden,1.0
+green,green,1.0
+on a wooden board,on a wooden surface,0.9
+mug,mug,1.0
+red,pink,0.7
+brown,golden-brown,0.8
+quesadillas,cake,0.0
+golden,golden-brown,0.8
+on top,located,0.2
+brown,tan,0.7
+quesadillas,quesadillas,1.0
+red-orange,reddish-brown,0.5
+on top,on top,1.0
+yellow,orange,0.7
+queso,cheese,0.8
+melted,glossy,0.1
+creamy,creamy,1.0
+over a pile,on top of,0.8
+chips,cheese,0.2
+golden-brown,golden-brown,1.0
+green,green,1.0
+on a white plate,on a plate,0.8
+colorful,mixed,0.6
+soup,chowder,0.8
+orange,orange,1.0
+on the right,in the center,0.2
+sprinkled,sprinkled,1.0
+reddish-brown,green,0.0
+quinoa,meat,0.0
+fills,fills,1.0
+green,green,1.0
+in the center,on top,0.2
+cheesy,cheese,0.9
+quinoa,rice,0.3
+yellow,green,0.3
+green,green,1.0
+fills,fills,1.0
+quinoa,rice,0.3
+beige,brown,0.7
+green,green,1.0
+within the quinoa,on top of,0.1
+quinoa,rice,0.3
+red,red,1.0
+in,in a bowl,0.8
+pink,pink,1.0
+radishes,potatoes,0.3
+bowl,bowl,1.0
+silver,silver,1.0
+in the bottom center,in the center,0.6
+dark green,green,0.8
+radish,beets,0.4
+purple,purple,1.0
+distributed throughout,throughout,0.8
+cheese,garlic,0.1
+white,white,1.0
+radish,cabbage,0.3
+dispersed,scattered,1.0
+orange,orange,1.0
+at the bottom,on the left,0.1
+golden-brown,golden-brown,1.0
+pie,pie,1.0
+silver,metal,0.7
+raisins,chocolate,0.1
+golden brown,brown,0.7
+pie,pie,1.0
+white,white,1.0
+on top,on top,1.0
+meringue,pie,0.2
+green,green,1.0
+bowl,bowl,1.0
+ramen,noodles,0.7
+on top,in the center,0.2
+cheesy,spicy,0.2
+noodles,noodles,1.0
+yellow,yellow,1.0
+on top,on top of,0.9
+scallions,with,0.0
+white,white,1.0
+bowl,bowl,1.0
+yellow,yellow,1.0
+on top,on the left,0.2
+red,red,1.0
+yellow,yellow,1.0
+bowl,bowl,1.0
+scallions,herbs,0.4
+green,green,1.0
+on top of,on top of,1.0
+fresh,fresh,1.0
+turnovers,tarts,0.0
+white,white,1.0
+red,red,1.0
+on a plate,on a plate,1.0
+red,red,1.0
+pitcher,mug,0.1
+wooden,wooden,1.0
+on the wooden surface,on a wooden surface,0.9
+yellow,yellow,1.0
+browning,melted,0.1
+chicken,chicken,1.0
+creamy,creamy,1.0
+at the bottom,in the center,0.2
+hot,hot,1.0
+on top of,on top of,1.0
+onions,with,0.0
+red,red,1.0
+orange,yellow,0.3
+white,white,1.0
+relish,sauce,0.6
+red,reddish-brown,0.7
+on,on top,0.7
+vegetables,sauce,0.1
+red,red,1.0
+cranberries,apples,0.2
+walnuts,almond,0.5
+in the center,in the center,1.0
+yellow,green,0.2
+zucchini,potatoes,0.1
+mixed,mixed,1.0
+red,purple,0.4
+in the mix,on top,0.2
+white,white,1.0
+cake,cake,1.0
+golden-brown,golden-brown,1.0
+on a plate,on a plate,1.0
+rhubarb,apple,0.1
+golden-brown,golden-brown,1.0
+cake,cake,1.0
+red,red,1.0
+on a plate,on a plate,1.0
+pink,red,0.5
+rough,crispy,0.2
+cookies,cookies,1.0
+pinkish-red,red,0.8
+on a plate,on a plate,1.0
+purple,purple,1.0
+red,red,1.0
+salad,dessert,0.1
+white,white,1.0
+atop the salad,on top of,0.7
+applesauce,sauce,0.7
+bowl,white,0.1
+red,red,1.0
+red,red,1.0
+silver,silver,1.0
+reddish-brown,reddish-brown,1.0
+ribs,beef,0.2
+foreground,in the center,0.3
+green,green,1.0
+white,white,1.0
+on top,on a plate,0.3
+reddish-orange,orange,0.7
+rice,rice,1.0
+green,green,1.0
+sausage,with,0.0
+easy,vegan,0.0
+rice,rice,1.0
+orange-red,orange,0.7
+on the right side,in the center,0.2
+green,green,1.0
+rice,rice,1.0
+fills,fills,1.0
+silver,pot,0.1
+wooden,wooden,1.0
+throughout,on top,0.2
+white,white,1.0
+rigatoni,pasta,0.7
+golden-yellow,yellow,0.8
+on a white plate,on a plate,0.8
+green,green,1.0
+green,green,1.0
+scattered,scattered,1.0
+red,red,1.0
+on the egg,on top of,0.5
+risotto,rice,0.5
+brown,red,0.2
+scattered,scattered,1.0
+on the left,on top of,0.1
+white,white,1.0
+roast,meat,0.6
+brown,brown,1.0
+within,on the left,0.1
+green,green,1.0
+pink,brown,0.2
+roast,roast,1.0
+on a wooden cutting board,on a plate,0.2
+golden,golden-brown,0.8
+rolls,buns,0.3
+brown,golden-brown,0.8
+on top,on top,1.0
+adjacent,overlapping,0.6
+golden-brown,golden-brown,1.0
+rolls,buns,0.3
+stacked,stacked,1.0
+lighter,golden-brown,0.3
+towards the top-left area,on the plate,0.1
+light pink,pink,0.8
+salami,ham,0.2
+white,white,1.0
+yellow-orange,yellow,0.7
+in the center,on top of,0.1
+BBQ,cinnamon,0.0
+jar,jar,1.0
+submerged,submerged,1.0
+silver,silver,1.0
+in the center,in the center,1.0
+brownish,brown,0.9
+fish,fish,1.0
+green,green,1.0
+on top of,on top of,1.0
+salad,bowl,0.2
+jar,jar,1.0
+brown,reddish-brown,0.8
+on the wooden surface,on a wooden surface,0.9
+spilled,dripped,0.6
+scattered,appears,0.1
+reddish-brown,brown,0.7
+spoon,spoon,1.0
+silver,silver,1.0
+on top of,to the left,0.1
+bread,bread,1.0
+halved,arranged,0.0
+sits on,sits,0.8
+yellow,yellow,1.0
+loaf,loaf,1.0
+chicken salad,salad,0.7
+green,green,1.0
+in the center,in the center,1.0
+cracker,crackers,1.0
+dark green,green,0.8
+salad,salad,1.0
+located throughout,in the center,0.2
+peach,orange,0.3
+halloumi,cheese,0.7
+creamy,creamy,1.0
+bowl,bowl,1.0
+red,red,1.0
+adding,adding,1.0
+on top,on top of,0.9
+white,white,1.0
+green,green,1.0
+bowl,bowl,1.0
+throughout,throughout,1.0
+green,green,1.0
+salad,dessert,0.1
+large,large,1.0
+interspersed,scattered,0.8
+against the base,on top of,0.1
+white,white,1.0
+scattered,scattered,1.0
+green onions,cabbage,0.1
+brown,beige,0.6
+on a white plate,on a plate,0.8
+red,red,1.0
+salad,with,0.0
+spread,scattered,0.8
+purple,white,0.1
+among the leaves,on top of,0.2
+red,red,1.0
+halved,sliced,0.5
+cucumbers,potatoes,0.1
+dill,rosemary,0.1
+on top,on top,1.0
+red,red,1.0
+bowl,bowl,1.0
+silver,metal,0.7
+green,green,1.0
+inside a silver bowl,located in,0.1
+light,green,0.2
+cucumbers,zucchini,0.7
+red,red,1.0
+throughout the blue bowl,in a bowl,0.5
+green,green,1.0
+salad,salad,1.0
+yellow,yellow,1.0
+across the top,on top of,0.8
+white,white,1.0
+black,black,1.0
+salad,salad,1.0
+white,white,1.0
+yellow,yellow,1.0
+white,white,1.0
+rice,rice,1.0
+green,green,1.0
+with,rice,0.0
+orange,brown,0.2
+salsa,salsa,1.0
+white,blue,0.2
+tomatoes,tomatoes,1.0
+in a bowl,on top of,0.2
+colorful,colorful,1.0
+bowl,bowl,1.0
+apricot,mango,0.3
+green,green,1.0
+within the mixture,scattered,0.1
+murky,reddish-brown,0.2
+white,blue,0.2
+atop,in the center,0.1
+yellow,yellow,1.0
+distributed,scattered,0.8
+green,green,1.0
+white,white,1.0
+on top of,on top of,1.0
+black,black,1.0
+bowl,on top of,0.0
+reddish-orange,reddish-orange,1.0
+herbs,herbs,1.0
+in the center,in the center,1.0
+black,black,1.0
+salsa,salsa,1.0
+yellow,yellow,1.0
+green,green,1.0
+red,red,1.0
+salsa,salsa,1.0
+spoon,spoon,1.0
+white,white,1.0
+in the lower left,in the center,0.1
+reddish-orange,red,0.7
+cup,bowl,0.6
+fills,fills,1.0
+on the right,on the left,0.0
+brownish-red,reddish-orange,0.5
+red,red,1.0
+salsa,tomatoes,0.2
+fills,fills,1.0
+clear,jar,0.1
+homemade,sugar,0.1
+salt,seasoning,0.7
+red,white,0.2
+scattered,fresh,0.1
+on the upper left,in the center,0.2
+reddish-brown,brown,0.7
+salt,garlic,0.1
+fills,fills,1.0
+light,light,1.0
+above a white bowl,on the left,0.0
+brown,brown,1.0
+sandwiches,sandwich,0.9
+white,white,1.0
+green,green,1.0
+on a white surface,on a plate,0.5
+blue,blue,1.0
+brown,brown,1.0
+scattered,scattered,1.0
+in the top left corner,located,0.2
+blue,blue,1.0
+scattered,scattered,1.0
+peanut butter,cheese,0.2
+golden-brown,golden-brown,1.0
+on a blue plate,on a plate,0.7
+pasta,pasta,1.0
+Italian,Italian,1.0
+dripping,covering,0.1
+herbs,sprinkled,0.1
+reddish-brown,reddish-brown,1.0
+food,meat,0.7
+down the sides,on top,0.1
+brown,yellow,0.2
+sugar,cheese,0.1
+amber,yellow,0.7
+in a clear glass,clear,0.5
+bottom,on top,0.0
+yellow,yellow,1.0
+pasta,pasta,1.0
+red,red,1.0
+on top of,on top of,1.0
+white,white,1.0
+orange-red,orange,0.7
+spaghetti,noodles,0.8
+white,white,1.0
+from center to edges,throughout,0.3
+reddish-brown,red,0.6
+bowl,bowl,1.0
+pink,red,0.5
+in the center,in the center,1.0
+reddish-orange,reddish-brown,0.7
+sauce,soup,0.4
+fills,fills,1.0
+green,green,1.0
+to the left,in the center,0.1
+red,red,1.0
+wooden surface,wooden,0.8
+white,yellow,0.2
+next to,on top,0.3
+fills,fills,1.0
+brown,dark,0.3
+bowl,bowl,1.0
+on the rim,contained,0.1
+orange,reddish-brown,0.2
+coated,sliced,0.1
+carrots,carrots,1.0
+green,green,1.0
+on a plate,on a plate,1.0
+reddish-brown,reddish-brown,1.0
+orange,orange,1.0
+bowl,bowl,1.0
+red,red,1.0
+on top,on top of,0.9
+brownish-red,brown,0.7
+beef,beef,1.0
+cooked,sliced,0.2
+orange,orange,1.0
+in the top center,located,0.2
+dark brown,brown,0.8
+stew,soup,0.5
+light brown,silver,0.1
+golden,yellow,0.7
+from the surface,skillet,0.0
+yellowish-white,yellow,0.7
+forming,filling,0.3
+bowl,bowl,1.0
+brownish-red,brown,0.7
+in the bottom-left,in the center,0.1
+golden-brown,golden-brown,1.0
+sausage flowers,pinwheels,0.2
+brownish-orange,brown,0.7
+sprinkled over,on top of,0.7
+silver tray,silver,0.5
+sausage,sausage,1.0
+reddish-brown,reddish-brown,1.0
+in a leaf-shaped bowl,bowl,0.5
+grilled,grilled,1.0
+pineapple,mango,0.3
+creamy,white,0.2
+pasta,pasta,1.0
+white,yellow,0.2
+on the side,in the center,0.1
+triangular,rectangular,0.3
+scone,cake,0.4
+yellow,yellow,1.0
+on a plate,on a plate,1.0
+white,white,1.0
+white,white,1.0
+scones,cookies,0.3
+golden brown,golden-brown,1.0
+in the foreground,on the left,0.2
+yellow,yellow,1.0
+tomato,strawberries,0.2
+green,green,1.0
+towards the center,on top of,0.1
+reddish-brown,reddish-brown,1.0
+brown,brown,1.0
+pumpkin seeds,pumpkin seeds,1.0
+sugar,sugar,1.0
+orange,yellow,0.3
+semifreddo,pie,0.2
+silver,silver,1.0
+off-white,yellow,0.1
+on a tray,on a plate,0.8
+white,white,1.0
+pinkish-orange,pinkish-orange,1.0
+in the center,on the plate,0.2
+green,green,1.0
+white,white,1.0
+shrimp,shrimp,1.0
+reddish-orange,red,0.7
+in the center,in the center,1.0
+blue,blue,1.0
+shrimp,shrimp,1.0
+garlic,garlic,1.0
+pink-orange,pinkish-orange,0.9
+on a blue plate,in a bowl,0.2
+hash brown,dish,0.3
+red,reddish-brown,0.7
+scallions,herbs,0.5
+white,white,1.0
+pineapple,pineapple,1.0
+yellow,yellow,1.0
+green,green,1.0
+on a white plate,on a plate,0.8
+corn,corn,1.0
+yellow,yellow,1.0
+scattered,scattered,1.0
+red,red,1.0
+on the left side,located in,0.2
+green,green,1.0
+cabbage,cabbage,1.0
+mixed,mixed,1.0
+orange,orange,1.0
+scattered,mixed,0.5
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the bowl,in the center,0.2
+orange,orange,1.0
+glass,glass,1.0
+bright,vibrant,0.8
+on the rim,on the rim,1.0
+metal,metal,1.0
+slushies,cocktail,0.2
+red,yellow,0.2
+in a metal tray,on a plate,0.4
+chocolate,chocolate,1.0
+cup,glass,0.6
+brown,brown,1.0
+pink,red,0.5
+smoothie,smoothie,1.0
+green,green,1.0
+on top of,on top of,1.0
+chocolate,chocolate,1.0
+smoothie,smoothie,1.0
+brown,brown,1.0
+green,green,1.0
+pineapple,pineapple,1.0
+clear,clear,1.0
+smoothie,smoothie,1.0
+to the right,at the top,0.0
+green,green,1.0
+smoothie,smoothie,1.0
+strawberry,strawberries,1.0
+on top of,on the rim,0.5
+solid,creamy,0.2
+sorbet,ice cream,0.6
+pale,white,0.5
+off-white,light,0.2
+rich,red,0.1
+sorbet,cake,0.1
+purple,red,0.2
+in the bowl,contained,0.1
+blueberry,strawberries,0.2
+resting,filling,0.0
+pale green,white,0.1
+golden-brown,golden-brown,1.0
+crispy,crispy,1.0
+in the upper-left corner,in the center,0.2
+blue,blue,1.0
+mushrooms,mushrooms,1.0
+scattered on the surface,in the center,0.0
+spinach,spinach,1.0
+white,white,1.0
+soup,soup,1.0
+brown,brown,1.0
+green,green,1.0
+white,white,1.0
+reddish-brown,reddish-brown,1.0
+in the right half,in the center,0.3
+vegetables,potatoes,0.8
+orange,orange,1.0
+soup,soup,1.0
+bread,bread,1.0
+on top of,on a white plate,0.3
+spaghetti,spaghetti,1.0
+red,red,1.0
+cheese,cheese,1.0
+around the perimeter,on top of,0.2
+reddish-brown,orange,0.4
+spaghetti,sauce,0.3
+chunky,creamy,0.3
+light,yellow,0.3
+cheese,cheese,1.0
+red,red,1.0
+in a casserole dish,in a bowl,0.5
+spaghetti,spaghetti,1.0
+scattered,scattered,1.0
+meatballs,meatballs,1.0
+placed on top,on top of,0.9
+blue,blue,1.0
+musubi,sushi,0.7
+orange-red,brown,0.3
+around,sushi,0.0
+white rice,white,0.5
+reddish-brown,red,0.7
+sandwich,sandwich,1.0
+glazed,glossy,0.8
+blue,blue,1.0
+light-brown,red,0.1
+burger,burger,1.0
+reddish-brown,red,0.6
+on top,on the plate,0.4
+spam,meat,0.0
+green,green,1.0
+spinach,spinach,1.0
+white,green,0.1
+with a patterned rim,plate,0.1
+onions,mushrooms,0.2
+fresh,fresh,1.0
+salad,salad,1.0
+green,green,1.0
+white,white,1.0
+in a bowl,on a plate,0.2
+green,green,1.0
+spinach,kale,0.7
+haphazard,scattered,0.8
+oily texture,smooth,0.3
+spinach,spinach,1.0
+green,green,1.0
+bowl,bowl,1.0
+with shallots,eggs,0.0
+green,green,1.0
+sprouts,sprouts,1.0
+blue,blue,1.0
+bacon,bacon,1.0
+on a white surface,on a wooden surface,0.2
+green,green,1.0
+sprouts,sprouts,1.0
+creamy,creamy,1.0
+overlapping,scattered,0.0
+green,green,1.0
+sprouts,sprouts,1.0
+brown,browned,0.8
+scattered across,scattered,0.8
+yellow,yellow,1.0
+green,green,1.0
+sprouts,broccoli,0.7
+brown,golden-brown,0.8
+around the sprouts,on top,0.1
+green,green,1.0
+brussels sprouts,sprouts,0.7
+white,white,1.0
+brownish,brown,0.9
+in a bowl,located in,0.3
+dispersed,scattered,1.0
+green,green,1.0
+bowl,in a bowl,0.8
+yellowish-white,yellow,0.7
+covering,covering,1.0
+on top,on top,1.0
+black,black,1.0
+green,green,1.0
+squash,zucchini,0.7
+orange,orange,1.0
+on a white plate,on a plate,0.8
+yellow,yellow,1.0
+squash,squash,1.0
+on the concave part,in a bowl,0.6
+green,green,1.0
+green,black,0.0
+yellow,yellow,1.0
+overlapping,arranged,0.1
+on the plate,on a plate,0.9
+orange-yellow,orange,0.8
+squash,squash,1.0
+green,green,1.0
+charred,browned,0.7
+in the center,in the center,1.0
+orange,orange,1.0
+squash,squash,1.0
+blue,blue,1.0
+in the center-left,in the center,0.7
+surrounding,filling,0.2
+steak,chicken,0.2
+tan,yellow,0.1
+brown,brown,1.0
+golden-brown,golden-brown,1.0
+crispy,textured,0.5
+arranged,arranged,1.0
+bowl,on top,0.1
+white,creamy,0.4
+golden-brown,golden-brown,1.0
+fish,banana,0.0
+white,white,1.0
+on the plate,on the plate,1.0
+blue,blue,1.0
+golden-brown,brown,0.7
+green,green,1.0
+beneath the steaks,located,0.1
+reddish-brown,reddish-brown,1.0
+hamburger,beef,0.5
+potatoes,potatoes,1.0
+throughout the stew,on top of,0.1
+red,red,1.0
+stew,salad,0.2
+ham,ham,1.0
+green,green,1.0
+on the left,on top of,0.1
+brown,brown,1.0
+scattered,scattered,1.0
+orange,orange,1.0
+white,white,1.0
+brown,brown,1.0
+chicken,chicken,1.0
+orange,orange,1.0
+on the left side,on the left,0.9
+brown,brown,1.0
+tomatoes,tomatoes,1.0
+meat,meat,1.0
+on top,on top of,0.9
+yellow,yellow,1.0
+yellow,yellow,1.0
+atop the center,on top of,0.8
+orange-brown,brown,0.7
+white,brown,0.2
+on the surface,on top,0.8
+translucent,translucent,1.0
+savory,sweet,0.1
+vegetables,vegetables,1.0
+green,green,1.0
+around the top,on top,0.8
+yellow,red,0.2
+pink,white,0.2
+strawberries,strawberries,1.0
+displaying,scattered,0.1
+red,red,1.0
+on top,on top of,0.9
+red,red,1.0
+strawberries,strawberries,1.0
+bright,glistening,0.8
+on a white paper liner,on top of,0.2
+red,red,1.0
+strawberries,strawberries,1.0
+brown,brown,1.0
+on the bottom,on top,0.0
+red,red,1.0
+strawberries,strawberries,1.0
+sliced,sliced,1.0
+on the upper side,on the right,0.2
+white,white,1.0
+red,red,1.0
+strawberries,strawberries,1.0
+clustered,scattered,0.0
+juicy,glistening,0.3
+red,red,1.0
+strawberry,strawberries,1.0
+glass,glass,1.0
+bright,vibrant,0.8
+on the plate,on top of,0.7
+chestnut,almond,0.1
+brown,brown,1.0
+toasted,browned,0.8
+yellow,golden-brown,0.6
+brown,brown,1.0
+scattered,scattered,1.0
+dish,bowl,0.7
+white,white,1.0
+throughout the dish,in the center,0.2
+brown,brown,1.0
+herbs,herbs,1.0
+baking,baking,1.0
+white,white,1.0
+scattered,scattered,1.0
+brown,golden-brown,0.8
+in the center,in the center,1.0
+powdered,creamy,0.1
+glass,glass,1.0
+vegetarian,vegan,0.8
+sushi,sushi,1.0
+black,black,1.0
+on the plate,on a plate,0.9
+green,green,1.0
+swordfish,halibut,0.1
+atop,in the center,0.1
+red,red,1.0
+pitcher,bowl,0.5
+on a tablecloth,on a wooden surface,0.4
+orange,orange,1.0
+cabbage,cabbage,1.0
+green,green,1.0
+carrot,carrots,1.0
+on top,on top of,0.9
+red,red,1.0
+tacos,quesadillas,0.7
+golden-brown,golden-brown,1.0
+spilling,spilling,1.0
+on a red plate,on a plate,0.7
+brown,brown,1.0
+plate,plate,1.0
+on top,on top of,0.9
+topping,with,0.0
+tacos,tacos,1.0
+red,red,1.0
+on plate,on a plate,1.0
+green,green,1.0
+tacos,sandwich,0.2
+golden-brown,golden-brown,1.0
+red,red,1.0
+behind,on the plate,0.0
+brown,brown,1.0
+taffy,chocolate,0.1
+white,white,1.0
+orange,brown,0.2
+across a white surface,on a white surface,0.9
+tamale,hummus,0.1
+yellow,yellow,1.0
+on a white plate,on a plate,0.8
+golden-brown,yellow,0.5
+taquitos,bread,0.1
+brown,brown,1.0
+tan,golden-brown,0.2
+taquitos,pizza,0.1
+orange,orange,1.0
+scattered over,on top of,0.2
+wooden,wooden,1.0
+yellow,yellow,1.0
+plate,on top of,0.1
+white,white,1.0
+toasted,creamy,0.0
+on a plate,on a plate,1.0
+golden brown,white,0.0
+tater tots,potatoes,0.6
+white,white,1.0
+over the tater tots,on top,0.3
+orange,beige,0.1
+glass,glass,1.0
+scattered,scattered,1.0
+brown,brown,1.0
+on top,on top of,0.9
+amber,amber,1.0
+tea,coffee,0.2
+lemon,ice,0.1
+green,green,1.0
+on the surface,on top,0.8
+mug,mug,1.0
+beige,beige,1.0
+on a white tiled surface,on a wooden surface,0.2
+tea,coffee,0.2
+glass,glass,1.0
+tan,tan,1.0
+in the center,in the center,1.0
+Hot,hot,1.0
+Tea,coffee,0.2
+Amber,brown,0.3
+Resting on a saucer,on a white plate,0.4
+Ginger,chocolate,0.1
+clear,clear,1.0
+green,green,1.0
+reddish-pink,amber,0.1
+to the left,on top of,0.0
+brown,brown,1.0
+chicken,chicken,1.0
+white,white,1.0
+white,white,1.0
+tenderloins,beef,0.5
+reddish-brown,brown,0.7
+drizzled,drizzled,1.0
+on top,on top of,0.9
+pink,pink,1.0
+pork,chicken,0.2
+dark brown,brown,0.8
+seared,sliced,0.1
+from the bottom left,located,0.2
+golden,golden-brown,0.8
+chicken,chicken,1.0
+brown,brown,1.0
+piled on top,on top of,0.8
+green,green,1.0
+white,golden-brown,0.3
+tilapia,halibut,0.2
+golden-brown,golden-brown,1.0
+to the left,to the left,1.0
+textured,textured,1.0
+white,white,1.0
+red,red,1.0
+on top,on top of,0.9
+ice cream,ice cream,1.0
+located inside,on top of,0.0
+tofu,avocado,0.1
+creamy,appears,0.0
+scooped,served,0.3
+tofu,tofu,1.0
+red,red,1.0
+golden-brown,orange,0.3
+eggplant,zucchini,0.5
+Agedashi,fish,0.2
+brown,brown,1.0
+scattered,scattered,1.0
+tan,beige,0.1
+shifted to the left,in the center,0.0
+green,green,1.0
+scattered,scattered,1.0
+orange,golden-brown,0.5
+tofu,fish,0.0
+resting between,on top of,0.1
+rice,rice,1.0
+scattered,scattered,1.0
+brown,brown,1.0
+scattered,piled,0.2
+broccoli,broccoli,1.0
+green,green,1.0
+tofu,tofu,1.0
+blue,blue,1.0
+on the left side,on the left,0.9
+golden-brown,golden-brown,1.0
+decorative,bowl,0.2
+tofu,tofu,1.0
+blue,white,0.1
+on the upper left,to the left,0.5
+mushrooms,scattered,0.1
+red,red,1.0
+tomatoes,tomatoes,1.0
+white,white,1.0
+closer to,to the left,0.2
+green,green,1.0
+red,red,1.0
+tomatoes,tomatoes,1.0
+yellow,red,0.2
+tomato,cheese,0.1
+transparent,casserole,0.0
+orange,yellow,0.3
+gluten-free,gluten-free,1.0
+yellow,golden-brown,0.6
+on the plate,on top of,0.6
+brown,brown,1.0
+white,white,1.0
+meringue,cake,0.3
+browned,browned,1.0
+amber-colored,golden-brown,0.7
+on a dark surface,on a plate,0.3
+white,white,1.0
+tortes,cake,0.5
+copper-colored,silver,0.2
+on a plate,on a plate,1.0
+green,white,0.0
+mousse,avocado,0.1
+white,white,1.0
+brown,brown,1.0
+on top of,on top of,1.0
+plum,apples,0.2
+round,rectangular,0.1
+yellow,golden-brown,0.6
+white,white,1.0
+over the surface,on top,0.7
+yellow,yellow,1.0
+tortellini,pasta,0.7
+orange,orange,1.0
+tortellini,pasta,0.7
+yellow,red,0.2
+red,red,1.0
+on an orange plate,in a bowl,0.2
+blue,blue,1.0
+tortellini,ravioli,0.7
+green,green,1.0
+powdered,textured,0.2
+yellow,yellow,1.0
+brown,brown,1.0
+in the center,in the center,1.0
+yellow-tan,yellow,0.8
+tortillas,cookies,0.1
+stacked,stacked,1.0
+round,round,1.0
+tan,beige,0.1
+tortillas,tortillas,1.0
+blue,blue,1.0
+on top of,on top of,1.0
+tortilla,tortilla,1.0
+brown,brown,1.0
+green,green,1.0
+on top,on top of,0.9
+white,white,1.0
+golden-brown,golden-brown,1.0
+meat,tofu,0.2
+on top of,on a plate,0.3
+scattered,arranged,0.1
+marshmallows,popcorn,0.2
+congealed,creamy,0.2
+on wrinkled sheet,on a,0.0
+creamy,creamy,1.0
+trifle,pie,0.2
+yellow,yellow,1.0
+on top,on top of,0.9
+brown,brown,1.0
+golden-brown,yellow,0.5
+cake,polenta,0.2
+red,red,1.0
+with whipped topping,with,0.2
+dessert,dessert,1.0
+reddish-brown,brown,0.7
+Tri-Tip,beef,0.6
+white,white,1.0
+on a plate,located in,0.3
+yellow-brown,brown,0.8
+large,large,1.0
+fish,fish,1.0
+orange,orange,1.0
+on the right,on the left,0.0
+fish,fish,1.0
+yellow,yellow,1.0
+on the platter,on a plate,0.9
+fillets,tofu,0.1
+dark,chocolate,0.5
+brown,brown,1.0
+in a box,on a baking sheet,0.2
+white,white,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+brown,brown,1.0
+on a plate,on a plate,1.0
+truffles,cupcakes,0.1
+brown,brown,1.0
+studded,glossy,0.2
+at the top,on top,0.9
+strawberry-filled,chocolate,0.0
+truffles,cupcakes,0.1
+brown,brown,1.0
+with a darker brown,brown,0.8
+circular,heart-shaped,0.2
+yellow,yellow,1.0
+tuna,halibut,0.3
+creamy,creamy,1.0
+on the top of casserole,on the plate,0.2
+white,white,1.0
+white,white,1.0
+green,green,1.0
+melted,melted,1.0
+in a white baking dish,in the center,0.1
+creamy,creamy,1.0
+Turkey,sausage,0.1
+yellow,white,0.2
+mushrooms,mushrooms,1.0
+in a dish,in the center,0.2
+brownish-orange,reddish-brown,0.7
+turkey,chicken,0.5
+scattered,scattered,1.0
+green,green,1.0
+on the surface,on top,0.8
+white,white,1.0
+blueberry,blueberries,1.0
+golden-brown,golden-brown,1.0
+scattered,scattered,1.0
+red,red,1.0
+square,rectangular,0.5
+carrots,carrots,1.0
+on top,on top of,0.9
+golden-brown,golden-brown,1.0
+veal,chicken,0.1
+white,white,1.0
+on the plate,on a plate,0.9
+drizzled,drizzled,1.0
+white,white,1.0
+vegetables,vegetables,1.0
+red,red,1.0
+on a plate,on the plate,0.9
+brown,green,0.1
+Wellington,casserole,0.0
+dark blue,blue,0.7
+green,green,1.0
+vegetables,vegetables,1.0
+scattered,scattered,1.0
+on a black grill pan,on a baking sheet,0.3
+glazed,glossy,0.8
+reddish-brown,red,0.6
+around the base,to the left,0.0
+blackberries,blueberries,0.5
+brown,brown,1.0
+venison,beef,0.2
+gravy,sauce,0.7
+green,green,1.0
+on the plate,on a plate,0.9
+golden-brown,golden-brown,1.0
+venison,chicken,0.1
+on a plate,on top of,0.6
+overlapping,scattered,0.0
+salad,salad,1.0
+green,green,1.0
+in the salad,on top of,0.2
+blueberries,blueberries,1.0
+brown,dark,0.3
+reflecting,covers,0.2
+pitcher,pitcher,1.0
+vinaigrette,dressing,0.8
+in the foreground,in the center,0.5
+vinaigrette,dressing,0.8
+wooden,wooden,1.0
+yellow-brown,yellow,0.5
+jar,jar,1.0
+wooden,wooden,1.0
+on a wooden surface,on a wooden surface,1.0
+green,green,1.0
+scattered,scattered,1.0
+red,red,1.0
+tomato,tomatoes,1.0
+above the middle,on the right,0.2
+golden-brown,golden-brown,1.0
+waffles,waffles,1.0
+white,white,1.0
+darker,golden-brown,0.3
+on a white plate,on a plate,0.7
+golden,golden-brown,0.8
+brown,brown,1.0
+on the left,in the center,0.2
+red,red,1.0
+waffle,pancakes,0.4
+red,red,1.0
+on the waffle,on top of,0.3
+green,green,1.0
+Awesome,fresh,0.3
+Walleye,salmon,0.2
+tan,beige,0.1
+red,red,1.0
+watermelon,watermelon,1.0
+white,white,1.0
+on top,on top of,0.9
+green,green,1.0
+pink,pink,1.0
+watermelon,watermelon,1.0
+red,red,1.0
+clear,clear,1.0
+orange,orange,1.0
+wedges,triangular,0.2
+golden-brown,golden-brown,1.0
+on plate,on a plate,1.0
+herbs,herbs,1.0
+brown,brown,1.0
+white,tan,0.5
+fries,coleslaw,0.1
+orange,lemon,0.5
+glasses,glasses,1.0
+amber,amber,1.0
+on the tray,on a plate,0.7
+metallic,metal,0.8
+wings,wings,1.0
+orange,golden-brown,0.5
+in the center,in the center,1.0
+saucy,glossy,0.3
+cauliflower,cauliflower,1.0
+golden brown,golden-brown,1.0
+scattered across,scattered,0.8
+plate,plate,1.0
+golden-brown,golden-brown,1.0
+wontons,wontons,1.0
+crispy,browned,0.6
+bowl,bowl,1.0
+in the bowl,in a bowl,0.9
+green,green,1.0
+brownish,brown,0.9
+on the lower right,on the left,0.1
+cilantro,cilantro,1.0
+tan,tan,1.0
+wraps,burritos,0.7
+corn,corn,1.0
+pink,pink,1.0
+on the plate,on top,0.5
+spinach,spinach,1.0
+yellow,yellow,1.0
+orange,orange,1.0
+yams,carrots,0.1
+glistening,translucent,0.4
+on top of,on top of,1.0
+green,green,1.0
+orange,orange,1.0
+yams,potatoes,0.4
+scattered,scattered,1.0
+white,white,1.0
+on a white surface,on a baking sheet,0.5
+white,white,1.0
+brown,brown,1.0
+blueberries,blueberries,1.0
+creamy,creamy,1.0
+yogurt,oatmeal,0.1
+red,red,1.0
+on top,on top of,0.9
+blue,blue,1.0
+raspberries,strawberries,0.6
+blue,blue,1.0
+ziti,pasta,0.7
+reddish-orange,red,0.6
+reddish-brown,reddish-brown,1.0
+spaghetti,noodles,0.8
+throughout the entire pan,throughout,0.3
+yellow,green,0.3
+zucchini,zucchini,1.0
+black,green,0.0
+in the center,on top of,0.1
