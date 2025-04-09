@@ -1,0 +1,4 @@
+answer,predicted_answer,EM,Precision,Recall,F1
+The quick brown fox jumps over the lazy dog,The quick brown fox leaps over the idle dog,0.0,0.75,0.75,0.75
+I enjoy coding in Python,I like coding in Python daily,0.0,0.6666666666666666,0.8,0.7272727272727272
+Machine learning is fascinating,Machine learning is interesting,0.0,0.75,0.75,0.75
