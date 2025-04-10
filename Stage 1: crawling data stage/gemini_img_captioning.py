@@ -45,7 +45,7 @@ if not file_exists:
 
 print('Generate...')
 
-for i in range(200, 1532):
+for i in range(len(df)):
     row = df.iloc[i]
     image_id = str(row['Image']).strip()
     image_path = None

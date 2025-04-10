@@ -30,7 +30,7 @@ if not file_exists:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(['Image', 'Image description', 'Keywords', 'Questions'])
 print('Generating keywords...')
-for index in range(3040, len(df)):
+for index in range(3049, len(df)):
     row = df.iloc[index]
     image_id = str(row['Image']).strip()
     description = row.get('Image description', '')
