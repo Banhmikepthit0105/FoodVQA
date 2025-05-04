@@ -1,0 +1,571 @@
+Image,Question,Answer,Predicted_Answer,gpt_score
+ff557f4ea977d3a,What color is the top of the enchiladas,golden-brown,golden brown,1.0
+ff557f4ea977d3a,What type of dish is positioned on the left side of the plate,enchiladas,fried fish,0.1
+ff557f4ea977d3a,What color is the filling of the enchiladas,white,white,1.0
+ff557f4ea977d3a,Where are the enchiladas located on the plate,on the left side,not present,0.0
+ff557f4ea977d3a,What vegetable is scattered on top of the lettuce,tomatoes,tomatoes,1.0
+5c89583c7d79eac,What color is the baking dish,white,white,1.0
+5c89583c7d79eac,What has happened to the vegan cheese on top of the bake,melted,melted,1.0
+5c89583c7d79eac,What is the vegan cheese doing to the bake,covering,melting,0.1
+5c89583c7d79eac,What color are the avocado slices,green,green,1.0
+5c89583c7d79eac,Where are the sliced olives placed on the bake,across the bake,on top,0.2
+ec8d556e427215f,What color is the chicken,golden-brown,white,0.1
+ec8d556e427215f,What type of meat is used in the fajitas,chicken,chicken,1.0
+ec8d556e427215f,What color is the shredded cheese,yellow,yellow,1.0
+ec8d556e427215f,Where is the sour cream located,on a plate,next to guacamole,0.2
+4540be4f1b7483a,What color is the cilantro,green,green,1.0
+4540be4f1b7483a,What herb is shown at the top left of the image,cilantro,cilantro,1.0
+4540be4f1b7483a,What color is the bowl filled with pico de gallo,yellow,yellow,1.0
+4540be4f1b7483a,What type of meat is included in the fajita mix,chicken,chicken,1.0
+4540be4f1b7483a,Where is the fajita mix arranged,on a sheet pan,on a plate,0.6
+5466136e2c0ad7d,What type of meat is used in the fajitas,chicken,pork,0.0
+5466136e2c0ad7d,What color are the bell peppers,green,not visible,0.1
+5466136e2c0ad7d,Where is the guacamole located,atop the fajita filling,on the plate,0.3
+04bc6b3e8a8aea0,What color are the Mahi Mahi pieces,golden-brown,golden-brown,1.0
+04bc6b3e8a8aea0,What type of fish is used in the fajitas,Mahi Mahi,salmon,0.2
+04bc6b3e8a8aea0,What color are the sliced bell peppers,red,red and yellow,0.7
+04bc6b3e8a8aea0,Where are the Mahi Mahi pieces placed,throughout the center,on the plate,0.2
+04bc6b3e8a8aea0,What color are the sliced onions,white,white,1.0
+706203205f79559,What is the main protein in the fajitas,steak,beef,1.0
+706203205f79559,What color is the sliced steak,brownish-red,brown,0.7
+706203205f79559,Where are the fajitas placed,on the plate,on a plate,0.9
+0fd4b82e0e33a45,What type of vegetables are mixed with the red peppers,mushrooms,carrots,0.1
+0fd4b82e0e33a45,What color is the tortilla used for the fajitas,beige,not shown,0.0
+a1db7c4c3f6057d,What color are the falafels,golden-brown,brown,0.7
+a1db7c4c3f6057d,What type of food is shown in the image,falafels,italian dish,0.2
+a1db7c4c3f6057d,What color is the lemon,yellow,not visible,0.1
+a1b92188972141f,What color are the farro grains,brown,light brown,0.9
+a1b92188972141f,What type of ingredient is dark brown and interspersed with the farro,mushrooms,mushrooms,1.0
+a1b92188972141f,What color is the cilantro sprig,green,not visible,0.1
+a1b92188972141f,Where is the cilantro sprig positioned,on top of,not visible,0.1
+649f26370757a85,Is the dish suitable for vegetarians,yes,no,0.0
+649f26370757a85,What is the main grain used in the skillet,farro,there is no grain,0.1
+649f26370757a85,What color is the bowl used to serve the dish,orange,red,0.2
+649f26370757a85,Where are the black beans located in the dish,throughout,scattered throughout,0.7
+649f26370757a85,What vegetable with green skin is mixed within the farro,zucchini,zucchini,1.0
+1182fb165965c24,What material are the jars made of,glass,glass,1.0
+1182fb165965c24,What color is the fennel,yellow,there is no fennel,0.1
+1182fb165965c24,Where is the fennel contained,contained within,on the board,0.2
+1182fb165965c24,How are the jars sealed,sealed,with a lid and ribbon,0.3
+1182fb165965c24,What color is the cloth on the jars,red,red and white,0.7
+dc82292cc9b95bb,What are the rectangular golden-brown items on the plate,feta fingers,fried breaded sticks,0.3
+dc82292cc9b95bb,What color are the feta fingers,golden,golden brown,0.8
+dc82292cc9b95bb,What color is the dotted pattern on the plate,blue,blue and yellow.,0.7
+c21c69d14faa792,What type of dish is shown in the image,salad,tuna salad,0.7
+c21c69d14faa792,What color is the bowl holding the salad,yellow,yellow,1.0
+c21c69d14faa792,What color are the chicken pieces in the salad,white,not present,0.0
+c0975f297eda584,What does the fettuccine do in the frame,fills,twists around a bowl,0.2
+c0975f297eda584,What type of pasta is shown,fettuccine,linguine,0.7
+c0975f297eda584,What is the texture of the sauce,creamy,smooth,0.7
+c0975f297eda584,What is scattered on top of the pasta,cheese,parmesan cheese,0.9
+c0975f297eda584,Where are the thin strands of cheese located,on top of,on top of pasta,0.9
+4a760002afb43b8,What is the color of the base of the dish,white,white,1.0
+4a760002afb43b8,Where is the fettuccine located in the dish,located throughout,underneath the toppings,0.2
+4a760002afb43b8,What type of meat is scattered on top of the pasta,chicken,chicken,1.0
+4a760002afb43b8,What color are the slightly browned areas on the chicken,asparagus,brown,0.1
+614c5dee532b78e,What color are the figs,purple,purple,1.0
+614c5dee532b78e,What type of fruit is shown in the image,figs,none,0.0
+614c5dee532b78e,Where is the goat cheese placed,on top of,on top of the meat,0.9
+614c5dee532b78e,What is the texture of the goat cheese,creamy,crumbly,0.2
+614c5dee532b78e,How is the goat cheese distributed,scattered,crumbled,0.6
+a31ea68b260d0c2,What color is the interior of the cut filet,pinkish-red,pink,0.7
+a31ea68b260d0c2,What type of meat is shown in the image,filet,pork,0.1
+a31ea68b260d0c2,What color is the seared exterior of the filets,brown,dark brown,0.9
+a31ea68b260d0c2,Where are the filets placed,on a plate,on a plate,1.0
+a31ea68b260d0c2,How is the exterior of the filets described,seared,crispy,0.6
+260ac1e7d31775e,What color is the plate,blue,blue,1.0
+260ac1e7d31775e,What type of food is being served,fish,fish,1.0
+260ac1e7d31775e,What herb is scattered on the fish,dill,dill,1.0
+260ac1e7d31775e,What color is the fish generally,white,white,1.0
+395a4e305e40a37,What flavor is the fish,Lemony,herb seasoned,0.2
+395a4e305e40a37,What type of food is shown in the image,Fish,salmon,0.7
+395a4e305e40a37,What color is the plate,Orange,orange,1.0
+395a4e305e40a37,Where is the fish placed,on plate,on the plate,0.9
+395a4e305e40a37,What color are the herbs on the fish,Green,green,1.0
+a5b87a311528eb8,What color is the plate,yellow,white with blue flowers,0.1
+a5b87a311528eb8,What type of food is in the center of the plate,fish,fried fish,0.7
+a5b87a311528eb8,What color is the fish,golden-brown,no fish,0.1
+a5b87a311528eb8,Where is the fish located,on a plate,on the plate,1.0
+a5b87a311528eb8,What color are the scallions on the fish,green,green,1.0
+ce3a724e27e8f9f,What color is the fish,white,white,1.0
+ce3a724e27e8f9f,What is the main ingredient in the dish,fish,rice,0.0
+ce3a724e27e8f9f,What color is the sauce on top of the fish,brown,brown sauce,0.7
+ce3a724e27e8f9f,Where is the ginger placed,on top of,on the fish,0.2
+ce3a724e27e8f9f,What color are the scallions on top of the fish,green,green,1.0
+27bc4f71b275ae7,What is in the clear glass,drink,coffee,0.7
+27bc4f71b275ae7,What color is the foam on the drink,white,white,1.0
+27bc4f71b275ae7,What color are the patterns on top of the foam,reddish-orange,brown,0.3
+27bc4f71b275ae7,Where are the reddish-orange patterns located,on top of,on the foam,0.5
+c3720ab16e601cc,What is the texture of the flan's top surface,shiny,crispy,0.2
+c3720ab16e601cc,What type of dessert is shown in the image,flan,flan,1.0
+c3720ab16e601cc,What color is the plate,white,white,1.0
+c3720ab16e601cc,What color is the surface on top of the flan,caramel-colored,caramel,0.9
+8988bdd592b7b2b,What type of meat is scattered on the flatbread,chicken,pork,0.0
+8988bdd592b7b2b,How is the teriyaki sauce applied over the toppings,drizzled,drizzled,1.0
+8988bdd592b7b2b,What is the color of the onions on the flatbread,purple,purple,1.0
+a04609d90ed6c41,What color is the pineapple in the dish,yellow,yellow,1.0
+a04609d90ed6c41,How is the pineapple prepared in the dish,diced,chopped,0.9
+a04609d90ed6c41,What fruit is used in the dish,pineapple,pineapple,1.0
+a04609d90ed6c41,What is the texture of the overall mixture,moist,crunchy,0.1
+a04609d90ed6c41,How are the bread and pineapple pieces distributed in the dish,throughout the dish,mixed together,0.3
+df836fe70475d5d,What type of container is the Cranberry Fluff served in,glass,a bowl,0.2
+df836fe70475d5d,How full is the bowl with the Cranberry Fluff,filling,full,0.5
+df836fe70475d5d,What fruit pieces are visible in the Cranberry Fluff,cranberries,cranberries,1.0
+df836fe70475d5d,What fruit halves are prominently visible on the right side of the mound,grapes,grapes,1.0
+df836fe70475d5d,Where is the Cranberry Fluff mounded to,to the brim,on the plate,0.2
+93caec07215ba61,What color is the interior of the focaccia,yellow,light yellow,0.9
+93caec07215ba61,What type of bread is shown in the image,focaccia,focaccia,1.0
+93caec07215ba61,What color is the basil on top of the focaccia,green,green,1.0
+93caec07215ba61,What material is the surface the focaccia is resting on,wooden,wood,0.9
+82927363da2288b,What color is the fondue in the bowl,yellow,yellow,1.0
+82927363da2288b,What is the fondue contained in,bowl,cheese,0.1
+82927363da2288b,What is the state of the bread's crust,toasted,toasted,1.0
+82927363da2288b,What color is the crust of the bread,golden-brown,golden brown,1.0
+82927363da2288b,Where is the fondue dripping from,down from,the bread,0.1
+2d2938a660f6b1d,What color are the pretzel rings,brown,unanswerable,0.0
+2d2938a660f6b1d,What type of food item is drizzled with white chocolate,pretzel,caramel corn,0.2
+82c11793c3b8518,What color is the dessert,brown,there is no dessert,0.0
+82c11793c3b8518,What type of food is shown in the image,dessert,pork and veggies,0.1
+82c11793c3b8518,What shape are the desserts,rectangular,square,0.5
+f189044f1aaf168,What color are the slivered almonds on the candies,brown,light brown,0.9
+f189044f1aaf168,What type of nuts are scattered on the candies,almonds,almonds,1.0
+f189044f1aaf168,How are the almonds positioned on the candies,scattered,chopped,0.3
+ff63f9d9e982d84,What color is the baking dish,white,white,1.0
+ff63f9d9e982d84,What type of dish is the Frito Pie Casserole in,casserole,baking dish,0.7
+ff63f9d9e982d84,How are the chopped green onions arranged on top of the chips,scattered,sprinkled,0.7
+ff63f9d9e982d84,What color is the mixture underneath the chips,reddish-brown,red,0.7
+ff63f9d9e982d84,Where is the layer of Frito chips located,on top,under the toppings,0.2
+c1995791b9f2571,What color is the pan,black,black,1.0
+c1995791b9f2571,What color is the base of the frittata,yellow,light yellow,0.9
+c1995791b9f2571,How are the green herbs distributed in the frittata,scattered,scattered throughout,0.9
+c1995791b9f2571,What are the bright red slices arranged in the center,tomatoes,tomato slices,0.7
+c1995791b9f2571,Where are the slices of tomatoes located,in a black pan,on top of the pizza,0.2
+76f8eb55a8ddb4a,What color is the frittata primarily,yellow,yellow,1.0
+76f8eb55a8ddb4a,What vegetable is visible in the frittata,broccoli,broccoli,1.0
+76f8eb55a8ddb4a,What is the overall tone of the frittata's color,light,yellow,0.3
+76f8eb55a8ddb4a,What type of cheese is visible in the frittata,cheddar,cheddar,1.0
+3fd383827ec0643,What color are the crab fritters,brown,golden brown,0.7
+3fd383827ec0643,How are the crab fritters arranged on the plate,clustered,in a pile,0.7
+3fd383827ec0643,What is the food served on,plate,a plate,1.0
+3fd383827ec0643,What color are the lemon wedges,yellow,not visible,0.1
+3fd383827ec0643,Where are the lemon wedges located,on the left,on the side,0.6
+8fb828778ec290d,What color is the larger fritter,golden-brown,golden,0.7
+8fb828778ec290d,What type of food is on the plate,fritter,potato pancakes,0.6
+8fb828778ec290d,How does the texture of the fritter appear around the edges,crispy,crispy,1.0
+8fb828778ec290d,What color is the plate,white,white,1.0
+90566bb352454ee,What is the flavor of the frosting on the stack,chocolate,chocolate,1.0
+90566bb352454ee,What is the arrangement of the chocolate-frosted items,stack,stacked,0.6
+90566bb352454ee,What color is the chocolate frosting,brown,brown,1.0
+90566bb352454ee,Where is the stack of chocolate-frosted items placed,on a plate,on a plate,1.0
+a238a1570e7fe42,What is the shape of the frosting,swirled,swirled,1.0
+a238a1570e7fe42,What color is the frosting,pink,pink,1.0
+a238a1570e7fe42,What is the dessert in the image,cupcake,cupcake,1.0
+a238a1570e7fe42,What fruit is in the frosting,cherry,strawberries,0.2
+a238a1570e7fe42,Where is the frosting located,on top of,on the cupcake,0.3
+d5e6b885904e072,What are the containers holding the frosting,bowls,there is no frosting.,0.1
+0de51666d9bbd9c,What does the frosting evenly do to the cake,coats,covers it,0.2
+0de51666d9bbd9c,What is the dessert in the image,cake,chocolate cake,0.9
+0de51666d9bbd9c,What color is the frosting,brown,chocolate,0.6
+0de51666d9bbd9c,Where is the cake placed,on the plate,on a plate,0.9
+97145150b1c3a0a,What color is the plate,blue,white,0.0
+97145150b1c3a0a,What type of dish are shown in the image,fries,pasta,0.2
+97145150b1c3a0a,What color is the melted cheese,orange,melted,0.1
+97145150b1c3a0a,Where is the melted cheese located,on top of,on top of fries,0.9
+a88c7dd881219e4,What color are the French fries in the casserole,yellow,unanswerable,0.0
+a88c7dd881219e4,What type of dish is the food in the image,casserole,macaroni and cheese,0.6
+17b989adaf9150e,What color is the plate,white,white,1.0
+17b989adaf9150e,What type of food is described as golden-brown,fries,fried pork,0.2
+17b989adaf9150e,What color are some of the fillings,golden-brown,orange,0.4
+17b989adaf9150e,What color are some of the other fillings,orange,orange,1.0
+17b989adaf9150e,Where are the green spices sprinkled,on top of,on the top,0.9
+a9c7fa28ed37744,What is the primary color of the fries,yellow,golden brown,0.6
+a9c7fa28ed37744,What vegetable are the fries made from,potato,potatoes,1.0
+a9c7fa28ed37744,What color is the skin on some of the fries,reddish-brown,red,0.7
+a9c7fa28ed37744,Where are the fries placed,on a plate,not present,0.0
+892b050aed75a1b,What is the primary color of the sweet potato fries,yellow,orange,0.2
+892b050aed75a1b,What type of food is shown in the image,fries,french fries,1.0
+892b050aed75a1b,What is the appearance of the edges of some fries,charred,burnt,1.0
+892b050aed75a1b,Where are the fries arranged on the plate,in the center,randomly,0.1
+892b050aed75a1b,What color is the napkin under the plate,blue,blue,1.0
+07cf1edcce84e68,What is the base color of the fudge,white,white,1.0
+07cf1edcce84e68,What type of food is shown in the image,fudge,white chocolate fudge,0.7
+07cf1edcce84e68,What color are the cranberries in the fudge,red,red,1.0
+07cf1edcce84e68,What type of nuts are in the fudge,walnuts,walnuts,1.0
+bf0ab2726eb40b3,What color is the fudge,brown,light brown,0.9
+bf0ab2726eb40b3,What type of dessert is shown,fudge,caramel fudge,0.9
+bf0ab2726eb40b3,Where is the fudge located in the image,on the left,in a square,0.2
+bf0ab2726eb40b3,What does the surface of the fudge have,sheen,shiny surface,0.7
+34f562a43a24940,What color is the crust of the galette,golden-brown,golden brown,1.0
+34f562a43a24940,What color are the cherry tomatoes,red,red,1.0
+34f562a43a24940,Where are the basil leaves located on the galette,atop the galette,top left corner,0.2
+34f562a43a24940,What color are the basil leaves,green,there are no basil leaves.,0.1
+599a7d7530ff76b,What color is the surface of the Galette des Rois,golden-brown,brown,0.7
+599a7d7530ff76b,What type of food is the Galette des Rois,pastry,a cake,0.7
+599a7d7530ff76b,What color is the powdered sugar on the Galette des Rois,white,white,1.0
+599a7d7530ff76b,How is the powdered sugar distributed on the Galette des Rois,sprinkled,on top,0.2
+5b46052cbc1ded8,What fruit is red and placed towards the top and center,strawberry,strawberries,1.0
+5b46052cbc1ded8,What color is the crust of the galette,golden-brown,light brown,0.7
+5b46052cbc1ded8,What fruit is dark blue and nestled among the strawberry slices,blueberries,blueberries,1.0
+5b46052cbc1ded8,Where are the strawberry slices placed,towards the top,on top of the pizza,0.2
+fb707f2c874780c,What is the color of the outer layers of the garlic,tan,white,0.1
+fb707f2c874780c,What is the main ingredient in the image,garlic,garlic,1.0
+fb707f2c874780c,What is the color of the exposed cloves of garlic,yellow,yellow,1.0
+fb707f2c874780c,What is the color of the foil surrounding the garlic,silver,silver,1.0
+014f5ece7199f30,What color is the lemon-lime soda gelatin salad,green,green,1.0
+014f5ece7199f30,What type of dish is the lemon-lime soda gelatin salad,dessert,jello salad,0.3
+014f5ece7199f30,What is the texture of the lemon-lime soda gelatin salad like,gelatin,gelatinous,0.7
+014f5ece7199f30,What is the overall impression of the lemon-lime soda gelatin salad,creamy,refreshing,0.3
+3920c6be53a6f6c,What color is the chicken,golden-brown,white,0.1
+3920c6be53a6f6c,What is the chicken served in,bowl,on rice,0.2
+3920c6be53a6f6c,How is the chicken arranged,sliced,sliced,1.0
+3920c6be53a6f6c,What color are the garnishes on the chicken,green,green,1.0
+3920c6be53a6f6c,Where is the chicken placed in relation to the rice,on top of,on top of rice,0.9
+a3729bd13d1a3ce,"What ingredient adds a warm, spicy flavor to the dish",ginger,pepper flakes,0.2
+a3729bd13d1a3ce,What is the main protein in the dish,chicken,chicken,1.0
+a3729bd13d1a3ce,What color is the plate,white,white,1.0
+a3729bd13d1a3ce,Where is the stir-fry placed,on a plate,on a plate,1.0
+a3729bd13d1a3ce,What color are the bell pepper slices primarily located on the left side of the plate,red,red,1.0
+00e593048406ff1,What is the color of the ginger syrup,translucent,golden yellow,0.2
+00e593048406ff1,What is the syrup contained in,jar,lemon,0.1
+00e593048406ff1,What color is the ginger syrup,amber,yellow,0.5
+00e593048406ff1,Where is the jar positioned in the image,in the center,on a wooden board,0.3
+fea12437470c358,What color is the crust of the treats,yellow,golden brown,0.6
+fea12437470c358,What type of treats are shown in the image,gingerbread,"Not applicable, it's not treats",0.1
+fea12437470c358,What is on top of the gingerbread treats,chocolate,powdered sugar,0.2
+fea12437470c358,What color is the plate,beige,beige,1.0
+e54f96ac6dd17b3,What color is the gingerbread house,brown,brown,1.0
+e54f96ac6dd17b3,Is the gingerbread house shaped like a house,yes,yes,1.0
+e54f96ac6dd17b3,What color is the icing on the roof,white,white,1.0
+e54f96ac6dd17b3,What shape is formed by the light blue and pink candies,flower,flower,1.0
+a39e3415ded2a21,What color are the dots on the tan gingerbread figure in the left center,green,red,0.0
+a39e3415ded2a21,Where is the dark brown gingerbread man with green icing located,on top,behind the pink man,0.2
+59f3fdd700719ff,What type of cookies are on the plate,gingerbread cookies,ginger snaps,0.7
+59f3fdd700719ff,What color are the gingerbread cookies,brown,brown,1.0
+59f3fdd700719ff,Where is the glass situated,on a plate,on a plate,1.0
+40731821312df84,What is the color of the vanilla glaze,beige,white,0.2
+40731821312df84,What type of baked goods are shown in the image,cookies,cookies,1.0
+40731821312df84,How are the cookies arranged,stacked,stacked,1.0
+40731821312df84,Where is the glaze spread on the cookies,on top of,on top of cookies,0.9
+e2f346240095e65,What color is the bowl the soup is served in,white,white,1.0
+e2f346240095e65,What color is the soup base,yellow,white,0.1
+e2f346240095e65,What meat is scattered throughout the soup,bacon,bacon,1.0
+e2f346240095e65,Where are the chopped green onions placed,on top,not shown,0.1
+bb9b1c1288afbc7,What type of pasta is pale yellow and scattered on the plate,gnocchi,fries,0.1
+bb9b1c1288afbc7,What seafood is distributed around the center and left side of the plate,shrimp,shrimp,1.0
+bb9b1c1288afbc7,What color are the asparagus spears,green,green,1.0
+f72def05a510d0d,What color is the chicken sausage,brownish-red,there is no chicken,0.0
+f72def05a510d0d,What type of dumplings are in the dish,gnocchi,potato dumplings,1.0
+f72def05a510d0d,What color are the broccoli florets,green,green,1.0
+f72def05a510d0d,Where are the food items located,on a plate,on a plate,1.0
+0596db289a95c00,What color is the rotini pasta,yellow,white,0.1
+0596db289a95c00,What type of food is the rotini,pasta,pasta,1.0
+0596db289a95c00,What color is the tomato-based sauce,red,red,1.0
+0596db289a95c00,Where is the sprig of parsley placed,on top of,on top of pasta,0.9
+0596db289a95c00,What color is the sprig of parsley,green,green,1.0
+24e93d74ec63682,What color is the macaroni in the Goulash Supreme,orange-brown,white,0.1
+24e93d74ec63682,What type of pasta is used in the Goulash Supreme,macaroni,macaroni,1.0
+24e93d74ec63682,How are the macaroni pieces arranged in the bowl,scattered,randomly,0.6
+24e93d74ec63682,What color are the diced tomatoes in the Goulash Supreme,red,red,1.0
+24e93d74ec63682,Where is the green sprig of parsley located,at the top,top right corner,0.6
+4fe57bd9df72e3f,How is the ground beef arranged in the bowl,scattered,crumbled,0.6
+4fe57bd9df72e3f,What type of meat is used in the dish,beef,ground beef,0.9
+4fe57bd9df72e3f,What color are the potatoes,yellow,golden,0.7
+4fe57bd9df72e3f,What color are the carrots,orange,orange,1.0
+ba01bc8f6481ce0,What color are the specks of lemon zest in the granita,yellow,yellow,1.0
+ba01bc8f6481ce0,What fruit is used to flavor the granita,lemon,lemon,1.0
+ba01bc8f6481ce0,What material is the granita served in,glass,crushed ice,0.3
+e26db2540b79be7,What fruit is used to make the granita,watermelon,watermelon,1.0
+e26db2540b79be7,What is placed on top of the granita,mint,a sprig of mint,0.7
+56f2be6ebb5a498,What color is the granola,brown,brown,1.0
+56f2be6ebb5a498,What type of food is shown in the image,granola,cereal,0.7
+56f2be6ebb5a498,What color are the cranberries in the granola,red,red,1.0
+1de8bda867af12d,What is the primary color of the granola,brown,golden brown,0.8
+1de8bda867af12d,What type of food is being described,granola,a bowl of food,0.5
+1de8bda867af12d,What color are the cranberries in the granola,red,red,1.0
+1de8bda867af12d,How are the coconut flakes distributed in the granola,scattered,scattered throughout,0.9
+1de8bda867af12d,Where are the almonds located in the granola,in the mixture,on the top,0.2
+c8325a55672f711,What is the color of the creamy sauce,yellow,white,0.1
+c8325a55672f711,What is the main ingredient in the dish,potatoes,potatoes,1.0
+c8325a55672f711,What color are the potato slices,yellow,light yellow,0.9
+c8325a55672f711,Where are the potatoes placed,in a baking dish,on top of the dish,0.5
+6469a613547241c,What color is the dish,yellow,blue,0.0
+6469a613547241c,What type of container holds the scallops,dish,a bowl,0.5
+6469a613547241c,What color are the scallops,white,white,1.0
+6469a613547241c,What is the color of the sauce surrounding the scallops,yellow,white sauce,0.1
+6469a613547241c,Where is the dish positioned in the frame,in the lower center,on the table,0.2
+8659c8bf322c959,What is the size of the ham pieces,diced,small cubes,0.7
+8659c8bf322c959,What type of seafood is in the bowl,shrimp,shrimp,1.0
+f8f3ab847fbd98e,What color are the carrot pieces,orange,orange,1.0
+f8f3ab847fbd98e,What is the main liquid in the pot,broth,broth,1.0
+f8f3ab847fbd98e,Where are the carrots and celery positioned,on the left,in the broth,0.2
+37efc4acb95a4cc,What is the food served in,bowl,spinach,0.1
+37efc4acb95a4cc,What color is the lemon wedge,lemon,yellow,0.5
+37efc4acb95a4cc,What color is the lemon wedge,yellow,yellow,1.0
+37efc4acb95a4cc,Where is the lemon wedge placed in the bowl,on the left side,on the side,0.7
+768d83ac0f75f2c,How are the chicken pieces arranged in the dish,scattered,scattered,1.0
+768d83ac0f75f2c,What color is the sauce in the gumbo,brown,brown,1.0
+768d83ac0f75f2c,What type of meat is included in the gumbo besides sausage,chicken,pork,0.0
+768d83ac0f75f2c,What type of meat is included in the gumbo besides chicken,sausage,sausage,1.0
+57fcd575d52b6f1,What color is the pita bread,beige,white,0.2
+57fcd575d52b6f1,What type of food is shown in the image,gyros,a plate of food,0.5
+57fcd575d52b6f1,What color is the gyro meat,brown,golden brown,0.7
+57fcd575d52b6f1,Where are the gyros mostly arranged in the image,on the left side,on the plate,0.3
+57fcd575d52b6f1,What color are the lettuce leaves,green,there are no lettuce leaves.,0.1
+501fae196787866,What is the texture of the panko crust,crispy,crunchy,0.7
+501fae196787866,What type of fish is shown in the image,halibut,There is no fish.,0.0
+501fae196787866,What color is the halibut,white,white,1.0
+501fae196787866,What color are the beans,green,green,1.0
+501fae196787866,Where is the crispy panko crust located,on top,on the fish,0.2
+ef1a71508ed5873,What color is the crust of the halibut,beige,golden,0.3
+ef1a71508ed5873,What type of fish is being served,Halibut,halibut,1.0
+ef1a71508ed5873,What color is the broccoli,green,green,1.0
+ef1a71508ed5873,What is the broccoli located on,on the right,the plate,0.2
+8a148819c0cb4f0,What color are the halloumi pieces after frying,golden-brown,golden brown,1.0
+8a148819c0cb4f0,What type of cheese is being fried,halloumi,not cheese,0.1
+8a148819c0cb4f0,What color is the plate,gray,white,0.1
+8a148819c0cb4f0,Where is the lemon slice positioned on the plate,on the left,on the left,1.0
+8a148819c0cb4f0,What color is the lemon slice,yellow,yellow,1.0
+d0a17cef7c0faf3,What fruit is visible on the surface of the ham,apricot,none,0.0
+d0a17cef7c0faf3,What color is the exterior of the ham,reddish-brown,brown,0.7
+d0a17cef7c0faf3,What is next to the ham in the upper right quadrant of the plate,bowl,a small bowl,0.9
+d0a17cef7c0faf3,Where is the bowl of brown sugar sauce located,in the upper right,on the plate,0.2
+5d818c429496351,What color is the ham,pink,pink,1.0
+5d818c429496351,What type of meat is shown in the image,ham,pork,0.3
+cc1e04c85b3b6fb,What color is the ham inside the sandwich,pink,pink,1.0
+cc1e04c85b3b6fb,What is the main food item in the image,sandwich,pork sandwich,0.9
+cc1e04c85b3b6fb,What color are the pickle slices,green,green,1.0
+cc1e04c85b3b6fb,Where are the food items placed,on a plate,on a plate,1.0
+cc1e04c85b3b6fb,What color are the edges of the pickle slices,green,green,1.0
+1c1452434772ef5,What is the primary color of the ham slices,pink,pink,1.0
+1c1452434772ef5,What type of meat is shown in the image,ham,fried ham,0.9
+1c1452434772ef5,What is the appearance of the edges of some ham slices,caramelized,blackened,0.3
+1c1452434772ef5,Where are the ham slices layered,layered on,on top of salad,0.6
+1c1452434772ef5,What is the ham layered on top of,lettuce,lettuce,1.0
+b397bd5d4937bfb,What is the main vegetable in the hash,potato,sweet potatoes,0.7
+b397bd5d4937bfb,What color are the cubed sweet potatoes,orange,orange,1.0
+b397bd5d4937bfb,Where are the sprigs of dill located,throughout,on top of the food,0.2
+b397bd5d4937bfb,What color is the yolk of the fried egg,yellow,yellow,1.0
+8ba0dca8f0c3725,What color is the Texas Hash,brownish,brown,0.9
+8ba0dca8f0c3725,What is the food served on,plate,a plate,1.0
+8ba0dca8f0c3725,What color is the melted cheese,yellow,yellow,1.0
+8ba0dca8f0c3725,Where are the scallions placed,sprinkled on top,on top of the food,0.5
+8ba0dca8f0c3725,What color is the plate,white,white,1.0
+7e60dd9c05f81e5,What color are the sweet potato cubes,orange,orange,1.0
+7e60dd9c05f81e5,What type of vegetable is used in the hash,potato,potatoes,1.0
+7e60dd9c05f81e5,How is the egg prepared,fried,fried,1.0
+7e60dd9c05f81e5,Where is the fried egg placed,on top of,on top of the dish,1.0
+7e60dd9c05f81e5,What is the red-colored item in front of the potatoes,bacon,ham,0.2
+bae167eccbe36fa,What food item is shown in the image,hash browns,fried cheese cakes,0.1
+bae167eccbe36fa,What color is the top of the top left hash brown,golden-brown,not visible,0.1
+bae167eccbe36fa,Are the hash browns touching each other,yes,there are no hash browns.,0.1
+bae167eccbe36fa,Where are the hash browns placed,on a plate,Not visible,0.1
+9b5b05482f16491,What color are the hash browns,golden-brown,golden brown,1.0
+9b5b05482f16491,What are the hash browns served on,plate,a plate,1.0
+9b5b05482f16491,What color is the rim of the plate,orange,orange,1.0
+9b5b05482f16491,What is sprinkled on the white creamy sauce,chives,green chives,1.0
+71f29ccc1bb79d2,What color are the chicken hearts and mushrooms,brown,brown,1.0
+71f29ccc1bb79d2,What type of meat is visible in the image,chicken,pork,0.0
+71f29ccc1bb79d2,What color are the round objects in the upper right corner,yellow,golden yellow,0.9
+71f29ccc1bb79d2,"Where are the pale yellow, round objects located in the image",in the upper right,in the background,0.2
+6af6a4433e4a0c7,What color is the top of the Cornish Game Hen,golden-brown,golden brown,1.0
+6af6a4433e4a0c7,What type of bird is shown in the image,hen,Cornish hen,0.9
+6af6a4433e4a0c7,What color are the darker grains in the rice stuffing,brown,brown,1.0
+6af6a4433e4a0c7,Where is the Cornish Game Hen positioned in the image,at the top left,center of the plate,0.2
+4e8597ee35c2dfd,What type of food is in the bowl,salad,a salad,1.0
+4e8597ee35c2dfd,What colors are present in the salad dressing,green-white,"white, green, brown",0.5
+4e8597ee35c2dfd,Where is the dressing drizzled,over the salad leaves,on the salad,0.7
+4e8597ee35c2dfd,What vegetable pieces are in the salad,tomatoes,tomatoes,1.0
+00bf2bb6e5a159a,What type of beans are clustered on top of the hummus,edamame,edamame,1.0
+00bf2bb6e5a159a,What is the base of the dish made of,hummus,pasta,0.1
+00bf2bb6e5a159a,What color are the small seeds scattered on the hummus,black,black,1.0
+00bf2bb6e5a159a,Where are the edamame beans located,on top of,in the middle,0.2
+b3642208c36c1c0,What is the color of the hummus,yellow,light brown,0.2
+b3642208c36c1c0,What is the dip in the bowl,hummus,hummus,1.0
+b3642208c36c1c0,Where are the crackers placed in relation to the hummus,submerged,on the side,0.1
+b3642208c36c1c0,What is served alongside the hummus,crackers,crackers,1.0
+b3642208c36c1c0,Where are the crackers positioned in the bowl,on the right,on the side,0.5
+1d926823e55a19f,What is the hummus served in,bowl,a bowl,1.0
+1d926823e55a19f,What color is the hummus,brownish-green,yellow,0.2
+1d926823e55a19f,Where is the bowl situated in the image,towards the top left,on a plate,0.2
+3c4a5088c3151a4,What color is the hummus,beige,off-white,0.7
+3c4a5088c3151a4,What is the name of the food in the bowl,hummus,hummus,1.0
+3c4a5088c3151a4,What color is the oil in the center of the hummus,yellow,yellow,1.0
+3c4a5088c3151a4,What is arranged around the rim of the bowl,tomatoes,sliced tomatoes,0.9
+3c4a5088c3151a4,What is dusted on the hummus,spices,cayenne pepper,0.7
+8ee85aedb5b644e,What color is the hummus,yellow-beige,yellow,0.7
+8ee85aedb5b644e,What is the hummus served in,bowl,a bowl,1.0
+8ee85aedb5b644e,What color are the carrots,orange,orange,1.0
+8ee85aedb5b644e,What is the hummus served with,carrots,carrots,1.0
+8ee85aedb5b644e,Where are the carrots placed,on the plate,on top of the dish,0.7
+3d48f6b7482aba6,What color is the jam in the jars,reddish-brown,red,0.7
+3d48f6b7482aba6,What containers are used to hold the jam,jars,glass jars,0.9
+3d48f6b7482aba6,Where are the jars positioned in the frame,in the center,to the right,0.2
+bbf959f60d3b884,What color is the nectarine jam,orange,orange,1.0
+bbf959f60d3b884,What are the jars made of,jars,glass,0.5
+bbf959f60d3b884,What material are the lids made of,glass,not shown,0.0
+bbf959f60d3b884,Where are the jars primarily located,in the center,on the counter,0.3
+bbf959f60d3b884,What color is the background,pinkish-white,pink,0.7
+f065b6f63d2d4a8,Where is the apricot jam located in the image,in the center,not present,0.0
+f065b6f63d2d4a8,Which part of the image contains the jam,bottom half,not in the image,0.1
+f065b6f63d2d4a8,What color is the apricot jam,orange,orange,1.0
+f065b6f63d2d4a8,How would you describe the color of the jam,vibrant,orange,0.3
+38ebbd7b792ff0d,What are the jars made of,glass,glass,1.0
+38ebbd7b792ff0d,What fruit is used to make the jam,papaya,orange,0.2
+38ebbd7b792ff0d,How would you describe the papaya used in the jam,fresh,orange,0.3
+38ebbd7b792ff0d,Where are the jars placed,on a white cloth,on a counter,0.3
+252b508f8033600,What color is the coffee jelly,dark brown,dark brown,1.0
+252b508f8033600,What shape are the coffee jelly pieces,cubes,square,0.5
+252b508f8033600,What color is the liquid surrounding the coffee jelly,beige,white,0.2
+252b508f8033600,How are the coffee jelly cubes distributed in the mugs,scattered,randomly,0.6
+465a36d85d1bf6d,What color is the jerky,black,dark brown,0.6
+465a36d85d1bf6d,What color is the jerky described as,dark,dark brown,0.8
+465a36d85d1bf6d,How is the jerky arranged in the dish,stacked,in a pile,0.7
+465a36d85d1bf6d,What is the jerky placed in,dish,a white dish,0.9
+465a36d85d1bf6d,Where is the jerky pile located in the frame,in the center,in a white dish,0.3
+02649a5833f44cd,What is the primary color of the beef jerky,brown,brown,1.0
+02649a5833f44cd,What type of food is shown in the image,beef jerky,a plate of food,0.2
+02649a5833f44cd,How are the beef jerky pieces arranged in the image,scattered,not visible,0.2
+02649a5833f44cd,What color variation is seen in some of the beef jerky pieces,reddish-brown,light brown,0.6
+02649a5833f44cd,Where are the darkest pieces of beef jerky located,around the edges,on the bottom,0.2
+f4559d130566a05,What color are the beef jerky pieces,brown,dark brown,0.9
+f4559d130566a05,What type of food is shown in the image,beef jerky,beef jerky,1.0
+f4559d130566a05,How are the beef jerky pieces arranged,overlapping,in a pile,0.3
+580723682f5811f,What color is the beef jerky,dark brown,dark brown,1.0
+580723682f5811f,Where is the beef jerky located,located inside,on the top,0.1
+580723682f5811f,What is the beef jerky stored in,jar,a jar,1.0
+580723682f5811f,What is the jar doing on the table,sitting,holding food,0.1
+580723682f5811f,What is the table made of,wooden,wood,0.9
+fa7d133f1e16b4d,What color is the filling of the pie,yellow-tan,white,0.2
+fa7d133f1e16b4d,Where is the pie slice placed,plate,on a plate,0.7
+fa7d133f1e16b4d,What color is the plate,white,white with blue accents,0.7
+fa7d133f1e16b4d,How does the surface of the pie filling appear,glazed,melted cheese,0.2
+331b51dc156ef8d,What is the name of the sandwich in the image,Sloppy Joe,a sloppy joe,1.0
+331b51dc156ef8d,What color is the meat filling in the Sloppy Joe,reddish-brown,brown,0.7
+331b51dc156ef8d,What color are the corn tortilla chips,yellow,yellow,1.0
+331b51dc156ef8d,Where is the bottom bun located,on the bottom,underneath the top bun,0.3
+a82943b9e36974d,What color is the top of the bun,golden-brown,light brown,0.7
+a82943b9e36974d,What type of meat is in the filling,chicken,shredded chicken,0.9
+a82943b9e36974d,What color is the chicken filling,orange,orange,1.0
+a82943b9e36974d,Where are the jalapeño slices placed,on top,on top of sandwich,0.7
+a82943b9e36974d,What is clustered to the right of the Sloppy Joes,chips,potato chips,1.0
+eb3061e9a1207ac,What color is the top bun,golden-brown,light brown,0.7
+eb3061e9a1207ac,What is covering the Sloppy Joe filling,bun,bun,1.0
+eb3061e9a1207ac,What color is the plate,gray,off-white,0.2
+eb3061e9a1207ac,Where is the filling spilling onto,on a plate,the plate,0.7
+df79f56de740b5c,What color is the bun,tan,white,0.1
+df79f56de740b5c,Is the food served on a bun,bun,"yes, on a bun",0.2
+df79f56de740b5c,What color are the kidney beans,red,purple,0.2
+df79f56de740b5c,Where are the sesame seeds located,on top,on the bun,0.4
+df79f56de740b5c,Are there diced carrots in the filling,diced,"yes, diced carrots",0.6
+1b262ba9f1f16d2,What color is the sesame seed juice,beige,not present,0.0
+1b262ba9f1f16d2,What type of drink is shown in the image,juice,mocha coffee,0.1
+1b262ba9f1f16d2,Where is the sesame seed juice present,on the table,there is no juice,0.1
+1b262ba9f1f16d2,What is the sesame seed juice served in,glass,milk,0.1
+1b262ba9f1f16d2,Where is the sesame seed juice located,in a glass,There is no sesame seed juice.,0.1
+199c11f14158f8f,How would you describe the color of the ginger juice at the bottom,vibrant,orange juice,0.2
+199c11f14158f8f,What is the ginger juice served in,glass,orange juice,0.1
+199c11f14158f8f,What color is the lemon twist,yellow,yellow,1.0
+27446535c25c7fc,What fruit is used to make the stars,watermelon,watermelon,1.0
+27446535c25c7fc,What color are the watermelon stars,pink,pink,1.0
+27446535c25c7fc,What fruit is strung together on the skewers,blueberries,blueberries,1.0
+27446535c25c7fc,What color is the surface the kabobs are placed on,green surface,green surface,1.0
+27446535c25c7fc,What holiday do these kabobs represent,4th of July,not applicable,0.0
+8046eb3f2ad1d80,What color is the soup broth,golden-brown,brown,0.7
+8046eb3f2ad1d80,How is the kale distributed in the soup,dispersed,chopped,0.3
+8046eb3f2ad1d80,What type of vegetable is deep green and present in the soup,kale,kale,1.0
+8046eb3f2ad1d80,What is the soup served in,bowl,carbonara,0.1
+72d522544722a3f,What color are most of the kale chips,green,green,1.0
+72d522544722a3f,What type of food is shown in the image,chips,a bowl of kale,0.1
+72d522544722a3f,What is holding the kale chips,bowl,a bowl,1.0
+72d522544722a3f,Where is the bowl placed,on a wooden surface,on a table,0.7
+72d522544722a3f,What color are the edges of some of the kale chips,brownish,orange,0.3
+c92064eed9436af,What color is the kale in the dish,dark green,green,0.7
+c92064eed9436af,What type of vegetable is dark green and cooked in the dish,kale,kale,1.0
+c92064eed9436af,What color are the peppers in the dish,red,red,1.0
+c92064eed9436af,Where is the wooden spoon located in the pan,on top of,in the pan,0.2
+7a5730a599a537b,What is the overall appearance of the kebabs,colorful,brown and toasted,0.2
+7a5730a599a537b,What type of dish is shown in the image,kebabs,Italian food,0.1
+7a5730a599a537b,What color are the beef pieces,red,brown,0.2
+7a5730a599a537b,Where are the kebabs placed,on a plate,on a plate,1.0
+7a5730a599a537b,What fruit is included in the kebabs,pineapple,pineapple,1.0
+7c708793b814120,What color is the plate,white,white,1.0
+7c708793b814120,What vegetable is shown in the image,kohlrabi,Brussels sprouts,0.4
+7c708793b814120,How are the kohlrabi pieces placed on the plate,arranged,on top of each other,0.3
+7c708793b814120,What color are the roasted edges of the kohlrabi,brown,burnt,0.3
+7c708793b814120,Where are the kohlrabi pieces arranged,on a plate,on a plate,1.0
+dfaa2fddbcc3ce6,What color is the serving dish,yellow,gray,0.1
+dfaa2fddbcc3ce6,What type of food is the kugel made of,noodles,noodles,1.0
+dfaa2fddbcc3ce6,What color are the noodles in the kugel,yellow,egg noodles,0.1
+dfaa2fddbcc3ce6,Where are the flecks of green parsley scattered,on the top,on the pasta,0.2
+0d03349d96e42ba,What is the dominant color of the Kugel,golden-yellow,golden brown,0.8
+0d03349d96e42ba,What process is the Kugel undergoing in the dish,baking,baking,1.0
+0d03349d96e42ba,What is sprinkled on the surface of the Kugel,sprinkling,cheese,0.1
+0d03349d96e42ba,What is the main ingredient visible throughout the Kugel,noodles,egg noodles,0.9
+0d03349d96e42ba,What color are the darker elements interspersed throughout the Kugel,brown,brown,1.0
+e2f49a9c9cea5ea,What color is the lamb,brown,brown,1.0
+e2f49a9c9cea5ea,What type of meat is centrally located in the image,lamb,pork,0.1
+e2f49a9c9cea5ea,Where is the lamb nestled,in the center,not visible,0.2
+ef59e3403eff7c8,What is the color of the broth in the stew,reddish-brown,red,0.7
+ef59e3403eff7c8,What type of dish is the lamb being cooked in,stew,there is no lamb.,0.1
+ef59e3403eff7c8,What does the broth do to the spaces between the solid ingredients,fills,moisten,0.3
+ef59e3403eff7c8,What is the color of the bowl containing the stew,white,white,1.0
+ef59e3403eff7c8,Where are the lamb pieces located in the stew,throughout the stew,in the stew,0.7
+cba8c4178e2f10e,What color is the plate the lamb shanks are served on,white,white,1.0
+cba8c4178e2f10e,What type of meat is featured in the dish,lamb,shrimp,0.1
+cba8c4178e2f10e,What color is the lamb shank,brown,brown,1.0
+cba8c4178e2f10e,Where are the diced carrots located,scattered around,on the plate,0.2
+d1f69026ce3c901,What type of meat is shown in the image,lamb,pork,0.1
+d1f69026ce3c901,What does the color of the lamb shank exhibit,gradient,a golden brown,0.2
+d1f69026ce3c901,What color is the sauce surrounding the lamb shanks,brown,yellowish brown,0.7
+d1f69026ce3c901,What are the translucent pieces in the sauce,onions,onions,1.0
+d1f69026ce3c901,How are the onions described in the image,cooked,sliced,0.3
+cbd2b9ac8a823d3,What color is the bowl holding the lasagna,orange,not present,0.0
+cbd2b9ac8a823d3,What type of dish is being served in the bowl,lasagna,fudge brownies,0.1
+cbd2b9ac8a823d3,What is the texture of the sauce on the lasagna,creamy,cheesy sauce,0.3
+cbd2b9ac8a823d3,What color is the sauce covering the pasta,white,white sauce,0.6
+cbd2b9ac8a823d3,Where are the specks of black pepper located,on the surface,on the right,0.2
+f5fb0df40b092f8,What color is the top layer of the lasagna,golden-brown,golden brown,1.0
+f5fb0df40b092f8,What type of dish is shown in the image,lasagna,lasagna,1.0
+f5fb0df40b092f8,What color is the stovetop,black,black,1.0
+f5fb0df40b092f8,Where is the lasagna placed,on a black stovetop,on a baking tray,0.4
+f5fb0df40b092f8,What color are the visible interior layers of the lasagna,green,white,0.0
+e3a012097af2a98,What color is the lettuce,green,green,1.0
+e3a012097af2a98,What type of dish is being described,lasagna,a salad,0.1
+e3a012097af2a98,What color are the diced tomatoes,red,red,1.0
+e3a012097af2a98,What color is the melted cheddar cheese,yellow,yellow,1.0
+e3a012097af2a98,Where is the lasagna resting,on top of,not on the plate,0.1
+114e30b0121f8ac,What fruit is used to make the lassi,banana,not visible,0.1
+114e30b0121f8ac,What color is the straw,yellow,yellow,1.0
+114e30b0121f8ac,Where is the straw placed in the glass,on the left,inside the glass,0.2
+114e30b0121f8ac,What color is the mint garnish,green,green,1.0
+2836bea848092dc,What is the color of the glass,clear,clear,1.0
+2836bea848092dc,What color is the spiced mango lassi,yellow,orange,0.2
+2836bea848092dc,Where is the straw inserted,into the lassi,there is no straw,0.1
+2836bea848092dc,What color are the leaves in the backdrop,green,green,1.0
+44bbcb71225e21a,What is the color of the glass mugs,transparent,not visible,0.6
+44bbcb71225e21a,What color is the tray,white,white,1.0
+44bbcb71225e21a,What is the primary color of the Eggnog Lattes,tan,brown,0.3
+44bbcb71225e21a,Where are the mugs situated,on a plate,on a plate,1.0
+9eef702c19b23dd,What color is the foam on the latte,white,white,1.0
+9eef702c19b23dd,What color is the latte,tan,brown,0.5
+9eef702c19b23dd,Where is the shaved white chocolate placed,on top of,on top of the drink,0.9
+9eef702c19b23dd,What fruit is placed to the left of the plate,strawberry,strawberry,1.0
+c5cc39a0e3818c9,What color is the cup,white,white with red design,0.7
+c5cc39a0e3818c9,What type of drink is in the cup,latte,mocha,0.5
+c5cc39a0e3818c9,What does the latte have on top of the foam,shaved chocolate,cinnamon,0.1
+c5cc39a0e3818c9,What color is the bottom layer of the latte,brown,light brown,0.9
+c5cc39a0e3818c9,Where is the dusting of brown spice located,on top of,on top of the mocha,0.9
+266ba9144fa1bca,What color is the pie filling,yellow,white,0.1
+266ba9144fa1bca,Where does the pie filling sit,in the center,on top of the crust,0.2
+266ba9144fa1bca,What is the dessert described in the image,pie,lemon pie,0.7
+266ba9144fa1bca,What shape is the pie slice,triangular,triangle,0.9
+266ba9144fa1bca,Where is the whipped cream located,on the top,on top of pie,0.5
+aacd533122666f9,What fruit is the cream made from,lemon,eggs,0.0
+aacd533122666f9,What color is the lemon cream,yellow,yellow,1.0
+aacd533122666f9,What utensil is partially submerged in the cream,spoon,a spoon,1.0
+db621f115a77b33,What color is the lemon curd in the jar closer to the viewer,yellow,yellow,1.0
+db621f115a77b33,What containers are used to hold the lemon curd,jars,glass jars,0.9
+db621f115a77b33,What is the name of the food in the jars,lemon curd,melted butter,0.1
+db621f115a77b33,Where is the spoon placed,on the tray,in the jar,0.2
+87435fc8c3e3be1,What color are the cookies,tan,not visible,0.1
+87435fc8c3e3be1,What type of food is shown in the image,cookies,pasta and cookies,0.5

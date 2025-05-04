@@ -1,0 +1,3700 @@
+answer,predicted_answer,bleu_score
+golden-brown,golden brown,0.0
+enchiladas,two pieces of fried pork,0.0
+white,white,1.0
+on the left side,on the left side,1.0
+tomatoes,tomatoes,1.0
+white,white,1.0
+melted,melted,1.0
+covering,melted,0.0
+green,green,1.0
+across the bake,scattered around the surface,0.061033220311973134
+golden-brown,cooked chicken breast is white,0.0
+chicken,chicken,1.0
+yellow,yellow,1.0
+on a plate,in the bottom left of the image,0.0
+green,green,1.0
+cilantro,cilantro,1.0
+yellow,yellow,1.0
+chicken,chicken,1.0
+on a sheet pan,on a baking sheet,0.18616487055295167
+chicken,pork,0.0
+green,orange and green,0.07249749990681824
+atop the fajita filling,on top of the tacos,0.0456496931223525
+golden-brown,white,0.0
+Mahi Mahi,there is no fish in the fajitas,0.0
+red,"red, yellow, and orange",0.0
+throughout the center,on top of the peppers and onions,0.03235934848975789
+white,white,1.0
+steak,beef,0.0
+brownish-red,brown,0.0
+on the plate,on a plate,0.08621454270909737
+mushrooms,mushrooms,1.0
+beige,white,0.0
+golden-brown,golden-brown,1.0
+falafels,"mocha coffee with lemon, fried pork, and a side of coleslaw.",0.0
+yellow,yellow,1.0
+brown,light brown,0.06754436142034707
+mushrooms,mushrooms,1.0
+green,green,1.0
+on top of,on top of the mushroom mixture,0.23376641384792204
+yes,"no, the dish contains meat",0.0
+farro,farro,1.0
+orange,orange,1.0
+throughout,scattered throughout,0.06754436142034707
+zucchini,zucchini,1.0
+glass,glass,1.0
+yellow,green,0.0
+contained within,on the plate,0.0
+sealed,red and white gingham fabric tied with a white ribbon,0.0
+red,red and white gingham,0.061033220311973134
+feta fingers,fried breaded mozzarella sticks,0.0
+golden,white,0.0
+blue,blue and yellow,0.07249749990681824
+salad,"a bowl of chicken salad with lettuce, red peppers, and shredded cabbage",0.020044994979069072
+yellow,yellow,1.0
+white,white,1.0
+fills,curl,0.0
+fettuccine,spaghetti,0.0
+creamy,thick,0.0
+cheese,parmesan cheese,0.06754436142034707
+on top of,on top of the pasta,0.29950981436291046
+white,white,1.0
+located throughout,underneath the toppings,0.0
+chicken,chicken,1.0
+asparagus,brown,0.0
+purple,purple,1.0
+figs,there are no fruits in the image,0.0
+on top of,on top of the dish,0.29950981436291046
+creamy,crumbly,0.0
+scattered,crumbled,0.0
+pinkish-red,pink,0.0
+filet,pork,0.0
+brown,golden-brown,0.0
+on a plate,on the plate,0.08621454270909737
+seared,well-cooked,0.0
+blue,blue,1.0
+fish,fish and vegetables,0.07249749990681824
+dill,dill,1.0
+white,white,1.0
+Lemony,herb-seasoned,0.0
+Fish,a slice of salmon and a piece of coleslaw,0.0
+Orange,orange,0.0
+on plate,on the plate,0.08621454270909737
+Green,green,0.0
+yellow,white with yellow accents,0.061033220311973134
+fish,fish,1.0
+golden-brown,red,0.0
+on a plate,on a plate,0.5757197301274735
+green,green,1.0
+white,white,1.0
+fish,rice,0.0
+brown,brown,1.0
+on top of,on the fish,0.07249749990681824
+green,green,1.0
+drink,"a drink made of coffee, milk, and sugar, also known as a mocha",0.018724372764461875
+white,white,1.0
+reddish-orange,red.,0.0
+on top of,on the foam of the mocha coffee,0.03848196746087264
+shiny,smooth,0.0
+flan,flan,1.0
+white,white,1.0
+caramel-colored,caramelized,0.0
+chicken,chicken,1.0
+drizzled,drizzled,1.0
+purple,purple,1.0
+yellow,yellow,1.0
+diced,diced,1.0
+pineapple,pineapple,1.0
+moist,crumbly,0.0
+throughout the dish,randomly,0.0
+glass,a bowl,0.0
+filling,full,0.0
+cranberries,cranberries,1.0
+grapes,grapes,1.0
+to the brim,a glass bowl,0.0
+yellow,light yellow,0.06754436142034707
+focaccia,focaccia,1.0
+green,green,1.0
+wooden,wood,0.0
+yellow,yellow,1.0
+bowl,a bowl,0.06754436142034707
+toasted,toasted,1.0
+golden-brown,golden brown,0.0
+down from,the bread,0.0
+brown,golden brown,0.06754436142034707
+pretzel,caramel corn,0.0
+brown,brown,1.0
+dessert,mocha brownies with caramel corn and brussels sprouts,0.0
+rectangular,square,0.0
+brown,light beige,0.0
+almonds,almonds,1.0
+scattered,They are sliced and sprinkled on top,0.0
+white,white,1.0
+casserole,a casserole dish,0.07249749990681824
+scattered,scattered,1.0
+reddish-brown,red sauce,0.0
+on top,underneath the toppings,0.0
+black,black,1.0
+yellow,yellow,1.0
+scattered,scattered,1.0
+tomatoes,tomatoes,1.0
+in a black pan,on top of the eggs,0.0
+yellow,yellow,1.0
+broccoli,broccoli,1.0
+light,yellow,0.0
+cheddar,cheese,0.0
+brown,brown,1.0
+clustered,piled on top of each other,0.0
+plate,a plate,0.06754436142034707
+yellow,yellow,1.0
+on the left,on the left side of the plate,0.19308506685901675
+golden-brown,golden-brown,1.0
+fritter,latkes,0.0
+crispy,crispy,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+stack,stacked,0.0
+brown,brown,1.0
+on a plate,on a plate,0.5757197301274735
+swirled,swirled,1.0
+pink,pink,1.0
+cupcake,a cupcake,0.06754436142034707
+cherry,"there is no fruit in the frosting, there is a red sauce which is likely a red pepper sauce",0.0
+on top of,on top of the cupcake,0.29950981436291046
+bowls,bowls,1.0
+coats,cover the cake,0.0
+cake,Chocolate cake,0.06754436142034707
+brown,chocolate brown,0.06754436142034707
+on the plate,on a plate,0.08621454270909737
+blue,white,0.0
+fries,loaded fries,0.06754436142034707
+orange,yellow,0.0
+on top of,on the fries,0.07249749990681824
+yellow,not visible,0.0
+casserole,pasta,0.0
+white,white,1.0
+fries,pork,0.0
+golden-brown,orange,0.0
+orange,The other fillings are not visible.,0.0
+on top of,on the pizza,0.07249749990681824
+yellow,golden brown,0.0
+potato,potatoes,0.0
+reddish-brown,red,0.0
+on a plate,"there are no fries on the plate, there are only potato slices",0.020044994979069072
+yellow,orange,0.0
+fries,fries,1.0
+charred,burnt,0.0
+in the center,scattered,0.0
+blue,blue,1.0
+white,white,1.0
+fudge,fudge,1.0
+red,red,1.0
+walnuts,walnuts,1.0
+brown,light brown,0.06754436142034707
+fudge,caramel fudge,0.06754436142034707
+on the left,on the left side of the plate,0.19308506685901675
+sheen,"a shiny, smooth, light brown appearance",0.0
+golden-brown,golden-brown,1.0
+red,red and yellow,0.07249749990681824
+atop the galette,in the top left corner,0.0456496931223525
+green,green,1.0
+golden-brown,brown,0.0
+pastry,galette des rois,0.0
+white,white,1.0
+sprinkled,sprinkled,1.0
+strawberry,strawberries,0.0
+golden-brown,golden brown,0.0
+blueberries,blueberries,1.0
+towards the top,on top of the blueberries,0.05428693985879238
+tan,light brown,0.0
+garlic,garlic,1.0
+yellow,yellow,1.0
+silver,silver,1.0
+green,green,1.0
+dessert,jello,0.0
+gelatin,jiggly,0.0
+creamy,green,0.0
+golden-brown,white,0.0
+bowl,with rice,0.0
+sliced,sliced,1.0
+green,green,1.0
+on top of,on top,0.13427896671164932
+ginger,pepper,0.0
+chicken,chicken,1.0
+white,white,1.0
+on a plate,on a table,0.21177974141341938
+red,red,1.0
+translucent,golden,0.0
+jar,"none, it is a beverage",0.0
+amber,brown,0.0
+in the center,in the center,0.5757197301274735
+yellow,golden,0.0
+gingerbread,pastries,0.0
+chocolate,caramel,0.0
+beige,off-white with a brown rim,0.0
+brown,brown,1.0
+yes,yes,1.0
+white,white,1.0
+flower,flower,1.0
+green,red and green,0.07249749990681824
+on top,in the background,0.0
+gingerbread cookies,ginger snaps,0.0
+brown,brown,1.0
+on a plate,on a plate,0.5757197301274735
+beige,white,0.0
+cookies,cookies,1.0
+stacked,stacked,1.0
+on top of,on top,0.13427896671164932
+white,white,1.0
+yellow,creamy yellow,0.06754436142034707
+bacon,bacon,1.0
+on top,on top of the dish,0.12121093525642128
+gnocchi,gnocchi,1.0
+shrimp,shrimp,1.0
+green,green,1.0
+brownish-red,brown,0.0
+gnocchi,gnocchi,1.0
+green,green,1.0
+on a plate,on a table,0.21177974141341938
+yellow,light brown,0.0
+pasta,pasta,1.0
+red,red,1.0
+on top of,on top of the pasta,0.29950981436291046
+green,green,1.0
+orange-brown,white,0.0
+macaroni,macaroni,1.0
+scattered,piled,0.0
+red,red,1.0
+at the top,in the back right corner of the dish,0.028599617161713803
+scattered,scattered,1.0
+beef,ground beef,0.06754436142034707
+yellow,yellow,1.0
+orange,orange,1.0
+yellow,yellow,1.0
+lemon,lemon,1.0
+glass,a glass,0.06754436142034707
+watermelon,"none, the granita appears to be made from a red liquid, possibly a fruit juice, but there is no fruit in the image",0.0
+mint,mint,1.0
+brown,golden brown,0.06754436142034707
+granola,Granola,0.0
+red,red,1.0
+brown,light brown,0.06754436142034707
+granola,granola,1.0
+red,red,1.0
+scattered,scattered,1.0
+in the mixture,on the left,0.07249749990681824
+yellow,cream-colored,0.0
+potatoes,potatoes,1.0
+yellow,golden brown,0.0
+in a baking dish,on top of the dish,0.0456496931223525
+yellow,blue,0.0
+dish,a dish,0.06754436142034707
+white,white,1.0
+yellow,white,0.0
+in the lower center,in the bottom half of the image,0.081939171811711
+diced,small,0.0
+shrimp,shrimp,1.0
+orange,orange,1.0
+broth,broth,1.0
+on the left,in the broth,0.07249749990681824
+bowl,a bowl,0.06754436142034707
+lemon,yellow,0.0
+yellow,yellow,1.0
+on the left side,on the left,0.41252121275142684
+scattered,scattered,1.0
+brown,brown,1.0
+chicken,chicken,1.0
+sausage,sausage,1.0
+beige,white,0.0
+gyros,pita stuffed with salad,0.0
+brown,brown,1.0
+on the left side,on the left side,1.0
+green,green,1.0
+crispy,crumbly,0.0
+halibut,"there is no fish in the image, there is a piece of cooked fish, but it is not identified",0.0
+white,white,1.0
+green,green,1.0
+on top,on the fish,0.07249749990681824
+beige,golden-brown,0.0
+Halibut,halibut,0.0
+green,green,1.0
+on the right,the plate,0.04096772609215166
+golden-brown,golden brown,0.0
+halloumi,haloumi,0.0
+gray,grey,0.0
+on the left,left side,0.04096772609215166
+yellow,yellow,1.0
+apricot,there is no fruit visible on the surface of the ham.,0.0
+reddish-brown,brown,0.0
+bowl,sauce,0.0
+in the upper right,in the top right of the image,0.09068059995923879
+pink,pink,1.0
+ham,ham,1.0
+pink,pink,1.0
+sandwich,pizza,0.0
+green,green,1.0
+on a plate,on a plate,0.5757197301274735
+green,green,1.0
+pink,pink,1.0
+ham,pork,0.0
+caramelized,charred,0.0
+layered on,on top of the salad,0.0456496931223525
+lettuce,lettuce,1.0
+potato,sweet potato,0.06754436142034707
+orange,orange,1.0
+throughout,sprigs of dill are scattered throughout the plate.,0.028599617161713803
+yellow,yellow,1.0
+brownish,brown,0.0
+plate,a plate,0.06754436142034707
+yellow,yellow and orange,0.07249749990681824
+sprinkled on top,scattered on top,0.21177974141341938
+white,white,1.0
+orange,orange,1.0
+potato,potatoes,0.0
+fried,fried,1.0
+on top of,on top of the dish,0.29950981436291046
+bacon,bacon,1.0
+hash browns,"fried cheese, coleslaw, and mocha coffee.",0.0
+golden-brown,golden brown,0.0
+yes,"No, they are not.",0.0
+on a plate,They are not visible in this image.,0.0
+golden-brown,golden-brown,1.0
+plate,a plate,0.06754436142034707
+orange,orange,1.0
+chives,green chives,0.06754436142034707
+brown,brown,1.0
+chicken,pork,0.0
+yellow,yellow,1.0
+in the upper right,"on the right side of the image, behind the dish",0.027895820162122397
+golden-brown,golden-brown,1.0
+hen,"There is no bird shown in the image, but there is a cooked, whole chicken.",0.0
+brown,brown,1.0
+at the top left,in the top center of the image,0.081939171811711
+salad,salad,1.0
+green-white,green and white,0.0
+over the salad leaves,on top of the salad,0.12121093525642128
+tomatoes,cherry tomatoes and brussels sprouts,0.0456496931223525
+edamame,edamame,1.0
+hummus,pasta,0.0
+black,black,1.0
+on top of,on top of the dish,0.29950981436291046
+yellow,beige,0.0
+hummus,"a creamy white sauce, possibly a variation of hummus or a butter sauce",0.018724372764461875
+submerged,on the right,0.0
+crackers,crackers,1.0
+on the right,on the right side,0.43146827293898643
+bowl,a bowl,0.06754436142034707
+brownish-green,yellow-orange,0.0
+towards the top left,in the middle,0.05194672862155564
+beige,off-white,0.0
+hummus,Hummus,0.0
+yellow,yellow,1.0
+tomatoes,slices of tomato,0.0
+spices,cayenne pepper,0.0
+yellow-beige,yellowish-beige,0.0
+bowl,a bowl,0.06754436142034707
+orange,orange,1.0
+carrots,carrots,1.0
+on the plate,on the plate,0.5757197301274735
+reddish-brown,red,0.0
+jars,jars,1.0
+in the center,in a row,0.07249749990681824
+orange,orange,1.0
+jars,glass,0.0
+glass,metal,0.0
+in the center,on the right,0.07249749990681824
+pinkish-white,white,0.0
+in the center,there is no apricot jam in the image.,0.07122722710132624
+bottom half,The mason jar contains the jam.,0.0
+orange,orange,1.0
+vibrant,orange,0.0
+glass,glass,1.0
+papaya,pineapple,0.0
+fresh,orange,0.0
+on a white cloth,on the counter,0.05194672862155564
+dark brown,dark brown,0.2213885886251307
+cubes,square,0.0
+beige,cream-colored,0.0
+scattered,they are scattered throughout the coffee,0.03759340464156993
+black,dark brown,0.0
+dark,dark brown,0.06754436142034707
+stacked,stacked,1.0
+dish,a white dish,0.07249749990681824
+in the center,in the center,0.5757197301274735
+brown,dark brown,0.06754436142034707
+beef jerky,"The food in the image appears to be a plate of food that is made up of meat and vegetables. The meat is dark brown and appears to be cooked, possibly grilled or fried. There are also some vegetables visible, including what looks like Brussels sprouts and onions. The dish is served on a plate, and it",0.0
+scattered,in a pile,0.0
+reddish-brown,brown,0.0
+around the edges,in the back,0.07249749990681824
+brown,dark brown,0.06754436142034707
+beef jerky,Beef jerky,0.06754436142034707
+overlapping,random,0.0
+dark brown,brown,0.36787944117144233
+located inside,in the tin,0.0
+jar,a jar,0.06754436142034707
+sitting,holding the bacon,0.0
+wooden,wood,0.0
+yellow-tan,tan,0.0
+plate,on a plate,0.07249749990681824
+white,white with a black design,0.0456496931223525
+glazed,shiny,0.0
+Sloppy Joe,sloppy joe,0.0
+reddish-brown,red-brown,0.0
+yellow,yellow,1.0
+on the bottom,under the toppings,0.07249749990681824
+golden-brown,golden-brown,1.0
+chicken,chicken,1.0
+orange,orange,1.0
+on top,on the sandwich,0.07249749990681824
+chips,chips,1.0
+golden-brown,light brown,0.0
+bun,a bun,0.06754436142034707
+gray,white,0.0
+on a plate,the plate,0.04096772609215166
+tan,white,0.0
+bun,yes,0.0
+red,red,1.0
+on top,on top of the bun,0.12121093525642128
+diced,Yes.,0.0
+beige,"there is no sesame seed juice, however, the sesame seeds are tan.",0.0
+juice,iced coffee,0.0
+on the table,There is no sesame seed juice present. There are sesame seeds on the table.,0.041263216881455095
+glass,"there is no sesame seed juice, however, sesame seeds are used as a garnish for the dish.",0.0
+in a glass,"there is no sesame seed juice, there are sesame seeds on the table next to the glass",0.014936192853457254
+vibrant,orange,0.0
+glass,a glass,0.06754436142034707
+yellow,yellow,1.0
+watermelon,watermelon,1.0
+pink,red,0.0
+blueberries,blueberries,1.0
+green surface,green,0.36787944117144233
+4th of July,The kabobs represent the 4th of July.,0.081939171811711
+golden-brown,golden brown,0.0
+dispersed,chopped,0.0
+kale,kale,1.0
+bowl,a bowl,0.06754436142034707
+green,green,1.0
+chips,A bowl of kale salad.,0.0
+bowl,the bowl,0.06754436142034707
+on a wooden surface,on a wooden table,0.43146827293898643
+brownish,burnt,0.0
+dark green,dark green,0.2213885886251307
+kale,spinach,0.0
+red,red,1.0
+on top of,in the pan,0.0
+colorful,The kebabs are golden brown with a crispy appearance.,0.0
+kebabs,shish kabobs,0.0
+red,reddish-brown,0.0
+on a plate,on a plate,0.5757197301274735
+pineapple,pineapple,1.0
+white,white,1.0
+kohlrabi,brussels sprouts,0.0
+arranged,overlapping,0.0
+brown,dark brown,0.06754436142034707
+on a plate,on a plate,0.5757197301274735
+yellow,gray,0.0
+noodles,noodles,1.0
+yellow,yellow,1.0
+on the top,on top of the food,0.06007837481758424
+golden-yellow,beige,0.0
+baking,baking,1.0
+sprinkling,cinnamon,0.0
+noodles,egg noodles,0.06754436142034707
+brown,dark brown,0.06754436142034707
+brown,"It is not lamb, it is a pork roast. The color is golden-brown.",0.0
+lamb,a piece of meat,0.0
+in the center,on the plate,0.07249749990681824
+reddish-brown,red,0.0
+stew,stew,1.0
+fills,it moistens them,0.0
+white,white,1.0
+throughout the stew,in the stew,0.21177974141341938
+white,white,1.0
+lamb,pork,0.0
+brown,brown,1.0
+scattered around,under the meat,0.0
+lamb,pork,0.0
+gradient,a charred appearance,0.0
+brown,golden brown,0.06754436142034707
+onions,onions,1.0
+cooked,diced,0.0
+orange,red,0.0
+lasagna,Lasagna.,0.0
+creamy,creamy,1.0
+white,white,1.0
+on the surface,on top of the mocha coffee,0.044706344276931285
+golden-brown,golden brown,0.0
+lasagna,lasagna,1.0
+black,black,1.0
+on a black stovetop,on a baking sheet,0.16821895003341453
+green,white,0.0
+green,green,1.0
+lasagna,A taco salad,0.0
+red,red,1.0
+yellow,yellow,1.0
+on top of,it is not on the plate,0.03759340464156993
+banana,mango,0.0
+yellow,yellow,1.0
+on the left,on the left side,0.43146827293898643
+green,green,1.0
+clear,clear,1.0
+yellow,yellow-orange,0.0
+into the lassi,in the drink,0.07249749990681824
+green,green,1.0
+transparent,clear,0.0
+white,white,1.0
+tan,white and brown,0.0
+on a plate,on a white plate,0.18616487055295167
+white,white,1.0
+tan,brown,0.0
+on top of,on top of the whipped cream,0.23376641384792204
+strawberry,strawberry,1.0
+white,white with red accents.,0.061033220311973134
+latte,mocha coffee,0.0
+shaved chocolate,cinnamon,0.0
+brown,coffee,0.0
+on top of,on top of the coffee,0.29950981436291046
+yellow,white,0.0
+in the center,in the crust,0.21177974141341938
+pie,lemon pie,0.06754436142034707
+triangular,triangular,1.0
+on the top,on top of the pie,0.06007837481758424
+lemon,"there is no cream, however, the dish is likely to be made with eggs and parmesan cheese.",0.0
+yellow,yellow,1.0
+spoon,a spoon,0.06754436142034707
+yellow,yellow,1.0
+jars,jars,1.0
+lemon curd,caramel corn,0.0
+on the tray,in the jar of mocha coffee,0.03759340464156993
+tan,light brown,0.0
+cookies,pizza,0.0
+on a sheet,on the baking sheet,0.07258113984652705
+pink,pink,1.0
+strawberry,lemon,0.0
+yellow,yellow,1.0
+on the rim,on the side of the drink,0.09717716588732002
+Lemonade,iced coffee,0.0
+Lemonade,mocha coffee,0.0
+yellow,yellow,1.0
+brown,light brown,0.06754436142034707
+brown,brown,1.0
+lentils,soup,0.0
+visible,yes,0.0
+light brown,brown,0.36787944117144233
+dispersed,in the sauce,0.0
+yellowish-orange,orange,0.0
+lentils,rice,0.0
+dispersed,scattered,0.0
+green,green,1.0
+dispersed,left side,0.0
+red,red,1.0
+green,green,1.0
+orange-brown,orange,0.0
+on the left,left side of the plate,0.05428693985879238
+to the right,above,0.0
+grain,couscous,0.0
+translucent,clear,0.0
+glass,glass,1.0
+whitish-yellow,clear,0.0
+on the rim,behind the mug,0.07249749990681824
+lime,There is no fruit on the rim of the glass. There is a lemon wedge on the side of the glass.,0.0
+yellow,white,0.0
+linguine,linguine,1.0
+green,green,1.0
+scattered,Scattered,0.0
+beige,pale yellow,0.0
+pasta,pasta,1.0
+brown,dark brown,0.06754436142034707
+green,green,1.0
+on top of,on top of the pasta,0.29950981436291046
+white,white,1.0
+golden-brown,golden-brown,1.0
+on a plate,on a plate,0.5757197301274735
+blueberries,blueberries,1.0
+wooden,wood,0.0
+cheese,a biscuit,0.0
+yellow,white,0.0
+on the left,to the left,0.21177974141341938
+yes,"No, the rolls are not vegan, as they contain butter and cheese.",0.0
+white,white,1.0
+in the center,side by side,0.0
+golden,golden-brown,0.0
+overlapping,they are overlapping,0.07249749990681824
+reddish-brown,golden brown,0.0
+reddish-brown,dark brown,0.0
+on the right side,on the plate,0.15174681566793558
+bowl,a bowl,0.06754436142034707
+yellow,yellow,1.0
+covering,binding,0.0
+vibrant,appealing,0.0
+skillet,a pan,0.0
+browned,brown,0.0
+yellow,yellow,1.0
+on top of,on top of the cheese,0.29950981436291046
+green,green,1.0
+in the center,in the middle of the plate,0.09717716588732002
+macaroni,macaroni,1.0
+yellow,macaroni is not visible in this image.,0.0
+on the top,on top,0.04871911135426937
+yellow,yellow,1.0
+macaroni,pasta,0.0
+clustered,in a pile,0.0
+on the left side,left,0.049787068367863944
+ginger,teriyaki,0.0
+Mahi Mahi,There is no fish in this image.,0.0
+brown,dark brown,0.06754436142034707
+in the bottom center,not in the image,0.16821895003341453
+golden-brown,"the fish is not labeled, but it is likely to be a white fish.",0.0
+Mahi Mahi,Mahi-mahi,0.0
+yellow,yellow,1.0
+beans,green beans,0.06754436142034707
+white,white,1.0
+reddish-brown,burnt brown,0.0
+green,green,1.0
+orange,orange,1.0
+spinach,spinach,1.0
+melted,melted,1.0
+sticky,sticky,1.0
+yellow,yellow,1.0
+arranged,in a fan shape,0.0
+on top of,on top,0.13427896671164932
+pink,orange,0.0
+Cadillac,margarita,0.0
+white,clear,0.0
+on the surface,to the side of the glass,0.03759340464156993
+green,green,1.0
+yellowish-green,yellow,0.0
+margaritas,margarita,0.0
+silver,silver,1.0
+yellow-green,white,0.0
+white,white,1.0
+yellow,yellow,1.0
+white,white,1.0
+from the top,on the rim of the glass,0.03759340464156993
+margaritas,margaritas,1.0
+blue,turquoise,0.0
+on the plate,on a plate,0.08621454270909737
+green,green,1.0
+red,red,1.0
+blackberries,blackberries,1.0
+on the wooden surface,on top of the mocha,0.05428693985879238
+green,green,1.0
+marinade,a sauce,0.0
+surrounding,on the right side of the dish,0.0
+chicken,fish,0.0
+glossy,it appears to be brown,0.0
+in the background,on top,0.0
+viscous,liquid,0.0
+marinade,"the sauce is likely a homemade sauce that includes olive oil, parmesan cheese, black pepper, and dried oregano, which is used for the dish",0.0
+in the bowl,in a bowl,0.08621454270909737
+in the center,in the center of the image,0.23376641384792204
+lemon,lemon,1.0
+reddish-brown,orange,0.0
+coats,gives it a golden-brown color,0.0
+skewers,a skewer,0.0
+white,white,1.0
+reddish-brown,red,0.0
+chicken,pork,0.0
+on the upper chicken,on the chicken,0.16793545727180179
+amber,orange,0.0
+marmalade,jelly,0.0
+amber,orange,0.0
+glass,glass,1.0
+orange,orange,1.0
+amber,red-orange,0.0
+marmalade,jelly,0.0
+striped,yellow and white stripes,0.0
+to its left,to the right,0.07249749990681824
+brown,white,0.0
+coated,coconut,0.0
+three,there is no marshmallow logs in the image,0.0
+on the left,to the left,0.21177974141341938
+coconut,coconut,1.0
+marshmallows,marshmallows,1.0
+light pink,pink,0.36787944117144233
+on a small plate,on the plate,0.06177541927786947
+bottom,on the left side of the plate,0.0
+vibrant,The drink is pink and has a sugar rim and lime and watermelon garnish.,0.0
+watermelon,watermelon,1.0
+pink,red,0.0
+on the top,on the edge of the drink,0.09717716588732002
+green,green,1.0
+red,red,1.0
+stemmed,martini glasses,0.0
+brown,white,0.0
+on top of,on the surface,0.07249749990681824
+reddish-purple,brown,0.0
+martini,mocha coffee,0.0
+red,red,1.0
+with two bright red cherries,cherries,0.01831563888873418
+agave,a bottle of sriracha,0.0
+pistachio,almonds,0.0
+green,green,1.0
+cylindrical,cylindrical,1.0
+rectangular bar,rectangular,0.36787944117144233
+on the left side,in the center of the plate,0.03759340464156993
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+in a bowl,on a plate,0.07249749990681824
+crispy,crispy,1.0
+chicken,pork,0.0
+white,white,1.0
+yellow,yellow,1.0
+on a plate,on a plate,0.5757197301274735
+mayo,butter,0.0
+smooth,Smooth,0.0
+gray,not visible,0.0
+in the upper left corner,on the side of the plate,0.03759340464156993
+bowl,sauce,0.0
+orange,orange,1.0
+basil,basil,1.0
+on a light-colored surface,on a table,0.15174681566793558
+light green,green,0.36787944117144233
+fills,it appears to be blended into the soup,0.0
+bowl,a bowl,0.06754436142034707
+leaves,brussels sprouts,0.0
+to the right of,on the right side,0.16821895003341453
+yellow,yellow,1.0
+meatballs,shrimp,0.0
+on top,in the white sauce,0.0
+green,green,1.0
+orange-brown,brown,0.0
+tomato sauce,tomato sauce,0.2213885886251307
+covers,The tomato sauce covers the meatballs.,0.03759340464156993
+green,green,1.0
+sweet,"meatballs are likely seasoned with salt, pepper, and herbs, and may also contain additional ingredients such as garlic, onion, and breadcrumbs. The flavor of the meatballs is likely savory and slightly sweet, with a rich, meaty taste.",0.0
+meatballs,meatballs,1.0
+brownish-red,brown,0.0
+in the center,on top of the sauce,0.0456496931223525
+bowl,a sauce,0.0
+creamy,thick and creamy,0.07249749990681824
+meatballs,shrimp,0.0
+orange,orange,1.0
+underneath,underneath the meatballs,0.07249749990681824
+green,green,1.0
+brown,dark brown,0.06754436142034707
+salad,a salad,0.06754436142034707
+sliced,sliced,1.0
+is in,not shown,0.0
+golden,golden-brown,0.0
+meatloaf,meatloaf,1.0
+light-brown,brown,0.0
+reddish-brown,dark brown,0.0
+towards the right side,center,0.0
+dark,charred,0.0
+meatloaf,meatloaf,1.0
+white,white,1.0
+with sprigs,thyme,0.0
+bright,green,0.0
+broccoli,broccoli,1.0
+red,pink,0.0
+browned,the cubes appear to be cooked,0.0
+across the image,evenly,0.0
+yellow,orange,0.0
+smoothie,mocha,0.0
+glass,glass,1.0
+white,orange,0.0
+near to,next to the dish,0.061033220311973134
+clear,clear,1.0
+pitcher,a jar,0.0
+beige,light brown,0.0
+in the center-left,on a wooden surface,0.0
+pink,pink,1.0
+milkshakes,milkshake,0.0
+topped,on top of the whipped cream,0.0
+red,red,1.0
+on each milkshake,top of the whipped cream,0.0
+chocolate,chocolate,1.0
+brown,beige,0.0
+on top,on top of the chocolate frosting,0.09717716588732002
+clear,clear,1.0
+pitcher,a pitcher,0.06754436142034707
+yellow,yellow,1.0
+on a wooden board,on a wooden cutting board,0.32184424080043433
+yellowish,yellow,0.0
+tofu,the tofu,0.06754436142034707
+scattered across,scattered around the soup,0.061033220311973134
+blue,white,0.0
+reddish-brown,reddish-brown,1.0
+jar,a bottle,0.0
+viscous,smooth,0.0
+on the top,sprinkled on top of the mocha coffee,0.042587297623443834
+tomatoes,tomatoes,1.0
+bowl,a bowl,0.06754436142034707
+mixed,randomly,0.0
+brown,brown,1.0
+orange,yellow,0.0
+in a clear glass bowl,inside the tin,0.0
+brown,brown,1.0
+bowl,a bowl,0.06754436142034707
+candies,candy corn,0.0
+golden-brown,gold,0.0
+blue,blue and white,0.07249749990681824
+wooden,wood,0.0
+pretzels,chex mix,0.0
+orange,orange,1.0
+on the left,next to the plate,0.061033220311973134
+beige,golden-brown,0.0
+brown,brown,1.0
+towards the bottom,on top of the other ingredients,0.03759340464156993
+brown,white,0.0
+jar,a jar,0.06754436142034707
+filled,It is crushed.,0.0
+white,brown and white,0.07249749990681824
+to the left of,in the background,0.05194672862155564
+brown,brown,1.0
+foamy,whipped cream,0.0
+with whipped cream,whipped cream and chocolate chips,0.12121093525642128
+scattered,on top of the whipped cream,0.0
+yellow-green,greenish-yellow,0.0
+mojito,mocha,0.0
+green,green,1.0
+by the Pitcher,"Not served, the image shows a plate of food, not a mojito",0.020044994979069072
+fresh,green,0.0
+green,green,1.0
+mojito,a mocha coffee,0.0
+yellow,green,0.0
+strawberry,strawberry,1.0
+transparent,clear,0.0
+mousse,mousse,1.0
+brown,brown,1.0
+creamy,smooth,0.0
+on a silver tray,on the plate,0.05194672862155564
+golden-yellow,golden brown,0.0
+muffins,muffins,1.0
+obscuring,leaning,0.0
+blue,blue,1.0
+beverage,cocktail,0.0
+fill,there are no ice cubes in the glass.,0.0
+white,white,1.0
+on top of,on top of the drink,0.29950981436291046
+copper,copper,1.0
+mug,a mug,0.06754436142034707
+green,green,1.0
+yellow,green,0.0
+on the wooden surface,on top of the ice,0.05428693985879238
+brown,light brown,0.06754436142034707
+mushrooms,"mushroom, pork, and onion stir-fry",0.0
+glossy,thick,0.0
+green,green,1.0
+in a pile,on top of the onions,0.0
+yellow,yellow,1.0
+eggs,scrambled eggs,0.06754436142034707
+mushroom,mushrooms,0.0
+brown,mushrooms are brown and white,0.0456496931223525
+chicken,shrimp,0.0
+brown,cream-colored,0.0
+on the right,it is not visible,0.0
+herbs,parsley,0.0
+creamy,soft,0.0
+mushrooms,mushrooms,1.0
+black,black,1.0
+from the pan,in a pan,0.07249749990681824
+brown,dark brown,0.06754436142034707
+yellow,white,0.0
+enoki mushrooms,Enoki mushrooms,0.06754436142034707
+tangled,long,0.0
+strands,"long, thin, and white",0.0
+immersed,cooked,0.0
+mussels,mussels,1.0
+orange-red,orange,0.0
+brownish-red,red,0.0
+on the left,on the left side of the plate,0.19308506685901675
+yellow-orange,orange,0.0
+pouring,The spoon is pouring the sauce into the jar.,0.02573285025273419
+jar,a jar,0.06754436142034707
+wooden,wood,0.0
+above the jar,above the jar,0.5757197301274735
+glass,ceramic,0.0
+wooden,wood,0.0
+mustard,butter,0.0
+to the right,to the left,0.21177974141341938
+Dijon,"There is no mustard in the jars. The jars contain what appears to be a creamy coffee beverage, likely mocha.",0.0
+tan,tan,1.0
+lined up,There are no jars in the image.,0.0
+jars,jars,1.0
+creamy,thick,0.0
+nachos,nachos,1.0
+light-orange,orange,0.0
+on top of,on top of the nachos,0.29950981436291046
+bowl,a jar,0.0
+potato,potatoes,0.0
+white,white,1.0
+golden-brown,golden brown,0.0
+cheese,cheese,1.0
+on a plate,on a plate,0.5757197301274735
+chocolate,chocolate,1.0
+nachos,pita chips,0.0
+brown,light brown,0.06754436142034707
+white,"there is no paper plate, the dish is on a white plate.",0.020044994979069072
+on top of,on the middle of the pizza,0.044706344276931285
+smooth,smooth,1.0
+glass,a glass,0.06754436142034707
+pink,pink,1.0
+refresher,coffee,0.0
+soup,a bowl of chicken soup with lime and jalapeno slices,0.023457495174891017
+green,green,1.0
+chicken,chicken,1.0
+on the lower-right,on the right side,0.16821895003341453
+light blue,blue with a copper trim,0.0456496931223525
+bowl,a bowl,0.06754436142034707
+fill,most of the bowl,0.0
+yellow,yellow,1.0
+in the center,on top of the plate,0.0456496931223525
+crunchy,crispy,0.0
+nuggets,food,0.0
+white,white with black stripes,0.061033220311973134
+on the right side,"There are no catfish nuggets on the plate, there are fried shrimp.",0.04774753205784679
+red,red,1.0
+corn nuts,none,0.0
+brown,dark brown,0.06754436142034707
+on the napkin,on the left side of the plate,0.081939171811711
+golden-brown,golden-brown,1.0
+oatmeal,"It is not a pie, it is a slice of pizza",0.0
+filling,"a filling of eggs, cheese, and cured pork",0.028599617161713803
+white,white,1.0
+on a white surface,on a plate,0.15174681566793558
+beige,off-white,0.0
+fill,The buckwheat oats are likely used to make the oatmeal,0.0
+blueberries,blueberries,1.0
+red,red,1.0
+on top,on top of the food,0.12121093525642128
+black,black,1.0
+rice,Rice,0.0
+green,green,1.0
+okra,brussels sprouts,0.0
+in a black cooking pot,a wok,0.015071184180845467
+beige,white,0.0
+chicken,chicken,1.0
+green,green and black,0.07249749990681824
+on top,scattered on top of the dish,0.09717716588732002
+tomatoes,cherry tomatoes,0.06754436142034707
+golden,green,0.0
+olives,fried olives and fried pickles,0.0456496931223525
+cut,they have been halved,0.0
+on the bottom,in the front of the plate,0.03759340464156993
+green,green,1.0
+wooden,wood,0.0
+bread,Italian bread,0.06754436142034707
+black,black,1.0
+golden-brown,golden-brown,1.0
+on a wooden cutting board,on a wooden cutting board,1.0
+visible,"yes, the olives are visible in the jar.",0.028599617161713803
+olives,capers,0.0
+glass,glass,1.0
+white,white,1.0
+yellow,yellow,1.0
+spilling out of,filling it,0.0
+bacon,bacon,1.0
+mixed,not shown,0.0
+located on the left side,there is no spinach in the image,0.03235934848975789
+omelette,cheese,0.0
+scattered,cubed,0.0
+red,red,1.0
+caramelized,dark brown,0.0
+melted,It has melted,0.07249749990681824
+onions,cheese,0.0
+brown,white,0.0
+cheese,cheese,1.0
+towards the bottom,in the background,0.07249749990681824
+reddish-brown,red,0.0
+nestled,centered,0.0
+orange,golden-brown,0.0
+to the left of,in the background,0.05194672862155564
+orange,orange,1.0
+plate,a plate,0.06754436142034707
+vibrant,golden orange,0.0
+thick,frothy,0.0
+drink,mocha coffee,0.0
+garnished,for decoration,0.0
+green,green,1.0
+at the bottom,at the bottom of the drink,0.23376641384792204
+pink,pink,1.0
+Oreo,"yes, the crust is likely made of crushed Oreos",0.0
+sprinkled,Yes,0.0
+on top surface,on the whipped cream,0.061033220311973134
+circular,There is no Cajun Oyster Pie in this image.,0.0
+crust,top,0.0
+star-shaped,star,0.0
+oysters,shrimp,0.0
+green,green,1.0
+on a star-shaped plate,on the plate,0.06177541927786947
+white,white,1.0
+oysters,oysters,1.0
+yellow,yellow,1.0
+reddish-brown,"crispy, golden-brown",0.0
+white,white,1.0
+yellow,yellow,1.0
+scattered,They are arranged in a circle around the center of the bowl.,0.0
+shrimp,mussels,0.0
+in a bowl,on top of the rice,0.0
+chicken,chicken,1.0
+scattered,scattered throughout,0.06754436142034707
+orange-brown,golden-brown,0.0
+shrimp,shrimp,1.0
+green,green,1.0
+pancake,a plate of food,0.0
+white,white,1.0
+golden brown,golden brown,0.2213885886251307
+on the left side,"there are no pancakes on the plate, the dish is actually a type of pasta dish called ""carbonara""",0.03265830837077511
+salty,sweet,0.0
+pancakes,crepes,0.0
+cooking,fried,0.0
+yellow,golden-brown,0.0
+golden yellow,yellow,0.36787944117144233
+paneer,Pork,0.0
+reddish-brown,brown,0.0
+on top,scattered on top,0.21177974141341938
+vibrant,green,0.0
+green,green,1.0
+bowl,round,0.0
+blue,blue with white accents.,0.061033220311973134
+scattered,scattered,1.0
+on top,on the top of the dish,0.044706344276931285
+cranberry,"none, there is no fruit",0.0
+glass,glass,1.0
+red,red,1.0
+on a table,on a table,0.5757197301274735
+white,white,1.0
+parfaits,parfait,0.0
+red,red,1.0
+on top,on top of the yogurt,0.12121093525642128
+orange,orange,1.0
+yellow,yellow,1.0
+fills,it is topped with a dollop of cream.,0.0
+vegetable,potato soup,0.0
+white,white,1.0
+in the center,on top of the soup,0.0456496931223525
+round,round,1.0
+parsnips,potatoes,0.0
+beige,white,0.0
+smooth,smooth,1.0
+chicken,chicken,1.0
+reddish-orange,red,0.0
+pasta,rotini,0.0
+scattered amidst,in the middle,0.0
+diced,small,0.0
+orange,orange,1.0
+pasta,pasta,1.0
+melted,melted,1.0
+brownish-tan,orange,0.0
+beige,pasta is a light tan color,0.0
+pasta,penne,0.0
+shrimp,shrimp,1.0
+green,green,1.0
+over the shrimp,on top of the shrimp and asparagus,0.081939171811711
+scattered,scattered,1.0
+pasta,pasta,1.0
+yellow,yellow,1.0
+on top,on top,0.2213885886251307
+dish,pasta,0.0
+red,red,1.0
+scattered,diced,0.0
+eggplant,Brussels sprouts,0.0
+golden-yellow,light brown,0.0
+bowls,in the background,0.0
+with a brown wooden handle,brown,0.01831563888873418
+white,white,1.0
+yellow,yellow,1.0
+blueberries,blueberries,1.0
+nestled among,on top of the pasta,0.0
+pavlova,"not a dessert, but a savory dish",0.0
+greenish-yellow,yellowish,0.0
+soup,soup,1.0
+white,white,1.0
+submerged,there is no spoon in this image.,0.0
+peas,peas,1.0
+bowl,in the bowl,0.07249749990681824
+Italian,italian,0.0
+on the right side,in the middle,0.05194672862155564
+vibrant,orange,0.0
+holding,There are no peach slices in this image.,0.0
+white,white with green trim,0.061033220311973134
+in the center,to the left,0.07249749990681824
+yellow-orange,golden brown,0.0
+glasses,a bowl,0.0
+wooden,wood,0.0
+on the rim,on the rim,0.5757197301274735
+reddish-yellow,yellow and red,0.0
+margaritas,margarita,0.0
+served,in a glass,0.0
+bright,orange,0.0
+glasses,margaritas,0.0
+in the center,in the top right corner,0.12121093525642128
+tea,peach smoothie,0.0
+drinking,drinking it,0.06754436142034707
+peach,There is no tea in the image.,0.0
+yellow,yellow and white,0.07249749990681824
+to the right,behind the first glass,0.061033220311973134
+peachy-orange,reddish-orange,0.0
+pitcher,a pitcher,0.06754436142034707
+red,red,1.0
+on the left,on the left,0.5757197301274735
+dark,dark brown,0.06754436142034707
+peanut butter,There is no butter in the cookies.,0.03235934848975789
+golden brown,golden brown,0.2213885886251307
+on the lower right,on the plate,0.15174681566793558
+cookie,miniature cheesecakes,0.0
+light brown,brown,0.36787944117144233
+ice cream,melted cheese,0.0
+smooth,smooth,1.0
+near the top,The reflective surface is most noticeable on the top left of the image.,0.044249674106354955
+yellow,white,0.0
+muffins,muffins,1.0
+perfect,golden brown,0.0
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+red,red,1.0
+in the left side,They are not present in the image,0.081939171811711
+brown,brown,1.0
+pecan,pecans,0.0
+white,white,1.0
+on top,on top of the dessert,0.12121093525642128
+reddish-brown,brown,0.0
+tan,light brown,0.0
+overlapping,overlapping,1.0
+brown,brown,1.0
+on the cracker,Not visible,0.0
+appetizer,crumble,0.0
+penne,pasta,0.0
+distributed,in a circular pattern,0.0
+red,orange,0.0
+cilantro,parsley,0.0
+on top of,on top of the pasta,0.29950981436291046
+penne,penne,1.0
+red-orange,red,0.0
+sauteed,diced,0.0
+peppers,red bell pepper,0.0
+green,green,1.0
+peppers,brussels sprouts,0.0
+scattered across,a plate,0.0
+glistening,fried,0.0
+white,white,1.0
+pesto,pesto sauce,0.06754436142034707
+container,jar,0.0
+vibrant,green,0.0
+textured,crumbly,0.0
+pesto,pesto,1.0
+fills,"There is no walnut pesto in the image, however, there are walnuts in the image.",0.0
+white,white,1.0
+on top of,on the dish,0.07249749990681824
+chicken,shrimp,0.0
+falling onto,on top of the chicken,0.0
+green,green,1.0
+scattered,in a pile,0.0
+pickles,cucumbers,0.0
+glass,glass,1.0
+full,full,1.0
+yellow,green,0.0
+sliced,thinly,0.0
+yellowish-green,green,0.0
+pickles,dill pickles,0.06754436142034707
+on the left side,behind the plate,0.05194672862155564
+white,white,1.0
+clear,clear,1.0
+pickles,pickles,1.0
+green,They are not visible in the image.,0.0
+in a jar,in a jar,0.5757197301274735
+melted,melted,1.0
+pie,caramel corn,0.0
+tan,brown,0.0
+silver,aluminum,0.0
+apricot,There is no fruit in this image.,0.0
+golden-brown,golden brown,0.0
+pies,There is no dessert in the image.,0.0
+uneven,crispy,0.0
+pie,pie,1.0
+white,white,1.0
+green plate,green,0.36787944117144233
+yellow,golden brown,0.0
+pierogi,pierogies and coffee,0.0
+on the plate,on a plate,0.08621454270909737
+center,The pierogi is located in the center of the plate.,0.023457495174891017
+white,white,1.0
+pinkish-red,red,0.0
+on a plate,on a plate,0.5757197301274735
+rice,rice,1.0
+inside the bowl,on a plate,0.0
+yellow,white,0.0
+scattered,in a circle,0.0
+rice,rice,1.0
+red,red and green,0.07249749990681824
+on the left,on the left side,0.43146827293898643
+large,large,1.0
+to the lower left,in the lower corner of the image,0.081939171811711
+chocolate,chocolate,1.0
+brown,dark brown,0.06754436142034707
+on the left,to the right,0.07249749990681824
+hot,They are warm,0.0
+brown,brown,1.0
+on top,on top,0.2213885886251307
+bread,pita,0.0
+brown,light brown,0.06754436142034707
+on the plate,inside the pita,0.07249749990681824
+crumbs,pieces of cheese,0.0
+white,white,1.0
+bread,naan,0.0
+red,orange,0.0
+tan,light brown,0.0
+on a white plate,on a plate,0.16793545727180179
+arranged,in a spiral,0.0
+pear,"there is no fruit on top of the cheese, only rosemary",0.0
+on top of,on top,0.13427896671164932
+silver,gray,0.0
+pizza,"a plate of fries topped with cheese, bacon bits, green onions and shrimp",0.0
+red,red,1.0
+beige,uncooked,0.0
+on a round,round,0.1353352832366127
+golden-brown,golden-brown,1.0
+on the left,to the left of the plate,0.09717716588732002
+plum bread,muffins,0.0
+white,white,1.0
+tan,brown,0.0
+cracked,crumbly,0.0
+on a plate,on a table,0.21177974141341938
+pink,red,0.0
+plate,a plate,0.06754436142034707
+red,red,1.0
+parsley,parsley,1.0
+polenta,mashed potatoes,0.0
+yellow,yellow,1.0
+green,green,1.0
+polenta,mashed potatoes,0.0
+in the lower center,"there is no polenta in this image, however, there is mashed potatoes",0.020044994979069072
+roasted,kernels,0.0
+beige,white,0.0
+chicken,chicken,1.0
+yellow,yellow,1.0
+cream,yellow,0.0
+yellow,orange,0.0
+rice,rice,1.0
+brown,brown,1.0
+in light yellow,white,0.0
+interspersed,They are scattered throughout the rice.,0.0
+rice,pasta,0.0
+red,red,1.0
+green,green,1.0
+above the rice,above,0.1353352832366127
+pink,pink,1.0
+cake,cake pop,0.06754436142034707
+colorful,candy dots,0.0
+on a light brown surface,on a table,0.10873134470594509
+brown,brown,1.0
+ice pops,frozen popsicles,0.0
+white,white,1.0
+on a white plate,on a plate,0.16793545727180179
+blurred,out of focus,0.0
+brown,light brown,0.06754436142034707
+cookies,cookies,1.0
+on a metal baking sheet,on a baking sheet,0.18527477532266828
+shiny,crispy,0.0
+rice,brown,0.0
+brown,golden-brown,0.0
+stacked on,on top of the rice,0.0456496931223525
+pink,pink,1.0
+bowl,the caramel,0.0
+brown,golden brown,0.06754436142034707
+almonds,almonds,1.0
+jar,a jar,0.06754436142034707
+on the same surface,on the wooden cutting board,0.12121093525642128
+orange,clear,0.0
+on the bottom center,wood,0.0
+green,green,1.0
+vibrant,orange,0.0
+sweet potatoes,carrots,0.0
+orange,orange,1.0
+within the bowl,in a bowl,0.07249749990681824
+brown,dark brown,0.06754436142034707
+apples,peaches,0.0
+white,white with a blue rim,0.0456496931223525
+yellow,orange,0.0
+in a bowl,there are no apples on the plate,0.0
+applesauce,a bowl,0.0
+blue,blue,1.0
+red,red,1.0
+on a surface,on a table,0.21177974141341938
+applesauce,golden yellow,0.0
+golden-brown,golden yellow,0.0
+scooped,it is being used to scoop up some food,0.0
+white,white,1.0
+in the bowl,in the bowl,0.5757197301274735
+golden-amber,orange,0.0
+jar,a jar,0.06754436142034707
+yellow,yellow,1.0
+on the table,on the table,0.5757197301274735
+white,white,1.0
+meat,shrimp,0.0
+carrots,carrots,1.0
+fried,fried,1.0
+on the plate,on the left side of the plate,0.10783801466424223
+adjacent,to the right,0.0
+green,green,1.0
+artichoke,spinach,0.0
+white,white,1.0
+to the right,next to the Brussels sprouts,0.12121093525642128
+green,green,1.0
+asparagus,asparagus,1.0
+arranged,they are arranged in a pile,0.03759340464156993
+green,green,1.0
+asparagus,asparagus,1.0
+upwards,left,0.0
+on top of,on a plate,0.07249749990681824
+green,green,1.0
+avocado,avocado,1.0
+white,white,1.0
+on its outer skin,avocado skin is on the outside of the dish,0.030601688609851067
+scattered,on top of the dish,0.0
+green,green,1.0
+pie,pie,1.0
+white,white,1.0
+on top,on top of the mocha coffee,0.09717716588732002
+golden-brown,golden-brown,1.0
+avocado,cabbage,0.0
+green,green,1.0
+on a white square plate,"not on the plate, they are not visible",0.028599617161713803
+vary,"Yes, the avocado bites have the same size and shape.",0.0
+raspberries,raspberries and blueberries,0.07249749990681824
+scattered,in a bowl,0.0
+red,red,1.0
+on the white cloth,on a plate,0.05194672862155564
+glistening,crispy,0.0
+bacon,pork,0.0
+dark brown,crispy brown,0.06754436142034707
+separated by,"one piece is on the left, one piece is on the right",0.0
+bacon,bacon,1.0
+oven,there is no bacon in the image,0.0
+on a wire rack,on a rack,0.16793545727180179
+golden-brown,light yellow,0.0
+bagel bites,bagel balls,0.06754436142034707
+blue,there are no bagel bites in this image.,0.0
+in the bottom half,One,0.0
+broken,white,0.0
+golden-brown,There are no bagels in this image.,0.0
+bagels,"bagel, donut, and bagel with a hole in the middle, mocha coffee and donuts, and a salad with brussels sprouts.",0.0
+spice,pepper flakes,0.0
+on a wire rack,on a cooling rack,0.18616487055295167
+pumpernickel,"none, the dish is a bagel is not made of bread",0.0
+brown,brown,1.0
+bagels,"A meal of mocha coffee, fried pork, coleslaw, and bagels.",0.0
+on a black wire rack,on a cooling rack,0.14498534696702547
+white,white,1.0
+golden-brown,golden-brown,1.0
+melted,melted,1.0
+plate,a plate,0.06754436142034707
+sesame,sesame seeds,0.06754436142034707
+on the left,on the left,0.5757197301274735
+white,white,1.0
+cheese,cheese,1.0
+sausage,crumbled bacon,0.0
+brown,brown,1.0
+within the cheese,in the dish,0.07249749990681824
+beige,brown,0.0
+bananas,bananas,1.0
+yellow,yellow,1.0
+to the left of,to the left of the jar,0.5081327481546147
+brown,brown,1.0
+chocolate,chocolate chips,0.06754436142034707
+loaves,rectangular,0.0
+golden-brown,golden brown,0.0
+towards the center,left,0.0
+fries,french fries,0.06754436142034707
+brown,golden-brown,0.0
+white,white with a black and brown design,0.03235934848975789
+on a plate,on a plate,0.5757197301274735
+bananas,There is no fruit in this dish.,0.0
+golden-yellow,yellow,0.0
+in coconut milk,milk,0.1353352832366127
+bowl,a bowl,0.06754436142034707
+golden-brown,golden-brown,1.0
+banana,"none, this is a savory dish",0.0
+together,in a pile,0.0
+tempura,Banana tempura is a type of fried banana dish.,0.02573285025273419
+irregular,oval,0.0
+yellow,yellow,1.0
+banana,banana,1.0
+white,white,1.0
+on top of,on the banana slices,0.061033220311973134
+dark blue,blue,0.36787944117144233
+golden,orange,0.0
+bars,square,0.0
+white,white,1.0
+reddish-brown,golden brown,0.0
+chicken,pork,0.0
+white,white,1.0
+on top of,on top,0.13427896671164932
+green,green,1.0
+mix,"beef, carrots, onions, and barley",0.0
+white,white,1.0
+dispersed,scattered,0.0
+orange,orange,1.0
+of beef,beef,0.36787944117144233
+white,white,1.0
+chicken,chicken,1.0
+brown,white,0.0
+green,green,1.0
+at the bottom,underneath the other ingredients,0.061033220311973134
+overlapping,side by side,0.0
+Sea Bass,halibut,0.0
+white,white,1.0
+on the left side,on the left,0.41252121275142684
+green,green,1.0
+yellowish,white,0.0
+scattered,scattered,1.0
+sea bass,"There is no fish in the image, but there is a fish-shaped food.",0.0
+on the rack,on a plate,0.07249749990681824
+green,green,1.0
+smooth,"yes, the batter appears smooth",0.0456496931223525
+batter,"No, the batter is made of mocha ingredients.",0.028599617161713803
+brown,Yes.,0.0
+on top,yes,0.0
+yes,yes,1.0
+tangy,sweet and tangy,0.07249749990681824
+beef,beef,1.0
+tan,light brown,0.0
+orange,orange,1.0
+shredded,shredded,1.0
+meat,pork,0.0
+coating,thick and orange,0.0
+yellowish,light brown,0.0
+chicken,"None, the image shows a bowl of hummus with crackers and some brussels sprouts.",0.0
+reddish-brown,brown,0.0
+ribs,pork,0.0
+grill,on a grill,0.07249749990681824
+unevenly,thinly spread,0.0
+on the top,on the pork,0.21177974141341938
+tasty,cooked,0.0
+pan,a pan,0.06754436142034707
+green,green,1.0
+green beans,green beans,0.2213885886251307
+in the center,in the center,0.5757197301274735
+reddish-brown,brown,0.0
+orange,orange,1.0
+with other ingredients,tomatoes,0.0
+plate,over pasta,0.0
+green,green,1.0
+beans,green beans,0.06754436142034707
+tangled,scattered,0.0
+yes,"Yes, the green beans overlap the pork slices",0.0
+in the bottom center,on the right side of the plate,0.03235934848975789
+glossy,shiny,0.0
+beans,Brussels sprouts,0.0
+peppered,blackened,0.0
+overlapping,They are scattered on the plate.,0.0
+throughout the entire image frame,The beans are located in the center of the image.,0.023457495174891017
+tan,pinkish-brown,0.0
+bowl,a bowl,0.06754436142034707
+fill,The beans occupy most of the bowl.,0.0
+brown,brown,1.0
+in the broth,in the bowl,0.21177974141341938
+sliced,sliced,1.0
+beef,ground beef,0.06754436142034707
+brown,brown,1.0
+with peppers,peppers,0.36787944117144233
+slow,roasted,0.0
+reddish-brown,brown,0.0
+meat,a plate of food,0.0
+in the upper-right portion,towards the top of the frame,0.03759340464156993
+brown,brown,1.0
+white,white,1.0
+at the top,on top of the mocha coffee,0.044706344276931285
+glasses,mugs,0.0
+amber,golden brown,0.0
+surface,next to the glasses,0.0
+red,red,1.0
+beets,potatoes,0.0
+green,green,1.0
+yellow,golden brown,0.0
+cake,cake,1.0
+on a clear glass,a cake stand,0.05194672862155564
+yellow,golden brown,0.0
+biscuits,cookies,0.0
+clustered,stacked,0.0
+baked,baked,1.0
+golden-brown,golden brown,0.0
+pale,white,0.0
+cream,golden brown,0.0
+on a wire rack,there is no arrowroot biscuit in the image,0.0
+beige,light yellow,0.0
+biscuits,cheese and bacon biscuits,0.061033220311973134
+orange,orange,1.0
+across the image,on the plate,0.07249749990681824
+flaky,crispy,0.0
+light-colored,blue and white,0.0
+blondies,a blondie,0.0
+brown,light brown,0.06754436142034707
+on top,the blondies,0.0
+drizzle,caramel sauce,0.0
+purple,blue,0.0
+blueberries,there is no fruit on the plate,0.0
+pink,pinkish red,0.0
+bowl,a container,0.0
+under the bowl,under the bowl of dip,0.29950981436291046
+golden-brown,golden brown,0.0
+reddish-brown,red,0.0
+covering,"It's not bolognese, the pasta is not visible in the image.",0.0
+plate,rigatoni,0.0
+yellow,light yellow,0.06754436142034707
+in the center,in the center,0.5757197301274735
+green,green,1.0
+spinach,spinach,1.0
+avocado,green,0.0
+closer to,The pieces of chicken are located on the bottom left of the bowl.,0.0
+tan,brown,0.0
+rice,rice,1.0
+on the left side,on the left,0.41252121275142684
+green,green,1.0
+reddish-brown,red,0.0
+brats,Italian sausage,0.0
+green,green,1.0
+draped over,on top of the dish,0.0
+liquid,parsley,0.0
+walnuts,walnuts,1.0
+speckled,moist,0.0
+on top,on top,0.2213885886251307
+white,white,1.0
+loaf,There is no bread on the left side of the frame.,0.0
+tan,golden brown,0.0
+overlapping,vertically,0.0
+on the board,on a wire rack,0.061033220311973134
+white,white,1.0
+golden-brown,golden-brown,1.0
+stacked,stacked on top of each other,0.03759340464156993
+beige,golden brown,0.0
+bread,Italian food,0.0
+creamy,light brown,0.0
+on a wire rack,on a wire rack,1.0
+bright,white,0.0
+orange,orange,1.0
+around the eggs,on the plate,0.07249749990681824
+brown,brown,1.0
+beef brisket,pork,0.0
+green,green,1.0
+gravy,gravy,1.0
+on the plate,not visible,0.0
+golden-brown,not visible,0.0
+within,On top,0.0
+brown,brown,1.0
+beef,pork,0.0
+green,green,1.0
+on a plate,on the plate,0.08621454270909737
+rice,rice,1.0
+broccoli,broccoli,1.0
+green,green,1.0
+red,red,1.0
+cooked,steamed,0.0
+on a plate,on a plate,0.5757197301274735
+broth,sauce,0.0
+green,green,1.0
+within the broth,"they are not on the plate, they are in the pot.",0.021598265052211615
+square,square,1.0
+brown,chocolate brown,0.06754436142034707
+on top,on top of the whipped cream,0.09717716588732002
+green,green,1.0
+brown,brown,1.0
+shiny,peeled,0.0
+pecans,pecans,1.0
+brown,brown,1.0
+brownies,There is no dessert shown in the image.,0.0
+cracked,crispy,0.0
+walnuts,walnuts,1.0
+on top of,on top,0.13427896671164932
+dark-brown,dark brown,0.0
+arranged,cut into squares,0.0
+brownies,brownies,1.0
+within the chocolate,on the top of the brownie,0.03759340464156993
+white,white,1.0
+bruschetta,carbonara,0.0
+red,red,1.0
+on the center,on the plate,0.21177974141341938
+toasted,bread,0.0
+melted,it has been melted,0.061033220311973134
+black,black,1.0
+red,red,1.0
+on top,on top of the pizza,0.12121093525642128
+reddish-brown,The beef is not present in the image. There is no beef in this image.,0.0
+beef,pork,0.0
+glistening,"There is no beef in the image, there is only a type of fish called tuna.",0.0
+on top of,there are no carrots in the image,0.0
+orange,orange,1.0
+one-third,most of the image,0.0
+burgers,A plate of food.,0.0
+brownish-tan,brown,0.0
+of the burgers,a brown gravy,0.0
+green,green,1.0
+white,white,1.0
+melted,it has melted,0.07249749990681824
+orange,yellow,0.0
+in the dish,There is no burrito casserole on the plate.,0.028599617161713803
+layers,layered,0.0
+vegan,"no, the burritos contain cheese and meat",0.0
+burritos,"coffee, coleslaw, and a cooked lobster tail",0.0
+tan,white,0.0
+on top,on a plate,0.07249749990681824
+sweet,spicy,0.0
+burritos,"A burrito, burritos, or chimichangas are not pictured, but the food shown is similar to a burrito.",0.0
+black,black and red,0.07249749990681824
+on a black plate,on a plate,0.16793545727180179
+orange,orange,1.0
+white,white,1.0
+cupcake,cupcakes,0.0
+light blue,blue and white,0.07249749990681824
+on top of,swirled on top,0.21177974141341938
+rectangular,rectangular,1.0
+cake,cake,1.0
+blue,blue,1.0
+caramel,blue,0.0
+around the perimeter,scattered across the cake,0.061033220311973134
+shredded,shredded,1.0
+cabbage,brussels sprouts,0.0
+on the top-right,on the plate,0.21177974141341938
+white,white with blue accents.,0.061033220311973134
+pinkish-red,pink,0.0
+white,white,1.0
+bowl,round,0.0
+breadcrumbs,crushed crackers,0.0
+golden,browned,0.0
+shredded,shredded,1.0
+green-cabbage,cabbage,0.0
+white,white,1.0
+orange,orange,1.0
+within the salad,in the salad,0.21177974141341938
+reddish-orange,orange,0.0
+cabbage,cabbage,1.0
+yellowish-green,yellow,0.0
+beans,kidney beans,0.06754436142034707
+in the center,centered,0.0
+cabbage,carrots,0.0
+brown,brown,1.0
+on top of the plate,on top of the carrots,0.668740304976422
+orange,orange,1.0
+Evenly-distributed ,scattered,0.0
+floating in,on top of the soup,0.0
+red,red,1.0
+orange,orange,1.0
+light-brown,golden brown,0.0
+chicken,pork,0.0
+red,red,1.0
+on the right side,in the center,0.05194672862155564
+spaghetti,linguine,0.0
+reddish-brown,red,0.0
+chicken,shrimp,0.0
+light-yellow,beige,0.0
+in the center,above the pasta,0.07249749990681824
+light,white,0.0
+chicken,chicken,1.0
+red,red,1.0
+cheese,parmesan cheese,0.06754436142034707
+golden,golden brown,0.06754436142034707
+calamari,calamari,1.0
+arranging,scattered,0.0
+white,white,1.0
+on the plate,in the center of the plate,0.09717716588732002
+yellow,white with a yellow interior,0.0456496931223525
+bowl,a bowl,0.06754436142034707
+brown,brown,1.0
+on top of,at the top of the dish,0.09717716588732002
+yellow,yellow,1.0
+plate,a plate,0.06754436142034707
+beef,pork,0.0
+brown,brown,1.0
+in broth,oil,0.0
+yellow,yellow,1.0
+chocolate,chocolate,1.0
+candy,"mocha coffee, coleslaw, and a chocolate-covered caramel corn treat.",0.0
+brown,chocolate brown,0.06754436142034707
+right of orange ribbon,in the background,0.0
+brown,brown,1.0
+sugar,caramel,0.0
+white,white,1.0
+to the left,on the left side of the plate,0.081939171811711
+brownish-red,red-brown,0.0
+meat,a piece of cooked meat,0.0456496931223525
+dark brown,black,0.0
+charred,crispy,0.0
+vegetables,a fork,0.0
+hard,crispy,0.0
+candy,caramel corn,0.0
+orange,orange,1.0
+coated,"The white powder is likely sugar. The sugar is likely used to coat the candy, making it a sweet treat.",0.0
+throughout,on top of the caramel corn,0.0
+green,green,1.0
+candy,Food is shown in the image.,0.0
+reddish-brown,red,0.0
+center,in the center,0.07249749990681824
+on the plate,on the plate,0.5757197301274735
+red,purple,0.0
+poured,it was drizzled,0.0
+candy,a dish of mocha coffee with a side of caramel corn and a side of coleslaw,0.0
+translucent,translucent,1.0
+on a piece,at the top,0.0
+yellow,yellow,1.0
+center of the image,There is no cantaloupe pie in the image.,0.028599617161713803
+fluffy and toasted,toasted,0.1353352832366127
+meringue,meringue,1.0
+silver,brown,0.0
+light-green,yellow,0.0
+pasta,carbonara,0.0
+black,black,1.0
+in a creamy sauce,cheese sauce,0.02484818193359921
+silver,gray,0.0
+brown,pink,0.0
+meat,pork,0.0
+bubbling,foam is forming,0.0
+yellow-brown,brown,0.0
+orange,orange,1.0
+carrots,carrots,1.0
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+glistening,sliced,0.0
+in the center,on the right side,0.061033220311973134
+green,green,1.0
+yellowish,orange,0.0
+rice,shrimp,0.0
+orange,orange,1.0
+green,green,1.0
+cashews,There are no nuts shown in the image.,0.0
+tan,light brown,0.0
+Piled randomly,in a pile,0.0
+on a purple surface,on a table,0.15174681566793558
+triangular,square,0.0
+casserole,a glass plate,0.0
+green,green,1.0
+with cheese,tomatoes,0.0
+egg,eggs,0.0
+beige,golden-brown,0.0
+catfish,"None is featured in the dish, the dish features shrimp.",0.0
+reddish-orange,red,0.0
+in the upper-center,above the zucchini noodles,0.061033220311973134
+fried,crispy bacon,0.0
+golden-brown,There is no catfish in this image.,0.0
+catfish,"There is no fish in the image, only a piece of fried pork and shrimp.",0.0
+center,There is no catfish in the image.,0.0
+green,green,1.0
+on the foreground,"There is no catfish in the image, however, there is a piece of cooked fish in the image.",0.014238348381961592
+fills,It fills it up.,0.061033220311973134
+cauliflower,brussels sprouts,0.0
+blue,blue,1.0
+yellow,yellow,1.0
+creamy,creamy,1.0
+mac-n-cheese,Macaroni and cheese,0.0
+white,white,1.0
+orange-yellow,yellow,0.0
+off-white,white,0.0
+cauliflower,cauliflower,1.0
+green,green,1.0
+broccoli,broccoli,1.0
+broccoli,broccoli,1.0
+glass jars,glass,0.36787944117144233
+white,white,1.0
+orange,orange,1.0
+on the countertop,on a counter,0.07249749990681824
+golden-brown,golden-brown,1.0
+bread,"braided bread, cheddar cheese, mocha coffee, and coleslaw.",0.0
+on the cutting board,in the right half of the image,0.03235934848975789
+yellow,yellow,1.0
+dark green,dark green,0.2213885886251307
+chard,brussels sprouts,0.0
+garlic,garlic,1.0
+white,white,1.0
+in a bowl,in the bowl,0.08621454270909737
+rainbow,"red, green, orange, and purple",0.0
+chard,Swiss chard,0.06754436142034707
+green,red,0.0
+in a bowl,on a tablecloth,0.07249749990681824
+vegetables,orange bell pepper,0.0
+cheeseburger,cheeseburger,1.0
+yellow,yellow,1.0
+golden-brown,brown,0.0
+pickle,a pickle,0.06754436142034707
+on a white plate,on a plate,0.16793545727180179
+tan,light brown,0.0
+burger,a burger,0.06754436142034707
+orange,orange,1.0
+located to the left,next to the sweet potato fries,0.09717716588732002
+beige,white,0.0
+filling,pressing down,0.0
+right side of the image,not shown,0.0
+silver,gray,0.0
+golden-brown,golden-brown,1.0
+cheesecake,cheesecake,1.0
+white,white,1.0
+sprinkled,pepper,0.0
+white,golden-brown,0.0
+cheesecake,Cheesecake,0.0
+blue,blue,1.0
+on the plate,on a plate,0.08621454270909737
+syrup,a caramel sauce,0.0
+red,red,1.0
+jar,jars,0.0
+on top of,on top of the whipped cream,0.23376641384792204
+dark-brown,chocolate,0.0
+cheesecake,cake,0.0
+glaze,smooth,0.0
+strawberries,strawberries,1.0
+on top of,on top,0.13427896671164932
+creamy,whipped,0.0
+cherries,black olives,0.0
+fills,it covers it,0.0
+purple,dark purple,0.06754436142034707
+throughout the bowl,throughout the dish,0.21177974141341938
+red,orange,0.0
+cherries,cherries,1.0
+brown,brown,1.0
+on the left,left,0.1353352832366127
+orange,orange,1.0
+browned,light brown,0.0
+chicken,chicken,1.0
+on top of the plate,on a plate,0.044264022136417135
+parsley,parsley,1.0
+golden,golden-brown,0.0
+brown,brown,1.0
+reddish-brown sauce,reddish-brown,0.36787944117144233
+on and around the chicken,on the plate,0.044264022136417135
+yellow,yellowish orange,0.0
+red,red,1.0
+sprinkled on top,on top of the scrambled eggs,0.09717716588732002
+fork,a fork,0.06754436142034707
+crispy,crispy,1.0
+large,large,1.0
+chili,ground beef,0.0
+red,orange,0.0
+in a pot,in a pot,0.5757197301274735
+sausage,ground beef,0.0
+green,green,1.0
+bowl,a bowl,0.06754436142034707
+in the bowl,on the plate,0.07249749990681824
+green,pink,0.0
+dip in,inside the bowl,0.0
+scattered,randomly,0.0
+chips,"A plate of food with fried pork, Brussels sprouts, and mocha coffee.",0.0
+green,crispy dark brown,0.0
+golden-yellow,black,0.0
+towards the central region,in the center of the image,0.03759340464156993
+swirled,swirled,1.0
+tan,brown,0.0
+many,there are no pieces of chocolate shown in the image,0.0
+rectangular,square,0.0
+in clear plastic,plastic,0.1353352832366127
+dessert,glass bowl,0.0
+clear,rectangular,0.0
+raspberries,dried cranberries,0.0
+scattered,scattered,1.0
+on a metallic surface,next to the plate,0.0
+chocolate,brown,0.0
+brown,golden brown,0.06754436142034707
+golden-brown,white,0.0
+on top of,behind the pork slices,0.0
+creamy,crumbly,0.0
+cake,a donut,0.0
+brown,brown,1.0
+on top,on top of the mocha coffee,0.09717716588732002
+chocolate,chocolate,1.0
+drizzled,drizzling,0.0
+brown,brown,1.0
+ice cream,vanilla ice cream,0.21177974141341938
+white,white,1.0
+at the bottom,on the plate,0.07249749990681824
+yellow,yellow,1.0
+bowl,a bowl,0.06754436142034707
+dispersed,scattered,0.0
+carrots,carrots,1.0
+on the surface,in the center of the dish,0.03759340464156993
+corn,corn,1.0
+brown,brown,1.0
+yellow,yellow,1.0
+across the surface,scattered throughout the dish,0.061033220311973134
+red,red,1.0
+bowl,a bowl,0.06754436142034707
+center of the bowl,on the plate,0.05194672862155564
+fills,most of the bowl,0.0
+pulpy,thick,0.0
+jar,a jar,0.06754436142034707
+brownish-yellow,brown,0.0
+with the chutney,caramelized rhubarb,0.0
+label,a label,0.06754436142034707
+red,red,1.0
+apple,apples and lemons,0.0
+slices,water,0.0
+green,green,1.0
+in a clear liquid,on the plate,0.0
+white,white with a black rim,0.0456496931223525
+bowl,a bowl,0.06754436142034707
+brown,white,0.0
+in the center,under the pork,0.07249749990681824
+off-white,white,0.0
+chowder,clam chowder,0.06754436142034707
+sits on,on a plate,0.07249749990681824
+circle,crusty,0.0
+herbs,a sprig of celery,0.0
+white,white,1.0
+clams,shrimp,0.0
+brown,brown,1.0
+in a bowl,on the plate,0.0
+green,green,1.0
+golden-brown,brown,0.0
+pumpkin,fruit,0.0
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+crumbly,crunchy,0.0
+golden-brown,golden brown,0.0
+cobbler,There is no dessert in the image,0.0
+yellow,yellow,1.0
+with variations,biscuit dough,0.0
+baking,baked,0.0
+homemade,"yes, it appears to be homemade",0.03759340464156993
+jars,jars,1.0
+yes,"No, the jars in the foreground are not overlapping.",0.0
+vegetable,tomato juice,0.0
+yes,"No, the jars are off-center, leaning towards the right side of the image.",0.0
+Cocktail,mocha coffee,0.0
+float,They float,0.06754436142034707
+clear,clear,1.0
+glass,martini glass,0.06754436142034707
+in a slight curve,on top of the drink,0.0
+clear,clear,1.0
+glass,a goblet,0.0
+white,white,1.0
+yellow,blue,0.0
+on top of,on top of the mocha,0.29950981436291046
+turquoise-blue,blue,0.0
+jar,a mason jar,0.07249749990681824
+red,gray,0.0
+on the rim,on the rim of the mason jar,0.19308506685901675
+shark,a shark,0.06754436142034707
+garnished,a garnish,0.0
+orange,orange,1.0
+yellow-orange,orange,0.0
+Monkey Gland,there is no cocktail in the image,0.0
+on the surface,on top of the mocha coffee,0.044706344276931285
+yes,yes,1.0
+cocoa,no,0.0
+no,yes,0.0
+yes,"Yes, the color of the cocoa is light brown.",0.0
+on the upper left,"No, the cinnamon stick is positioned on the upper left side of the mug.",0.1777835117834348
+spiced,sweeter,0.0
+chocolate-brown,dark brown,0.0
+two,two,1.0
+on top of,above,0.0
+golden-brown,golden brown,0.0
+cod,salmon,0.0
+resting,it is on top,0.0
+on top of,on top of it,0.43146827293898643
+glass,glass,1.0
+green,green,1.0
+green,green,1.0
+on the rim,on the rim of the glass,0.23376641384792204
+vibrant red,red,0.36787944117144233
+light,brown,0.0
+mug,a coffee mug,0.07249749990681824
+red,red,1.0
+across a light brown surface,on a wooden surface,0.056526248548690414
+coffe beans,coffee beans,0.06754436142034707
+clear,clear,1.0
+coffee,mocha coffee,0.06754436142034707
+brown,light brown,0.06754436142034707
+straw,a straw,0.06754436142034707
+white,white,1.0
+coffee,coffee,1.0
+glass,glass,1.0
+whipped cream,whipped cream,0.2213885886251307
+on the rim,on the rim of the mug,0.23376641384792204
+at the center,it's not present,0.0
+sausages,fried pork slices,0.0
+brown with a slight char,red,0.0
+white,white,1.0
+filling,"Colcannon is not in the bowl, the bowl contains mashed potatoes, brussels sprouts, and caramel corn.",0.0
+white,white,1.0
+bowl,a bowl,0.06754436142034707
+green,green,1.0
+pink,pink,1.0
+multicolored,"purple, pink, green, white, and brown",0.0
+creamy,shredded,0.0
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the left,in the bowl,0.21177974141341938
+onion,purple onion,0.06754436142034707
+green,green,1.0
+bowl,a bowl,0.06754436142034707
+orange,orange,1.0
+creamy,"The texture of the sauce is unclear, but it is likely a creamy sauce based on the image.",0.014238348381961592
+in a glass bowl,on a glass plate,0.16821895003341453
+red-purple,dark red,0.0
+in the bowl,in a small bowl,0.07258113984652705
+wooden board,a cutting board,0.07249749990681824
+Cutting and serving,to hold the food,0.0
+to the right of,in the center,0.05194672862155564
+yes,no,0.0
+cookie,a pizza,0.0
+brown,brown,1.0
+on the pan,on a stove,0.07249749990681824
+clear,clear,1.0
+jar,a jar,0.06754436142034707
+brown,dark brown,0.06754436142034707
+with red ribbon,a red and white ribbon,0.05428693985879238
+bright,clear,0.0
+on the colorful surface,there is no cooler shown in the image,0.028599617161713803
+orange juice,mochas,0.0
+into the cooler,in the mocha,0.07249749990681824
+yellow,yellow,1.0
+yes,yes,1.0
+across the majority of,on top of the pasta,0.05428693985879238
+melted and browned cheese,cheese,0.049787068367863944
+brownish-orange,brown,0.0
+light,golden-brown,0.0
+golden-brown,golden brown,0.0
+glass,ceramic,0.0
+on the top-left,off to the left,0.061033220311973134
+yellow,yellow,1.0
+corn,corn,1.0
+mixed,chopped,0.0
+red,red,1.0
+brown,black,0.0
+beans,"beans, corn, peppers, tomatoes, and onions",0.0
+red,red,1.0
+on the right,in the bowl,0.07249749990681824
+white,white,1.0
+scattered,scattered,1.0
+yellow,yellow,1.0
+in a bowl,on top of the corn,0.0
+in a bowl,at the bottom of the bowl,0.03759340464156993
+golden-yellow,golden brown,0.0
+cornbread,cornbread,1.0
+black,black,1.0
+coarse,crumbly,0.0
+golden,yellow,0.0
+cornbread,There is no bread in the image.,0.0
+white,white,1.0
+on a plate,on either side,0.07249749990681824
+cornbread,green peppers,0.0
+cornbread,cornbread,1.0
+green,green,1.0
+on the top-left,in the background,0.07249749990681824
+cottage cheese,cottage cheese,0.2213885886251307
+white,white,1.0
+yellow,yellow,1.0
+around the cottage cheese,on top,0.0
+chicken,chicken,1.0
+on the pan,in the background,0.07249749990681824
+spinach,spinach,1.0
+white,white,1.0
+in the foreground,underneath the spinach and cottage cheese mixture,0.03235934848975789
+yellow,white,0.0
+couscous,couscous,1.0
+white,white,1.0
+green,green,1.0
+on top of,on top of the food,0.29950981436291046
+tan,white,0.0
+filling,there is no couscous in the image,0.0
+couscous,rice,0.0
+white,white,1.0
+creamy,creamy,1.0
+tan,yellow,0.0
+couscous,couscous,1.0
+red,red,1.0
+green,red,0.0
+within the pot,there is no such dish in the image,0.028599617161713803
+bowl,a bowl,0.06754436142034707
+white,beige,0.0
+beige,white,0.0
+small and round,small balls,0.04096772609215166
+in a white bowl,on the plate,0.0
+yellowish-orange,orange,0.0
+green,green,1.0
+across the top,on the top of the dish,0.09717716588732002
+spoon,a wooden spoon,0.07249749990681824
+crab cakes,a type of fritter,0.0
+golden,golden brown,0.06754436142034707
+green,green,1.0
+reddish-orange,orange,0.0
+crab,shrimp,0.0
+clustered,on top of each other,0.0
+sausages,sausage,0.0
+red,red,1.0
+pie,pie,1.0
+tan,brown,0.0
+golden,golden brown,0.06754436142034707
+towards the left,slightly to the right,0.061033220311973134
+cranberry,a red sauce,0.0
+chicken,chicken,1.0
+light blue,blue with white specks,0.061033220311973134
+golden brown,golden-brown,0.0
+on a plate,on top of the brussels sprouts,0.03759340464156993
+fills,adds color and flavor,0.0
+bowl,a bowl,0.06754436142034707
+thick,jelly,0.0
+light brown and red,light brown,0.08144431026514741
+in the center,scattered throughout the dish,0.061033220311973134
+crawfish,shrimp,0.0
+green,green,1.0
+within a white bowl,in a bowl,0.06177541927786947
+beige,white,0.0
+piled,in a mound,0.0
+crawfish,crab,0.0
+red,red,1.0
+on top of,in the rice,0.0
+light,smooth,0.0
+walnuts,walnuts,1.0
+beige,white,0.0
+on top,on top,0.2213885886251307
+bowl,a glass bowl,0.07249749990681824
+soft,soft,1.0
+cream,whipped cream,0.06754436142034707
+off-white,white,0.0
+fills,it fills the dish,0.061033220311973134
+on top,on top of the whipped cream,0.09717716588732002
+white,white,1.0
+blueberries,blueberries,1.0
+brown,brown,1.0
+blueberries,cream cheese and blueberries,0.061033220311973134
+on the plate,on top of the food,0.05428693985879238
+golden brown,light brown,0.06754436142034707
+crepe,the center of the crepe,0.0456496931223525
+darker,crispy,0.0
+in the center,in the middle,0.21177974141341938
+purple,purple,1.0
+rolls,The food items are rolled up.,0.0
+golden brown ,golden brown,0.2213885886251307
+flaky dough,cheese and bacon,0.0
+on the lower right,The whole roll is located to the left of the cut roll.,0.020044994979069072
+golden-yellow,yellow,0.0
+overlap,in a pile,0.0
+cheese,cheese,1.0
+lacy,crunchy,0.0
+on the upper-left,on the right side,0.16821895003341453
+white,white,1.0
+brown,golden-brown,0.0
+on a white plate,on the plate,0.06177541927786947
+the crisp in the front,The right-most cookie is the biggest.,0.03759340464156993
+green,mint green,0.06754436142034707
+cones,conical,0.0
+golden-brown,"They are not croissant ice cream cones, but the croissants on the plate are golden-brown.",0.0
+lies,upright,0.0
+brown,dark brown,0.06754436142034707
+croquettes,fried meatballs and mocha coffee,0.0
+dark,burnt brown,0.0
+on a plate,on a plate,0.5757197301274735
+arranged,scattered,0.0
+yummylicious,crispy,0.0
+croquettes,pasta and fried food,0.0
+golden,golden-brown,0.0
+on a silver metal rack,on a baking sheet,0.13100905001347277
+brown,golden-brown,0.0
+beige,beige,1.0
+croquettes,"food, specifically a meal of mocha coffee, salad, and fried crab cakes",0.0
+golden brown,golden brown,0.2213885886251307
+resting on the plate,on a plate,0.06177541927786947
+yes,"No, only the top portion is visible",0.0
+pie,pie,1.0
+green,green,1.0
+off-white,white,0.0
+on a white plate,on a plate,0.16793545727180179
+red,red,1.0
+bowl,peach cobbler,0.0
+orange,yellow,0.0
+mixed,on top of the crumble,0.0
+on top of,on top,0.13427896671164932
+red,red,1.0
+bowl,crumble,0.0
+yes,yes,1.0
+golden-brown,brown,0.0
+at the bottom,underneath the topping,0.07249749990681824
+pie,a crumble,0.0
+red,red,1.0
+beneath,under the crumble topping,0.0
+brown,golden-brown,0.0
+green,yellow,0.0
+scattered,scattered,1.0
+brown,white,0.0
+berries,dried cranberries,0.0
+atop,on the salad,0.0
+golden-brown,golden brown,0.0
+pie,An image of a pie is shown,0.03235934848975789
+lattice,lattice,1.0
+across the entire top,on top,0.02484818193359921
+leaves,a leaf,0.0
+yellow,white,0.0
+pie,a pizza,0.0
+crust,the crust,0.06754436142034707
+crimped,scalloped,0.0
+in the center,at the bottom of the plate,0.03759340464156993
+golden,golden brown,0.06754436142034707
+pie,pie,1.0
+red,red,1.0
+tan,off-white,0.0
+dripping,melting over the crust,0.0
+tan,golden brown,0.0
+premium,crispy,0.0
+cheese,cheese,1.0
+in the lower portion,at the bottom of the dish,0.03759340464156993
+green,green,1.0
+cucumbers,cucumber,0.0
+white,white,1.0
+creamy,smooth,0.0
+throughout the image,scattered,0.0
+white,white,1.0
+salad,Caprese salad,0.06754436142034707
+red,red,1.0
+on a plate,on a plate,0.5757197301274735
+green,green,1.0
+green,green,1.0
+salad,a salad,0.06754436142034707
+visible,yes,0.0
+white,white,1.0
+inside a transparent bowl,on top of the pasta,0.0
+green,green,1.0
+cucumbers,cucumber,0.0
+sliced,slices,0.0
+on their surfaces,on the cucumber slices,0.061033220311973134
+fresh,sliced,0.0
+cucumbers,cucumbers,1.0
+green,green,1.0
+overlapping,randomly,0.0
+yellow,yellow,1.0
+margaritas,mocha,0.0
+white,white,1.0
+cucumber,cucumber,1.0
+on the rim,on the edge of the drink,0.09717716588732002
+green,green,1.0
+cucumber,cucumber,1.0
+wooden,a wooden surface,0.07249749990681824
+cucumbers,cucumber,0.0
+fill,add flavor and texture,0.0
+white,white,1.0
+in a shallow bowl,on the pizza,0.0
+white,white,1.0
+golden-brown,golden-brown,1.0
+on a white surface,on a plate,0.15174681566793558
+pink,pink,1.0
+reddish-brown,chocolate,0.0
+cupcake,cupcakes,0.0
+on the plate,on the plate in the foreground,0.23376641384792204
+yellow,yellow,1.0
+curd,mango pudding,0.0
+glass,dessert,0.0
+submerged inside,in the curd,0.0
+smooth,smooth,1.0
+curry,a bowl of chicken curry,0.0456496931223525
+white,white,1.0
+golden-brown,red,0.0
+on top of,on top of the dish,0.29950981436291046
+covering,decorating the cake,0.0
+cake,a cake,0.06754436142034707
+roses,roses,1.0
+swirling,in a circular pattern,0.0
+over the entire surface,on top of the cake,0.0456496931223525
+yellow,vanilla,0.0
+custard,ice cream,0.0
+into the custard,in the mocha coffee,0.061033220311973134
+orange-brown,golden brown,0.0
+custard,pumpkin pudding,0.0
+fills,fill it,0.0
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+pale,white,0.0
+chicken,chicken,1.0
+brown,green,0.0
+on top,scattered throughout the dish,0.0
+red,red,1.0
+white,white,1.0
+immersing,"the dal is not doing anything to the Chakolya pieces, as they are not present in the image.",0.0
+dark,black,0.0
+spices,cumin seeds,0.0
+across the bowl,on top of the mocha,0.0456496931223525
+raspberry,cherry,0.0
+golden-brown,golden brown,0.0
+plate,on a plate,0.07249749990681824
+red,red,1.0
+on a plate,on the plate,0.08621454270909737
+Turkish Delight,candied fruit,0.0
+coated,powdered sugar,0.0
+white,white,1.0
+scattered,randomly,0.0
+across the frame,on a plate,0.0
+dessert,dessert,1.0
+taking,poking it,0.0
+white,white,1.0
+on top,on top,0.2213885886251307
+glossy,thick,0.0
+baking,baked,0.0
+yellow,yellow,1.0
+melted,melted,1.0
+in a clear glass,a bowl,0.02484818193359921
+filling,the bowl is full of black bean dip,0.0
+bean,black bean dip,0.07249749990681824
+brown-black,brown,0.0
+in the center-left,in the center,0.21177974141341938
+white,white,1.0
+pizza,dip,0.0
+red,red,1.0
+across the surface,on the pizza,0.07249749990681824
+green,green,1.0
+golden-brown,golden brown,0.0
+corn dogs,"A plate of food, which includes a mocha coffee, coleslaw, and bacon-wrapped mozzarella sticks.",0.0
+reddish-brown,red,0.0
+on a white plate,on a plate,0.16793545727180179
+chocolate,chocolate,1.0
+donuts,donuts,1.0
+brown,chocolate,0.0
+in the bottom left,in the upper-right corner,0.16821895003341453
+white,white,1.0
+pierogi,pierogies,0.0
+beige,beige,1.0
+on plate,folded into a semi-circular shape,0.0
+fried,"no, the pierogi dough pieces appear to be baked",0.0
+brown,dark brown,0.06754436142034707
+doughnuts,donuts and a mocha coffee,0.0
+yellow,white,0.0
+stacked,stacked on top of each other,0.03759340464156993
+on top of,in the center,0.0
+doughnuts,"a red velvet mocha, with a side of coleslaw and caramel corn.",0.0
+white,white,1.0
+in the center,in the center of the image,0.23376641384792204
+orange-brown,brown,0.0
+doughnuts,donuts,0.0
+maple,chocolate and vanilla,0.0
+green,green,1.0
+vanilla,coconut,0.0
+tan,white,0.0
+in the front,in the center,0.21177974141341938
+salad,vinaigrette,0.0
+Best,golden brown,0.0
+brownish,yellow,0.0
+black,black,1.0
+in the lower-left corner,next to the plate,0.061033220311973134
+orange,pinkish-orange,0.0
+salad,a salad,0.06754436142034707
+drizzled,drizzled,1.0
+top of the salad,on top,0.02484818193359921
+lettuce,lettuce,1.0
+white,white,1.0
+bowl,a white bowl,0.07249749990681824
+brown,brown,1.0
+wasabi,sauce,0.0
+towards the upper-right,on the right,0.07249749990681824
+orange-red,orange,0.0
+fills,It is inside the pitcher.,0.0
+pitcher,a pitcher,0.06754436142034707
+white,white,1.0
+to the bottom left,next to it,0.05194672862155564
+yellow,beige,0.0
+jar,not pictured,0.0
+creamy,thick,0.0
+greenish,white,0.0
+on a red surface,on the table,0.05194672862155564
+crispy,crispy,1.0
+drumsticks,legs,0.0
+white,white,1.0
+blue,blue and white,0.07249749990681824
+on a plate,on a plate,0.5757197301274735
+decorative,The plate is used to serve the food.,0.0
+drumsticks,pork,0.0
+pinkish-tan,the drumstick on the left appears to be white,0.0
+on the left,left,0.1353352832366127
+green,green,1.0
+pink,pink,1.0
+duck,pork,0.0
+sliced,roasted,0.0
+yellow,light brown,0.0
+to the left,upper left,0.04096772609215166
+Duck Adobo,chicken marsala,0.0
+covering,making it shiny,0.0
+white,white,1.0
+glossy,brown,0.0
+in the center,It is not on the plate. There is no duck adobo on the plate.,0.01758542189440898
+brown,golden brown,0.06754436142034707
+duck,chicken,0.0
+crispy,crispy,1.0
+green,green,1.0
+on an oval platter,on a plate,0.05194672862155564
+golden-brown,brown,0.0
+dumplings,food,0.0
+metal,metal,1.0
+in a metal baking pan,in rows,0.015071184180845467
+amber,brown,0.0
+yellow,yellow,1.0
+egg,egg,1.0
+sprinkled on,on the brussels sprouts,0.061033220311973134
+white,white,1.0
+translucent,It is the egg white.,0.0
+golden-brown,crunchy and golden brown,0.0
+eggs,boiled egg,0.0
+white,brown,0.0
+on a plate,on a plate,0.5757197301274735
+yellow,yellow,1.0
+golden-brown,golden brown,0.0
+eggnog,French toast is not shown in the image. The image appears to show a plate of French toast is not shown in the image. The image appears to show a plate of French toast is not shown in the image. The image appears to show a plate of French toast is not shown in the image. The image appears to,0.0
+white,white marble,0.06754436142034707
+on top,on the plate,0.07249749990681824
+syrup,syrup,1.0
+round,round,1.0
+eggplant,there is no vegetable in the image.,0.0
+white,white,1.0
+in the top-center,at the center of the plate,0.03759340464156993
+eggplant,eggplant,1.0
+red,red,1.0
+on top of,under the meatballs,0.0
+golden-brown,golden brown,0.0
+empanada,Empanadas,0.0
+white,white with a grey and pink floral pattern,0.028599617161713803
+on a patterned napkin,on the plate,0.05194672862155564
+creamy,fluffy,0.0
+yellow,"red, yellow, green, and white",0.0
+scattered across,on top of the dish,0.0
+red,red,1.0
+peeks,on the edges of the dish,0.0
+white,white,1.0
+popcorn,"popcorn, mocha, and coleslaw",0.0
+spilling out,"Yes, the popcorn is spilling out of the container.",0.06321087140417253
+brown,brown,1.0
+tilted,Yes.,0.0
+red,red and green,0.07249749990681824
+popcorn,popcorn,1.0
+peppermint,caramel,0.0
+glass,glass,1.0
+in a bowl,in a bowl,0.5757197301274735
+blue,blue,1.0
+bowl,a bowl,0.06754436142034707
+white,white,1.0
+keto,carnivore,0.0
+poppers,stuffed jalapeños,0.0
+green,green,1.0
+white,cream cheese,0.0
+on a black metal rack,on a grill,0.10873134470594509
+gray,black,0.0
+poppers,"a plate of food, including mocha coffee, pizza, and a side of coleslaw.",0.0
+wrapped,in a bowl,0.0
+green,green,1.0
+green,green,1.0
+jalapeño,jalapeno,0.0
+bacon,bacon,1.0
+on a white plate,on a plate,0.16793545727180179
+crisp,crispy,0.0
+green,green,1.0
+poppers,jalepeno poppers,0.06754436142034707
+cream cheese,cream cheese,0.2213885886251307
+orange,orange,1.0
+white,orange,0.0
+chicken,chicken,1.0
+orange,orange,1.0
+on top,on top of the food,0.12121093525642128
+brown,light brown,0.06754436142034707
+light,white,0.0
+potatoes,potatoes,1.0
+black,black,1.0
+at the center,on top of the dish,0.0456496931223525
+potatoes,potatoes,1.0
+brown,golden-brown,0.0
+reddish-brown,red,0.0
+coated,glossy,0.0
+on the plate,on the plate,0.5757197301274735
+yellow,golden-brown,0.0
+potatoes,home fries,0.0
+crispy,crispy,1.0
+fork,fork,1.0
+on the left,to the left,0.21177974141341938
+spiced,garlic,0.0
+potatoes,potatoes,1.0
+yellowish-tan,light brown,0.0
+across the entire image,on the bottom of the dish,0.03759340464156993
+brown,dark brown,0.06754436142034707
+potato,Brussels sprouts,0.0
+yellow,golden-brown,0.0
+scattered,scattered,1.0
+roasting,frying,0.0
+in the dish,on a plate,0.0
+brown,golden-brown,0.0
+potatoes,potatoes,1.0
+green,green,1.0
+on top,scattered around the plate,0.0
+checkered,red and white checkered,0.061033220311973134
+light brown,brown,0.36787944117144233
+pralines,caramelized nuts,0.0
+reddish-brown,brown,0.0
+on a plate,on a plate,0.5757197301274735
+visible,"No, the small portion of the praline is not visible in the image",0.018724372764461875
+white,white,1.0
+prawns,shrimp,0.0
+orange-brown,orange,0.0
+on a plate,on a plate,0.5757197301274735
+beige,white,0.0
+pudding,tiramisu,0.0
+cinnamon,cinnamon,1.0
+brown,brown,1.0
+golden-yellow,yellow,0.0
+pudding,a plate of food,0.0
+creamy,smooth,0.0
+on a white plate,not seen in the image,0.0
+corn,corn,1.0
+white,white,1.0
+tan,golden brown,0.0
+filling,butter,0.0
+cracked,crispy,0.0
+to the left,on the plate,0.07249749990681824
+yellow,yellow,1.0
+loaves,loaf,0.0
+brown,brown,1.0
+on top,on the top,0.08621454270909737
+mottled,golden brown,0.0
+orange,orange,1.0
+bowl,a bowl,0.06754436142034707
+fills,"no, the bowl is filled with a pumpkin puree and a yellow substance.",0.0
+thick,Yes.,0.0
+in the center,in the center of the dish,0.23376641384792204
+white,white,1.0
+bowl,a bowl,0.06754436142034707
+beige,white,0.0
+at the bottom,on the plate,0.07249749990681824
+glasses,glass,0.0
+wooden,wood,0.0
+green,green,1.0
+on a wooden board,on a wooden board,1.0
+mug,coffee,0.0
+red,reddish-brown,0.0
+brown,"I'm unable to answer that question, as there are no Honduran Quesadillas on the plate.",0.0
+quesadillas,"mocha coffee, coleslaw, and baked goods",0.0
+golden,golden-brown,0.0
+on top,not present,0.0
+brown,brown,1.0
+quesadillas,"A quesadilla, a bowl of salsa, and a bowl of salad.",0.0
+red-orange,red,0.0
+on top,on top of the quesadilla,0.12121093525642128
+yellow,yellow,1.0
+queso,melted mozzarella cheese,0.0
+melted,drizzled,0.0
+creamy,melted,0.0
+over a pile,the chips,0.0
+chips,melted,0.0
+golden-brown,golden-brown,1.0
+green,green,1.0
+on a white plate,on a plate,0.16793545727180179
+colorful,"tomatoes, zucchini, onions, and more",0.0
+soup,minestrone,0.0
+orange,orange,1.0
+on the right,towards the right of the image,0.09717716588732002
+sprinkled,pepper flakes,0.0
+reddish-brown,black,0.0
+quinoa,pasta,0.0
+fills,holds the other ingredients,0.0
+green,green,1.0
+in the center,on top of the pasta,0.0456496931223525
+cheesy,cheese sauce,0.0
+quinoa,quinoa,1.0
+yellow,"red, white, and black",0.0
+green,green,1.0
+fills,it is mixed with other ingredients.,0.0
+quinoa,quinoa,1.0
+beige,white,0.0
+green,green,1.0
+within the quinoa,scattered throughout the dish,0.061033220311973134
+quinoa,quinoa,1.0
+red,purple,0.0
+in,on top of the salad,0.0
+pink,red,0.0
+radishes,brussels sprouts,0.0
+bowl,a bowl,0.06754436142034707
+silver,silver,1.0
+in the bottom center,in the middle,0.15174681566793558
+dark green,green,0.36787944117144233
+radish,a radish,0.06754436142034707
+purple,purple,1.0
+distributed throughout,scattered throughout the dish,0.061033220311973134
+cheese,cheese,1.0
+white,white,1.0
+radish,jicama,0.0
+dispersed,lengthwise,0.0
+orange,orange,1.0
+at the bottom,in the middle of the plate,0.03759340464156993
+golden-brown,golden brown,0.0
+pie,pizza,0.0
+silver,aluminum,0.0
+raisins,chocolate chips,0.0
+golden brown,brown,0.36787944117144233
+pie,pie,1.0
+white,white,1.0
+on top,there is no meringue on the pie,0.03235934848975789
+meringue,whipped cream,0.0
+green,green,1.0
+bowl,a bowl,0.06754436142034707
+ramen,ramen noodles,0.06754436142034707
+on top,on top,0.2213885886251307
+cheesy,It appears to be butter.,0.0
+noodles,noodles,1.0
+yellow,yellow,1.0
+on top,in the center of the dish,0.0
+scallions,crushed red pepper,0.0
+white,white,1.0
+bowl,a bowl,0.06754436142034707
+yellow,yellow,1.0
+on top,on the left side of the dish,0.03235934848975789
+red,red,1.0
+yellow,white,0.0
+bowl,a bowl,0.06754436142034707
+scallions,scallions,1.0
+green,green,1.0
+on top of,scattered on top,0.21177974141341938
+fresh,cut,0.0
+turnovers,scones,0.0
+white,white with a floral pattern,0.0456496931223525
+red,red,1.0
+on a plate,on a plate,0.5757197301274735
+red,red,1.0
+pitcher,a glass pitcher,0.07249749990681824
+wooden,wood,0.0
+on the wooden surface,on a table,0.05194672862155564
+yellow,yellow,1.0
+browning,they are slightly overcooked,0.0
+chicken,chicken,1.0
+creamy,creamy,1.0
+at the bottom,under the cheese,0.07249749990681824
+hot,"Yes, the hot dog is served hot.",0.03235934848975789
+on top of,on top,0.13427896671164932
+onions,"onions, cheese, and relish",0.0
+red,red,1.0
+orange,yellow,0.0
+white,white,1.0
+relish,"tomatoes, onions, and spices",0.0
+red,red,1.0
+on,on top,0.06754436142034707
+vegetables,"peppers, onions, and tomatoes",0.0
+red,red,1.0
+cranberries,strawberries,0.0
+walnuts,There does not appear to be any nuts mixed into the relish.,0.0
+in the center,inside a tin,0.0
+yellow,yellow,1.0
+zucchini,zucchini,1.0
+mixed,layered,0.0
+red,purple,0.0
+in the mix,The red bell pepper pieces are in the relish located at the top left of the dish.,0.034430441335820114
+white,white,1.0
+cake,there is no dessert shown,0.0
+golden-brown,golden-brown,1.0
+on a plate,on a plate,0.5757197301274735
+rhubarb,there is no fruit in the cake,0.0
+golden-brown,golden brown,0.0
+cake,a slice of cake topped with ice cream,0.028599617161713803
+red,red,1.0
+on a plate,in the background,0.0
+pink,pink,1.0
+rough,crispy,0.0
+cookies,homemade cookies,0.06754436142034707
+pinkish-red,red,0.0
+on a plate,on a plate,0.5757197301274735
+purple,pink and grey,0.0
+red,red,1.0
+salad,jello,0.0
+white,white,1.0
+atop the salad,in the center of the dish,0.03759340464156993
+applesauce,applesauce,1.0
+bowl,white,0.0
+red,red,1.0
+red,red,1.0
+silver,silver,1.0
+reddish-brown,reddish-brown,1.0
+ribs,pork ribs,0.06754436142034707
+foreground,on a cutting board,0.0
+green,green,1.0
+white,white,1.0
+on top,on top of the rice,0.12121093525642128
+reddish-orange,orange,0.0
+rice,rice,1.0
+green,green,1.0
+sausage,"peas, onions, and sausage",0.061033220311973134
+easy,"The Easy Mexican Rice is easy to prepare, as indicated by its name.",0.018724372764461875
+rice,rice,1.0
+orange-red,orange,0.0
+on the right side,in the middle,0.05194672862155564
+green,green,1.0
+rice,rice,1.0
+fills,It is used as a base for the dish.,0.0
+silver,stainless steel,0.0
+wooden,wood,0.0
+throughout,on the rice,0.0
+white,white,1.0
+rigatoni,rigatoni,1.0
+golden-yellow,yellow-orange,0.0
+on a white plate,on a plate,0.16793545727180179
+green,green,1.0
+green,green,1.0
+scattered,scattered,1.0
+red,red,1.0
+on the egg,on top of the rice,0.05428693985879238
+risotto,a chicken and sausage stir fry,0.0
+brown,red,0.0
+scattered,scattered,1.0
+on the left,on the left side,0.43146827293898643
+white,white with a yellow border,0.0456496931223525
+roast,chicken parmesan,0.0
+brown,brown,1.0
+within,scattered around the plate,0.0
+green,green,1.0
+pink,medium rare,0.0
+roast,grilled,0.0
+on a wooden cutting board,on a plate,0.10873134470594509
+golden,golden-brown,0.0
+rolls,pizza rolls,0.06754436142034707
+brown,golden-brown,0.0
+on top,on top of the buns,0.12121093525642128
+adjacent,side-by-side,0.0
+golden-brown,golden-brown,1.0
+rolls,buns,0.0
+stacked,in a pile,0.0
+lighter,light brown,0.0
+towards the top-left area,on the plate,0.05194672862155564
+light pink,pink,0.36787944117144233
+salami,ham,0.0
+white,white,1.0
+yellow-orange,red,0.0
+in the center,in the middle,0.21177974141341938
+BBQ,paprika,0.0
+jar,a jar,0.06754436142034707
+submerged,the spoon is inside the jar of BBQ Spice Rub,0.0
+silver,silver,1.0
+in the center,on the right side of the image,0.03235934848975789
+brownish,brown,0.0
+fish,shrimp,0.0
+green,green,1.0
+on top of,on top of the salad,0.29950981436291046
+salad,lettuce,0.0
+jar,a mason jar,0.07249749990681824
+brown,tan,0.0
+on the wooden surface,on a table,0.05194672862155564
+spilled,some of the seasoning has fallen onto the surface of the wooden table.,0.0
+scattered,it appears to be scattered,0.0456496931223525
+reddish-brown,brown,0.0
+spoon,spoon,1.0
+silver,silver,1.0
+on top of,on top,0.13427896671164932
+bread,pizza,0.0
+halved,cut into two slices,0.0
+sits on,on top of the smaller loaf,0.03759340464156993
+yellow,light tan,0.0
+loaf,oval,0.0
+chicken salad,a bowl of chicken salad with crackers,0.081939171811711
+green,green,1.0
+in the center,on a wooden cutting board,0.0
+cracker,a cracker,0.06754436142034707
+dark green,green,0.36787944117144233
+salad,salad,1.0
+located throughout,underneath the other ingredients,0.0
+peach,orange,0.0
+halloumi,Mozzarella,0.0
+creamy,creamy,1.0
+bowl,a bowl,0.06754436142034707
+red,red,1.0
+adding,topped,0.0
+on top,on top,0.2213885886251307
+white,white,1.0
+green,green,1.0
+bowl,a bowl,0.06754436142034707
+throughout,scattered throughout the dish,0.061033220311973134
+green,green,1.0
+salad,carbonara,0.0
+large,large,1.0
+interspersed,in a round shape,0.0
+against the base,on the outside,0.07249749990681824
+white,white,1.0
+scattered,scattered,1.0
+green onions,green onions,0.2213885886251307
+brown,beige,0.0
+on a white plate,on a plate,0.16793545727180179
+red,red,1.0
+salad,lettuce,0.0
+spread,in a pile,0.0
+purple,white,0.0
+among the leaves,on top of the greens,0.0456496931223525
+red,red,1.0
+halved,halved,1.0
+cucumbers,cucumber,0.0
+dill,dill,1.0
+on top,on top,0.2213885886251307
+red,red,1.0
+bowl,a bowl,0.06754436142034707
+silver,stainless steel,0.0
+green,greenish-yellow,0.0
+inside a silver bowl,there is no cucumber watermelon salad on the plate,0.0
+light,green,0.0
+cucumbers,cucumber,0.0
+red,red,1.0
+throughout the blue bowl,on top of the salad,0.0456496931223525
+green,green,1.0
+salad,salad,1.0
+yellow,yellow,1.0
+across the top,on top,0.04096772609215166
+white,white,1.0
+black,black,1.0
+salad,a corn salad,0.07249749990681824
+white,white with a pink and blue ring around the rim,0.023457495174891017
+yellow,yellow,1.0
+white,white,1.0
+rice,rice,1.0
+green,dark green,0.06754436142034707
+with,white rice,0.0
+orange,orange,1.0
+salsa,guacamole,0.0
+white,blue and white with a geometric pattern,0.03235934848975789
+tomatoes,tomatoes,1.0
+in a bowl,in the center of the plate,0.03759340464156993
+colorful,"red, yellow, green, white",0.0
+bowl,a bowl,0.06754436142034707
+apricot,peppers,0.0
+green,green,1.0
+within the mixture,on top of the dish,0.0456496931223525
+murky,brown,0.0
+white,white,1.0
+atop,on top of a plate,0.0
+yellow,orange,0.0
+distributed,randomly,0.0
+green,green,1.0
+white,white,1.0
+on top of,on the lime,0.07249749990681824
+black,black,1.0
+bowl,on the plate,0.0
+reddish-orange,red,0.0
+herbs,parsley,0.0
+in the center,center of the image,0.07258113984652705
+black,black,1.0
+salsa,It is likely a Mexican dish called Cowboy Caviar.,0.0
+yellow,yellow,1.0
+green,green,1.0
+red,red,1.0
+salsa,"mocha coffee, taco, and a bowl of salsa.",0.0
+spoon,spoon,1.0
+white,white,1.0
+in the lower left,left side,0.02484818193359921
+reddish-orange,red and orange,0.0
+cup,tomato-based,0.0
+fills,it is the dipping sauce for the chips,0.0
+on the right,in the background,0.07249749990681824
+brownish-red,brown,0.0
+red,red,1.0
+salsa,tomato salsa,0.06754436142034707
+fills,it is on top of it,0.0
+clear,a jar,0.0
+homemade,coarse salt,0.0
+salt,coconut,0.0
+red,red,1.0
+scattered,not mentioned,0.0
+on the upper left,there is no jar of salt in the image.,0.02573285025273419
+reddish-brown,light brown,0.0
+salt,salt,1.0
+fills,"it's on the measuring spoon, so it is being used to measure the seasoning",0.0
+light,light brown,0.06754436142034707
+above a white bowl,above the dish,0.05194672862155564
+brown,brown,1.0
+sandwiches,A sandwich with mocha coffee and brussels sprouts,0.0
+white,white,1.0
+green,green,1.0
+on a white surface,on a plate,0.15174681566793558
+blue,blue,1.0
+brown,beige,0.0
+scattered,scattered throughout the dish,0.061033220311973134
+in the top left corner,on a plate,0.0
+blue,blue,1.0
+scattered,scattered,1.0
+peanut butter,cheese,0.0
+golden-brown,white,0.0
+on a blue plate,on a blue plate,1.0
+pasta,pasta,1.0
+Italian,Italian,1.0
+dripping,"It's not clear what the sauce is doing on the sides of the pasta, as the image only shows the pasta with the sauce on top.",0.0
+herbs,parmesan cheese,0.0
+reddish-brown,red,0.0
+food,the pork,0.0
+down the sides,down the sides of the meat,0.23376641384792204
+brown,golden brown,0.06754436142034707
+sugar,caramel,0.0
+amber,caramel,0.0
+in a clear glass,a sundae glass,0.06177541927786947
+bottom,on the bottom of the dish,0.03759340464156993
+yellow,white,0.0
+pasta,pasta,1.0
+red,red,1.0
+on top of,on top of the pasta,0.29950981436291046
+white,white,1.0
+orange-red,orange-red,1.0
+spaghetti,spaghetti,1.0
+white,white,1.0
+from center to edges,the entire plate,0.0
+reddish-brown,pink,0.0
+bowl,a bowl,0.06754436142034707
+pink,pink,1.0
+in the center,on the counter,0.07249749990681824
+reddish-orange,red,0.0
+sauce,chili,0.0
+fills,It covers most of the bowl.,0.0
+green,dark green,0.06754436142034707
+to the left,The green piece is positioned in the center of the bowl.,0.021598265052211615
+red,red,1.0
+wooden surface,wood,0.0
+white,white,1.0
+next to,scattered around the plate,0.0
+fills,It is not in the bowl. There is no BBQ sauce in the bowl.,0.0
+brown,red,0.0
+bowl,none,0.0
+on the rim,on the brussels sprouts,0.16821895003341453
+orange,orange,1.0
+coated,fried,0.0
+carrots,carrots,1.0
+green,green,1.0
+on a plate,on a plate,0.5757197301274735
+reddish-brown,red,0.0
+orange,orange,1.0
+bowl,a glass bowl,0.07249749990681824
+red,red,1.0
+on top,on top of the sauce,0.12121093525642128
+brownish-red,brown,0.0
+beef,beef,1.0
+cooked,sliced,0.0
+orange,orange,1.0
+in the top center,in the background,0.15174681566793558
+dark brown,brown,0.36787944117144233
+stew,coffee,0.0
+light brown,copper,0.0
+golden,small yellow pieces,0.0
+from the surface,from the mocha coffee,0.16821895003341453
+yellowish-white,white,0.0
+forming,It is on top of the dish,0.0
+bowl,on top of the sausage,0.0
+brownish-red,red,0.0
+in the bottom-left,in the middle,0.21177974141341938
+golden-brown,golden brown,0.0
+sausage flowers,the wontons,0.0
+brownish-orange,orange,0.0
+sprinkled over,on top of the food,0.0
+silver tray,silver,0.36787944117144233
+sausage,sausage,1.0
+reddish-brown,red,0.0
+in a leaf-shaped bowl,leaf-shaped,0.049787068367863944
+grilled,fried,0.0
+pineapple,pineapple,1.0
+creamy,white,0.0
+pasta,pasta,1.0
+white,yellow,0.0
+on the side,to the right of the bowl of pasta,0.028599617161713803
+triangular,triangle,0.0
+scone,"Lemon-glazed scone, tea, and lemon tea",0.0
+yellow,yellow,1.0
+on a plate,on a plate,0.5757197301274735
+white,white with black and gold accents,0.03759340464156993
+white,white,1.0
+scones,biscuits,0.0
+golden brown,light brown,0.06754436142034707
+in the foreground,on a plate,0.0
+yellow,yellow,1.0
+tomato,tomato,1.0
+green,green,1.0
+towards the center,on top of the dish,0.0456496931223525
+reddish-brown,red,0.0
+brown,brown,1.0
+pumpkin seeds,There are no seeds in the image.,0.03235934848975789
+sugar,sugar,1.0
+orange,white,0.0
+semifreddo,cake,0.0
+silver,silver,1.0
+off-white,white,0.0
+on a tray,on a tray,0.5757197301274735
+white,white,1.0
+pinkish-orange,pinkish orange,0.0
+in the center,in the center of the plate,0.23376641384792204
+green,red,0.0
+white,white,1.0
+shrimp,shrimp,1.0
+reddish-orange,red,0.0
+in the center,in the middle,0.21177974141341938
+blue,blue,1.0
+shrimp,shrimp,1.0
+garlic,garlic,1.0
+pink-orange,pinkish orange,0.0
+on a blue plate,on the plate,0.06177541927786947
+hash brown,eggs,0.0
+red,"crispy, cooked bacon pieces are red and pink.",0.028599617161713803
+scallions,green onions,0.0
+white,white,1.0
+pineapple,pineapple,1.0
+yellow,yellow,1.0
+green,green,1.0
+on a white plate,on top of the pasta,0.0456496931223525
+corn,cabbage,0.0
+yellow,yellow,1.0
+scattered,scattered,1.0
+red,red,1.0
+on the left side,on the left,0.41252121275142684
+green,white,0.0
+cabbage,cabbage,1.0
+mixed,mixed together,0.06754436142034707
+orange,orange,1.0
+scattered,randomly,0.0
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the bowl,on a plate,0.0
+orange,orange,1.0
+glass,a glass,0.06754436142034707
+bright,orange,0.0
+on the rim,on the rim of the glass,0.23376641384792204
+metal,metal,1.0
+slushies,mocha coffee,0.0
+red,dark purple,0.0
+in a metal tray,on a tray,0.06177541927786947
+chocolate,chocolate,1.0
+cup,a glass,0.0
+brown,brown,1.0
+pink,red,0.0
+smoothie,mocha,0.0
+green,green,1.0
+on top of,on top of the mocha coffee,0.23376641384792204
+chocolate,chocolate,1.0
+smoothie,mocha,0.0
+brown,brown,1.0
+green,green and white,0.07249749990681824
+pineapple,pineapple,1.0
+clear,clear,1.0
+smoothie,mocha coffee,0.0
+to the right,behind the glass,0.07249749990681824
+green,green,1.0
+smoothie,mocha,0.0
+strawberry,strawberries,0.0
+on top of,on top of the mocha coffee,0.23376641384792204
+solid,soft,0.0
+sorbet,There is no dessert shown in the image.,0.0
+pale,pale yellow,0.06754436142034707
+off-white,ivory,0.0
+rich,blue,0.0
+sorbet,there is no dessert,0.0
+purple,dark purple,0.06754436142034707
+in the bowl,in a bowl,0.08621454270909737
+blueberry,there is no sorbet in the image,0.0
+resting,serving the food,0.0
+pale green,blue and white,0.0
+golden-brown,brown,0.0
+crispy,crispy,1.0
+in the upper-left corner,behind the bowl,0.05194672862155564
+blue,teal,0.0
+mushrooms,spinach,0.0
+scattered on the surface,top,0.0
+spinach,spinach,1.0
+white,white,1.0
+soup,chili,0.0
+brown,brown,1.0
+green,green,1.0
+white,white,1.0
+reddish-brown,red,0.0
+in the right half,on a table,0.0
+vegetables,"peas, tomatoes, potatoes, and onions.",0.0
+orange,light brown,0.0
+soup,A bowl of soup and a plate of food.,0.02573285025273419
+bread,bread,1.0
+on top of,on a plate,0.07249749990681824
+spaghetti,spaghetti,1.0
+red,red,1.0
+cheese,cheese,1.0
+around the perimeter,on the edge of the plate,0.03759340464156993
+reddish-brown,red,0.0
+spaghetti,tomato sauce,0.0
+chunky,thick,0.0
+light,yellow,0.0
+cheese,cheese,1.0
+red,red,1.0
+in a casserole dish,under the cheese,0.0
+spaghetti,spaghetti,1.0
+scattered,randomly,0.0
+meatballs,tomato sauce,0.0
+placed on top,on the spaghetti,0.07249749990681824
+blue,blue,1.0
+musubi,spam musubi,0.06754436142034707
+orange-red,red,0.0
+around,around the spam,0.07249749990681824
+white rice,white,0.36787944117144233
+reddish-brown,red,0.0
+sandwich,A plate of food,0.0
+glazed,thick and red,0.0
+blue,blue,1.0
+light-brown,red,0.0
+burger,a burger,0.06754436142034707
+reddish-brown,pinkish-red,0.0
+on top,on top of the meat,0.12121093525642128
+spam,cheese,0.0
+green,dark green,0.06754436142034707
+spinach,spinach,1.0
+white,white,1.0
+with a patterned rim,leaf designs,0.0
+onions,red pepper flakes,0.0
+fresh,fresh,1.0
+salad,salad,1.0
+green,green,1.0
+white,purple,0.0
+in a bowl,on a plate,0.07249749990681824
+green,green,1.0
+spinach,Brussels sprouts,0.0
+haphazard,crumbled,0.0
+oily texture,crispy,0.0
+spinach,spinach,1.0
+green,dark green,0.06754436142034707
+bowl,a bowl,0.06754436142034707
+with shallots,garlic,0.0
+green,green,1.0
+sprouts,Brussels sprouts,0.06754436142034707
+blue,blue,1.0
+bacon,bacon,1.0
+on a white surface,on a marble countertop,0.16821895003341453
+green,green,1.0
+sprouts,Brussels sprouts,0.06754436142034707
+creamy,a dressing,0.0
+overlapping,cut into small pieces,0.0
+green,green,1.0
+sprouts,Brussel sprouts,0.06754436142034707
+brown,brown,1.0
+scattered across,scattered,0.36787944117144233
+yellow,yellow,1.0
+green,green,1.0
+sprouts,Brussels sprouts,0.06754436142034707
+brown,white,0.0
+around the sprouts,on the bottom of the tin,0.03759340464156993
+green,green with burnt tips,0.061033220311973134
+brussels sprouts,Brussels sprouts,0.06754436142034707
+white,multi-colored,0.0
+brownish,"burnt, blackened, and green",0.0
+in a bowl,on a plate,0.07249749990681824
+dispersed,"not distributed, not included in the dish",0.0
+green,dark green,0.06754436142034707
+bowl,in a bowl,0.07249749990681824
+yellowish-white,yellow,0.0
+covering,melting,0.0
+on top,on top,0.2213885886251307
+black,black,1.0
+green,green,1.0
+squash,zucchini,0.0
+orange,red and white,0.0
+on a white plate,on a plate,0.16793545727180179
+yellow,yellow,1.0
+squash,Brussels sprouts,0.0
+on the concave part,on a spoon,0.05194672862155564
+green,green,1.0
+green,yellow,0.0
+yellow,yellow,1.0
+overlapping,side by side,0.0
+on the plate,on a plate,0.08621454270909737
+orange-yellow,orange,0.0
+squash,brussels sprouts,0.0
+green,green and orange,0.07249749990681824
+charred,charring,0.0
+in the center,in the background,0.21177974141341938
+orange,orange,1.0
+squash,brussels sprouts,0.0
+blue,blue,1.0
+in the center-left,the bowl is in the center of the image,0.06321087140417253
+surrounding,"it's not a soup, it's a gravy",0.0
+steak,shrimp,0.0
+tan,light brown,0.0
+brown,There are no steaks in this image.,0.0
+golden-brown,golden brown,0.0
+crispy,crispy,1.0
+arranged,around the bowl of white sauce,0.0
+bowl,in a bowl,0.07249749990681824
+white,white,1.0
+golden-brown,golden brown,0.0
+fish,food,0.0
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+blue,blue,1.0
+golden-brown,there are no mushrooms in the image,0.0
+green,green,1.0
+beneath the steaks,under the pork slices,0.061033220311973134
+reddish-brown,red,0.0
+hamburger,ground beef,0.0
+potatoes,peas,0.0
+throughout the stew,in the sauce,0.07249749990681824
+red,red and white,0.07249749990681824
+stew,a bowl of salad,0.0
+ham,ham,1.0
+green,green,1.0
+on the left,on top of the salad,0.05428693985879238
+brown,brown,1.0
+scattered,scattered,1.0
+orange,orange,1.0
+white,white,1.0
+brown,pink,0.0
+chicken,chicken,1.0
+orange,orange,1.0
+on the left side,above the pink onion,0.061033220311973134
+brown,brown,1.0
+tomatoes,tomato,0.0
+meat,ground beef,0.0
+on top,on top of the food,0.12121093525642128
+yellow,yellow,1.0
+yellow,yellow,1.0
+atop the center,in the middle of the dish,0.03759340464156993
+orange-brown,orange,0.0
+white,white,1.0
+on the surface,under the shredded cabbage,0.061033220311973134
+translucent,sliced,0.0
+savory,savory,1.0
+vegetables,"pasta, vegetables, and seafood",0.0
+green,green,1.0
+around the top,top right of the image,0.05428693985879238
+yellow,"red, yellow, and orange",0.0
+pink,white,0.0
+strawberries,strawberries,1.0
+displaying,randomly,0.0
+red,red,1.0
+on top,on top,0.2213885886251307
+red,red,1.0
+strawberries,"There is no fruit in the image, however, the dish is a strawberry-themed food, and there is a mint leaf.",0.0
+bright,red,0.0
+on a white paper liner,on the plate,0.03722145753922423
+red,red,1.0
+strawberries,strawberries,1.0
+brown,dark brown,0.06754436142034707
+on the bottom,on the bottom,0.5757197301274735
+red,red,1.0
+strawberries,strawberries,1.0
+sliced,sliced,1.0
+on the upper side,on the plate,0.15174681566793558
+white,white,1.0
+red,red,1.0
+strawberries,"none, there is no fruit in the image",0.0
+clustered,scattered,0.0
+juicy,glossy,0.0
+red,red,1.0
+strawberry,strawberries,0.0
+glass,a margarita glass,0.07249749990681824
+bright,red,0.0
+on the plate,on a plate,0.08621454270909737
+chestnut,walnuts,0.0
+brown,golden brown,0.06754436142034707
+toasted,toasted,1.0
+yellow,white,0.0
+brown,burnt,0.0
+scattered,randomly,0.0
+dish,a dish,0.06754436142034707
+white,white,1.0
+throughout the dish,in the middle of the dish,0.09717716588732002
+brown,brown,1.0
+herbs,sage,0.0
+baking,Thanksgiving,0.0
+white,white,1.0
+scattered,scattered,1.0
+brown,golden brown,0.06754436142034707
+in the center,in a baking dish,0.061033220311973134
+powdered,powdery,0.0
+glass,glass,1.0
+vegetarian,"no, the dish contains shrimp",0.0
+sushi,Sushi,0.0
+black,black,1.0
+on the plate,on a plate,0.08621454270909737
+green,green,1.0
+swordfish,chicken,0.0
+atop,on top of the chicken,0.0
+red,red,1.0
+pitcher,a jar,0.0
+on a tablecloth,on the saucer,0.07249749990681824
+orange,orange,1.0
+cabbage,shredded cabbage,0.06754436142034707
+green,green,1.0
+carrot,carrots,0.0
+on top,on the salad,0.07249749990681824
+red,red,1.0
+tacos,tacos,1.0
+golden-brown,yellow,0.0
+spilling,they are spilling out,0.061033220311973134
+on a red plate,on a red plate,1.0
+brown,black and white,0.0
+plate,a bed of sauce,0.0
+on top,on top of the meat,0.12121093525642128
+topping,"mango, avocado, and cilantro salad",0.0
+tacos,tacos,1.0
+red,red,1.0
+on plate,on a plate,0.08621454270909737
+green,green,1.0
+tacos,a taco salad and a taco sandwich,0.0
+golden-brown,golden brown,0.0
+red,red,1.0
+behind,"Out of focus, but in the background",0.0
+brown,orange and brown.,0.0
+taffy,caramel,0.0
+white,white,1.0
+orange,light orange,0.06754436142034707
+across a white surface,on a plate,0.05194672862155564
+tamale,A pork tamale,0.07249749990681824
+yellow,yellow,1.0
+on a white plate,on a plate,0.16793545727180179
+golden-brown,golden brown,0.0
+taquitos,mocha coffee and a side of coleslaw,0.0
+brown,The taquitos have a golden-brown coloration with a light brown coloration on the top left corner.,0.01571523700545522
+tan,golden brown,0.0
+taquitos,"The food in the image is likely a type of Italian cuisine, specifically a dish called ""Carbonara"".",0.0
+orange,orange,1.0
+scattered over,on top of the food,0.0
+wooden,wood,0.0
+yellow,golden brown,0.0
+plate,not pictured,0.0
+white,white,1.0
+toasted,crunchy,0.0
+on a plate,on the plate,0.08621454270909737
+golden brown,not visible,0.0
+tater tots,potatoes,0.0
+white,white,1.0
+over the tater tots,over the food,0.15174681566793558
+orange,white,0.0
+glass,a glass,0.06754436142034707
+scattered,in a circle,0.0
+brown,brown,1.0
+on top,in the drink,0.0
+amber,golden-brown,0.0
+tea,coffee or tea,0.07249749990681824
+lemon,a lemon slice,0.07249749990681824
+green,green,1.0
+on the surface,on top of the coffee,0.05428693985879238
+mug,a mug,0.06754436142034707
+beige,The tea is not visible in this image.,0.0
+on a white tiled surface,on a tile countertop,0.13100905001347277
+tea,mocha coffee,0.0
+glass,a glass,0.06754436142034707
+tan,black,0.0
+in the center,there is no tea in the image,0.081939171811711
+Hot,hot,0.0
+Tea,coffee,0.0
+Amber,dark brown,0.0
+Resting on a saucer,on a saucer,0.41252121275142684
+Ginger,black tea,0.0
+clear,clear,1.0
+green,green,1.0
+reddish-pink,red,0.0
+to the left,on the left side of the plate,0.081939171811711
+brown,golden brown,0.06754436142034707
+chicken,chicken,1.0
+white,white,1.0
+white,white,1.0
+tenderloins,pork,0.0
+reddish-brown,red,0.0
+drizzled,drizzled,1.0
+on top,in the center of the dish,0.0
+pink,pink,1.0
+pork,pork,1.0
+dark brown,crispy and golden brown,0.061033220311973134
+seared,grilled,0.0
+from the bottom left,in the front,0.05194672862155564
+golden,golden-brown,0.0
+chicken,pork,0.0
+brown,brown and white,0.07249749990681824
+piled on top,on top of the dish,0.12121093525642128
+green,green,1.0
+white,white,1.0
+tilapia,There is no fish in this image.,0.0
+golden-brown,golden-brown,1.0
+to the left,in the upper-left corner,0.061033220311973134
+textured,crumbly,0.0
+white,white,1.0
+red,red,1.0
+on top,on the pizza,0.07249749990681824
+ice cream,There does not appear to be any dessert in the image.,0.0
+located inside,There is no green tea ice cream in the image,0.0
+tofu,avocado,0.0
+creamy,"It does not appear to be tofu ice cream, but rather it appears to be a creamy, pale green sauce.",0.0
+scooped,in a jar,0.0
+tofu,shrimp,0.0
+red,red,1.0
+golden-brown,orange,0.0
+eggplant,zucchini,0.0
+Agedashi,It is not possible to determine the name of the Japanese dish based on the image.,0.0
+brown,brown,1.0
+scattered,in a pile,0.0
+tan,off-white,0.0
+shifted to the left,mixed throughout the dish,0.061033220311973134
+green,green,1.0
+scattered,scattered,1.0
+orange,golden-brown,0.0
+tofu,fish,0.0
+resting between,on top of the rice,0.0
+rice,rice,1.0
+scattered,they are arranged in a circle,0.0
+brown,brown,1.0
+scattered,scattered,1.0
+broccoli,broccoli,1.0
+green,green,1.0
+tofu,mashed potatoes,0.0
+blue,blue,1.0
+on the left side,on the left side,1.0
+golden-brown,golden-brown,1.0
+decorative,a ceramic bowl,0.0
+tofu,pasta,0.0
+blue,white with a blue pattern,0.0456496931223525
+on the upper left,in the upper-left corner,0.061033220311973134
+mushrooms,green onions,0.0
+red,red,1.0
+tomatoes,tomatoes,1.0
+white,white,1.0
+closer to,The front tomato is positioned in the lower-left corner of the image.,0.0
+green,green,1.0
+red,red,1.0
+tomatoes,tomatoes,1.0
+yellow,blackened,0.0
+tomato,rice,0.0
+transparent,glass baking dish,0.0
+orange,orange,1.0
+gluten-free,"Yes, the onion topping appears to be gluten-free.",0.0
+yellow,golden brown,0.0
+on the plate,on top of the dish,0.05428693985879238
+brown,charred,0.0
+white,white,1.0
+meringue,whipped cream,0.0
+browned,speckled,0.0
+amber-colored,orange,0.0
+on a dark surface,on a plate,0.15174681566793558
+white,white,1.0
+tortes,there are no pastries shown in the image,0.0
+copper-colored,brown,0.0
+on a plate,on a plate,0.5757197301274735
+green,white,0.0
+mousse,whipped cream,0.0
+white,white,1.0
+brown,brown,1.0
+on top of,on top of the mocha coffee,0.23376641384792204
+plum,there are no fruits in this image.,0.0
+round,round,1.0
+yellow,unanswerable,0.0
+white,white,1.0
+over the surface,on the top of the cake,0.03759340464156993
+yellow,cream colored,0.0
+tortellini,egg noodles,0.0
+orange,orange,1.0
+tortellini,tortellini,1.0
+yellow,yellow,1.0
+red,red,1.0
+on an orange plate,on a plate,0.06177541927786947
+blue,white,0.0
+tortellini,tortellini,1.0
+green,light green,0.06754436142034707
+powdered,the surface of some tortellini appears to be soft,0.0
+yellow,orange,0.0
+brown,brown,1.0
+in the center,on a plate,0.0
+yellow-tan,yellow,0.0
+tortillas,food,0.0
+stacked,in a stack,0.0
+round,round,1.0
+tan,light brown,0.0
+tortillas,pizza,0.0
+blue,"blue, green, yellow, and red.",0.0
+on top of,on top of the brussels sprouts,0.23376641384792204
+tortilla,a tortilla,0.06754436142034707
+brown,brown,1.0
+green,green,1.0
+on top,on top of the dish,0.12121093525642128
+white,white,1.0
+golden-brown,golden brown,0.0
+meat,tater tots,0.0
+on top of,on top of the tater tots,0.23376641384792204
+scattered,in a flower shape,0.0
+marshmallows,"pepper flakes, marshmallows, and caramel corn",0.0
+congealed,crunchy,0.0
+on wrinkled sheet,on a piece of parchment paper,0.03759340464156993
+creamy,creamy,1.0
+trifle,banana pudding,0.0
+yellow,yellow,1.0
+on top,on the edge,0.07249749990681824
+brown,golden brown,0.06754436142034707
+golden-brown,light yellow,0.0
+cake,cubes of bread,0.0
+red,red,1.0
+with whipped topping,whipped cream,0.04096772609215166
+dessert,dessert,1.0
+reddish-brown,brown,0.0
+Tri-Tip,pork,0.0
+white,white,1.0
+on a plate,not visible,0.0
+yellow-brown,white,0.0
+large,large,1.0
+fish,fish,1.0
+orange,pink,0.0
+on the right,on the right side,0.43146827293898643
+fish,fish,1.0
+yellow,yellow,1.0
+on the platter,on a plate,0.07249749990681824
+fillets,"shrimp, lemon slices, and herbs",0.0
+dark,dark brown,0.06754436142034707
+brown,brown,1.0
+in a box,on a plate,0.07249749990681824
+white,white,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+brown,brown,1.0
+on a plate,on a plate,0.5757197301274735
+truffles,chocolate chip cookie dough balls,0.0
+brown,beige,0.0
+studded,chocolate,0.0
+at the top,on top,0.04096772609215166
+strawberry-filled,"there is no chocolate truffles, however, the dish does contain chocolate",0.0
+truffles,chocolate,0.0
+brown,dark brown,0.06754436142034707
+with a darker brown,dark brown,0.02484818193359921
+circular,round,0.0
+yellow,egg noodles,0.0
+tuna,there is no fish in this dish.,0.0
+creamy,cheesy,0.0
+on the top of casserole,in the casserole,0.044264022136417135
+white,white,1.0
+white,white with blue trim,0.061033220311973134
+green,light green,0.06754436142034707
+melted,melted and browned,0.07249749990681824
+in a white baking dish,on a table,0.03722145753922423
+creamy,creamy,1.0
+Turkey,pork,0.0
+yellow,cream-colored,0.0
+mushrooms,mushrooms,1.0
+in a dish,not shown,0.0
+brownish-orange,brown,0.0
+turkey,pork,0.0
+scattered,it is sprinkled,0.0
+green,brown,0.0
+on the surface,on the turkey,0.21177974141341938
+white,white,1.0
+blueberry,blueberries,0.0
+golden-brown,golden-brown,1.0
+scattered,scattered,1.0
+red,red and black,0.07249749990681824
+square,square,1.0
+carrots,carrots,1.0
+on top,on top of the dish,0.12121093525642128
+golden-brown,golden-brown,1.0
+veal,none,0.0
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+drizzled,it is drizzled over the dish,0.03759340464156993
+white,white,1.0
+vegetables,"eggplant, red bell pepper, and parsley salad with mocha coffee",0.0
+red,red,1.0
+on a plate,on top of the dish,0.0456496931223525
+brown,golden-brown,0.0
+Wellington,"A plate of food with what appears to be golden-brown bread or pastry, with a few pieces of meat on top, served with a side of caramel sauce and a small bowl of what appears to be black pepper.",0.0
+dark blue,black,0.0
+green,green,1.0
+vegetables,grilled vegetables,0.06754436142034707
+scattered,scattered,1.0
+on a black grill pan,on a grill,0.12033101329077273
+glazed,red,0.0
+reddish-brown,red,0.0
+around the base,around,0.1353352832366127
+blackberries,blackberries,1.0
+brown,brown,1.0
+venison,shredded pork,0.0
+gravy,gravy,1.0
+green,green,1.0
+on the plate,on a green plate,0.07258113984652705
+golden-brown,golden brown,0.0
+venison,chicken,0.0
+on a plate,on a plate,0.5757197301274735
+overlapping,scattered,0.0
+salad,salad,1.0
+green,green,1.0
+in the salad,on the salad,0.21177974141341938
+blueberries,blueberries,1.0
+brown,dark brown,0.06754436142034707
+reflecting,dressing the salad,0.0
+pitcher,a glass pitcher,0.07249749990681824
+vinaigrette,soy sauce,0.0
+in the foreground,to the right of the plate,0.03759340464156993
+vinaigrette,a creamy vinaigrette,0.07249749990681824
+wooden,wood,0.0
+yellow-brown,yellow,0.0
+jar,a jar,0.06754436142034707
+wooden,wood,0.0
+on a wooden surface,in front of the plate,0.0
+green,green,1.0
+scattered,scattered,1.0
+red,red,1.0
+tomato,onion,0.0
+above the middle,on top of the salad,0.0456496931223525
+golden-brown,golden brown,0.0
+waffles,waffles,1.0
+white,white,1.0
+darker,golden-brown and light brown,0.0
+on a white plate,on a plate,0.16793545727180179
+golden,golden brown,0.06754436142034707
+brown,brown,1.0
+on the left,on the left side,0.43146827293898643
+red,red,1.0
+waffle,waffle,1.0
+red,red,1.0
+on the waffle,on the pizza,0.21177974141341938
+green,green,1.0
+Awesome,thin,0.0
+Walleye,"None, the image shows two cooked, seasoned fish fillets, not a whole fish",0.0
+tan,white,0.0
+red,red,1.0
+watermelon,watermelon,1.0
+white,white,1.0
+on top,on top of the dish,0.12121093525642128
+green,green,1.0
+pink,pink,1.0
+watermelon,watermelon,1.0
+red,red,1.0
+clear,pink,0.0
+orange,orange,1.0
+wedges,wedges,1.0
+golden-brown,golden-brown,1.0
+on plate,on a plate,0.08621454270909737
+herbs,herbs,1.0
+brown,red,0.0
+white,white,1.0
+fries,fries,1.0
+orange,lemon,0.0
+glasses,mochas,0.0
+amber,golden-yellow,0.0
+on the tray,on a tray,0.08621454270909737
+metallic,aluminum,0.0
+wings,wings,1.0
+orange,orange,1.0
+in the center,in the center of the plate,0.23376641384792204
+saucy,crunchy,0.0
+cauliflower,cauliflower,1.0
+golden brown,golden brown,0.2213885886251307
+scattered across,scattered,0.36787944117144233
+plate,a plate,0.06754436142034707
+golden-brown,golden brown,0.0
+wontons,wontons,1.0
+crispy,fried,0.0
+bowl,air fryer,0.0
+in the bowl,on the plate,0.07249749990681824
+green,light green,0.06754436142034707
+brownish,brown,0.0
+on the lower right,right of the cabbage wraps,0.05428693985879238
+cilantro,cilantro,1.0
+tan,tan,1.0
+wraps,slices,0.0
+corn,corn,1.0
+pink,pinkish-red,0.0
+on the plate,on the plate,0.5757197301274735
+spinach,spinach,1.0
+yellow,yellow,1.0
+orange,orange,1.0
+yams,carrots,0.0
+glistening,glazed,0.0
+on top of,on top of the dish,0.29950981436291046
+green,green,1.0
+orange,orange,1.0
+yams,sweet potato,0.0
+scattered,they are arranged in rows,0.0
+white,white,1.0
+on a white surface,in the background,0.0
+white,white,1.0
+brown,golden brown,0.06754436142034707
+blueberries,blueberries,1.0
+creamy,smooth,0.0
+yogurt,yogurt,1.0
+red,red,1.0
+on top,on top of the white sauce,0.09717716588732002
+blue,blue,1.0
+raspberries,raspberries,1.0
+blue,blue,1.0
+ziti,ziti,1.0
+reddish-orange,red,0.0
+reddish-brown,not visible,0.0
+spaghetti,spaghetti,1.0
+throughout the entire pan,in a pan,0.05194672862155564
+yellow,green and yellow.,0.0
+zucchini,zucchini,1.0
+black,black,1.0
+in the center,center,0.1353352832366127
