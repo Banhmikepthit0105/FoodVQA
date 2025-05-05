@@ -62,25 +62,20 @@
                         <i class="fas fa-microchip mr-2 text-indigo-600"></i> Select Model
                     </h2>
                     <div class="space-y-3">
-                        <div class="flex items-center p-3 border rounded-lg cursor-pointer hover:bg-indigo-50 border-indigo-100 bg-indigo-50">
-                            <input type="radio" id="model1" name="model" value="FoodNet-VQA" class="h-4 w-4 text-indigo-600" checked>
+                        <!-- Model ChatGPT -->
+                        <div class="flex items-center p-3 border rounded-lg cursor-pointer hover:bg-indigo-50 border-indigo-100">
+                            <input type="radio" id="model1" name="model" value="ChatGPT" class="h-4 w-4 text-indigo-600">
                             <label for="model1" class="ml-3 block">
-                                <span class="font-medium text-gray-800">FoodNet-VQA</span>
-                                <span class="block text-sm text-gray-500">Specialized in general food recognition</span>
+                                <span class="font-medium text-gray-800">ChatGPT</span>
+                                <span class="block text-sm text-gray-500">OpenAI's ChatGPT model</span>
                             </label>
                         </div>
+                        <!-- Model Gemini 2.0 (Mặc định chọn model Gemini 2.0) -->
                         <div class="flex items-center p-3 border rounded-lg cursor-pointer hover:bg-indigo-50 border-gray-200">
-                            <input type="radio" id="model2" name="model" value="IngredientDetector" class="h-4 w-4 text-indigo-600">
+                            <input type="radio" id="model2" name="model" value="gemini-2.0-flash-001" class="h-4 w-4 text-indigo-600" checked>
                             <label for="model2" class="ml-3 block">
-                                <span class="font-medium text-gray-800">IngredientDetector</span>
-                                <span class="block text-sm text-gray-500">Identifies ingredients and allergens</span>
-                            </label>
-                        </div>
-                        <div class="flex items-center p-3 border rounded-lg cursor-pointer hover:bg-indigo-50 border-gray-200">
-                            <input type="radio" id="model3" name="model" value="CuisineExpert" class="h-4 w-4 text-indigo-600">
-                            <label for="model3" class="ml-3 block">
-                                <span class="font-medium text-gray-800">CuisineExpert</span>
-                                <span class="block text-sm text-gray-500">Recognizes cuisine types and origins</span>
+                                <span class="font-medium text-gray-800">Gemini 2.0</span>
+                                <span class="block text-sm text-gray-500">Google's Gemini 2.0 Flash model</span>
                             </label>
                         </div>
                     </div>
@@ -146,163 +141,13 @@
                                 </div>
                             </div>
                             <div id="answerText" class="pl-11 text-gray-700"></div>
-                            <div id="confidenceMeter" class="mt-4 pl-11">
-                                <p class="text-sm font-medium text-gray-600 mb-1">Confidence: <span id="confidenceValue" class="text-indigo-600">0%</span></p>
-                                <div class="w-full bg-gray-200 rounded-full h-2.5">
-                                    <div id="confidenceBar" class="bg-indigo-600 h-2.5 rounded-full" style="width: 0%"></div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <!-- Example Questions -->
-        <div class="mt-12">
-            <h3 class="text-lg font-medium text-gray-800 mb-4 flex items-center">
-                <i class="fas fa-lightbulb mr-2 text-indigo-600"></i> Try these example questions:
-            </h3>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
-                <div class="bg-white rounded-lg p-4 shadow-sm cursor-pointer hover:bg-indigo-50 transition example-question">
-                    <p class="text-indigo-700 font-medium">"What is the main ingredient in this dish?"</p>
-                </div>
-                <div class="bg-white rounded-lg p-4 shadow-sm cursor-pointer hover:bg-indigo-50 transition example-question">
-                    <p class="text-indigo-700 font-medium">"Is this food suitable for vegetarians?"</p>
-                </div>
-                <div class="bg-white rounded-lg p-4 shadow-sm cursor-pointer hover:bg-indigo-50 transition example-question">
-                    <p class="text-indigo-700 font-medium">"What cuisine does this dish belong to?"</p>
-                </div>
-            </div>
-        </div>
     </div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Image upload handling
-            const uploadContainer = document.getElementById('uploadContainer');
-            const imageUpload = document.getElementById('imageUpload');
-            const previewImage = document.getElementById('previewImage');
-            const uploadContent = document.getElementById('uploadContent');
-            const imageInfo = document.getElementById('imageInfo');
-            const fileName = document.getElementById('fileName');
-            const fileSize = document.getElementById('fileSize');
-            
-            uploadContainer.addEventListener('click', function() {
-                imageUpload.click();
-            });
-            
-            imageUpload.addEventListener('change', function(e) {
-                if (e.target.files.length) {
-                    const file = e.target.files[0];
-                    const reader = new FileReader();
-                    
-                    reader.onload = function(event) {
-                        previewImage.src = event.target.result;
-                        previewImage.classList.remove('hidden');
-                        uploadContent.classList.add('hidden');
-                        imageInfo.classList.remove('hidden');
-                        
-                        fileName.textContent = file.name;
-                        fileSize.textContent = formatFileSize(file.size);
-                    };
-                    
-                    reader.readAsDataURL(file);
-                }
-            });
-            
-            function formatFileSize(bytes) {
-                if (bytes === 0) return '0 Bytes';
-                const k = 1024;
-                const sizes = ['Bytes', 'KB', 'MB', 'GB'];
-                const i = Math.floor(Math.log(bytes) / Math.log(k));
-                return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
-            }
-            
-            // Question handling
-            const askButton = document.getElementById('askButton');
-            const questionInput = document.getElementById('questionInput');
-            const answerBox = document.getElementById('answerBox');
-            const initialState = document.getElementById('initialState');
-            const loadingState = document.getElementById('loadingState');
-            const answerContent = document.getElementById('answerContent');
-            const answerText = document.getElementById('answerText');
-            const modelUsed = document.querySelector('#modelUsed span');
-            const confidenceValue = document.getElementById('confidenceValue');
-            const confidenceBar = document.getElementById('confidenceBar');
-            
-            askButton.addEventListener('click', function() {
-                if (!previewImage.src || previewImage.classList.contains('hidden')) {
-                    alert('Please upload an image first');
-                    return;
-                }
-                
-                const question = questionInput.value.trim();
-                if (!question) {
-                    alert('Please enter a question');
-                    return;
-                }
-                
-                // Get selected model
-                const selectedModel = document.querySelector('input[name="model"]:checked').value;
-                
-                // Show loading state
-                initialState.classList.add('hidden');
-                loadingState.classList.remove('hidden');
-                answerContent.classList.add('hidden');
-                
-                // Simulate API call with timeout
-                setTimeout(function() {
-                    // Hide loading state
-                    loadingState.classList.add('hidden');
-                    
-                    // Show answer with fake data (in a real app, this would come from an API)
-                    const fakeAnswers = {
-                        "FoodNet-VQA": [
-                            "This appears to be a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",
-                            "The image shows a freshly baked apple pie with a golden crust.",
-                            "This is a traditional Japanese sushi platter with various types of nigiri and maki rolls."
-                        ],
-                        "IngredientDetector": [
-                            "The main ingredients are pasta, eggs, pancetta, parmesan cheese, and black pepper.",
-                            "This dish contains wheat flour, eggs, milk, and carrots. It may contain nuts.",
-                            "The sushi contains raw salmon, rice, seaweed, avocado, and sesame seeds."
-                        ],
-                        "CuisineExpert": [
-                            "This is a classic Italian dish from the Lazio region.",
-                            "This is an American-style dessert with European influences.",
-                            "This is traditional Japanese cuisine, specifically Edo-mae style sushi."
-                        ]
-                    };
-                    
-                    const randomAnswer = fakeAnswers[selectedModel][Math.floor(Math.random() * fakeAnswers[selectedModel].length)];
-                    const randomConfidence = Math.floor(Math.random() * 60) + 40; // Between 40-100%
-                    
-                    answerText.innerHTML = randomAnswer;
-                    modelUsed.textContent = selectedModel;
-                    confidenceValue.textContent = randomConfidence + '%';
-                    confidenceBar.style.width = randomConfidence + '%';
-                    
-                    answerContent.classList.remove('hidden');
-                }, 2000);
-            });
-            
-            // Example question click handlers
-            const exampleQuestions = document.querySelectorAll('.example-question');
-            exampleQuestions.forEach(question => {
-                question.addEventListener('click', function() {
-                    questionInput.value = this.querySelector('p').textContent.replace(/"/g, '');
-                });
-            });
-            
-            // Allow pressing Enter in the textarea to submit
-            questionInput.addEventListener('keypress', function(e) {
-                if (e.key === 'Enter' && !e.shiftKey) {
-                    e.preventDefault();
-                    askButton.click();
-                }
-            });
-        });
-    </script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 </body>
 </html>

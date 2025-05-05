@@ -1,13 +1,16 @@
 from flask import Flask, render_template, request, jsonify
-import google.generativeai as genai
+from models import load_models, generate_chatgpt_answer, generate_gemini_answer
 import os
 from PIL import Image
 import base64
 from io import BytesIO
 
 app = Flask(__name__)
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel("gemini-pro-vision")
+
+@app.route("/load_model", methods=["GET"])
+def load_model():
+    models = load_models() 
+    return jsonify(models)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
@@ -18,19 +21,18 @@ def index():
 
         if file and question:
             image_data = file.read()
-            image_part = {"mime_type": file.content_type, "data": image_data}
             
-            response = model.generate_content([question, image_part])
-            
-            confidence = min(95, max(40, hash(response.text) % 60 + 40)) 
-            
+            if selected_model == "chatgpt":
+                response = generate_chatgpt_answer(question)
+            else:
+                response = generate_gemini_answer(question, image_data)
+
             image_base64 = base64.b64encode(image_data).decode("utf-8")
             image_url = f"data:{file.content_type};base64,{image_base64}"
 
             return jsonify({
-                "answer": response.text,
+                "answer": response,
                 "model": selected_model,
-                "confidence": confidence,
                 "image_url": image_url
             })
         return jsonify({"error": "Missing image or question"}), 400
