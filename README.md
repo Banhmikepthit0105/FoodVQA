@@ -1,1 +1,1 @@
-# FoodVQA
+# FoodVQA# Ollama-hosting-demo
