@@ -1,14 +1,18 @@
+## Post-processes model outputs to improve accuracy
+
+
 import csv
 import pandas as pd
 import google.generativeai as genai
 import os
 from time import sleep
 
-
-genai.configure(api_key='')
+key = str(input("Enter your key: ")).strip()
+genai.configure(api_key=key)
 
 
 model = genai.GenerativeModel('models/gemini-2.0-flash-001')
+LLM_name = str(input("Enter the model name: ")).strip()
 
 def constraint(answer, predict):
     prompt = (
@@ -35,8 +39,8 @@ def constraint(answer, predict):
 
 
 def main():
-    input_file = 'llama_results.csv'
-    output_file = 'llama_NEW.csv'
+    input_file = f'{LLM_name}_results.csv'
+    output_file = f'{LLM_name}_NEW.csv'
 
     df = pd.read_csv(input_file)
 
@@ -74,7 +78,7 @@ def main():
                 ]
             )
         
-        sleep(1)
+        sleep(5)
 
 
 if __name__ == '__main__':

@@ -1,7 +1,6 @@
+# Crawls recipe websites to collect food images and metadata
+
 import hashlib
-
-
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd

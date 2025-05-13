@@ -193,6 +193,7 @@ c85139f9d51d512,What type of beans are on the plate,refried
 24883eb3ae422e6,What type of meat is used in the dish,chicken
 24883eb3ae422e6,What color are the bell pepper slices that are red,red
 24883eb3ae422e6,What color are the bell pepper slices that are green,green
+24883eb3ae422e6,Where are the ingredients cooked,in a black cast iron skillet
 7a5e7b012af9da0,What is the texture of the steak,shredded
 7a5e7b012af9da0,What type of meat is in the fajita,steak
 7a5e7b012af9da0,What color are the onions,white
@@ -1542,6 +1543,7 @@ a7d35c6a1b7e8fd,Where are the fritters placed in the image,rack
 8fb828778ec290d,What type of food is on the plate,fritter
 8fb828778ec290d,How does the texture of the fritter appear around the edges,crispy
 8fb828778ec290d,What color is the plate,white
+8fb828778ec290d,Where is the second fritter positioned relative to the first,behind and to the right of
 b950522990ea1a9,What type of food is shown in the image,Fritters
 b950522990ea1a9,How are the fritters arranged on the plate,piled
 b950522990ea1a9,What is the primary color of the fritters,tan
@@ -1945,6 +1947,7 @@ d7e5cc4a93e52bb,Where is the seasoning concentrated in the bowl,towards the cent
 31248c17293faad,What color are the small cubes of Coconut-Crusted Taro Fries,tan
 31248c17293faad,What is the shape of the second form of Coconut-Crusted Taro Fries,fries
 31248c17293faad,What color are the brown specks on the small cubes of Coconut-Crusted Taro Fries,brown
+31248c17293faad,"Where are the longer, fry-shaped pieces of Coconut-Crusted Taro Fries placed",on the larger gray serving dish
 31248c17293faad,What is sprinkled around the fries on the larger gray serving dish,sprinkled
 d8f4cad0db44661,What color are the fries,orange
 d8f4cad0db44661,What type of fries are shown,fries
@@ -3653,6 +3656,7 @@ bf5766731ab1fc8,Where is the lettuce placed on the hamburger,on top of
 e26f5800445d8ad,What material is the tray made of,wooden
 e26f5800445d8ad,What type of food is shown in the image,hamburger
 e26f5800445d8ad,What color are the pickle slices,green
+e26f5800445d8ad,Where are the hamburger bites located,on a light brown wooden tray
 e26f5800445d8ad,What color is the meat in the burgers,brown
 a9b993b3e40e58a,What is inside the hamburger besides the patty,lettuce
 a9b993b3e40e58a,What color is the hamburger patty,brown
@@ -5152,6 +5156,7 @@ ab543b8fa0ea91d,Where is the cup located in relation to the teddy bear,to the le
 6ca9468fad04cf6,What are the drinks served in,glasses
 6ca9468fad04cf6,What color is the juice in the glasses,green
 6ca9468fad04cf6,What color are the straws in the glasses,pink
+6ca9468fad04cf6,Where are the glasses placed,on a wooden and white coaster
 889ff05424bbf62,What color is the Super Immunity Boost Juice,orange-yellow
 889ff05424bbf62,What material is the container made of,glass
 889ff05424bbf62,What type of drink is in the glass,juice
@@ -6531,6 +6536,7 @@ e8147f9535cd84d,What color is the frozen limoncello,yellow
 e8147f9535cd84d,What is the name of the drink in the glass,limoncello
 e8147f9535cd84d,How much of the glass does the limoncello fill,fills
 e8147f9535cd84d,What is the texture of the limoncello,creamy
+e8147f9535cd84d,Where is the other lemon slice located,to the right of the glass
 b47b1fb1693ecc2,What color is the liquid at the bottom of the glass,red
 b47b1fb1693ecc2,What material is the glass made of,glass
 b47b1fb1693ecc2,What color is the slice on the rim,orange
@@ -7035,6 +7041,7 @@ e6495a5cf1f9336,What is the color of the sausage,yellow
 e6495a5cf1f9336,What type of pasta is used in the dish,macaroni
 e6495a5cf1f9336,How are the sausage pieces arranged in the dish,scattered
 e6495a5cf1f9336,What color are the edges of the sausage,brown
+e6495a5cf1f9336,What color is the dish that holds the food,in a red and white dish
 48a35abbb5d00e4,What color is the macaroni and cheese,yellow
 48a35abbb5d00e4,What type of pasta is shown in the image,macaroni
 48a35abbb5d00e4,Where is the macaroni and cheese located in the image,located throughout
@@ -7534,6 +7541,7 @@ bf25295d5a889e2,What is the surface of the table made of,glass
 870cf99461e0dff,What type of meat is shown in the image,chicken
 870cf99461e0dff,What color is the aluminum foil,silver
 870cf99461e0dff,What color are the grilled areas of the chicken,golden-brown
+870cf99461e0dff,Where are the chicken pieces placed,on a reflective silver aluminum foil
 0a840a459597f90,What is surrounding the chicken pieces,marinade
 0a840a459597f90,Where is the marinade mostly located,surrounding
 0a840a459597f90,What type of meat is shown in the image,chicken
@@ -7902,6 +7910,7 @@ f1206a7f33be397,Are the black spots scattered throughout the mash,scattered
 2970762a6a874bd,What type of food is shown in the image,potatoes
 2970762a6a874bd,What color is the baking dish,white
 2970762a6a874bd,How are the chives distributed on the mashed potatoes,scattered
+2970762a6a874bd,What type of dish contains the mashed potatoes,in a white rectangular baking dish
 a8c0f3f476b1f75,What is the main component of the dish,mash
 a8c0f3f476b1f75,Where is the mash located on the plate,located on
 a8c0f3f476b1f75,What color are the parsley sprigs,green
@@ -11208,6 +11217,7 @@ cdca66e4937c488,Where are the chicken pieces placed,in a blue baking dish
 0175eabc13eae49,What type of dish is the Grandpa's Oyster Stew,stew
 0175eabc13eae49,What is on top of the Grandpa's Oyster Stew,sprinkling
 0175eabc13eae49,How are the crackers arranged,stacked
+0175eabc13eae49,Where are the crackers placed in relation to the bowl,to the left of the bowl
 88b1615222ab9ad,What is the consistency of the oyster dressing,mixture
 88b1615222ab9ad,What color is the sauce that covers the dish,beige
 88b1615222ab9ad,What does the light beige sauce cover,covers
@@ -11646,6 +11656,7 @@ e596bc2bec8fd8e,Where is the pasta sitting,on the pasta's surface
 534ed9fbb5774e2,What color is the pasta,golden-brown
 534ed9fbb5774e2,What type of food is the main ingredient in the dish,pasta
 534ed9fbb5774e2,What color is the cheese,white
+534ed9fbb5774e2,Where are some pasta pieces located in the dish,with some pieces near the rim
 534ed9fbb5774e2,What green herb is sprinkled on top of the dish,basil
 1d305f302f4c542,What color is the pasta,yellow
 1d305f302f4c542,What type of food is the main ingredient in the bowl,pasta
@@ -12951,6 +12962,7 @@ cf3eaa32e0590a6,What color is the pesto,vibrant
 cf3eaa32e0590a6,How would you describe the amount of pesto in the bowl,filling
 cf3eaa32e0590a6,What is the pesto served in,bowl
 cf3eaa32e0590a6,What color is the bowl,green
+cf3eaa32e0590a6,Where is the bowl placed,on a light brown wooden cutting board
 15291d59fd25ca1,What is the name of the sauce in the bowl,pesto
 15291d59fd25ca1,How would you describe the color of the pesto,vibrant
 15291d59fd25ca1,Where is the pesto contained,contained
@@ -13129,6 +13141,7 @@ e6520d3466efa58,What color are the pickles in the image,green
 e6520d3466efa58,What are the green items in the image,pickles
 e6520d3466efa58,What is spread around the pickle slices,cream cheese
 e6520d3466efa58,What are the pickle and cream cheese rolls wrapped with,wrapped
+e6520d3466efa58,Where are the pickle and cream cheese rolls arranged,on a brown wooden cutting board
 44b36c23d4da51e,Where are the Polish pickles located,located
 44b36c23d4da51e,What color is the cream cheese wrapping the pickles,white
 44b36c23d4da51e,What color are the pickles,yellowish-green
@@ -13298,6 +13311,7 @@ aad29bcd9384bd4,What are the pickles contained in,contained
 aad29bcd9384bd4,What food item is in the jar,pickles
 aad29bcd9384bd4,What is the jar made of,jar
 aad29bcd9384bd4,What color is the liquid at the bottom of the jar,yellow
+aad29bcd9384bd4,Where are the pickles located in the jar,from the middle to the top
 80b4940c04976c6,What is the color of the glass jar,clear
 80b4940c04976c6,What type of food is inside the jar,pickles
 80b4940c04976c6,What color are the pickles,green
@@ -13337,6 +13351,7 @@ acd3d7679209d36,What type of berry is used in the pies,blueberry
 acd3d7679209d36,What color are the pies,brown
 acd3d7679209d36,What type of baked goods are shown,pies
 acd3d7679209d36,What color are the edges of the pies,golden
+acd3d7679209d36,Where are the pies placed,on a light brown wooden cutting board
 47d8da1ddd23834,What color is the baking tray,silver
 47d8da1ddd23834,What type of dish is the fisherman's pie,pie
 47d8da1ddd23834,What color is the border around the edges of the pie,green
@@ -13436,6 +13451,7 @@ e5708ebf69a9efd,Where are the additional chocolate shavings and peanut brittle p
 46bcf775325ba4e,What type of dessert is shown in the image,pie
 46bcf775325ba4e,What fruit is visible in the pie filling,apple
 46bcf775325ba4e,What color are the rhubarb pieces in the pie,green
+46bcf775325ba4e,Where is the pie sitting,in a silver aluminum pie tin
 b228a5d1e7c2ff2,What color are the pierogi,pale
 b228a5d1e7c2ff2,What type of dumplings are shown in the image,pierogi
 b228a5d1e7c2ff2,What color are the fried onions,golden
@@ -13874,6 +13890,7 @@ be3a5ce4ea8a29d,What color is the cake base of the foreground cupcake,green
 be3a5ce4ea8a29d,What type of dessert is shown in the image,cupcake
 be3a5ce4ea8a29d,What color is the frosting on the cupcakes,white
 be3a5ce4ea8a29d,What are the toppings on the cupcakes made of,pistachios
+be3a5ce4ea8a29d,Where is the background cupcake located in relation to the foreground cupcake,behind and to the right of
 7b1e04133fe67bc,What color is the plate,white
 7b1e04133fe67bc,What type of nuts are used in the Pistachio Thins,pistachios
 7b1e04133fe67bc,What color are the pistachios in the Pistachio Thins,green
@@ -14820,6 +14837,7 @@ ce67f2671c475c1,Where are the pastries located in the image,in the image
 0a9f17cbdfb3aa0,What color is the filling inside the apples,brown
 57fb485bf4abc81,What color are the apples,yellow
 57fb485bf4abc81,What fruit is distributed throughout the dish,apples
+57fb485bf4abc81,Where is the cinnamon stick resting,resting on and among the apples
 57fb485bf4abc81,What color are the apricots,orange
 57fb485bf4abc81,What covers both the apples and apricots,covers
 afa8505f20c7e28,What is the strudel generously dusted with,dusted
@@ -14876,6 +14894,7 @@ b79d8e7a7655009,What color are the lids of the jars,silver
 4c3a3cad0647386,What type of fruit is visible,apples
 4c3a3cad0647386,What does the mixed drink resemble,resembling
 4c3a3cad0647386,What color is the mixed drink,yellow-orange
+4c3a3cad0647386,Where is the glass positioned relative to the apples,to the right of the apples
 59bfd5a2039013e,What color is the apple butter,translucent
 59bfd5a2039013e,What fruit is shown in the image,apples
 59bfd5a2039013e,What color are the apples,red
@@ -14914,6 +14933,7 @@ cb6d5b5d6490eb4,Where does the darker brown oatmeal appear,near the top
 8101f470fe6b3cd,What color are the apples used as the base of the ladybug treats,red
 8101f470fe6b3cd,What insect do the treats resemble,ladybug
 8101f470fe6b3cd,What are the antennas of the ladybugs made of,pretzel
+8101f470fe6b3cd,Where is one ladybug positioned relative to the other,behind and to the left of
 8101f470fe6b3cd,What do the raisins on the ladybug's back imitate,mimic
 6c99eb1f162b6df,What color are the apples primarily,golden-brown
 6c99eb1f162b6df,What type of fruit is shown in the image,apples
@@ -16452,11 +16472,13 @@ ca713570a356218,What color is the plate,blue
 58477a44062ce7f,What is the flavor of the Elaine's Sweet and Tangy Loose Beef BBQ,tangy
 58477a44062ce7f,What type of meat is used in the Elaine's Sweet and Tangy Loose Beef BBQ,beef
 58477a44062ce7f,What color is the top bun of the Elaine's Sweet and Tangy Loose Beef BBQ,tan
+58477a44062ce7f,Where is the loose beef BBQ located in the Elaine's Sweet and Tangy Loose Beef BBQ,between the top and bottom bun
 58477a44062ce7f,What color is the plate that the Elaine's Sweet and Tangy Loose Beef BBQ is served on,orange
 4b14434d6c946ae,What is the texture of the meat in the Carolina BBQ,shredded
 4b14434d6c946ae,What is the main component of the Carolina BBQ,meat
 4b14434d6c946ae,What is the appearance of the sauce on the meat,coating
 4b14434d6c946ae,What color is the crust of the bun,yellowish
+4b14434d6c946ae,Where is the BBQ filling positioned,between the upper and lower halves
 5e3082d5ae3d30f,What color is the BBQ sauce,brown
 5e3082d5ae3d30f,What is in the clear glass bowl,sauce
 5e3082d5ae3d30f,What does the sauce do to the spoon,fills
@@ -16611,6 +16633,7 @@ d14b51d0c013fcf,What color are the green beans,green
 d14b51d0c013fcf,What is the food served on,plate
 d14b51d0c013fcf,How are the red pepper flakes arranged,scattered
 d14b51d0c013fcf,How do the green beans appear,cooked
+d14b51d0c013fcf,Where is the plate placed,on a light blue patterned cloth
 999afd28fe32980,What color are the kidney beans,reddish-brown
 999afd28fe32980,What type of beans are scattered throughout the salad,beans
 999afd28fe32980,What color are the green beans,scattered throughout
@@ -17259,6 +17282,7 @@ dc2a3d27eb04af0,Where are the browned areas more pronounced,on the periphery
 2a66270884effd6,What color are the biscuits primarily,yellow
 2a66270884effd6,What type of baked goods are shown in the image,biscuits
 2a66270884effd6,How are the biscuits arranged,clustered
+2a66270884effd6,Where are the biscuits placed,on a red and white checkered cloth
 2a66270884effd6,How do the biscuits appear to be prepared,baked
 5bf375d35efc4de,What is the base color of the biscuits,yellow
 5bf375d35efc4de,What type of cheese is visible on the biscuits,cheddar
@@ -17328,6 +17352,7 @@ a59a028d1e7eb69,What is the texture of the biscuits,crumbly
 9ecf56e4eff35dd,What color is the base of the biscuits,golden-brown
 9ecf56e4eff35dd,What type of food item is shown in the image,biscuit
 9ecf56e4eff35dd,What is the texture of the biscuit tops,creamy
+9ecf56e4eff35dd,Where are the biscuits placed,on a circular metal cooling rack
 9ecf56e4eff35dd,What is the shape of the biscuits,lumpy
 c5e1a16960beac2,What color are the biscuits,beige
 c5e1a16960beac2,What type of food item is shown in the image,biscuits
@@ -18868,6 +18893,7 @@ d9418e999c194fe,Where is the jar of Nutella positioned in relation to the browni
 8931994eac1d5f7,What is the name of the dessert in the image,brownies
 8931994eac1d5f7,What material is the baking dish made of,glass
 8931994eac1d5f7,What is the texture of the brownies' surface,cracked
+8931994eac1d5f7,What type of container are the brownies in,in a clear glass baking dish
 814a09e1507c964,Are the brownies vegan,vegan
 814a09e1507c964,What type of dessert is shown in the image,brownies
 814a09e1507c964,What color are the brownies,brown
@@ -20261,6 +20287,7 @@ c2676a2933d3968,What shape are some of the candies,hearts
 554d81860db7213,What is the texture of the drink in the glass,creamy
 554d81860db7213,What type of container is the drink served in,glass
 554d81860db7213,What color is the candy cane protruding from the drink,red
+554d81860db7213,Where are the candy canes placed around the base of the glass,on a red and white striped napkin
 554d81860db7213,What is the main item in the image,drink
 0d091be8b650e7b,What color are the candies,brown
 0d091be8b650e7b,What is the main ingredient of the candies,sugar
@@ -21250,6 +21277,7 @@ e87594d2e1d1989,Where is the puree located within the bowl,within the bowl
 f55feb9f1a99442,What color is the celery in the image,green
 f55feb9f1a99442,Does the color of the celery stay the same or change,varies
 f55feb9f1a99442,What has been done to some pieces of celery,cut
+f55feb9f1a99442,Where are the cut pieces of celery located relative to the glass,to the left of the glass
 f55feb9f1a99442,What is inside the glass along with the celery,ice
 f1e1278861b3b91,What does the Celery Sour do to the glass,fills
 f1e1278861b3b91,What is the container for the Celery Sour,glass
@@ -21420,6 +21448,7 @@ c9db4c2827b9611,Where are the sesame seeds scattered on the challah,on the top
 706760a64a27a1f,What type of food is shown in the image,bread
 706760a64a27a1f,Where is the Challah bread positioned,lying
 706760a64a27a1f,What color is revealed in the inner sections of the Challah bread,yellow
+706760a64a27a1f,Where is the Challah bread lying,across the light brown wooden cutting board
 fca40583f844ddb,What is the color of the challah at its lightest part,light
 fca40583f844ddb,What type of bread is shown in the image,challah
 fca40583f844ddb,What is the color of the challah at its darkest part,golden
@@ -21539,6 +21568,7 @@ b78d8b33167bfff,Where is the stuffing located in the image,at the top
 8a538482dd4cc12,What type of food is shown in the image,sandwich
 8a538482dd4cc12,What color is the melted cheese inside the sandwich,yellow
 8a538482dd4cc12,What is the state of the cheese inside the sandwich,melted
+8a538482dd4cc12,Where is the sandwich placed,on a light brown wooden cutting board
 7bb695ab147a603,What is the cottage cheese doing in the bowl,filling
 7bb695ab147a603,What type of cheese is shown in the image,cottage cheese
 7bb695ab147a603,What color is the bowl,green
@@ -21637,6 +21667,7 @@ c3b8157afcd4805,What color is the crust of the cheesecake,golden
 2e1a3f3371560fe,What color is the cheesecake,yellow
 2e1a3f3371560fe,What type of dessert is shown,cheesecake
 2e1a3f3371560fe,What has been done to a portion of the cheesecake,cut
+2e1a3f3371560fe,What is the color of the fork handle on top of the cake,black handle on top of the cake
 2e1a3f3371560fe,What is the cheesecake baked in,pan
 f44774286b41f31,What color is the base of the cheesecake,golden-brown
 f44774286b41f31,What type of dessert is shown in the image,cheesecake
@@ -21955,6 +21986,7 @@ ba513df59aee202,Where are the sesame seeds located on the chicken,on the surface
 1e3f3ddd8e96695,What herb is placed on top of the stew,parsley
 efa58608c690e21,What type of meat is in the dish,chicken
 efa58608c690e21,How is the chicken prepared,diced
+efa58608c690e21,What type of dish is the spaghetti in,in a clear glass baking dish
 efa58608c690e21,How are the red peppers distributed in the dish,scattered
 efa58608c690e21,What is the texture of the sauce,creamy
 50b68fa2f70f2ef,What color is the chicken,white
@@ -22411,6 +22443,7 @@ c342fb8220aaa86,What flavor are the potato chips,vinegar
 c342fb8220aaa86,What color are the potato chips primarily,tan
 c342fb8220aaa86,How are the potato chips arranged in the basket,piled
 c342fb8220aaa86,What food item is shown in the image,chips
+c342fb8220aaa86,Where are the potato chips placed within the basket,within a light brown woven basket
 bef2210b1281752,What color are the potato chips,light
 bef2210b1281752,What type of food is shown in the image,chips
 bef2210b1281752,What color are the edges of the potato chips,yellow
@@ -22828,6 +22861,7 @@ e022d8ca821a456,What color is the noticeable piece of pepper near the center,red
 c0410dda16cd17c,How does the chowder appear,creamy
 c0410dda16cd17c,What type of soup is shown in the image,chowder
 c0410dda16cd17c,What color is the chowder,yellow
+c0410dda16cd17c,What is the hue of the diced parsnips,with a pale white to yellow hue
 c0410dda16cd17c,What color are the slices of celery,green
 91735317835b72b,What color is the bowl,white
 91735317835b72b,What type of container is the chowder in,bowl
@@ -24393,6 +24427,7 @@ b9f14d21dcdfb9b,What color are the fried corn kernels,yellow
 b9f14d21dcdfb9b,What is the main item being prepared in the dish,dish
 b9f14d21dcdfb9b,What is the cooking method used for the sausage,smoked
 b9f14d21dcdfb9b,What color are the smoked sausage slices,pinkish-brown
+b9f14d21dcdfb9b,Where are the fried corn and smoked sausage located in the pan,in the center of the pan
 e7f2678e7ed1f61,What is the shape of the corn dish,scalloped
 e7f2678e7ed1f61,What type of food is the dish made of,corn
 e7f2678e7ed1f61,What does the scalloped corn do in the image,fills
@@ -24571,6 +24606,7 @@ d06aa1ec01091eb,What color is the skillet used to bake the cornbread,black
 a9321bba4920843,What color is the cornbread,golden-yellow
 a9321bba4920843,What type of bread is shown in the image,cornbread
 a9321bba4920843,What color is the cast iron pan,black
+a9321bba4920843,Where is the cornbread placed,inside a black cast iron pan
 a9321bba4920843,How does the texture of the cornbread appear,coarse
 90596f669e138bc,What is the taste of the cornbread,sour
 90596f669e138bc,What type of bread is shown in the image,cornbread
@@ -25219,6 +25255,7 @@ af72497a864adca,What color are the stripes on the plate,blue
 1d21c18165a9367,What color are the crawfish pieces,orange-red
 1d21c18165a9367,What is the main item being prepared in the dish,dish
 1d21c18165a9367,What color are the mushrooms,brown
+1d21c18165a9367,Where is the Crawfish Thermidor placed,in a white square baking dish
 1d21c18165a9367,What is the texture and color of the sauce covering the dish,creamy
 debe2c3ecb278f2,What color are the noodles in the dish,reddish-brown
 debe2c3ecb278f2,What is the main ingredient in the dish besides the sauce,noodles
@@ -25714,6 +25751,7 @@ f7e98ee1e808dcc,What color is the plate,green
 f7e98ee1e808dcc,What shape are the croissant ice cream cones,cones
 f7e98ee1e808dcc,What color are the croissant ice cream cones,golden-brown
 f7e98ee1e808dcc,How is one of the cones positioned on the plate,lies
+f7e98ee1e808dcc,Where are the croissant ice cream cones placed,on a light green oval plate
 5c6319eddfd5faa,What color is the croissant,golden brown
 5c6319eddfd5faa,What type of meat is visible inside the sandwich,turkey
 5c6319eddfd5faa,What is placed above the turkey,bacon
@@ -26213,6 +26251,7 @@ d4e78bab0f159b9,What is the texture of the sauce on the salad,creamy
 d4e78bab0f159b9,What type of dish is shown in the image,salad
 d4e78bab0f159b9,What color is the sauce on the salad,white
 d4e78bab0f159b9,What is used to decorate the top of the salad,garnish
+d4e78bab0f159b9,Where are the two slices of cucumber placed in relation to the bowl,to the left of the bowl
 6853274a1abf039,What color is the cucumber soup,pale
 6853274a1abf039,What is the main dish in the image,soup
 6853274a1abf039,What color are the sliced cucumbers,green
@@ -27006,6 +27045,7 @@ cc2e00dd885336d,Where are the Chakolya pieces scattered,across the bowl
 9d75e09a6d849e8,How are the pastries arranged on the plate,arranged
 9d75e09a6d849e8,What type of food is shown in the image,pastries
 9d75e09a6d849e8,What color is the jam filling in the pastries,red
+9d75e09a6d849e8,What pattern is on the plate,with a red and white floral pattern
 9d75e09a6d849e8,What color are the pastries,golden-brown
 7c96df80891e3e6,What fruit is used in the danish filling,raspberry
 7c96df80891e3e6,What color is the crust of the pastry,golden-brown
@@ -27031,6 +27071,7 @@ cc2e00dd885336d,Where are the Chakolya pieces scattered,across the bowl
 096fb16c8bfe61a,What type of fruit is used in this dish,dates
 096fb16c8bfe61a,What are the dates filled with,stuffed
 096fb16c8bfe61a,What color is the goat cheese stuffing,white
+096fb16c8bfe61a,Where are the Goat Cheese Stuffed Dates placed,on a light brown wooden tray
 ec9b7e24d5fa74f,What color are the dates,brown
 ec9b7e24d5fa74f,What type of fruit is shown in the image,dates
 ec9b7e24d5fa74f,What color is the cream on top of the dates,white
@@ -27120,6 +27161,7 @@ dbbbfa9fefb3345,What color is the meringue topping,white
 dbbbfa9fefb3345,What type of dish is the Strawberry Rhubarb Meringue,dessert
 dbbbfa9fefb3345,How does the meringue topping appear,toasted
 dbbbfa9fefb3345,What material is the baking sheet made of,metal
+dbbbfa9fefb3345,Where is the dessert sitting,on a dark metal baking sheet
 bd22497ae4b2256,What color is the raspberry mixture in the dessert,red
 bd22497ae4b2256,What is the creamy white layer in the dessert made of,yogurt
 bd22497ae4b2256,What is the texture of the cookies on top of the yogurt,crumbled
@@ -28319,6 +28361,7 @@ ce3e4c807e72abb,What color is the cooking pan that contains the Faye's Duck Dres
 13b84378d938428,What type of meat is shown in the image,duck
 13b84378d938428,What color is the skin of the duck breast,brown
 13b84378d938428,How is the sauce applied to the duck,drizzled
+13b84378d938428,Where are the carrots located on the plate,at the bottom of the plate
 4061ba6138e34c0,What color is the exterior of the duck slices,brown
 4061ba6138e34c0,What type of meat is shown in the image,duck
 4061ba6138e34c0,What color is the cauliflower rice,white
@@ -28878,6 +28921,7 @@ f73adc578193fea,What is the state of the cheese on the enchiladas,melted
 f73adc578193fea,What color is the predominant cheese on the enchiladas,orange
 f73adc578193fea,What do the enchiladas fill in the dish,fill
 f73adc578193fea,What is the main ingredient covering the enchiladas,cheese
+f73adc578193fea,Where are the enchiladas placed,in a clear glass baking dish
 ad588d1b60cf200,What is the texture of the enchiladas,creamy
 ad588d1b60cf200,What color are the enchiladas,yellow
 ad588d1b60cf200,Where are the diced tomatoes located,scattered across
@@ -29296,6 +29340,7 @@ a9e5e4836e5a1ba,Where are the fried sweet potatoes placed,on a white plate
 76c8e14f0cf7562,What is the main ingredient in the dish,potatoes
 76c8e14f0cf7562,How do the potatoes appear on top,browned
 76c8e14f0cf7562,What color is the baking dish,blue
+76c8e14f0cf7562,Where is the dish located,in a pale blue oval baking dish
 76c8e14f0cf7562,What type of restaurant is this dish associated with,Steakhouse
 d5f4bca70a79051,What is the baked potato filled with,stuffed
 d5f4bca70a79051,What is the main ingredient of the dish,potato
@@ -29975,6 +30020,7 @@ d8e25db0f156306,"Where are the darker, caramelized areas concentrated",carameliz
 4a7090b2d51e56f,What color is the almond milk instant pudding,light
 4a7090b2d51e56f,What type of dessert is shown in the image,pudding
 4a7090b2d51e56f,What color is the almond milk instant pudding,green
+4a7090b2d51e56f,Where is there a larger concentration of chopped nuts,with a larger concentration near the center
 4a7090b2d51e56f,What type of nuts are golden brown,almonds
 59ada55f615cad2,What flavor is the pudding,chocolate-banana
 59ada55f615cad2,What color are the ramekins,blue
@@ -31099,6 +31145,7 @@ bce6e8eff896cbc,Where is the pie slice situated,on a plate
 52fad704128a59a,What type of dessert is shown in the image,pie
 52fad704128a59a,Where are the raisins located,embedded
 52fad704128a59a,What color is the cream filling,white
+52fad704128a59a,Where is the pie placed,in a round metal pie pan
 133544b12f11fe8,What color is the pie crust,golden brown
 133544b12f11fe8,What type of dessert is shown in the image,pie
 133544b12f11fe8,What color is the meringue on top of the pie,white
@@ -31518,6 +31565,7 @@ f17764be0fe4f57,What color are the jars of relish,yellowish-green
 f17764be0fe4f57,What are the relish stored in,jars
 f17764be0fe4f57,What color are the jars to the left of the relish,red
 f17764be0fe4f57,Where are the two jars positioned in relation to the top row,below
+f17764be0fe4f57,Where is the jar with the red hue located in relation to the relish,to the left of the relish
 3fd29317fe9bf13,What is the reputation of the relish,infamous
 3fd29317fe9bf13,What is the name of the product in the image,relish
 3fd29317fe9bf13,What type of container is the relish in,glass
@@ -31856,6 +31904,7 @@ c2279ad9cc51aac,Where is the highest point of the rub located,towards the top ce
 ce2e7668f8d030e,What color is the rice,reddish-orange
 ce2e7668f8d030e,What is the main ingredient in the dish,rice
 ce2e7668f8d030e,What color are the bell peppers,green
+ce2e7668f8d030e,What type of dish is the rice served in,in a clear glass baking dish
 ce2e7668f8d030e,What is mixed with the rice in the dish,sausage
 18d181b63214469,What type of dish is shown in the image,salad
 18d181b63214469,Where is the salad placed,in a clear glass bowl
@@ -34325,6 +34374,7 @@ b058e0aa19cde36,What vegetables are mixed in with the sausage,peppers
 23122af2da4264d,What color is the sausage,reddish-brown
 23122af2da4264d,What type of meat is in the dish,sausage
 23122af2da4264d,What color is the Alfredo sauce,white
+23122af2da4264d,Where are all the ingredients located,in a black cast iron skillet
 23122af2da4264d,What color are the peas,green
 5f34e27730c709d,What is the flavor profile of the sausage,spicy
 5f34e27730c709d,Where is the sausage located,bowl
@@ -34540,6 +34590,7 @@ bcad13764d952f9,What is the color of the scones,golden-brown
 bcad13764d952f9,What type of baked goods are shown in the image,scones
 bcad13764d952f9,What style of scones are featured in the image,Australian-Style
 bcad13764d952f9,How are the scones arranged in the image,arranged
+bcad13764d952f9,Where are some of the scones positioned in the image,at the edges of the frame
 cb9293d64e07409,What color are the scones,golden-brown
 cb9293d64e07409,What type of baked goods are shown in the image,scones
 cb9293d64e07409,What is on top of the scones,glaze
@@ -35228,6 +35279,7 @@ ca5277a09cfd639,What type of nuts are scattered across the slaw,almonds
 89668bece410c44,What is the primary vegetable in the slaw,cabbage
 89668bece410c44,What color is the tablecloth,green
 89668bece410c44,What type of dressing coats the slaw,creamy
+89668bece410c44,Where is the bowl placed,on a green and white striped tablecloth
 964e7645aa4caf2,Where is the sweet sesame slaw located in the image,located
 964e7645aa4caf2,What type of dish is shown in the image,slaw
 964e7645aa4caf2,What color is the plate the slaw is served on,white
@@ -35695,6 +35747,7 @@ e52d103a4f3f12d,Where is the smoothie located within the glass,within the glass
 1a211266bcf2c2a,What color is the smoothie,vibrant
 1a211266bcf2c2a,What type of drink is shown in the image,smoothie
 1a211266bcf2c2a,What color is the smoothie described as,red
+1a211266bcf2c2a,What is the jar sitting on,on a light brown wooden cutting board
 1a211266bcf2c2a,What pattern is on the cloth,checkered
 a0cd5f640a04d8d,What color is the smoothie,green
 a0cd5f640a04d8d,What does the smoothie do to the glass jar,fills
@@ -36054,6 +36107,7 @@ df079f8bbbed95f,Where is the cookie positioned in relation to the top cookie,in 
 a108bb5109a7a1a,How are the snickerdoodles arranged,arranged
 a108bb5109a7a1a,What color are the snickerdoodles,tan
 a108bb5109a7a1a,What is the shape of the snickerdoodles,pile
+a108bb5109a7a1a,Where are the snickerdoodles placed,on a light blue striped cloth
 a108bb5109a7a1a,What color are the cinnamon sticks,brown
 8079bc1a897bf63,What color is the crust of the bread,golden-brown
 8079bc1a897bf63,What type of bread is shown in the image,bread
@@ -36819,6 +36873,7 @@ d62d19a19d28887,What is the main ingredient in the treats,spinach
 d62d19a19d28887,What are the golden-brown items on the dish,treats
 d62d19a19d28887,What color is the serving dish,dark blue
 d62d19a19d28887,What color is the base of the treats,golden-brown
+d62d19a19d28887,Where are the spinach treats placed,on a dark blue serving dish
 dc005d9e5006c67,What color is the spinach,green
 dc005d9e5006c67,What type of vegetable is the main ingredient in the dish,spinach
 dc005d9e5006c67,What color are the garlic slivers,garlic
@@ -37023,6 +37078,7 @@ b5b1b548dc58b20,What color are most of the Brussels sprouts,green
 b5b1b548dc58b20,What type of vegetable is being cooked,sprouts
 b5b1b548dc58b20,What color is the cast iron pan,black
 b5b1b548dc58b20,What is the appearance of some of the sprouts,browned
+b5b1b548dc58b20,Where are the Brussels sprouts distributed,throughout the black cast iron pan
 d0b720ea5cc1a25,What color are the leaves near the top-left and bottom-right corners,green
 d0b720ea5cc1a25,What type of vegetable is featured in the dish,Brussels sprouts
 d0b720ea5cc1a25,What is the variety of colors in the dish described as,mix
@@ -38032,6 +38088,7 @@ d6214ab220bb5b4,What color is the syrupy sauce on the strawberries,dark
 698b3f7aaa5ba41,Where does the Supreme Strawberry Topping sit,sits
 698b3f7aaa5ba41,What type of dessert is the Supreme Strawberry Topping on,cheesecake
 698b3f7aaa5ba41,How would you describe the color of the Supreme Strawberry Topping,bright
+698b3f7aaa5ba41,Where does the Supreme Strawberry Topping cascade down,down the side of the cheesecake
 9096c4221e413b2,What word describes the color of the strawberry,vibrant
 9096c4221e413b2,What fruit is positioned on the top left rim of the glass,strawberry
 9096c4221e413b2,What does the All Natural Strawberry Lemonade do to the glass,fills
@@ -38184,6 +38241,7 @@ c888208d161c2d3,What are the orange sticks to the left of the roll-ups,carrot
 8a9bf4d87cc48e6,What appearance do some of the bread chunks have,toasted
 20883c909b1c6b1,Is the stuffing suitable for vegans,vegan
 20883c909b1c6b1,What color are the bread pieces in the dish,brown
+20883c909b1c6b1,What type of dish is the stuffing served in,in a white oblong serving dish
 20883c909b1c6b1,How are the cranberries distributed in the dish,scattered
 20883c909b1c6b1,What is added to the stuffing for color,adding
 0a7a1fd63417567,What color are the meatballs,brownish
@@ -38405,6 +38463,7 @@ b1d4c431b2b6126,What is contained within the clear glass pitcher,syrup
 b1d4c431b2b6126,Where does the small silver spoon rest,rests
 b1d4c431b2b6126,What material is the spoon made of,silver
 b1d4c431b2b6126,What is the stack of golden-brown food called,French toast
+b1d4c431b2b6126,Where is the syrup pitcher located relative to the French toast,above and to the left of
 4d7fcb15f0db673,What color is the bowl,brown
 4d7fcb15f0db673,What is in the bowl,is
 4d7fcb15f0db673,What is the syrup in,bowl
@@ -38499,6 +38558,7 @@ f61123cc40286f5,What color is the milk,light
 f61123cc40286f5,What type of drink is in the glass,milk
 f61123cc40286f5,What color is the syrup,red
 f61123cc40286f5,Where does the milk sit,sits
+f61123cc40286f5,Where is the milk located in relation to the jar,to the right of the jar
 e370bc3ea0cd7db,How is the syrup applied to the crepes,drizzled
 e370bc3ea0cd7db,What color is the syrup in the image,dark
 e370bc3ea0cd7db,What is the color of the syrup described as,amber
@@ -40993,6 +41053,7 @@ fc854f988bba168,What color is the surface of the treats,golden-brown
 fc854f988bba168,What are the golden-brown items in the image,treats
 fc854f988bba168,What color is the background,teal
 fc854f988bba168,What is the texture of the treats like,textured
+fc854f988bba168,Where are the treats resting,on a blue and white patterned surface
 773219902754173,What describes the appearance of the fruity cereal in the treats,colorful
 773219902754173,What pattern do the colors in the treats create,mosaic
 773219902754173,What color are the marshmallows in the treats,white
@@ -43237,6 +43298,7 @@ b719088d1027256,What is the casserole described as,best
 b719088d1027256,What is the main ingredient in the casserole,casserole
 b719088d1027256,What color is the zucchini primarily,zucchini
 b719088d1027256,What color is the baking dish,green
+b719088d1027256,Where is the casserole placed,in a white rectangular baking dish
 9e1d2fcea117e41,What color is the zucchini,green
 9e1d2fcea117e41,How is the zucchini prepared,cut
 9e1d2fcea117e41,What color is the tomato-based sauce,reddish-orange

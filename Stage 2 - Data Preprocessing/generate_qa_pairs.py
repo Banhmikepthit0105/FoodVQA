@@ -1,3 +1,5 @@
+## Generates QA pairs from image descriptions using DeepSeek API
+
 from openai import OpenAI
 import os
 import csv
