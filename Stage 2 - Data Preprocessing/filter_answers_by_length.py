@@ -3,7 +3,7 @@
 import pandas as pd
 
 file_path = r"./data/raw/train.csv"
-output_path = r"./data/processed/train.csv"
+output_path = r"./data/raw/train.csv"
 
 df = pd.read_csv(file_path)
 ans_col = ['Answer']
@@ -14,7 +14,7 @@ def count_words(s):
         return 0
     return len(s.split())
 
-# Filtering rows with answers longer than 5 words
+# Filtering rows with answers less than 5 words
 filtered_df = df[df[ans_col].applymap(count_words).max(axis=1) <= 5]
 filtered_df.to_csv(output_path, index=False)
 

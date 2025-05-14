@@ -242,8 +242,12 @@ def crawl_links():
 
 # Chỉnh url_file thành file .txt chứa các url cần crawl
 
+
+num_sitemap = 1
+
+
 def main():
-    url_file = r"links/urlsRecipe_sitemap1.txt"
+    url_file = f"links/urlsRecipe_sitemap{num_sitemap}.txt"
 
     # Folder chứa thư mục ảnh
     img_folder = "assets"
@@ -253,14 +257,12 @@ def main():
     if not os.path.exists("crawled_urls.txt"):
         f = open("crawled_urls.txt", "w", encoding="utf-8")
 
-    if not os.path.exists("output.csv"):
-        with open("output.csv", "w", encoding="utf-8") as file:
+    if not os.path.exists(f"output_sitemap{num_sitemap}.csv"):
+        with open(f"output_sitemap{num_sitemap}.csv", "w", encoding="utf-8") as file:
             file.write("Image,Food Name,Summary,Ingredients,Calories")
 
     _urls = read_urls_from_file(url_file)
     df_recipes = crawl_allRecipes_inSitemap(_urls)
-    #df_recipes.to_csv('recipes.csv', index=False)
-    #print(df_recipes)
     print(_urls)
 
 if __name__ == '__main__':
