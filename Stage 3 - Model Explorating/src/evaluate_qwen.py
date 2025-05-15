@@ -1,7 +1,6 @@
 from PIL import Image 
 import pandas as pd
 import os
-import torch
 import csv
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
@@ -38,8 +37,6 @@ def get_qwen_vl_prediction(image_path, question):
         return_tensors="pt",
     )
     inputs = inputs.to("cuda")
-
-    torch.cuda.empty_cache()
 
     generated_ids = model.generate(**inputs, max_new_tokens=128)
     generated_ids_trimmed = [

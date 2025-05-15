@@ -11,8 +11,70 @@ For HuggingFace models, they are tested on virtual machine with RTX 3090 24GB gr
 2. (MiniCPM) [https://huggingface.co/openbmb/MiniCPM-o-2_6]
 3. (Qwen 2.5) [https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct]
 
+* The output of each code is a csv with coloumns of: Image, Question, Answer, Predicted_Answer.
+
 * Note that Llama is gated model so you have to request permission to their repository and log into huggingface-cli with a token to be able to run the code.
 
+
+### RUNNING LLAMA ZEROSHOT AND FEWSHOT
+
+After obtaining permission, install the following dependencies:
+
+```bash
+pip install pandas torch torchvision transformers accelerate Pillow huggingface_hub[cli]
+```
+
+Then login into huggingface-cli with your token by running:
+```bash
+huggingface-cli login
+```
+
+Replace the folder path to the test dataset and image folder to run the file:
+```bash
+python evaluate_llama_zeroshot.py
+```
+or
+```bash
+python evaluate_llama_fewshot.py
+```
+
+### RUNNING QWEN
+
+Install the following dependencies:
+
+```bash
+pip install pandas torch torchvision transformers accelerate Pillow qwen-vl-utils[decord]==0.0.8
+```
+
+Replace the folder path to the test dataset and image folder to run the file:
+```bash
+python evaluate_qwen.py
+```
+
+### RUNNING MINICPM
+
+Install the following dependencies:
+
+```bash
+pip install pandas torch torchaudio torchvision transformers==4.44.2 accelerate Pillow librosa soundfile vocos decord moviepy vector-quantize-pytorch
+```
+
+Replace the folder path to the test dataset and image folder to run the file:
+```bash
+python eval_MiniCPM.py
+```
+
+### RUNNING GEMINI
+
+Install the following dependencies:
+
+```bash
+pip install google-genai Pillow pandas
+```
+Replace the folder path to the test dataset and image folder, add a Gemini API key to run the file:
+```bash
+python evaluate_gemini_zeroshot.py
+```
 
 ## POST PROCESSING
 
