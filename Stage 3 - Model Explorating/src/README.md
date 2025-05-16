@@ -1,6 +1,6 @@
 # MODEL TESTING
 
-This folder includes the source code files for running predictions on the test dataset for the following models: Qwen 2.5 VL 7b (zeroshot), MiniCPM-o 2.6 8B (zeroshot), Llama 3.2 11B Vision Instruct (zeroshot and fewshot), Gemini 2.0 flash (zero shot), TF/IDF.
+This folder includes the source code files for running predictions on the test dataset for the following models: Qwen 2.5 VL 7b (zeroshot), MiniCPM-o 2.6 8B (zeroshot), Llama 3.2 11B Vision Instruct (zeroshot and fewshot), Gemini 2.0 flash (zero shot), TF/IDF, BEiT-3, and LXMERT.
 
 ## TESTING A MODEL
 
@@ -75,6 +75,22 @@ Replace the folder path to the test dataset and image folder, add a Gemini API k
 ```bash
 python evaluate_gemini_zeroshot.py
 ```
+
+### RUNNING BEIT-3
+
+Install BEiT-3 checkpoint from this [link](https://github.com/microsoft/unilm/blob/master/beit3/README.md).
+* We recommend using the `beit3_base_indomain_patch16_224` pre-trained model, which has been tested on the VQAv2 dataset.
+
+Once the model is downloaded, simply run the provided notebook to fine-tune and evaluate it on your task.
+
+### RUNNING LXMERT
+
+1. **Visual Feature Extraction:**
+   Begin by running the Faster R-CNN model to extract region-based visual features from all images in the training set. These features will be serialized and stored as `.pkl` files for efficient loading during training.
+
+2. **Model Fine-Tuning and Evaluation:**
+   After feature extraction, proceed to run the fine-tuning pipeline. This step will adapt the model to your specific task and dataset, followed by evaluation to measure its performance.
+
 
 ## POST PROCESSING
 
