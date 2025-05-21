@@ -1,0 +1,3700 @@
+answer,predicted_answer,bleu_score
+golden-brown,golden brown,0.0
+enchiladas,enchilada,0.0
+white,light-colored,0.0
+on the left side,left side of plate,0.16821895003341453
+tomatoes,tomatoes,1.0
+white,white,1.0
+melted,melted and browned,0.07249749990681824
+covering,melting and adding texture,0.0
+green,green,1.0
+across the bake,top left,0.0
+golden-brown,light brown,0.0
+chicken,chicken,1.0
+yellow,yellow,1.0
+on a plate,lower-left side,0.0
+green,green,1.0
+cilantro,cilantro,1.0
+yellow,yellow,1.0
+chicken,chicken,1.0
+on a sheet pan,on a sheet pan,1.0
+chicken,beef,0.0
+green,yellow red and green,0.061033220311973134
+atop the fajita filling,right taco,0.0
+golden-brown,light brown,0.0
+Mahi Mahi,cod,0.0
+red,red yellow and orange,0.061033220311973134
+throughout the center,middle of the dish,0.061033220311973134
+white,white,1.0
+steak,beef,0.0
+brownish-red,brown,0.0
+on the plate,yellow plate,0.04096772609215166
+mushrooms,mushrooms,1.0
+beige,white,0.0
+golden-brown,golden brown,0.0
+falafels,fish cakes,0.0
+yellow,yellow,1.0
+brown,light brown,0.06754436142034707
+mushrooms,mushrooms,1.0
+green,green,1.0
+on top of,center of the dish,0.061033220311973134
+yes,yes,1.0
+farro,farro,1.0
+orange,orange,1.0
+throughout,right side of bowl,0.0
+zucchini,zucchini,1.0
+glass,glass,1.0
+yellow,green,0.0
+contained within,in the jar,0.0
+sealed,fabric lid and ribbon,0.0
+red,red and white,0.07249749990681824
+feta fingers,french toast sticks,0.0
+golden,light brown,0.0
+blue,blue and yellow,0.07249749990681824
+salad,tuna salad,0.06754436142034707
+yellow,yellow,1.0
+white,not chicken pieces,0.0
+fills,base for a sauce,0.0
+fettuccine,spaghetti or linguine,0.0
+creamy,smooth and creamy,0.07249749990681824
+cheese,shredded cheese,0.06754436142034707
+on top of,on top of pasta,0.43146827293898643
+white,white,1.0
+located throughout,bottom of the dish,0.0
+chicken,chicken,1.0
+asparagus,light brown,0.0
+purple,dark purple,0.06754436142034707
+figs,dried fig,0.0
+on top of,top of the figs,0.16821895003341453
+creamy,crumbly texture,0.0
+scattered,crumbled and placed on,0.0
+pinkish-red,light pink,0.0
+filet,steak,0.0
+brown,dark brown,0.06754436142034707
+on a plate,on a white plate,0.18616487055295167
+seared,charred with dark brown,0.0
+blue,dark blue,0.06754436142034707
+fish,fish,1.0
+dill,dill,1.0
+white,white,1.0
+Lemony,herbs and spices,0.0
+Fish,salmon,0.0
+Orange,orange,0.0
+on plate,on a plate,0.08621454270909737
+Green,green,0.0
+yellow,white,0.0
+fish,whole cooked fish,0.07249749990681824
+golden-brown,orange,0.0
+on a plate,on a bed of lettuce,0.12121093525642128
+green,green,1.0
+white,white or light-colored,0.07249749990681824
+fish,white rice,0.0
+brown,dark brown,0.06754436142034707
+on top of,on top of fish,0.43146827293898643
+green,green,1.0
+drink,creamy yellowish liquid,0.0
+white,white,1.0
+reddish-orange,orange,0.0
+on top of,top of the drink,0.16821895003341453
+shiny,smooth and caramelized,0.0
+flan,flan,1.0
+white,white,1.0
+caramel-colored,light brown,0.0
+chicken,chicken or tofu,0.07249749990681824
+drizzled,drizzled over the toppings,0.061033220311973134
+purple,purple,1.0
+yellow,yellow,1.0
+diced,diced and caramelized,0.07249749990681824
+pineapple,pineapple,1.0
+moist,moist and slightly crumbly,0.061033220311973134
+throughout the dish,evenly distributed throughout,0.07249749990681824
+glass,glass footed dessert dish,0.061033220311973134
+filling,about three fourths full,0.0
+cranberries,red grapes,0.0
+grapes,red grapes,0.06754436142034707
+to the brim,glass dish,0.0
+yellow,light yellow,0.06754436142034707
+focaccia,focaccia,1.0
+green,green,1.0
+wooden,wooden surface,0.06754436142034707
+yellow,pale yellow,0.06754436142034707
+bowl,white bowl,0.06754436142034707
+toasted,no longer crispy,0.0
+golden-brown,golden-brown,1.0
+down from,the edge of bread,0.0
+brown,brown,1.0
+pretzel,pretzels chex cereal mix,0.0
+brown,light brown,0.06754436142034707
+dessert,blondies,0.0
+rectangular,square-shaped,0.0
+brown,light brown,0.06754436142034707
+almonds,almonds,1.0
+scattered,scattered on top,0.07249749990681824
+white,white,1.0
+casserole,casserole dish,0.06754436142034707
+scattered,scattered pattern,0.06754436142034707
+reddish-brown,reddish-orange,0.0
+on top,middle of the casserole,0.0
+black,black,1.0
+yellow,yellow,1.0
+scattered,dispersed throughout,0.0
+tomatoes,tomatoes,1.0
+in a black pan,top of the frittata,0.0
+yellow,yellow,1.0
+broccoli,broccoli,1.0
+light,yellow,0.0
+cheddar,cheddar,1.0
+brown,golden brown,0.06754436142034707
+clustered,irregular pile,0.0
+plate,decorative plate,0.06754436142034707
+yellow,yellow,1.0
+on the left,left side of plate,0.061033220311973134
+golden-brown,golden brown,0.0
+fritter,latkes,0.0
+crispy,crispy,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+stack,stack on a plate,0.061033220311973134
+brown,brown,1.0
+on a plate,on a glass board,0.16821895003341453
+swirled,rose with a swirl,0.0
+pink,pink,1.0
+cupcake,cupcake,1.0
+cherry,raspberry or strawberry,0.0
+on top of,on top,0.13427896671164932
+bowls,ceramic bowls,0.06754436142034707
+coats,coats the cake,0.07249749990681824
+cake,chocolate cake,0.06754436142034707
+brown,brown,1.0
+on the plate,on a white plate,0.07258113984652705
+blue,light blue,0.06754436142034707
+fries,french fries,0.06754436142034707
+orange,yellow,0.0
+on top of,on top of fries,0.43146827293898643
+yellow,not french fries,0.0
+casserole,baked pasta dish,0.0
+white,white,1.0
+fries,pastry,0.0
+golden-brown,orange and white,0.0
+orange,not visible,0.0
+on top of,on top of food,0.43146827293898643
+yellow,light yellow,0.06754436142034707
+potato,potatoes,0.0
+reddish-brown,red,0.0
+on a plate,on a plate,0.5757197301274735
+yellow,orange,0.0
+fries,french fries,0.06754436142034707
+charred,burnt brown or black,0.0
+in the center,circular pattern,0.0
+blue,blue,1.0
+white,white,1.0
+fudge,fudge,1.0
+red,red,1.0
+walnuts,walnuts,1.0
+brown,light brown,0.06754436142034707
+fudge,fudge,1.0
+on the left,center-left,0.0
+sheen,sugar crystals,0.0
+golden-brown,golden brown,0.0
+red,red orange and yellow,0.061033220311973134
+atop the galette,upper-left side,0.0
+green,green,1.0
+golden-brown,golden brown,0.0
+pastry,pastry dessert,0.06754436142034707
+white,white,1.0
+sprinkled,leaf vein pattern,0.0
+strawberry,strawberries,0.0
+golden-brown,light brown,0.0
+blueberries,blueberries,1.0
+towards the top,center of the pastry,0.061033220311973134
+tan,light brown,0.0
+garlic,roasted garlic,0.06754436142034707
+yellow,light yellow,0.06754436142034707
+silver,silver,1.0
+green,green,1.0
+dessert,dessert dish,0.06754436142034707
+gelatin,soft and slightly jiggly,0.0
+creamy,sweet and tangy dessert,0.0
+golden-brown,light brown,0.0
+bowl,white bowl,0.06754436142034707
+sliced,horizontal thin slice,0.0
+green,green,1.0
+on top of,on top,0.13427896671164932
+ginger,chili peppers,0.0
+chicken,chicken,1.0
+white,white,1.0
+on a plate,on a white plate,0.18616487055295167
+red,red,1.0
+translucent,pale yellow,0.0
+jar,glass jar,0.06754436142034707
+amber,light yellow,0.0
+in the center,left side,0.0
+yellow,golden,0.0
+gingerbread,sweet treat,0.0
+chocolate,small cookie,0.0
+beige,beige,1.0
+brown,brown,1.0
+yes,yes,1.0
+white,white,1.0
+flower,flower shape,0.06754436142034707
+green,red,0.0
+on top,upper left corner,0.0
+gingerbread cookies,ginger snaps,0.0
+brown,brown,1.0
+on a plate,on a plate,0.5757197301274735
+beige,white,0.0
+cookies,cookies,1.0
+stacked,in a stack,0.0
+on top of,on the cookies,0.07249749990681824
+white,white,1.0
+yellow,creamy yellow,0.06754436142034707
+bacon,bacon,1.0
+on top,on top of soup,0.16821895003341453
+gnocchi,gnocchi,1.0
+shrimp,shrimp,1.0
+green,green,1.0
+brownish-red,brown,0.0
+gnocchi,gnocchi,1.0
+green,green,1.0
+on a plate,center of the image,0.0
+yellow,light beige,0.0
+pasta,pasta dish,0.06754436142034707
+red,deep red,0.06754436142034707
+on top of,top of pasta dish,0.16821895003341453
+green,green,1.0
+orange-brown,white,0.0
+macaroni,macaroni,1.0
+scattered,in a pile,0.0
+red,red,1.0
+at the top,upper right corner,0.0
+scattered,in small chunks,0.0
+beef,ground beef,0.06754436142034707
+yellow,golden,0.0
+orange,orange,1.0
+yellow,yellow,1.0
+lemon,lemon,1.0
+glass,glass,1.0
+watermelon,watermelon,1.0
+mint,sprig of mint,0.07249749990681824
+brown,light brown,0.06754436142034707
+granola,granola,1.0
+red,red,1.0
+brown,brown,1.0
+granola,granola,1.0
+red,red,1.0
+scattered,sprinkled throughout,0.0
+in the mixture,bottom left,0.0
+yellow,light beige,0.0
+potatoes,potatoes,1.0
+yellow,light yellow,0.06754436142034707
+in a baking dish,on top of casserole,0.0
+yellow,blue,0.0
+dish,ceramic dish,0.06754436142034707
+white,white,1.0
+yellow,light yellow,0.06754436142034707
+in the lower center,lower half,0.02484818193359921
+diced,small cubes,0.0
+shrimp,shrimp,1.0
+orange,orange,1.0
+broth,water,0.0
+on the left,center of the pot,0.061033220311973134
+bowl,cooked greens,0.0
+lemon,yellow,0.0
+yellow,yellow,1.0
+on the left side,left side of bowl,0.16821895003341453
+scattered,random scattered pattern,0.07249749990681824
+brown,brown,1.0
+chicken,duck,0.0
+sausage,andouille sausage,0.06754436142034707
+beige,light brown,0.0
+gyros,gyro or shawarma,0.0
+brown,brown,1.0
+on the left side,on a large plate,0.061033220311973134
+green,green,1.0
+crispy,crunchy texture,0.0
+halibut,white fish,0.0
+white,golden yellow,0.0
+green,green,1.0
+on top,on the fish,0.07249749990681824
+beige,golden brown,0.0
+Halibut,white fish,0.0
+green,green,1.0
+on the right,a plate,0.0
+golden-brown,golden brown,0.0
+halloumi,halloumi,1.0
+gray,gray,1.0
+on the left,upper left side,0.07249749990681824
+yellow,yellow,1.0
+apricot,orange peel,0.0
+reddish-brown,dark brown,0.0
+bowl,brown bowl,0.06754436142034707
+in the upper right,top right,0.02484818193359921
+pink,light pink,0.06754436142034707
+ham,cooked ham,0.06754436142034707
+pink,pink,1.0
+sandwich,pulled pork sandwich,0.07249749990681824
+green,green,1.0
+on a plate,on a plate,0.5757197301274735
+green,dark green,0.06754436142034707
+pink,pink,1.0
+ham,cooked ham,0.06754436142034707
+caramelized,burnt dark brown,0.0
+layered on,on top of lettuce,0.061033220311973134
+lettuce,mixed greens,0.0
+potato,sweet potatoes,0.0
+orange,orange,1.0
+throughout,left side of image,0.0
+yellow,yellow,1.0
+brownish,yellow and orange,0.0
+plate,white plate,0.06754436142034707
+yellow,yellow,1.0
+sprinkled on top,on top of dish,0.16821895003341453
+white,white,1.0
+orange,orange,1.0
+potato,sweet potato,0.06754436142034707
+fried,poached,0.0
+on top of,on top of hash browns,0.29950981436291046
+bacon,bacon,1.0
+hash browns,fried fish cakes,0.0
+golden-brown,light brown,0.0
+yes,yes they are,0.07249749990681824
+on a plate,on a white plate,0.18616487055295167
+golden-brown,golden brown,0.0
+plate,a plate,0.06754436142034707
+orange,orange,1.0
+chives,chives,1.0
+brown,brown,1.0
+chicken,mushrooms,0.0
+yellow,yellow,1.0
+in the upper right,upper-right corner,0.0
+golden-brown,golden brown,0.0
+hen,cornish game hen,0.07249749990681824
+brown,reddish-brown,0.0
+at the top left,upper left,0.02484818193359921
+salad,salad,1.0
+green-white,light green,0.0
+over the salad leaves,on the salad,0.15174681566793558
+tomatoes,tomatoes,1.0
+edamame,edamame,1.0
+hummus,edamame hummus,0.06754436142034707
+black,black,1.0
+on top of,center of the bowl,0.061033220311973134
+yellow,light yellowish-beige,0.0
+hummus,hummus,1.0
+submerged,right side,0.0
+crackers,crackers,1.0
+on the right,right side of bowl,0.061033220311973134
+bowl,white wavy-rimmed bowl,0.07249749990681824
+brownish-green,light yellow-orange,0.0
+towards the top left,upper-left corner,0.0
+beige,white,0.0
+hummus,hummus,1.0
+yellow,yellow,1.0
+tomatoes,tomatoes,1.0
+spices,paprika and cumin,0.0
+yellow-beige,light yellow-orange,0.0
+bowl,small black bowl,0.07249749990681824
+orange,orange,1.0
+carrots,baby carrots,0.06754436142034707
+on the plate,left of the bowl,0.061033220311973134
+reddish-brown,red,0.0
+jars,glass jars,0.06754436142034707
+in the center,center of the frame,0.07258113984652705
+orange,vibrant orange,0.06754436142034707
+jars,glass,0.0
+glass,metal,0.0
+in the center,white countertop,0.0
+pinkish-white,white,0.0
+in the center,center of the image,0.07258113984652705
+bottom half,orange jam,0.0
+orange,orange,1.0
+vibrant,golden orange,0.0
+glass,glass,1.0
+papaya,apricots peaches nectarines,0.0
+fresh,vibrant orange color,0.0
+on a white cloth,granite countertop,0.0
+dark brown,dark brown,0.2213885886251307
+cubes,square-shaped,0.0
+beige,creamy white,0.0
+scattered,randomly throughout the mugs,0.0
+black,blackened,0.0
+dark,charred,0.0
+stacked,stacked formation,0.06754436142034707
+dish,white rectangular dish,0.07249749990681824
+in the center,middle of the frame,0.061033220311973134
+brown,brown,1.0
+beef jerky,meat,0.0
+scattered,in a pile,0.0
+reddish-brown,brown tan dark brown,0.0
+around the edges,right side,0.0
+brown,dark brown,0.06754436142034707
+beef jerky,beef jerky,0.2213885886251307
+overlapping,loose pile,0.0
+dark brown,dark brown,0.2213885886251307
+located inside,in a glass jar,0.0
+jar,airtight containers or bags,0.0
+sitting,holding beef jerky,0.0
+wooden,wood,0.0
+yellow-tan,light brown,0.0
+plate,on a white plate,0.061033220311973134
+white,white,1.0
+glazed,shiny and smooth,0.0
+Sloppy Joe,sloppy joe,0.0
+reddish-brown,reddish-brown,1.0
+yellow,yellow,1.0
+on the bottom,foreground of the image,0.061033220311973134
+golden-brown,golden brown,0.0
+chicken,chicken,1.0
+orange,orange,1.0
+on top,on top of sandwich,0.16821895003341453
+chips,potato chips,0.06754436142034707
+golden-brown,light brown,0.0
+bun,a bun,0.06754436142034707
+gray,white,0.0
+on a plate,the plate,0.04096772609215166
+tan,light brown,0.0
+bun,yes,0.0
+red,red,1.0
+on top,top of the bun,0.061033220311973134
+diced,yes there are,0.0
+beige,light brown,0.0
+juice,horchata,0.0
+on the table,korea,0.0
+glass,a glass,0.06754436142034707
+in a glass,i cannot provide information,0.0
+vibrant,deep rich orange,0.0
+glass,wine glass,0.06754436142034707
+yellow,yellow,1.0
+watermelon,watermelon,1.0
+pink,pink,1.0
+blueberries,watermelon,0.0
+green surface,green,0.36787944117144233
+4th of July,christmas,0.0
+golden-brown,light golden,0.0
+dispersed,throughout the soup,0.0
+kale,kale,1.0
+bowl,white ceramic bowl,0.07249749990681824
+green,green and brown,0.07249749990681824
+chips,kale chips,0.06754436142034707
+bowl,white bowl,0.06754436142034707
+on a wooden surface,on a wooden table,0.43146827293898643
+brownish,golden brown,0.0
+dark green,green,0.36787944117144233
+kale,kale,1.0
+red,red,1.0
+on top of,upper-left corner,0.0
+colorful,colorful and appetizing,0.07249749990681824
+kebabs,kebab,0.0
+red,brown,0.0
+on a plate,on a white plate,0.18616487055295167
+pineapple,pineapple,1.0
+white,white,1.0
+kohlrabi,potato,0.0
+arranged,random layered angled,0.0
+brown,dark brown,0.06754436142034707
+on a plate,on a white dish,0.16821895003341453
+yellow,gray,0.0
+noodles,noodles potatoes and onions,0.061033220311973134
+yellow,yellow,1.0
+on the top,throughout the dish,0.07249749990681824
+golden-yellow,golden brown,0.0
+baking,baking,1.0
+sprinkling,cinnamon,0.0
+noodles,egg noodles,0.06754436142034707
+brown,brown,1.0
+brown,medium brown,0.06754436142034707
+lamb,roast,0.0
+in the center,among the potatoes,0.07249749990681824
+reddish-brown,reddish-brown,1.0
+stew,stew,1.0
+fills,infuses solid ingredients,0.0
+white,white,1.0
+throughout the stew,center of the bowl,0.061033220311973134
+white,white,1.0
+lamb,lamb shank,0.06754436142034707
+brown,brown,1.0
+scattered around,left side of lamb,0.0
+lamb,beef,0.0
+gradient,dark brown hue,0.0
+brown,dark brown,0.06754436142034707
+onions,onions,1.0
+cooked,caramelized,0.0
+orange,reddish-brown,0.0
+lasagna,baked pasta,0.0
+creamy,creamy and smooth,0.07249749990681824
+white,white,1.0
+on the surface,on the right side,0.16821895003341453
+golden-brown,golden brown,0.0
+lasagna,lasagna,1.0
+black,black,1.0
+on a black stovetop,metal baking dish,0.0
+green,white,0.0
+green,green,1.0
+lasagna,taco salad,0.0
+red,red,1.0
+yellow,yellow-orange,0.0
+on top of,on bed of lettuce,0.07258113984652705
+banana,mango,0.0
+yellow,yellow,1.0
+on the left,left side,0.04096772609215166
+green,green,1.0
+clear,clear,1.0
+yellow,yellow-orange,0.0
+into the lassi,into the smoothie,0.21177974141341938
+green,green,1.0
+transparent,clear,0.0
+white,white,1.0
+tan,light brown,0.0
+on a plate,on a white plate,0.18616487055295167
+white,light beige,0.0
+tan,light brown,0.0
+on top of,on top of cream,0.43146827293898643
+strawberry,strawberry,1.0
+white,white,1.0
+latte,cappuccino,0.0
+shaved chocolate,cinnamon or nutmeg,0.0
+brown,light brown,0.06754436142034707
+on top of,on top of foam,0.43146827293898643
+yellow,pale yellow,0.06754436142034707
+in the center,in the crust,0.21177974141341938
+pie,lemon pie,0.06754436142034707
+triangular,triangular,1.0
+on the top,on top of pie,0.07258113984652705
+lemon,lemon or orange,0.07249749990681824
+yellow,yellow,1.0
+spoon,a spoon,0.06754436142034707
+yellow,yellow-orange,0.0
+jars,glass jars,0.06754436142034707
+lemon curd,ghee,0.0
+on the tray,right side of jar,0.0
+tan,light yellow or beige,0.0
+cookies,cookies,1.0
+on a sheet,baking sheet,0.04096772609215166
+pink,pink,1.0
+strawberry,strawberry,1.0
+yellow,yellow,1.0
+on the rim,on the rim,0.5757197301274735
+Lemonade,lemonade or iced tea,0.0
+Lemonade,light-brown foamy liquid,0.0
+yellow,light brown,0.0
+brown,golden brown,0.06754436142034707
+brown,brown,1.0
+lentils,soup,0.0
+visible,yes they are,0.0
+light brown,brown,0.36787944117144233
+dispersed,center of the image,0.0
+yellowish-orange,orange,0.0
+lentils,lentils,1.0
+dispersed,throughout the bowl,0.0
+green,green,1.0
+dispersed,upper right portion,0.0
+red,red,1.0
+green,green,1.0
+orange-brown,orange,0.0
+on the left,left side of salad,0.061033220311973134
+to the right,above the lentil salad,0.061033220311973134
+grain,couscous,0.0
+translucent,pale yellow,0.0
+glass,clear transparent glass,0.07249749990681824
+whitish-yellow,no color description,0.0
+on the rim,left side of glass,0.0
+lime,lemon wedge,0.0
+yellow,white,0.0
+linguine,linguine,1.0
+green,green,1.0
+scattered,scattered across the surface,0.061033220311973134
+beige,light yellowish,0.0
+pasta,pasta,1.0
+brown,dark brown,0.06754436142034707
+green,green,1.0
+on top of,center of the dish,0.061033220311973134
+white,white,1.0
+golden-brown,golden brown,0.0
+on a plate,on a white plate,0.18616487055295167
+blueberries,blueberries,1.0
+wooden,wood,0.0
+cheese,cheesy biscuit,0.0
+yellow,light yellow,0.06754436142034707
+on the left,left side,0.04096772609215166
+yes,difficult to say,0.0
+white,white,1.0
+in the center,on a white tray,0.0
+golden,golden brown,0.06754436142034707
+overlapping,overlapping each other,0.07249749990681824
+reddish-brown,golden brown,0.0
+reddish-brown,brown,0.0
+on the right side,upper right side,0.15174681566793558
+bowl,small white bowl,0.07249749990681824
+yellow,yellow-orange,0.0
+covering,adhering to the macaroni,0.0
+vibrant,savory breakfast skillet,0.0
+skillet,red cast iron skillet,0.061033220311973134
+browned,reddish-brown,0.0
+yellow,yellow,1.0
+on top of,top left,0.04096772609215166
+green,green,1.0
+in the center,on a blue surface,0.0
+macaroni,macaroni,1.0
+yellow,white,0.0
+on the top,top of macaroni,0.07249749990681824
+yellow,yellow,1.0
+macaroni,macaroni and cheese,0.07249749990681824
+clustered,loose irregular pattern,0.0
+on the left side,left side,0.08144431026514741
+ginger,sweet and sour,0.0
+Mahi Mahi,mahi mahi,0.0
+brown,dark brown,0.06754436142034707
+in the bottom center,bottom left of plate,0.061033220311973134
+golden-brown,light brown,0.0
+Mahi Mahi,mahi mahi,0.0
+yellow,yellow,1.0
+beans,green beans,0.06754436142034707
+white,white with brown,0.07249749990681824
+reddish-brown,dark brown,0.0
+green,green,1.0
+orange,light yellow,0.0
+spinach,spinach,1.0
+melted,melted and slightly browned,0.061033220311973134
+sticky,slightly sticky,0.06754436142034707
+yellow,yellow,1.0
+arranged,fan shape,0.0
+on top of,on top,0.13427896671164932
+pink,pink-colored,0.0
+Cadillac,margarita,0.0
+white,white,1.0
+on the surface,rim of the glass,0.061033220311973134
+green,green,1.0
+yellowish-green,pale yellow,0.0
+margaritas,margaritas,1.0
+silver,silver or gray,0.07249749990681824
+yellow-green,pale yellow-green,0.06754436142034707
+white,white,1.0
+yellow,yellow,1.0
+white,white,1.0
+from the top,left side of glass,0.0
+margaritas,margaritas,1.0
+blue,blue-green,0.0
+on the plate,on a blue plate,0.07258113984652705
+green,green,1.0
+red,reddish-pink,0.0
+blackberries,blackberry,0.0
+on the wooden surface,wooden cutting board,0.05194672862155564
+green,green,1.0
+marinade,brown liquid,0.0
+surrounding,bottom of the image,0.0
+chicken,fish,0.0
+glossy,dark brown liquid,0.0
+in the background,below the chicken pieces,0.061033220311973134
+viscous,bit thick,0.0
+marinade,flavor and tenderize food,0.0
+in the bowl,white ceramic bowl,0.07249749990681824
+in the center,center of the image,0.07258113984652705
+lemon,lemon,1.0
+reddish-brown,light brown,0.0
+coats,caramelized crust,0.0
+skewers,skewers,1.0
+white,white,1.0
+reddish-brown,dark red or brown,0.0
+chicken,chicken,1.0
+on the upper chicken,on the chicken,0.16793545727180179
+amber,orange,0.0
+marmalade,fruit preserve,0.0
+amber,orange-brown,0.0
+glass,glass,1.0
+orange,dark orange,0.06754436142034707
+amber,orange-brown hue,0.0
+marmalade,homemade jam or jelly,0.0
+striped,yellow and white striped,0.061033220311973134
+to its left,in front of,0.0
+brown,white,0.0
+coated,shredded coconut,0.0
+three,three,1.0
+on the left,front left,0.04096772609215166
+coconut,shredded coconut,0.06754436142034707
+marshmallows,homemade marshmallows,0.06754436142034707
+light pink,pink,0.36787944117144233
+on a small plate,on a white plate,0.18616487055295167
+bottom,front on the left,0.0
+vibrant,vibrant pink color,0.07249749990681824
+watermelon,watermelon and lime,0.07249749990681824
+pink,red,0.0
+on the top,left side of glass,0.0
+green,green,1.0
+red,deep red,0.06754436142034707
+stemmed,martini glasses,0.0
+brown,reddish-pink,0.0
+on top of,at the bottom,0.0
+reddish-purple,red,0.0
+martini,cocktail,0.0
+red,red,1.0
+with two bright red cherries,two cherries,0.017922759459377886
+agave,ancho huyaco sauce,0.0
+pistachio,almonds,0.0
+green,green,1.0
+cylindrical,cylindrical,1.0
+rectangular bar,rectangle,0.0
+on the left side,on a green board,0.061033220311973134
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+in a bowl,in a white bowl,0.18616487055295167
+crispy,crispy and golden brown,0.061033220311973134
+chicken,roasted chicken,0.06754436142034707
+white,white,1.0
+yellow,yellow,1.0
+on a plate,on a plate,0.5757197301274735
+mayo,butter,0.0
+smooth,smooth and creamy,0.07249749990681824
+gray,no pan visible,0.0
+in the upper left corner,i cannot answer that,0.0
+bowl,small white bowl,0.07249749990681824
+orange,light orange,0.06754436142034707
+basil,basil,1.0
+on a light-colored surface,on a tablecloth,0.15174681566793558
+light green,green,0.36787944117144233
+fills,garnishing the bowl,0.0
+bowl,glass container,0.0
+leaves,green leaf,0.0
+to the right of,right of the bowl,0.18616487055295167
+yellow,yellow,1.0
+meatballs,meat,0.0
+on top,middle of the dish,0.0
+green,light green,0.06754436142034707
+orange-brown,beige,0.0
+tomato sauce,tomato-based sauce,0.06754436142034707
+covers,flavor enhancement,0.0
+green,green,1.0
+sweet,barbecue sauce,0.0
+meatballs,meatballs,1.0
+brownish-red,light brown,0.0
+in the center,in a white bowl,0.061033220311973134
+bowl,white bowl,0.06754436142034707
+creamy,thick and creamy,0.07249749990681824
+meatballs,meatballs,1.0
+orange,light orange,0.06754436142034707
+underneath,on the bottom,0.0
+green,green,1.0
+brown,dark brown,0.06754436142034707
+salad,salad and a biscuit,0.061033220311973134
+sliced,raw,0.0
+is in,left side of image,0.0
+golden,golden brown,0.06754436142034707
+meatloaf,meatloaf,1.0
+light-brown,brown,0.0
+reddish-brown,dark brown,0.0
+towards the right side,center of the plate,0.061033220311973134
+dark,dark brown,0.06754436142034707
+meatloaf,meatloaf,1.0
+white,white,1.0
+with sprigs,thyme,0.0
+bright,green,0.0
+broccoli,broccoli,1.0
+red,dark pink,0.0
+browned,golden brown,0.0
+across the image,evenly distributed across image,0.07258113984652705
+yellow,white,0.0
+smoothie,frozen cocktail,0.0
+glass,clear glass,0.06754436142034707
+white,orange,0.0
+near to,bottom of the image,0.0
+clear,beige,0.0
+pitcher,glass pitcher,0.06754436142034707
+beige,light beige,0.06754436142034707
+in the center-left,on a wooden table,0.0
+pink,pink,1.0
+milkshakes,milkshakes,1.0
+topped,on top,0.0
+red,red,1.0
+on each milkshake,on top,0.04096772609215166
+chocolate,chocolate,1.0
+brown,off-white,0.0
+on top,on top of cheesecake,0.16821895003341453
+clear,clear with lemon and lime,0.0456496931223525
+pitcher,glass pitcher,0.06754436142034707
+yellow,yellow and green,0.07249749990681824
+on a wooden board,cutting board,0.02484818193359921
+yellowish,light yellow,0.0
+tofu,tofu,1.0
+scattered across,decorative manner,0.0
+blue,white,0.0
+reddish-brown,dark reddish-brown,0.06754436142034707
+jar,small glass bottle,0.0
+viscous,thick smooth and creamy,0.0
+on the top,on top of sauce,0.07258113984652705
+tomatoes,two tomatoes,0.06754436142034707
+bowl,glass bowl,0.06754436142034707
+mixed,layered pattern,0.0
+brown,light orange,0.0
+orange,orange,1.0
+in a clear glass bowl,in a clear bowl,0.3610854011224141
+brown,medium brown,0.06754436142034707
+bowl,wooden bowl,0.06754436142034707
+candies,candy corn,0.0
+golden-brown,gold,0.0
+blue,blue and white,0.07249749990681824
+wooden,wood,0.0
+pretzels,pretzels and crackers,0.07249749990681824
+orange,orange,1.0
+on the left,in the background,0.07249749990681824
+beige,light golden brown,0.0
+brown,light brown,0.06754436142034707
+towards the bottom,bottom left corner,0.07249749990681824
+brown,light brown,0.06754436142034707
+jar,glass jar,0.06754436142034707
+filled,powdered state,0.0
+white,white and dark brown,0.061033220311973134
+to the left of,on a countertop,0.0
+brown,brown,1.0
+foamy,smooth and creamy,0.0
+with whipped cream,whipped cream,0.13427896671164932
+scattered,on top of cream,0.0
+yellow-green,pale yellow-green,0.06754436142034707
+mojito,mojito,1.0
+green,green,1.0
+by the Pitcher,in a pitcher,0.0
+fresh,vibrant green,0.0
+green,green,1.0
+mojito,cocktails and mocktails,0.0
+yellow,green,0.0
+strawberry,strawberry,1.0
+transparent,clear,0.0
+mousse,mousse,1.0
+brown,brown,1.0
+creamy,light airy and creamy,0.061033220311973134
+on a silver tray,in small glasses,0.0
+golden-yellow,light yellow,0.0
+muffins,muffins,1.0
+obscuring,pressing down,0.0
+blue,blue,1.0
+beverage,lemon-flavored liqueur,0.0
+fill,clear liquid,0.0
+white,white,1.0
+on top of,on top of drink,0.43146827293898643
+copper,copper,1.0
+mug,copper mug,0.06754436142034707
+green,green,1.0
+yellow,no candied ginger,0.0
+on the wooden surface,on the rim,0.15174681566793558
+brown,light brown,0.06754436142034707
+mushrooms,sautéed mushrooms,0.06754436142034707
+glossy,dark brown,0.0
+green,green,1.0
+in a pile,in a pile,0.5757197301274735
+yellow,yellow,1.0
+eggs,eggs,1.0
+mushroom,mushrooms,0.0
+brown,brown and white,0.07249749990681824
+chicken,chicken,1.0
+brown,light yellow,0.0
+on the right,right side of bowl,0.061033220311973134
+herbs,parsley,0.0
+creamy,soft slightly tender,0.0
+mushrooms,mushrooms,1.0
+black,black,1.0
+from the pan,on a stovetop,0.0
+brown,black,0.0
+yellow,light cream,0.0
+enoki mushrooms,enoki mushrooms,0.2213885886251307
+tangled,long thin and delicate,0.0
+strands,long thin and delicate,0.0
+immersed,cooked and open,0.0
+mussels,black mussels,0.06754436142034707
+orange-red,reddish-orange,0.0
+brownish-red,not clear,0.0
+on the left,bottom left-hand corner,0.0
+yellow-orange,yellow-orange,1.0
+pouring,being spooned into jar,0.0
+jar,glass jar,0.06754436142034707
+wooden,wood,0.0
+above the jar,over a glass jar,0.061033220311973134
+glass,glass,1.0
+wooden,wood,0.0
+mustard,butter,0.0
+to the right,right of the spreader,0.07258113984652705
+Dijon,honey or whole-grain,0.0
+tan,light brown or beige,0.0
+lined up,staggered formation,0.0
+jars,mason jars,0.06754436142034707
+creamy,smooth and creamy,0.07249749990681824
+nachos,tortilla chips,0.0
+light-orange,yellow-orange,0.0
+on top of,on top of nachos,0.43146827293898643
+bowl,glass bowl,0.06754436142034707
+potato,french fries,0.0
+white,white,1.0
+golden-brown,golden brown,0.0
+cheese,cheese,1.0
+on a plate,on a white plate,0.18616487055295167
+chocolate,chocolate and whipped cream,0.061033220311973134
+nachos,pita bread,0.0
+brown,brown,1.0
+white,white,1.0
+on top of,center of the plate,0.061033220311973134
+smooth,smooth and creamy,0.07249749990681824
+glass,a glass,0.06754436142034707
+pink,vibrant pink,0.06754436142034707
+refresher,smoothie,0.0
+soup,soup,1.0
+green,green,1.0
+chicken,chicken,1.0
+on the lower-right,right side,0.0
+light blue,blue,0.36787944117144233
+bowl,pasta,0.0
+fill,approximately seventy-five percent,0.0
+yellow,yellow,1.0
+in the center,center of the image,0.07258113984652705
+crunchy,crispy and tender,0.0
+nuggets,chicken nuggets,0.06754436142034707
+white,white,1.0
+on the right side,right side of plate,0.16821895003341453
+red,red,1.0
+corn nuts,chocolate covered peanuts,0.0
+brown,dark brown,0.06754436142034707
+on the napkin,center of the napkin,0.16821895003341453
+golden-brown,light tan,0.0
+oatmeal,coconut cream pie,0.0
+filling,coconut and custard,0.0
+white,white,1.0
+on a white surface,on a white countertop,0.43146827293898643
+beige,light tan,0.0
+fill,contain oatmeal,0.0
+blueberries,blueberries,1.0
+red,red,1.0
+on top,center of the bowl,0.0
+black,black,1.0
+rice,rice,1.0
+green,green,1.0
+okra,okra,1.0
+in a black cooking pot,a wok,0.015071184180845467
+beige,white,0.0
+chicken,chicken breast,0.06754436142034707
+green,green and red,0.07249749990681824
+on top,on top of chicken,0.16821895003341453
+tomatoes,tomatoes,1.0
+golden,green,0.0
+olives,fried olives,0.06754436142034707
+cut,cut in half,0.07249749990681824
+on the bottom,bottom left,0.04096772609215166
+green,light brown or tan,0.0
+wooden,bamboo,0.0
+bread,crusty loaf,0.0
+black,black or dark brown,0.061033220311973134
+golden-brown,light brown,0.0
+on a wooden cutting board,on a wooden board,0.3610854011224141
+visible,yes,0.0
+olives,pickled vegetables,0.0
+glass,glass,1.0
+white,white,1.0
+yellow,yellow,1.0
+spilling out of,bulge outwards,0.0
+bacon,bacon,1.0
+mixed,no onions,0.0
+located on the left side,not in the image,0.04753271977233425
+omelette,egg white,0.0
+scattered,throughout the dish,0.0
+red,red,1.0
+caramelized,dark brown,0.0
+melted,melted and slightly browned,0.061033220311973134
+onions,cheese,0.0
+brown,no onions,0.0
+cheese,cheese,1.0
+towards the bottom,top layer of dish,0.0
+reddish-brown,red,0.0
+nestled,pointing to the left,0.0
+orange,golden brown,0.0
+to the left of,left of the hotdog,0.18616487055295167
+orange,orange-yellow,0.0
+plate,a plate,0.06754436142034707
+vibrant,vibrant orange hue,0.07249749990681824
+thick,creamy and frothy,0.0
+drink,slushy frozen drink,0.07249749990681824
+garnished,add a touch of freshness,0.0
+green,green,1.0
+at the bottom,bottom left corner,0.07249749990681824
+pink,strawberry,0.0
+Oreo,yes,0.0
+sprinkled,no,0.0
+on top surface,top of the dessert,0.061033220311973134
+circular,not in the image,0.0
+crust,top portion,0.0
+star-shaped,starfish,0.0
+oysters,oysters,1.0
+green,green,1.0
+on a star-shaped plate,on a starfish plate,0.18616487055295167
+white,white,1.0
+oysters,oysters,1.0
+yellow,yellow,1.0
+reddish-brown,reddish-brown,1.0
+white,white,1.0
+yellow,yellow,1.0
+scattered,on top of rice,0.0
+shrimp,mussels,0.0
+in a bowl,middle of the dish,0.0
+chicken,chicken,1.0
+scattered,scattered throughout the paella,0.061033220311973134
+orange-brown,not visible,0.0
+shrimp,shrimp,1.0
+green,green,1.0
+pancake,flatbread,0.0
+white,white,1.0
+golden brown,brown,0.36787944117144233
+on the left side,left side of plate,0.16821895003341453
+salty,sweet and indulgent,0.0
+pancakes,crepes,0.0
+cooking,traditional method,0.0
+yellow,light brown,0.0
+golden yellow,yellow,0.36787944117144233
+paneer,paneer,1.0
+reddish-brown,dark brown,0.0
+on top,on top of dish,0.16821895003341453
+vibrant,vibrant green color,0.07249749990681824
+green,green,1.0
+bowl,round bowl,0.06754436142034707
+blue,blue,1.0
+scattered,throughout the palak paneer,0.0
+on top,on top of soup,0.16821895003341453
+cranberry,cherries,0.0
+glass,glass,1.0
+red,red,1.0
+on a table,on a dark table,0.18616487055295167
+white,white,1.0
+parfaits,a parfait,0.0
+red,red,1.0
+on top,on top of yogurt,0.16821895003341453
+orange,orange slice,0.06754436142034707
+yellow,yellowish,0.0
+fills,appears to be thick,0.0
+vegetable,potato or corn-based,0.0
+white,white,1.0
+in the center,center of the bowl,0.07258113984652705
+round,circular,0.0
+parsnips,potato,0.0
+beige,light yellow,0.0
+smooth,smooth and creamy,0.07249749990681824
+chicken,chicken,1.0
+reddish-orange,deep red,0.0
+pasta,fusilli,0.0
+scattered amidst,middle of the dish,0.0
+diced,small to medium,0.0
+orange,orange,1.0
+pasta,pasta,1.0
+melted,melted,1.0
+brownish-tan,golden orange,0.0
+beige,light yellow,0.0
+pasta,penne,0.0
+shrimp,shrimp,1.0
+green,green,1.0
+over the shrimp,on top of shrimp,0.061033220311973134
+scattered,evenly throughout the pasta,0.0
+pasta,spaghetti,0.0
+yellow,yellow,1.0
+on top,on top of pasta,0.16821895003341453
+dish,pasta,0.0
+red,red,1.0
+scattered,scattered throughout the pasta,0.061033220311973134
+eggplant,mushrooms and tomatoes,0.0
+golden-yellow,yellowish-brown,0.0
+bowls,in the bowl,0.0
+with a brown wooden handle,brown,0.01831563888873418
+white,white,1.0
+yellow,yellow,1.0
+blueberries,blueberries,1.0
+nestled among,center of the dessert,0.0
+pavlova,pavlova,1.0
+greenish-yellow,yellow,0.0
+soup,soup,1.0
+white,white,1.0
+submerged,in the soup,0.0
+peas,green peas,0.06754436142034707
+bowl,center of the bowl,0.061033220311973134
+Italian,european or american,0.0
+on the right side,upper right-hand portion,0.0
+vibrant,orange-yellow,0.0
+holding,scooping up peach slices,0.0
+white,light green,0.0
+in the center,bottom left corner,0.0
+yellow-orange,yellow-orange,1.0
+glasses,champagne flutes,0.0
+wooden,wood,0.0
+on the rim,on the rim,0.5757197301274735
+reddish-yellow,yellow,0.0
+margaritas,frozen margarita,0.0
+served,salt-rimmed glass,0.0
+bright,yellow-orange,0.0
+glasses,margarita glasses,0.06754436142034707
+in the center,top half,0.0
+tea,peach smoothies,0.0
+drinking,enjoying a refreshing glass,0.0
+peach,peach smoothie,0.06754436142034707
+yellow,yellow and white,0.07249749990681824
+to the right,behind the first glass,0.061033220311973134
+peachy-orange,reddish-orange,0.0
+pitcher,glass pitcher,0.06754436142034707
+red,red,1.0
+on the left,left side,0.04096772609215166
+dark,brown,0.0
+peanut butter,peanut butter,0.2213885886251307
+golden brown,light golden brown,0.21177974141341938
+on the lower right,lower right corner,0.15174681566793558
+cookie,peanut butter cups,0.0
+light brown,brown,0.36787944117144233
+ice cream,caramel or fudge,0.0
+smooth,thick and smooth,0.07249749990681824
+near the top,top left corner,0.07249749990681824
+yellow,white,0.0
+muffins,muffins,1.0
+perfect,golden brown,0.0
+white,white,1.0
+on the plate,on a white plate,0.07258113984652705
+red,deep red,0.06754436142034707
+in the left side,left side,0.08144431026514741
+brown,light brown,0.06754436142034707
+pecan,pecans,0.0
+white,white,1.0
+on top,on top of dessert,0.16821895003341453
+reddish-brown,brown,0.0
+tan,light yellow,0.0
+overlapping,one on top,0.0
+brown,light brown,0.06754436142034707
+on the cracker,on top of crackers,0.061033220311973134
+appetizer,topping for crackers,0.0
+penne,penne,1.0
+distributed,circular pattern,0.0
+red,not in the image,0.0
+cilantro,parsley,0.0
+on top of,top of the pasta,0.16821895003341453
+penne,penne,1.0
+red-orange,red,0.0
+sauteed,sliced and sautéed,0.0
+peppers,vegetables and meat,0.0
+green,green,1.0
+peppers,pepper,0.0
+scattered across,white plate,0.0
+glistening,dark green and charred,0.0
+white,white,1.0
+pesto,pesto or chimichurri,0.07249749990681824
+container,white container,0.06754436142034707
+vibrant,emerald-like hue,0.0
+textured,thick and coarse paste,0.0
+pesto,basil pesto,0.06754436142034707
+fills,green nutty pesto,0.0
+white,white,1.0
+on top of,top of pesto sauce,0.16821895003341453
+chicken,chicken,1.0
+falling onto,on the chicken breast,0.0
+green,green,1.0
+scattered,stacked on top,0.0
+pickles,sliced yellow squash,0.0
+glass,mason glass,0.06754436142034707
+full,full,1.0
+yellow,yellow,1.0
+sliced,thin rounds,0.0
+yellowish-green,yellow,0.0
+pickles,dill pickles,0.06754436142034707
+on the left side,left of white dish,0.061033220311973134
+white,white,1.0
+clear,clear,1.0
+pickles,pickles,1.0
+green,green,1.0
+in a jar,in a glass jar,0.18616487055295167
+melted,slightly melted and browned,0.061033220311973134
+pie,pie,1.0
+tan,light brown,0.0
+silver,silver,1.0
+apricot,no indication,0.0
+golden-brown,golden brown,0.0
+pies,fried apple pies,0.07249749990681824
+uneven,crispy and flaky,0.0
+pie,fruit pie,0.06754436142034707
+white,white,1.0
+green plate,green,0.36787944117144233
+yellow,pale yellow,0.06754436142034707
+pierogi,pierogi,1.0
+on the plate,on a plate,0.08621454270909737
+center,center of the plate,0.061033220311973134
+white,white,1.0
+pinkish-red,red,0.0
+on a plate,white plate,0.04096772609215166
+rice,rice,1.0
+inside the bowl,in a bowl,0.07249749990681824
+yellow,yellow,1.0
+scattered,circular pattern,0.0
+rice,rice,1.0
+red,red and green,0.07249749990681824
+on the left,left side,0.04096772609215166
+large,large,1.0
+to the lower left,on the countertop,0.05194672862155564
+chocolate,chocolate flavored,0.06754436142034707
+brown,deep brown,0.06754436142034707
+on the left,center of the image,0.061033220311973134
+hot,warm and inviting,0.0
+brown,dark brown,0.06754436142034707
+on top,top of the pinwheels,0.061033220311973134
+bread,pita bread,0.06754436142034707
+brown,light brown,0.06754436142034707
+on the plate,on the plate,0.5757197301274735
+crumbs,shredded cheese,0.0
+white,white,1.0
+bread,naan,0.0
+red,red,1.0
+tan,light golden brown,0.0
+on a white plate,on a white plate,1.0
+arranged,circular pattern,0.0
+pear,a pear,0.06754436142034707
+on top of,circular pattern,0.0
+silver,silver,1.0
+pizza,pizza,1.0
+red,red,1.0
+beige,white,0.0
+on a round,circular,0.0
+golden-brown,light yellow,0.0
+on the left,upper left,0.04096772609215166
+plum bread,muffins,0.0
+white,white,1.0
+tan,brown,0.0
+cracked,crumbly and slightly cracked,0.061033220311973134
+on a plate,on dark-colored countertop,0.07249749990681824
+pink,red,0.0
+plate,white plate,0.06754436142034707
+red,red,1.0
+parsley,parsley,1.0
+polenta,polenta,1.0
+yellow,pale yellow,0.06754436142034707
+green,green,1.0
+polenta,mashed potato dish,0.0
+in the lower center,lower left,0.02484818193359921
+roasted,cooked and finely chopped,0.0
+beige,white with dark flecks,0.0
+chicken,no meat,0.0
+yellow,pale yellow,0.06754436142034707
+cream,yellow,0.0
+yellow,yellow-orange,0.0
+rice,rice,1.0
+brown,brown,1.0
+in light yellow,yellow,0.1353352832366127
+interspersed,throughout the rice,0.0
+rice,rice,1.0
+red,red,1.0
+green,green,1.0
+above the rice,above the rice,0.5757197301274735
+pink,pink,1.0
+cake,cake pop,0.06754436142034707
+colorful,small round and colorful,0.061033220311973134
+on a light brown surface,on a wooden table,0.13100905001347277
+brown,light brown,0.06754436142034707
+ice pops,popsicles,0.0
+white,white,1.0
+on a white plate,on a white plate,1.0
+blurred,out of focus,0.0
+brown,brown,1.0
+cookies,gingerbread cookies,0.06754436142034707
+on a metal baking sheet,on a baking sheet,0.18527477532266828
+shiny,golden brown,0.0
+rice,brown,0.0
+brown,light brown,0.06754436142034707
+stacked on,neat and organized,0.0
+pink,light pink,0.06754436142034707
+bowl,pink bowl,0.06754436142034707
+brown,light brown,0.06754436142034707
+almonds,almonds,1.0
+jar,glass jar,0.06754436142034707
+on the same surface,on the cutting board,0.16821895003341453
+orange,light brown,0.0
+on the bottom center,wooden surface,0.0
+green,green,1.0
+vibrant,orange,0.0
+sweet potatoes,sweet potato,0.06754436142034707
+orange,orange,1.0
+within the bowl,in a glass bowl,0.061033220311973134
+brown,reddish-brown,0.0
+apples,peach,0.0
+white,white,1.0
+yellow,orange,0.0
+in a bowl,in a bowl,0.5757197301274735
+applesauce,dark blue bowl,0.0
+blue,blue,1.0
+red,red,1.0
+on a surface,on a flat surface,0.18616487055295167
+applesauce,light golden brown,0.0
+golden-brown,light brown,0.0
+scooped,scooping apple sauce,0.0
+white,white,1.0
+in the bowl,in the bowl,0.5757197301274735
+golden-amber,orange,0.0
+jar,glass jar,0.06754436142034707
+yellow,yellow,1.0
+on the table,on a wooden table,0.07258113984652705
+white,light brown,0.0
+meat,ground beef,0.0
+carrots,diced potato,0.0
+fried,fried,1.0
+on the plate,lower-left portion,0.0
+adjacent,right side,0.0
+green,light green,0.06754436142034707
+artichoke,artichoke hearts,0.06754436142034707
+white,white,1.0
+to the right,top-right corner,0.0
+green,green,1.0
+asparagus,asparagus,1.0
+arranged,loose pile,0.0
+green,green,1.0
+asparagus,asparagus,1.0
+upwards,to the left,0.0
+on top of,white plate,0.0
+green,yellow,0.0
+avocado,avocado,1.0
+white,white,1.0
+on its outer skin,outside of the avocado,0.0
+scattered,on top of egg,0.0
+green,green,1.0
+pie,key lime pie,0.07249749990681824
+white,white,1.0
+on top,on top of pie,0.16821895003341453
+golden-brown,light yellow,0.0
+avocado,avocado,1.0
+green,green,1.0
+on a white square plate,on a white plate,0.3610854011224141
+vary,no,0.0
+raspberries,raspberries and blueberries,0.07249749990681824
+scattered,circular pattern,0.0
+red,red,1.0
+on the white cloth,cast iron skillet,0.0
+glistening,dark brown crispy surface,0.0
+bacon,bacon,1.0
+dark brown,dark brown,0.2213885886251307
+separated by,next to each other,0.0
+bacon,pork belly,0.0
+oven,in an oven,0.07249749990681824
+on a wire rack,middle rack,0.02484818193359921
+golden-brown,golden brown,0.0
+bagel bites,bagel bites,0.2213885886251307
+blue,bottom left and right,0.0
+in the bottom half,two,0.0
+broken,blue,0.0
+golden-brown,golden brown,0.0
+bagels,bagels,1.0
+spice,malted barley flour,0.0
+on a wire rack,on a cooling rack,0.18616487055295167
+pumpernickel,dense chewy dough,0.0
+brown,brown,1.0
+bagels,donut,0.0
+on a black wire rack,cooling rack,0.015071184180845467
+white,white,1.0
+golden-brown,brown,0.0
+melted,melted and bubbly,0.07249749990681824
+plate,white plate,0.06754436142034707
+sesame,sesame seeds,0.06754436142034707
+on the left,left side of plate,0.061033220311973134
+white,white,1.0
+cheese,cheese,1.0
+sausage,sausage,1.0
+brown,dark brown,0.06754436142034707
+within the cheese,top half of dish,0.0
+beige,light brown,0.0
+bananas,bananas,1.0
+yellow,yellow,1.0
+to the left of,left side,0.02484818193359921
+brown,brown,1.0
+chocolate,chocolate chips,0.06754436142034707
+loaves,rectangular in shape,0.0
+golden-brown,light brown,0.0
+towards the center,bottom left,0.0
+fries,plantain fries,0.06754436142034707
+brown,golden brown,0.06754436142034707
+white,white,1.0
+on a plate,on a plate,0.5757197301274735
+bananas,pineapple,0.0
+golden-yellow,yellow,0.0
+in coconut milk,milk,0.1353352832366127
+bowl,glass bowl,0.06754436142034707
+golden-brown,golden brown,0.0
+banana,none,0.0
+together,haphazard manner,0.0
+tempura,fried dessert,0.0
+irregular,round or circular,0.0
+yellow,yellow,1.0
+banana,banana,1.0
+white,white,1.0
+on top of,top of banana slices,0.16821895003341453
+dark blue,blue,0.36787944117144233
+golden,brown,0.0
+bars,square-shaped,0.0
+white,white or light beige,0.061033220311973134
+reddish-brown,dark brown,0.0
+chicken,chicken drumsticks,0.06754436142034707
+white,white,1.0
+on top of,on top,0.13427896671164932
+green,green,1.0
+mix,beef barley and vegetables,0.0
+white,white,1.0
+dispersed,dispersed throughout the stew,0.061033220311973134
+orange,orange,1.0
+of beef,beef,0.36787944117144233
+white,white,1.0
+chicken,chicken,1.0
+brown,not visible,0.0
+green,green,1.0
+at the bottom,bottom of the bowl,0.07258113984652705
+overlapping,side by side,0.0
+Sea Bass,white fish,0.0
+white,pale yellowish-white,0.0
+on the left side,left side of dish,0.16821895003341453
+green,green,1.0
+yellowish,white tint,0.0
+scattered,random pattern,0.0
+sea bass,halibut,0.0
+on the rack,on a metal rack,0.07258113984652705
+green,green,1.0
+smooth,yes the batter looks smooth,0.0456496931223525
+batter,no,0.0
+brown,no,0.0
+on top,no chocolate chips,0.0
+yes,yes there are,0.07249749990681824
+tangy,sweet and tangy,0.07249749990681824
+beef,beef,1.0
+tan,white,0.0
+orange,orange,1.0
+shredded,tender and pulled,0.0
+meat,vinegar-based sauce,0.0
+coating,thick caramel-colored sauce,0.0
+yellowish,golden brown,0.0
+chicken,chicken breast,0.06754436142034707
+reddish-brown,reddish-brown,1.0
+ribs,pork ribs,0.06754436142034707
+grill,on a grill,0.07249749990681824
+unevenly,thick glossy layer,0.0
+on the top,on the ribs,0.21177974141341938
+tasty,cooked and seasoned,0.0
+pan,a pan,0.06754436142034707
+green,green,1.0
+green beans,green beans,0.2213885886251307
+in the center,center of the pan,0.07258113984652705
+reddish-brown,brown,0.0
+orange,orange,1.0
+with other ingredients,tomatoes onions and peppers,0.0
+plate,colorful plate,0.06754436142034707
+green,dark green,0.06754436142034707
+beans,green beans,0.06754436142034707
+tangled,scattered and overlapping,0.0
+yes,no,0.0
+in the bottom center,lower right,0.0
+glossy,shiny oily coating,0.0
+beans,green beans,0.06754436142034707
+peppered,dark brown substance,0.0
+overlapping,in a pile,0.0
+throughout the entire image frame,center of the image,0.056526248548690414
+tan,light brown,0.0
+bowl,a bowl,0.06754436142034707
+fill,about seventy five percent,0.0
+brown,dark brown,0.06754436142034707
+in the broth,in the orange bowl,0.16821895003341453
+sliced,sautéed in a pan,0.0
+beef,ground beef,0.06754436142034707
+brown,brown,1.0
+with peppers,peppers,0.36787944117144233
+slow,slow-cooking method,0.0
+reddish-brown,medium red,0.0
+meat,cooked beef,0.0
+in the upper-right portion,upper half,0.0
+brown,dark brown,0.06754436142034707
+white,white,1.0
+at the top,on top of liquid,0.061033220311973134
+glasses,clear tall glasses,0.07249749990681824
+amber,light amber,0.06754436142034707
+surface,left side of image,0.0
+red,red,1.0
+beets,beets and butternut squash,0.061033220311973134
+green,green,1.0
+yellow,light brown,0.0
+cake,cake,1.0
+on a clear glass,glass cake stand,0.05194672862155564
+yellow,light yellow,0.06754436142034707
+biscuits,buttermilk biscuits,0.06754436142034707
+clustered,in a pile,0.0
+baked,golden brown,0.0
+golden-brown,golden brown,0.0
+pale,white,0.0
+cream,white,0.0
+on a wire rack,not in the image,0.0
+beige,light yellowish,0.0
+biscuits,cheddar biscuit,0.0
+orange,orange,1.0
+across the image,top left,0.0
+flaky,flaky,1.0
+light-colored,white with blue,0.0
+blondies,blondies,1.0
+brown,light brown,0.06754436142034707
+on top,top of the blondies,0.061033220311973134
+drizzle,caramel sauce,0.0
+purple,dark purple or black,0.061033220311973134
+blueberries,no evidence of pickling,0.0
+pink,pink,1.0
+bowl,the bowl,0.06754436142034707
+under the bowl,on a white plate,0.0
+golden-brown,light brown,0.0
+reddish-brown,reddish-brown,1.0
+covering,sitting on top,0.0
+plate,rigatoni pasta,0.0
+yellow,light yellow,0.06754436142034707
+in the center,center of the plate,0.07258113984652705
+green,green,1.0
+spinach,spinach,1.0
+avocado,green,0.0
+closer to,bottom of the bowl,0.0
+tan,brown,0.0
+rice,brown rice,0.06754436142034707
+on the left side,left side of bowl,0.16821895003341453
+green,green,1.0
+reddish-brown,reddish-brown,1.0
+brats,italian sausage,0.0
+green,green,1.0
+draped over,top of the sausages,0.0
+liquid,green leaves of parsley,0.0
+walnuts,nuts,0.0
+speckled,light brown moist dense,0.0
+on top,top of the bread,0.061033220311973134
+white,pale yellow,0.0
+loaf,a loaf,0.06754436142034707
+tan,golden brown,0.0
+overlapping,staggered pattern,0.0
+on the board,on a wire rack,0.061033220311973134
+white,white,1.0
+golden-brown,golden brown,0.0
+stacked,stacked on top,0.07249749990681824
+beige,light brown,0.0
+bread,loaf of bread,0.07249749990681824
+creamy,light beige,0.0
+on a wire rack,metal cooling rack,0.05194672862155564
+bright,white,0.0
+orange,orange,1.0
+around the eggs,bottom of the pan,0.061033220311973134
+brown,brown,1.0
+beef brisket,roast beef,0.06754436142034707
+green,green,1.0
+gravy,dark gravy,0.06754436142034707
+on the plate,right side of plate,0.061033220311973134
+golden-brown,light brown,0.0
+within,left side,0.0
+brown,brown,1.0
+beef,beef,1.0
+green,green,1.0
+on a plate,center of the plate,0.061033220311973134
+rice,white rice,0.06754436142034707
+broccoli,broccoli,1.0
+green,green,1.0
+red,red,1.0
+cooked,steamed or sautéed,0.0
+on a plate,on a decorative plate,0.18616487055295167
+broth,water,0.0
+green,green,1.0
+within the broth,in the broth,0.21177974141341938
+square,rectangular,0.0
+brown,dark brown,0.06754436142034707
+on top,on top of brownie,0.16821895003341453
+green,green,1.0
+brown,brown,1.0
+shiny,pecan nut embedded,0.0
+pecans,pecans,1.0
+brown,dark brown,0.06754436142034707
+brownies,brownies,1.0
+cracked,fudgy and slightly crispy,0.0
+walnuts,white chocolate chips,0.0
+on top of,on the plate,0.07249749990681824
+dark-brown,dark brown,0.0
+arranged,stacked on top,0.0
+brownies,brownies,1.0
+within the chocolate,on the surface,0.07249749990681824
+white,white,1.0
+bruschetta,pizza or bruschetta,0.07249749990681824
+red,red,1.0
+on the center,on a white plate,0.061033220311973134
+toasted,toasted english muffin,0.07249749990681824
+melted,melted,1.0
+black,black,1.0
+red,red,1.0
+on top,on top of pizza,0.16821895003341453
+reddish-brown,red,0.0
+beef,raw tuna,0.0
+glistening,raw and thinly sliced,0.0
+on top of,top left side,0.07249749990681824
+orange,orange,1.0
+one-third,bottom half,0.0
+burgers,meat and mashed potatoes,0.0
+brownish-tan,golden brown,0.0
+of the burgers,piece of meat,0.07249749990681824
+green,green,1.0
+white,white,1.0
+melted,melted and been eaten,0.061033220311973134
+orange,yellow,0.0
+in the dish,not in the image,0.16821895003341453
+layers,layered in baking dish,0.0
+vegan,cannot be determined,0.0
+burritos,chicken fajita wrap,0.0
+tan,light yellow,0.0
+on top,top of other burrito,0.061033220311973134
+sweet,hearty satisfying and familiar,0.0
+burritos,burrito,0.0
+black,black,1.0
+on a black plate,on a black plate,1.0
+orange,orange,1.0
+white,white,1.0
+cupcake,cupcake,1.0
+light blue,blue streaks,0.06754436142034707
+on top of,top of the cupcake,0.16821895003341453
+rectangular,rectangular,1.0
+cake,cake,1.0
+blue,blue,1.0
+caramel,vanilla,0.0
+around the perimeter,top and bottom,0.0
+shredded,shredded and slightly fermented,0.061033220311973134
+cabbage,sauerkraut,0.0
+on the top-right,in the bowl,0.07249749990681824
+white,white and blue,0.07249749990681824
+pinkish-red,deep pink,0.0
+white,white,1.0
+bowl,round,0.0
+breadcrumbs,breadcrumbs,1.0
+golden,golden brown,0.06754436142034707
+shredded,crunchy,0.0
+green-cabbage,napa cabbage,0.0
+white,white,1.0
+orange,orange,1.0
+within the salad,left side of salad,0.061033220311973134
+reddish-orange,orange,0.0
+cabbage,cabbage,1.0
+yellowish-green,yellow,0.0
+beans,red kidney beans,0.07249749990681824
+in the center,in the center,0.5757197301274735
+cabbage,carrots,0.0
+brown,brown,1.0
+on top of the plate,on top of carrots,0.33602782883534926
+orange,orange,1.0
+Evenly-distributed ,random pattern,0.0
+floating in,top of the broth,0.0
+red,red,1.0
+orange,orange,1.0
+light-brown,light brown,0.0
+chicken,chicken,1.0
+red,red,1.0
+on the right side,right side,0.08144431026514741
+spaghetti,linguine,0.0
+reddish-brown,red,0.0
+chicken,meat,0.0
+light-yellow,light yellow,0.0
+in the center,middle of the plate,0.061033220311973134
+light,white,0.0
+chicken,chicken,1.0
+red,red,1.0
+cheese,shredded cheese,0.06754436142034707
+golden,light brown,0.0
+calamari,calamari,1.0
+arranging,circular pattern,0.0
+white,white,1.0
+on the plate,middle of the dish,0.061033220311973134
+yellow,white,0.0
+bowl,white and yellow bowl,0.061033220311973134
+brown,light brown,0.06754436142034707
+on top of,top of the bowl,0.16821895003341453
+yellow,yellow,1.0
+plate,white paper plate,0.07249749990681824
+beef,beef,1.0
+brown,brown,1.0
+in broth,flavorful and aromatic stew,0.0
+yellow,yellow,1.0
+chocolate,chocolate,1.0
+candy,chocolate peanut butter egg,0.0
+brown,brown,1.0
+right of orange ribbon,behind the candy,0.0
+brown,light brown,0.06754436142034707
+sugar,peanut butter,0.0
+white,white,1.0
+to the left,left of the fudge,0.07258113984652705
+brownish-red,dark brown,0.0
+meat,pork roast,0.0
+dark brown,dark brown,0.2213885886251307
+charred,crispy and browned,0.0
+vegetables,utensils,0.0
+hard,brittle and crunchy,0.0
+candy,hard candy,0.06754436142034707
+orange,orange,1.0
+coated,sugar crystals,0.0
+throughout,center of the image,0.0
+green,green,1.0
+candy,red hard candy,0.07249749990681824
+reddish-brown,red,0.0
+center,center of the plate,0.061033220311973134
+on the plate,on a green plate,0.07258113984652705
+red,deep rich red,0.07249749990681824
+poured,poured or drizzled,0.07249749990681824
+candy,red sauce or glaze,0.0
+translucent,translucent,1.0
+on a piece,top of the parchment,0.0
+yellow,light yellow,0.06754436142034707
+center of the image,center of the image,1.0
+fluffy and toasted,golden brown,0.0
+meringue,meringue,1.0
+silver,light brown,0.0
+light-green,yellowish,0.0
+pasta,spaghetti carbonara,0.0
+black,black and white,0.07249749990681824
+in a creamy sauce,yellow sauce,0.02484818193359921
+silver,gray,0.0
+brown,light brown,0.06754436142034707
+meat,meat,1.0
+bubbling,boiling,0.0
+yellow-brown,light brown,0.0
+orange,orange,1.0
+carrots,carrots,1.0
+white,white,1.0
+orange,orange,1.0
+carrots,carrots,1.0
+glistening,cooked and sliced thin,0.0
+in the center,left side,0.0
+green,green,1.0
+yellowish,yellow or orange,0.0
+rice,vegetables,0.0
+orange,orange,1.0
+green,green,1.0
+cashews,cashews,1.0
+tan,light brown,0.0
+Piled randomly,random pattern,0.0
+on a purple surface,on a table,0.15174681566793558
+triangular,square shape,0.0
+casserole,glass dish,0.0
+green,green,1.0
+with cheese,cheese and tomatoes,0.07249749990681824
+egg,egg mixture,0.06754436142034707
+beige,white,0.0
+catfish,white fish,0.0
+reddish-orange,deep red,0.0
+in the upper-center,center of the plate,0.061033220311973134
+fried,cooking in a pan,0.0
+golden-brown,light brown,0.0
+catfish,white fish,0.0
+center,not visible in image,0.0
+green,no beans present,0.0
+on the foreground,left side,0.0
+fills,nothing is in it,0.0
+cauliflower,potatoes,0.0
+blue,blue,1.0
+yellow,pale yellow,0.06754436142034707
+creamy,creamy and smooth,0.07249749990681824
+mac-n-cheese,macaroni and cheese,0.0
+white,white,1.0
+orange-yellow,yellow,0.0
+off-white,white,0.0
+cauliflower,cauliflower,1.0
+green,green,1.0
+broccoli,broccoli,1.0
+broccoli,broccoli,1.0
+glass jars,glass,0.36787944117144233
+white,white,1.0
+orange,orange,1.0
+on the countertop,on a countertop,0.08621454270909737
+golden-brown,golden brown,0.0
+bread,challah bread,0.06754436142034707
+on the cutting board,on a wooden board,0.07258113984652705
+yellow,light yellow,0.06754436142034707
+dark green,dark green,0.2213885886251307
+chard,spinach,0.0
+garlic,garlic,1.0
+white,white,1.0
+in a bowl,white bowl,0.04096772609215166
+rainbow,red green yellow orange purple,0.0
+chard,swiss chard,0.06754436142034707
+green,red,0.0
+in a bowl,on a green cloth,0.061033220311973134
+vegetables,beets or carrots,0.0
+cheeseburger,cheeseburger,1.0
+yellow,yellow,1.0
+golden-brown,white,0.0
+pickle,pickle spear,0.06754436142034707
+on a white plate,on a white plate,1.0
+tan,beige,0.0
+burger,burger,1.0
+orange,orange,1.0
+located to the left,left side,0.02484818193359921
+beige,light yellowish-white,0.0
+filling,causing it to crack,0.0
+right side of the image,upper right quadrant,0.03722145753922423
+silver,grey or silver,0.07249749990681824
+golden-brown,light brown,0.0
+cheesecake,cheesecake,1.0
+white,white,1.0
+sprinkled,nutmeg,0.0
+white,golden color,0.0
+cheesecake,cheesecake,1.0
+blue,blue,1.0
+on the plate,gray rectangular serving tray,0.0
+syrup,caramel sauce,0.0
+red,red,1.0
+jar,mason jar,0.06754436142034707
+on top of,on top of cream,0.43146827293898643
+dark-brown,brown,0.0
+cheesecake,chocolate cake,0.0
+glaze,smooth and velvety,0.0
+strawberries,strawberries,1.0
+on top of,not on cheesecake,0.07249749990681824
+creamy,smooth and creamy,0.07249749990681824
+cherries,cherries,1.0
+fills,in the bowl,0.0
+purple,black,0.0
+throughout the bowl,throughout the mixture,0.21177974141341938
+red,orange,0.0
+cherries,cherry,0.0
+brown,dark brown,0.06754436142034707
+on the left,lower-left corner,0.0
+orange,orange,1.0
+browned,orange,0.0
+chicken,ground chicken,0.06754436142034707
+on top of the plate,on top of rice,0.33602782883534926
+parsley,parsley,1.0
+golden,golden brown,0.06754436142034707
+brown,golden brown,0.06754436142034707
+reddish-brown sauce,reddish-brown,0.36787944117144233
+on and around the chicken,bottom of the pan,0.04753271977233425
+yellow,light yellow,0.06754436142034707
+red,red,1.0
+sprinkled on top,on the scrambled eggs,0.061033220311973134
+fork,a fork,0.06754436142034707
+crispy,rough and uneven,0.0
+large,6-8 quarts,0.0
+chili,ground beef,0.0
+red,reddish-brown,0.0
+in a pot,in a large pot,0.18616487055295167
+sausage,ground beef,0.0
+green,green,1.0
+bowl,bowl,1.0
+in the bowl,argentina and uruguay,0.0
+green,pink,0.0
+dip in,inside the bowl,0.0
+scattered,loose pile,0.0
+chips,fried vegetable,0.0
+green,dark green and yellow,0.061033220311973134
+golden-yellow,yellow,0.0
+towards the central region,left side,0.0
+swirled,marbled pattern,0.0
+tan,brown and white,0.0
+many,approximately 30 pieces,0.0
+rectangular,squares,0.0
+in clear plastic,clear plastic,0.13427896671164932
+dessert,glass baking dish,0.0
+clear,rectangular with rounded corners,0.0
+raspberries,dried cranberries,0.0
+scattered,random pattern around dish,0.0
+on a metallic surface,right side,0.0
+chocolate,brown,0.0
+brown,golden brown,0.06754436142034707
+golden-brown,white,0.0
+on top of,center of the pastry,0.061033220311973134
+creamy,creamy and crumbly,0.07249749990681824
+cake,chocolate cake,0.06754436142034707
+brown,brown,1.0
+on top,on top of cake,0.16821895003341453
+chocolate,chocolate,1.0
+drizzled,melting and mixing,0.0
+brown,brown,1.0
+ice cream,ice cream,0.2213885886251307
+white,white,1.0
+at the bottom,bottom of the bowl,0.07258113984652705
+yellow,creamy yellow,0.06754436142034707
+bowl,ceramic bowl,0.06754436142034707
+dispersed,distributed throughout,0.0
+carrots,carrot,0.0
+on the surface,center of the bowl,0.061033220311973134
+corn,corn,1.0
+brown,red,0.0
+yellow,yellow,1.0
+across the surface,creamy corn chowder,0.0
+red,deep red,0.06754436142034707
+bowl,white bowl,0.06754436142034707
+center of the bowl,white bowl,0.02484818193359921
+fills,about two thirds,0.0
+pulpy,thick and syrupy,0.0
+jar,mason jar,0.06754436142034707
+brownish-yellow,brownish-green,0.0
+with the chutney,rhubarb chutney,0.04096772609215166
+label,rhubarb chutney,0.0
+red,red,1.0
+apple,apples,0.0
+slices,water,0.0
+green,yellow-green,0.0
+in a clear liquid,bottom left,0.0
+white,white,1.0
+bowl,white bowl,0.06754436142034707
+brown,brown,1.0
+in the center,center of the image,0.07258113984652705
+off-white,white,0.0
+chowder,clam chowder,0.06754436142034707
+sits on,on a white plate,0.061033220311973134
+circle,round crusty loaf,0.0
+herbs,sprig of celery,0.0
+white,white,1.0
+clams,cockles,0.0
+brown,brown,1.0
+in a bowl,in a white bowl,0.18616487055295167
+green,green,1.0
+golden-brown,golden brown,0.0
+pumpkin,pumpkin,1.0
+white,white,1.0
+on the plate,on a white plate,0.07258113984652705
+crumbly,crumbly and smooth,0.07249749990681824
+golden-brown,golden yellow,0.0
+cobbler,custard or cobbler,0.07249749990681824
+yellow,light golden yellow,0.07249749990681824
+with variations,caramelizes and browns,0.0
+baking,baked,0.0
+homemade,yes,0.0
+jars,mason jars,0.06754436142034707
+yes,no,0.0
+vegetable,orange juice,0.0
+yes,yes,1.0
+Cocktail,cosmopolitan cocktail,0.0
+float,add color and flavor,0.0
+clear,clear,1.0
+glass,martini glass,0.06754436142034707
+in a slight curve,triangular pattern,0.0
+clear,clear,1.0
+glass,margarita glass,0.06754436142034707
+white,white,1.0
+yellow,yellowish color,0.0
+on top of,on top of ice,0.43146827293898643
+turquoise-blue,blue,0.0
+jar,mason jar,0.06754436142034707
+red,white,0.0
+on the rim,on top of drink,0.061033220311973134
+shark,shark decoration,0.06754436142034707
+garnished,garnish for the drinks,0.0
+orange,yellow,0.0
+yellow-orange,vibrant orange,0.0
+Monkey Gland,sidecar,0.0
+on the surface,on top of each,0.061033220311973134
+yes,yes,1.0
+cocoa,cannot determine,0.0
+no,yes,0.0
+yes,yes,1.0
+on the upper left,yes,0.0
+spiced,sweet and spicy,0.0
+chocolate-brown,dark brown,0.0
+two,two slices,0.06754436142034707
+on top of,above the bottom slice,0.0
+golden-brown,golden brown,0.0
+cod,salmon,0.0
+resting,being served,0.0
+on top of,on top,0.13427896671164932
+glass,glass,1.0
+green,green,1.0
+green,green,1.0
+on the rim,rim of the glass,0.07258113984652705
+vibrant red,vibrant red hue,0.21177974141341938
+light,light brown,0.06754436142034707
+mug,a mug,0.06754436142034707
+red,red,1.0
+across a light brown surface,on a wooden surface,0.056526248548690414
+coffe beans,coffee beans,0.06754436142034707
+clear,clear,1.0
+coffee,coffee beverage,0.06754436142034707
+brown,light brown,0.06754436142034707
+straw,iced coffee,0.0
+white,white,1.0
+coffee,coffee or hot chocolate,0.061033220311973134
+glass,clear glass,0.06754436142034707
+whipped cream,whipped cream,0.2213885886251307
+on the rim,around rim of glass,0.061033220311973134
+at the center,lower half,0.0
+sausages,sausage,0.0
+brown with a slight char,reddish-pink,0.0
+white,white with flecks green,0.061033220311973134
+filling,being served,0.0
+white,white,1.0
+bowl,white bowl,0.06754436142034707
+green,light green,0.06754436142034707
+pink,light pink,0.06754436142034707
+multicolored,purple pink green white,0.0
+creamy,crunchy,0.0
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the left,upper-left corner,0.0
+onion,red onion,0.06754436142034707
+green,green,1.0
+bowl,glass bowl,0.06754436142034707
+orange,orange,1.0
+creamy,smooth and creamy,0.07249749990681824
+in a glass bowl,in a glass bowl,1.0
+red-purple,deep rich purple,0.0
+in the bowl,small white ceramic bowl,0.061033220311973134
+wooden board,wooden cutting board,0.08621454270909737
+Cutting and serving,cutting blackberries,0.0
+to the right of,center of the frame,0.07258113984652705
+yes,yes,1.0
+cookie,meat pie,0.0
+brown,brown,1.0
+on the pan,on a gas stove,0.061033220311973134
+clear,clear,1.0
+jar,glass jar,0.06754436142034707
+brown,black,0.0
+with red ribbon,red and white ribbon,0.07258113984652705
+bright,yellow,0.0
+on the colorful surface,on a tablecloth,0.05194672862155564
+orange juice,fruit smoothie or juice,0.061033220311973134
+into the cooler,in the cup,0.07249749990681824
+yellow,yellow,1.0
+yes,yes it is,0.07249749990681824
+across the majority of,left side,0.0
+melted and browned cheese,cheese and jalapeño peppers,0.07258113984652705
+brownish-orange,light brown,0.0
+light,golden brown,0.0
+golden-brown,light golden brown,0.0
+glass,ceramic,0.0
+on the top-left,upper-left corner,0.0
+yellow,yellow,1.0
+corn,corn,1.0
+mixed,chopped into small pieces,0.0
+red,red,1.0
+brown,dark brown,0.06754436142034707
+beans,bean and corn,0.0
+red,red,1.0
+on the right,middle of the bowl,0.061033220311973134
+white,white,1.0
+scattered,scattered pattern,0.06754436142034707
+yellow,yellow,1.0
+in a bowl,middle of the bowl,0.061033220311973134
+in a bowl,lower left portion,0.0
+golden-yellow,golden yellow,0.0
+cornbread,cornbread,1.0
+black,black,1.0
+coarse,moist and tender,0.0
+golden,yellow,0.0
+cornbread,cheese biscuit,0.0
+white,white,1.0
+on a plate,on both sides,0.07249749990681824
+cornbread,jalapeno peppers,0.0
+cornbread,cornbread,1.0
+green,green,1.0
+on the top-left,upper left corner,0.0
+cottage cheese,cottage cheese,0.2213885886251307
+white,white,1.0
+yellow,yellow,1.0
+around the cottage cheese,on top,0.0
+chicken,chicken,1.0
+on the pan,center of the image,0.061033220311973134
+spinach,spinach,1.0
+white,white,1.0
+in the foreground,middle of the mixture,0.061033220311973134
+yellow,white,0.0
+couscous,couscous,1.0
+white,white,1.0
+green,green,1.0
+on top of,on top of couscous,0.43146827293898643
+tan,light orange,0.0
+filling,risotto-style dish,0.0
+couscous,risotto,0.0
+white,white,1.0
+creamy,thick and creamy,0.07249749990681824
+tan,light yellow,0.0
+couscous,couscous,1.0
+red,red,1.0
+green,red and green,0.07249749990681824
+within the pot,center of the image,0.061033220311973134
+bowl,white bowl,0.06754436142034707
+white,white,1.0
+beige,white,0.0
+small and round,round pearls,0.04096772609215166
+in a white bowl,white bowl,0.08144431026514741
+yellowish-orange,orange-yellow,0.0
+green,green,1.0
+across the top,throughout the scrambled eggs,0.061033220311973134
+spoon,wooden spoon,0.06754436142034707
+crab cakes,fritter,0.0
+golden,golden brown,0.06754436142034707
+green,green,1.0
+reddish-orange,orange or pinkish-orange,0.0
+crab,crabs,0.0
+clustered,facing upwards,0.0
+sausages,sausage,0.0
+red,deep red,0.06754436142034707
+pie,fruit pie,0.06754436142034707
+tan,light brown,0.0
+golden,light beige,0.0
+towards the left,to the right,0.07249749990681824
+cranberry,bbq sauce,0.0
+chicken,chicken drumsticks,0.06754436142034707
+light blue,light blue,0.2213885886251307
+golden brown,light brown,0.06754436142034707
+on a plate,on a plate,0.5757197301274735
+fills,stained the bowl,0.0
+bowl,glass bowl,0.06754436142034707
+thick,thick and chunky,0.07249749990681824
+light brown and red,light brown,0.08144431026514741
+in the center,on top of sauce,0.0
+crawfish,lobster,0.0
+green,green,1.0
+within a white bowl,white bowl,0.08144431026514741
+beige,light brown,0.0
+piled,mound shape,0.0
+crawfish,crab,0.0
+red,red,1.0
+on top of,mixed in with rice,0.0
+light,smooth and creamy,0.0
+walnuts,walnuts,1.0
+beige,light beige or cream,0.061033220311973134
+on top,left side,0.0
+bowl,glass bowl,0.06754436142034707
+soft,light and airy,0.0
+cream,whipped cream,0.06754436142034707
+off-white,white,0.0
+fills,stabilizing the glass dish,0.0
+on top,not visible in image,0.0
+white,white,1.0
+blueberries,blueberries,1.0
+brown,golden brown,0.06754436142034707
+blueberries,sweet filling,0.0
+on the plate,on the plate,0.5757197301274735
+golden brown,light golden,0.06754436142034707
+crepe,a crepe,0.06754436142034707
+darker,golden brown and crispy,0.0
+in the center,center of the image,0.07258113984652705
+purple,purple,1.0
+rolls,crescent shape,0.0
+golden brown ,golden brown,0.2213885886251307
+flaky dough,chocolate or chocolate-based spread,0.0
+on the lower right,behind and to the right,0.05428693985879238
+golden-yellow,yellow,0.0
+overlap,circular layered effect,0.0
+cheese,cheese crisps,0.06754436142034707
+lacy,crispy and brittle,0.0
+on the upper-left,left side of plate,0.0
+white,white,1.0
+brown,brown,1.0
+on a white plate,on a white plate,1.0
+the crisp in the front,front right,0.015071184180845467
+green,light green,0.06754436142034707
+cones,crescent shaped,0.0
+golden-brown,not in the image,0.0
+lies,upside-down,0.0
+brown,brown,1.0
+croquettes,meatballs,0.0
+dark,darker shade of brown,0.0
+on a plate,on a plate,0.5757197301274735
+arranged,circular pattern,0.0
+yummylicious,golden brown,0.0
+croquettes,arancini,0.0
+golden,golden brown,0.06754436142034707
+on a silver metal rack,baking tray,0.0
+brown,golden brown,0.06754436142034707
+beige,off-white,0.0
+croquettes,crab cakes,0.0
+golden brown,golden brown,0.2213885886251307
+resting on the plate,on a bed,0.05194672862155564
+yes,no,0.0
+pie,crumble pie,0.06754436142034707
+green,green,1.0
+off-white,white,0.0
+on a white plate,on a white plate,1.0
+red,not raspberries,0.0
+bowl,white ramekin,0.0
+orange,yellow and orange,0.07249749990681824
+mixed,layered pattern,0.0
+on top of,on top,0.13427896671164932
+red,red,1.0
+bowl,white ceramic dish,0.0
+yes,yes it is,0.07249749990681824
+golden-brown,light brown,0.0
+at the bottom,bottom of the dish,0.07258113984652705
+pie,berry crumble pie,0.07249749990681824
+red,no raspberries present,0.0
+beneath,bottom of the crumble,0.0
+brown,light brown,0.06754436142034707
+green,lime green,0.06754436142034707
+scattered,scattered throughout,0.06754436142034707
+brown,light brown,0.06754436142034707
+berries,dried cranberries,0.0
+atop,small green bowl,0.0
+golden-brown,light brown,0.0
+pie,baked pie,0.06754436142034707
+lattice,lattice pattern,0.06754436142034707
+across the entire top,top of the pie,0.07258113984652705
+leaves,two leaves,0.06754436142034707
+yellow,light beige,0.0
+pie,unbaked pie crust,0.07249749990681824
+crust,the crust,0.06754436142034707
+crimped,crimped,1.0
+in the center,center of the image,0.07258113984652705
+golden,light beige,0.0
+pie,a pie,0.06754436142034707
+red,red,1.0
+tan,light yellow,0.0
+dripping,drizzling down the side,0.0
+tan,golden brown,0.0
+premium,crispy,0.0
+cheese,cheese,1.0
+in the lower portion,foreground of the image,0.061033220311973134
+green,pale green,0.06754436142034707
+cucumbers,cucumber,0.0
+white,white,1.0
+creamy,thick and creamy,0.07249749990681824
+throughout the image,throughout the bowl,0.21177974141341938
+white,white,1.0
+salad,caprese salad,0.06754436142034707
+red,red,1.0
+on a plate,on a white plate,0.18616487055295167
+green,green,1.0
+green,light green,0.06754436142034707
+salad,mixing bowl,0.0
+visible,yes,0.0
+white,white,1.0
+inside a transparent bowl,in a glass bowl,0.07258113984652705
+green,green,1.0
+cucumbers,cucumber,0.0
+sliced,thin uniform slices,0.0
+on their surfaces,on top of salad,0.061033220311973134
+fresh,thinly sliced,0.0
+cucumbers,cucumber,0.0
+green,green,1.0
+overlapping,random pattern,0.0
+yellow,yellow,1.0
+margaritas,margarita,0.0
+white,white,1.0
+cucumber,cucumber,1.0
+on the rim,rim of the glasses,0.07258113984652705
+green,green,1.0
+cucumber,cucumber,1.0
+wooden,wooden surface,0.06754436142034707
+cucumbers,cucumbers,1.0
+fill,refreshing crunch and flavor,0.0
+white,white,1.0
+in a shallow bowl,in a bowl,0.16793545727180179
+white,white with grey,0.07249749990681824
+golden-brown,light brown,0.0
+on a white surface,on a white plate,0.43146827293898643
+pink,pink,1.0
+reddish-brown,brown,0.0
+cupcake,cupcake,1.0
+on the plate,on a plate,0.08621454270909737
+yellow,yellow-orange,0.0
+curd,custard or pudding,0.0
+glass,dessert,0.0
+submerged inside,in the curd,0.0
+smooth,smooth and creamy,0.07249749990681824
+curry,bowl of curry,0.07249749990681824
+white,white,1.0
+golden-brown,yellow,0.0
+on top of,middle of the curry,0.061033220311973134
+covering,decorating the cake,0.0
+cake,cake with pink frosting,0.061033220311973134
+roses,roses,1.0
+swirling,circular pattern,0.0
+over the entire surface,top and sides,0.0
+yellow,light yellow,0.06754436142034707
+custard,ice cream,0.0
+into the custard,in the ice cream,0.061033220311973134
+orange-brown,orange,0.0
+custard,pumpkin pudding,0.0
+fills,fills it,0.06754436142034707
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+pale,white,0.0
+chicken,chicken,1.0
+brown,green,0.0
+on top,top of the chicken,0.061033220311973134
+red,red,1.0
+white,white,1.0
+immersing,enveloping the chakolya pieces,0.0
+dark,black brown and red,0.0
+spices,cumin seeds,0.0
+across the bowl,yellow curry-like sauce,0.0
+raspberry,cherries or raspberries,0.0
+golden-brown,golden brown,0.0
+plate,white rectangular plate,0.07249749990681824
+red,deep rich red,0.07249749990681824
+on a plate,on a white platter,0.16821895003341453
+Turkish Delight,hard candy,0.0
+coated,powdered sugar,0.0
+white,white,1.0
+scattered,scattered pattern,0.06754436142034707
+across the frame,on a white surface,0.0
+dessert,strawberry shortcake,0.0
+taking,piercing a piece,0.0
+white,white,1.0
+on top,on top of dessert,0.16821895003341453
+glossy,smooth and syrupy,0.0
+baking,baked,0.0
+yellow,yellow,1.0
+melted,melted and creamy,0.07249749990681824
+in a clear glass,glass baking dish,0.05194672862155564
+filling,being served,0.0
+bean,black bean dip,0.07249749990681824
+brown-black,dark brown,0.0
+in the center-left,bottom left,0.0
+white,white,1.0
+pizza,dip,0.0
+red,red,1.0
+across the surface,cheese pepperoni onions,0.0
+green,green,1.0
+golden-brown,light brown,0.0
+corn dogs,corn dogs,0.2213885886251307
+reddish-brown,brown,0.0
+on a white plate,on a white plate,1.0
+chocolate,chocolate,1.0
+donuts,chocolate donuts,0.06754436142034707
+brown,dark brown,0.06754436142034707
+in the bottom left,top-right corner,0.0
+white,white,1.0
+pierogi,pierogies,0.0
+beige,light beige,0.06754436142034707
+on plate,on a white plate,0.07258113984652705
+fried,no they are not,0.0
+brown,brown with white,0.07249749990681824
+doughnuts,donuts,0.0
+yellow,white,0.0
+stacked,pyramid shape,0.0
+on top of,middle of the pile,0.061033220311973134
+doughnuts,beignets,0.0
+white,white,1.0
+in the center,center of the image,0.07258113984652705
+orange-brown,light brown,0.0
+doughnuts,donut,0.0
+maple,pumpkin spice,0.0
+green,green,1.0
+vanilla,coconut or vanilla,0.07249749990681824
+tan,white,0.0
+in the front,left side,0.0
+salad,salad,1.0
+Best,light and refreshing,0.0
+brownish,dark orange,0.0
+black,black,1.0
+in the lower-left corner,lower-left corner,0.08144431026514741
+orange,light orange-pink,0.0
+salad,glass rectangular container,0.0
+drizzled,pouring it over,0.0
+top of the salad,middle of the salad,0.43146827293898643
+lettuce,lettuce,1.0
+white,white,1.0
+bowl,small bowl or ramekin,0.061033220311973134
+brown,brownish-orange,0.0
+wasabi,oil,0.0
+towards the upper-right,upper right corner,0.0
+orange-red,dark orange,0.0
+fills,thickening the liquid,0.0
+pitcher,glass or plastic bottle,0.0
+white,white,1.0
+to the bottom left,left of the pitcher,0.07258113984652705
+yellow,beige,0.0
+jar,glass jar,0.06754436142034707
+creamy,thick and creamy,0.07249749990681824
+greenish,light yellow,0.0
+on a red surface,red cutting board,0.05194672862155564
+crispy,crispy and slightly charred,0.061033220311973134
+drumsticks,drumsticks,1.0
+white,white,1.0
+blue,blue and white,0.07249749990681824
+on a plate,on a white plate,0.18616487055295167
+decorative,serving dish,0.0
+drumsticks,rabbit,0.0
+pinkish-tan,no drumstick visible,0.0
+on the left,left side of plate,0.061033220311973134
+green,green,1.0
+pink,pinkish-white,0.0
+duck,turkey,0.0
+sliced,roasting,0.0
+yellow,light yellow,0.06754436142034707
+to the left,top left corner,0.07249749990681824
+Duck Adobo,stew or braise,0.0
+covering,being absorbed into rice,0.0
+white,white,1.0
+glossy,dark brown glossy glaze,0.061033220311973134
+in the center,bottom left corner,0.0
+brown,golden brown,0.06754436142034707
+duck,roasted chicken,0.0
+crispy,crispy and golden brown,0.061033220311973134
+green,green,1.0
+on an oval platter,white plate,0.0
+golden-brown,brown,0.0
+dumplings,dessert,0.0
+metal,stainless steel,0.0
+in a metal baking pan,baking dish,0.015071184180845467
+amber,dark amber,0.06754436142034707
+yellow,yellow,1.0
+egg,eggs,0.0
+sprinkled on,on the eggs,0.07249749990681824
+white,light cream,0.0
+translucent,protein-rich clear liquid,0.0
+golden-brown,light brown,0.0
+eggs,hard-boiled egg,0.0
+white,yellow,0.0
+on a plate,white plate,0.04096772609215166
+yellow,yellow,1.0
+golden-brown,golden brown,0.0
+eggnog,bread-based dish,0.0
+white,white marble,0.06754436142034707
+on top,on the plate,0.07249749990681824
+syrup,maple syrup,0.06754436142034707
+round,spherical,0.0
+eggplant,meatballs,0.0
+white,white,1.0
+in the top-center,right side of dish,0.0
+eggplant,eggplant,1.0
+red,red,1.0
+on top of,underneath the eggplant rollatini,0.0
+golden-brown,light brown,0.0
+empanada,empanadas,0.0
+white,white,1.0
+on a patterned napkin,on a white napkin,0.18616487055295167
+creamy,soft and tender,0.0
+yellow,yellow orange and red,0.061033220311973134
+scattered across,top of the casserole,0.0
+red,red,1.0
+peeks,corners of the dish,0.0
+white,white,1.0
+popcorn,popcorn,1.0
+spilling out,yes it is,0.0
+brown,light brown,0.06754436142034707
+tilted,yes,0.0
+red,green,0.0
+popcorn,popcorn,1.0
+peppermint,candy cane,0.0
+glass,glass,1.0
+in a bowl,in a glass bowl,0.18616487055295167
+blue,blue,1.0
+bowl,a bowl,0.06754436142034707
+white,white,1.0
+keto,low-carb diet,0.0
+poppers,poppers,1.0
+green,green,1.0
+white,pale yellow or off-white,0.0
+on a black metal rack,air fryer basket,0.0
+gray,dark gray,0.06754436142034707
+poppers,cookie or pastry,0.0
+wrapped,in a black bowl,0.0
+green,green,1.0
+green,green,1.0
+jalapeño,jalapeño pepper,0.06754436142034707
+bacon,bacon,1.0
+on a white plate,on a white plate,1.0
+crisp,cooked and crispy,0.0
+green,green,1.0
+poppers,jalapeño poppers,0.06754436142034707
+cream cheese,cream cheese and cheese,0.16821895003341453
+orange,orange and yellow,0.07249749990681824
+white,orange,0.0
+chicken,chicken,1.0
+orange,orange,1.0
+on top,on top of soup,0.16821895003341453
+brown,light brown,0.06754436142034707
+light,white,0.0
+potatoes,mashed potatoes,0.06754436142034707
+black,black,1.0
+at the center,middle of the bowl,0.061033220311973134
+potatoes,potatoes,1.0
+brown,brown,1.0
+reddish-brown,reddish-brown,1.0
+coated,thick sticky and smooth,0.0
+on the plate,on a plate,0.08621454270909737
+yellow,golden brown,0.0
+potatoes,hash brown,0.0
+crispy,crispy,1.0
+fork,a fork,0.06754436142034707
+on the left,left of the potatoes,0.07258113984652705
+spiced,salt pepper and garlic,0.0
+potatoes,potatoes,1.0
+yellowish-tan,light brown,0.0
+across the entire image,top of the image,0.07258113984652705
+brown,brown,1.0
+potato,potato,1.0
+yellow,golden brown,0.0
+scattered,scattered throughout the dish,0.061033220311973134
+roasting,baking,0.0
+in the dish,center of the image,0.061033220311973134
+brown,dark brown,0.06754436142034707
+potatoes,baked potato,0.0
+green,green,1.0
+on top,on top of potatoes,0.16821895003341453
+checkered,gingham pattern,0.0
+light brown,light brown,0.2213885886251307
+pralines,pecan pralines,0.06754436142034707
+reddish-brown,light brown,0.0
+on a plate,on a plate,0.5757197301274735
+visible,yes it is,0.0
+white,white,1.0
+prawns,shrimp,0.0
+orange-brown,orange,0.0
+on a plate,on a white plate,0.18616487055295167
+beige,white,0.0
+pudding,tiramisu,0.0
+cinnamon,cinnamon,1.0
+brown,dark brown,0.06754436142034707
+golden-yellow,yellow,0.0
+pudding,corn pudding,0.06754436142034707
+creamy,smooth and creamy,0.07249749990681824
+on a white plate,on a white plate,1.0
+corn,corn,1.0
+white,white,1.0
+tan,golden brown,0.0
+filling,cream or custard,0.0
+cracked,golden brown,0.0
+to the left,left side of plate,0.061033220311973134
+yellow,white,0.0
+loaves,pound cakes,0.0
+brown,brown,1.0
+on top,top of each loaf,0.061033220311973134
+mottled,marble loaf,0.0
+orange,yellow-orange,0.0
+bowl,white wavy-edged bowl,0.07249749990681824
+fills,no,0.0
+thick,yes it is,0.0
+in the center,center of the bowl,0.07258113984652705
+white,white,1.0
+bowl,mortar and pestle,0.0
+beige,off-white,0.0
+at the bottom,in front of bowl,0.0
+glasses,glass,0.0
+wooden,wood,0.0
+green,green,1.0
+on a wooden board,on a wooden board,1.0
+mug,clear glass mug,0.07249749990681824
+red,reddish-brown,0.0
+brown,golden-brown,0.0
+quesadillas,dessert or bread,0.0
+golden,golden yellow,0.06754436142034707
+on top,i cannot provide information,0.0
+brown,light brown,0.06754436142034707
+quesadillas,quesadillas,1.0
+red-orange,reddish-brown,0.0
+on top,on top of quesadilla,0.16821895003341453
+yellow,yellow and orange,0.07249749990681824
+queso,cheddar and monterey jack,0.0
+melted,melted and drizzled,0.07249749990681824
+creamy,smooth and creamy,0.07249749990681824
+over a pile,tortilla chips,0.0
+chips,cheese sauce,0.0
+golden-brown,golden brown,0.0
+green,green,1.0
+on a white plate,on a white plate,1.0
+colorful,variety of vegetables,0.0
+soup,minestrone,0.0
+orange,orange,1.0
+on the right,upper left and middle,0.0
+sprinkled,chopped herbs,0.0
+reddish-brown,reddish hue,0.0
+quinoa,bulgur,0.0
+fills,mixed with black beans,0.0
+green,green,1.0
+in the center,middle of the dish,0.061033220311973134
+cheesy,mayonnaise,0.0
+quinoa,quinoa,1.0
+yellow,red white and black,0.0
+green,green,1.0
+fills,mixed with vegetables,0.0
+quinoa,quinoa,1.0
+beige,white,0.0
+green,green,1.0
+within the quinoa,center of the image,0.061033220311973134
+quinoa,quinoa,1.0
+red,purple,0.0
+in,in a white bowl,0.061033220311973134
+pink,pink and red,0.07249749990681824
+radishes,radishes,1.0
+bowl,a bowl,0.06754436142034707
+silver,silver,1.0
+in the bottom center,at the bottom,0.15174681566793558
+dark green,green,0.36787944117144233
+radish,turnip,0.0
+purple,purple,1.0
+distributed throughout,asia and europe,0.0
+cheese,feta cheese,0.06754436142034707
+white,white,1.0
+radish,jicama,0.0
+dispersed,intermingled and overlapping,0.0
+orange,orange,1.0
+at the bottom,top of the bowl,0.061033220311973134
+golden-brown,golden brown,0.0
+pie,pie,1.0
+silver,aluminum foil,0.0
+raisins,chocolate,0.0
+golden brown,light brown,0.06754436142034707
+pie,pie,1.0
+white,light yellow,0.0
+on top,top of the pie,0.061033220311973134
+meringue,top crust,0.0
+green,green,1.0
+bowl,green bowl,0.06754436142034707
+ramen,ramen noodles,0.06754436142034707
+on top,upper middle portion,0.0
+cheesy,savory and slightly sweet,0.0
+noodles,noodles,1.0
+yellow,yellow,1.0
+on top,on top of noodles,0.16821895003341453
+scallions,chili oil or sauce,0.0
+white,white,1.0
+bowl,white bowl,0.06754436142034707
+yellow,yellow,1.0
+on top,left side of bowl,0.0
+red,red,1.0
+yellow,white,0.0
+bowl,a bowl,0.06754436142034707
+scallions,green onions,0.0
+green,green,1.0
+on top of,on top of noodles,0.43146827293898643
+fresh,golden brown and flaky,0.0
+turnovers,strawberry turnovers,0.06754436142034707
+white,white,1.0
+red,red,1.0
+on a plate,on a plate,0.5757197301274735
+red,red,1.0
+pitcher,glass pitcher,0.06754436142034707
+wooden,wood,0.0
+on the wooden surface,on a wooden table,0.07258113984652705
+yellow,light yellow,0.06754436142034707
+browning,curled or folded,0.0
+chicken,chicken,1.0
+creamy,creamy and smooth,0.07249749990681824
+at the bottom,under creamy white sauce,0.0
+hot,yes,0.0
+on top of,on top,0.13427896671164932
+onions,onion and relish,0.0
+red,red,1.0
+orange,yellow,0.0
+white,white,1.0
+relish,peppers onions tomatoes spices,0.0
+red,red,1.0
+on,on top of cream,0.061033220311973134
+vegetables,onions red peppers tomatoes,0.0
+red,dark red,0.06754436142034707
+cranberries,strawberries blackberries blueberries,0.0
+walnuts,walnuts,1.0
+in the center,glass baking dish,0.0
+yellow,pale yellow,0.06754436142034707
+zucchini,yellow squash,0.0
+mixed,random pattern,0.0
+red,purple and red,0.07249749990681824
+in the mix,lower left corner,0.0
+white,white,1.0
+cake,cake or muffin,0.07249749990681824
+golden-brown,golden brown,0.0
+on a plate,on a white plate,0.18616487055295167
+rhubarb,strawberries,0.0
+golden-brown,light yellow,0.0
+cake,cake or pie,0.07249749990681824
+red,red,1.0
+on a plate,center of the image,0.0
+pink,pink,1.0
+rough,crumbly texture,0.0
+cookies,cookies,1.0
+pinkish-red,deep pink,0.0
+on a plate,on a plate,0.5757197301274735
+purple,light brown,0.0
+red,red,1.0
+salad,dessert or side dish,0.0
+white,white,1.0
+atop the salad,on top,0.0
+applesauce,apple sauce,0.0
+bowl,white,0.0
+red,red,1.0
+red,red color,0.06754436142034707
+silver,silver,1.0
+reddish-brown,reddish-brown,1.0
+ribs,pork ribs,0.06754436142034707
+foreground,foreground of the image,0.061033220311973134
+green,green,1.0
+white,white,1.0
+on top,on top of rice,0.16821895003341453
+reddish-orange,orange,0.0
+rice,rice,1.0
+green,not visible,0.0
+sausage,tomato based sauce,0.0
+easy,yes it is,0.0
+rice,rice,1.0
+orange-red,light orange,0.0
+on the right side,middle of the bowl,0.061033220311973134
+green,green,1.0
+rice,yellow rice,0.06754436142034707
+fills,main subject,0.0
+silver,stainless steel,0.0
+wooden,wood,0.0
+throughout,on top,0.0
+white,white,1.0
+rigatoni,rigatoni,1.0
+golden-yellow,yellow-orange,0.0
+on a white plate,on a white plate,1.0
+green,green,1.0
+green,green,1.0
+scattered,throughout the dish,0.0
+red,red,1.0
+on the egg,on top of dish,0.061033220311973134
+risotto,stir-fry,0.0
+brown,red,0.0
+scattered,scattered throughout the dish,0.061033220311973134
+on the left,right side,0.0
+white,white,1.0
+roast,beef stew,0.0
+brown,brown,1.0
+within,middle of the dish,0.0
+green,green,1.0
+pink,pink,1.0
+roast,oven roasting,0.0
+on a wooden cutting board,cutting board,0.04939847123496026
+golden,light brown,0.0
+rolls,buns,0.0
+brown,golden brown,0.06754436142034707
+on top,top of the buns,0.061033220311973134
+adjacent,staggered pattern,0.0
+golden-brown,golden brown,0.0
+rolls,dinner rolls,0.06754436142034707
+stacked,circular pattern,0.0
+lighter,golden brown,0.0
+towards the top-left area,in a clear glass bowl,0.0
+light pink,light pink,0.2213885886251307
+salami,salami,1.0
+white,white,1.0
+yellow-orange,yellow,0.0
+in the center,middle of the roll-up,0.061033220311973134
+BBQ,spice rub,0.0
+jar,glass jar,0.06754436142034707
+submerged,on top,0.0
+silver,silver,1.0
+in the center,left side,0.0
+brownish,dark brown,0.0
+fish,fish,1.0
+green,green,1.0
+on top of,on top of salad,0.43146827293898643
+salad,salad made of lettuce,0.061033220311973134
+jar,glass mason jar,0.07249749990681824
+brown,light brown,0.06754436142034707
+on the wooden surface,on a wooden surface,0.18616487055295167
+spilled,spilled onto the countertop,0.061033220311973134
+scattered,not on the bottom-right,0.0
+reddish-brown,brown,0.0
+spoon,spoon,1.0
+silver,silver,1.0
+on top of,center of the pile,0.061033220311973134
+bread,bread,1.0
+halved,sliced format,0.0
+sits on,upper portion of board,0.0
+yellow,light beige,0.0
+loaf,loaf shape,0.06754436142034707
+chicken salad,tuna salad,0.06754436142034707
+green,dark green,0.06754436142034707
+in the center,on a wooden board,0.0
+cracker,saltine cracker,0.06754436142034707
+dark green,dark green,0.2213885886251307
+salad,salad,1.0
+located throughout,bottom of the bowl,0.0
+peach,yellow-orange,0.0
+halloumi,halloumi,1.0
+creamy,smooth and velvety,0.0
+bowl,glass bowl,0.06754436142034707
+red,red,1.0
+adding,topped with whipped cream,0.0
+on top,on top,0.2213885886251307
+white,white,1.0
+green,green,1.0
+bowl,white bowl,0.06754436142034707
+throughout,throughout the image,0.07249749990681824
+green,green,1.0
+salad,fruit salad,0.06754436142034707
+large,quite large,0.06754436142034707
+interspersed,uniform pattern,0.0
+against the base,around the salad,0.07249749990681824
+white,white,1.0
+scattered,sprinkled throughout the salad,0.0
+green onions,green onions,0.2213885886251307
+brown,light brown,0.06754436142034707
+on a white plate,in a white bowl,0.16821895003341453
+red,red,1.0
+salad,dandelion leaves,0.0
+spread,loose casual arrangement,0.0
+purple,white,0.0
+among the leaves,top of the salad,0.061033220311973134
+red,red,1.0
+halved,halved and quartered,0.07249749990681824
+cucumbers,cucumber,0.0
+dill,dill,1.0
+on top,top of the salad,0.061033220311973134
+red,red,1.0
+bowl,a bowl,0.06754436142034707
+silver,stainless steel,0.0
+green,yellowish-green,0.0
+inside a silver bowl,on the stovetop,0.0
+light,green,0.0
+cucumbers,cucumber,0.0
+red,red,1.0
+throughout the blue bowl,in the bowl,0.06177541927786947
+green,green,1.0
+salad,a salad,0.06754436142034707
+yellow,yellow,1.0
+across the top,on top,0.04096772609215166
+white,white,1.0
+black,black,1.0
+salad,corn and black bean,0.0
+white,white,1.0
+yellow,yellow,1.0
+white,white,1.0
+rice,rice,1.0
+green,dark green,0.06754436142034707
+with,rice and collard greens,0.0
+orange,orange-brown,0.0
+salsa,tortilla chips,0.0
+white,blue,0.0
+tomatoes,tomatoes,1.0
+in a bowl,in the center,0.07249749990681824
+colorful,red yellow green orange,0.0
+bowl,small white bowl,0.07249749990681824
+apricot,pineapple,0.0
+green,green,1.0
+within the mixture,top-right portion,0.0
+murky,brown,0.0
+white,white,1.0
+atop,on a colorful plate,0.0
+yellow,yellow,1.0
+distributed,random scattered pattern,0.0
+green,green,1.0
+white,not visible,0.0
+on top of,on top of lime,0.43146827293898643
+black,black,1.0
+bowl,in a black bowl,0.061033220311973134
+reddish-orange,red,0.0
+herbs,cilantro,0.0
+in the center,upper left corner,0.0
+black,black,1.0
+salsa,black bean and corn salsa,0.0456496931223525
+yellow,yellow,1.0
+green,green,1.0
+red,red,1.0
+salsa,salsa,1.0
+spoon,spoon,1.0
+white,white,1.0
+in the lower left,upper-left corner,0.0
+reddish-orange,red and green,0.0
+cup,styrofoam cup,0.06754436142034707
+fills,served as a dip,0.0
+on the right,right of the salsa,0.07258113984652705
+brownish-red,reddish-brown,0.0
+red,red,1.0
+salsa,pico de gallo,0.0
+fills,vibrant colors visible,0.0
+clear,containing salsa,0.0
+homemade,flaky sea salt,0.0
+salt,salt,1.0
+red,red and brown,0.07249749990681824
+scattered,spilled or scattered,0.07249749990681824
+on the upper left,left side of image,0.061033220311973134
+reddish-brown,reddish-brown,1.0
+salt,salt and spices,0.07249749990681824
+fills,covering the inside,0.0
+light,light brown,0.06754436142034707
+above a white bowl,over a bowl,0.06177541927786947
+brown,brown,1.0
+sandwiches,sandwiches,1.0
+white,pale yellow,0.0
+green,green,1.0
+on a white surface,on a white platter,0.43146827293898643
+blue,blue,1.0
+brown,brown,1.0
+scattered,evenly distributed,0.0
+in the top left corner,pat's king of steaks,0.0
+blue,blue,1.0
+scattered,random pattern,0.0
+peanut butter,sweet potato,0.0
+golden-brown,white,0.0
+on a blue plate,on a blue plate,1.0
+pasta,penne pasta,0.06754436142034707
+Italian,italian,0.0
+dripping,on top of pasta,0.0
+herbs,shredded cheese and herbs,0.061033220311973134
+reddish-brown,deep red,0.0
+food,pieces of meat,0.0
+down the sides,sides of the meat,0.07258113984652705
+brown,golden brown,0.06754436142034707
+sugar,caramel,0.0
+amber,golden brown,0.0
+in a clear glass,sundae dish,0.0
+bottom,top of the dish,0.0
+yellow,white,0.0
+pasta,pasta with meatball,0.07249749990681824
+red,deep red,0.06754436142034707
+on top of,on top of pasta,0.43146827293898643
+white,white,1.0
+orange-red,light orange,0.0
+spaghetti,spaghetti,1.0
+white,white,1.0
+from center to edges,random pattern,0.0
+reddish-brown,pink,0.0
+bowl,a bowl,0.06754436142034707
+pink,pink,1.0
+in the center,on a countertop,0.0
+reddish-orange,red,0.0
+sauce,meat,0.0
+fills,covers most of bowl,0.0
+green,green,1.0
+to the left,upper left,0.04096772609215166
+red,red,1.0
+wooden surface,wooden surface,0.2213885886251307
+white,white,1.0
+next to,on the wooden surface,0.0
+fills,add flavor,0.0
+brown,dark brown,0.06754436142034707
+bowl,dark brown color,0.0
+on the rim,in a black pot,0.0
+orange,orange,1.0
+coated,breaded and fried,0.0
+carrots,celery,0.0
+green,green,1.0
+on a plate,on a white plate,0.18616487055295167
+reddish-brown,deep red,0.0
+orange,orange,1.0
+bowl,glass bowl,0.06754436142034707
+red,deep red,0.06754436142034707
+on top,middle of the bowl,0.0
+brownish-red,brown,0.0
+beef,roast beef,0.06754436142034707
+cooked,slow cooking,0.0
+orange,orange,1.0
+in the top center,left side of plate,0.0
+dark brown,brown,0.36787944117144233
+stew,soup or stew,0.07249749990681824
+light brown,copper,0.0
+golden,brownish color,0.0
+from the surface,copper pot,0.0
+yellowish-white,white,0.0
+forming,adding flavor,0.0
+bowl,white bowl,0.06754436142034707
+brownish-red,reddish-brown,0.0
+in the bottom-left,center of the bowl,0.061033220311973134
+golden-brown,light brown,0.0
+sausage flowers,wontons,0.0
+brownish-orange,reddish-brown,0.0
+sprinkled over,on top,0.0
+silver tray,silver,0.36787944117144233
+sausage,sausage,1.0
+reddish-brown,red,0.0
+in a leaf-shaped bowl,like a leaf,0.05194672862155564
+grilled,likely grilled,0.06754436142034707
+pineapple,pineapple,1.0
+creamy,white,0.0
+pasta,linguine,0.0
+white,light yellow,0.0
+on the side,right side,0.04096772609215166
+triangular,triangle,0.0
+scone,lemon scone,0.06754436142034707
+yellow,yellow,1.0
+on a plate,on a plate,0.5757197301274735
+white,white,1.0
+white,white,1.0
+scones,biscuits,0.0
+golden brown,beige,0.0
+in the foreground,front of the plate,0.061033220311973134
+yellow,light yellow,0.06754436142034707
+tomato,tomato,1.0
+green,green,1.0
+towards the center,top of the eggs,0.061033220311973134
+reddish-brown,red,0.0
+brown,dark brown,0.06754436142034707
+pumpkin seeds,no seeds,0.06754436142034707
+sugar,sugar,1.0
+orange,white and orange,0.07249749990681824
+semifreddo,ice cream cake,0.0
+silver,silver,1.0
+off-white,white,0.0
+on a tray,on a silver tray,0.18616487055295167
+white,white,1.0
+pinkish-orange,light orange-pink,0.0
+in the center,in a bowl,0.07249749990681824
+green,green red and yellow,0.061033220311973134
+white,white,1.0
+shrimp,cooked shrimp,0.06754436142034707
+reddish-orange,red-orange,0.0
+in the center,center of the plate,0.07258113984652705
+blue,dark blue,0.06754436142034707
+shrimp,shrimp,1.0
+garlic,parsley,0.0
+pink-orange,orange,0.0
+on a blue plate,in a blue bowl,0.16821895003341453
+hash brown,eggs,0.0
+red,reddish-brown,0.0
+scallions,green onions,0.0
+white,white,1.0
+pineapple,pineapple,1.0
+yellow,yellow,1.0
+green,green,1.0
+on a white plate,on a white plate,1.0
+corn,corn,1.0
+yellow,yellow,1.0
+scattered,scattered throughout,0.06754436142034707
+red,red,1.0
+on the left side,left side,0.08144431026514741
+green,green white and purple,0.061033220311973134
+cabbage,cabbage,1.0
+mixed,loose scattered manner,0.0
+orange,orange,1.0
+scattered,layered pattern,0.0
+coleslaw,coleslaw,1.0
+orange,orange,1.0
+in the bowl,in the bowl,0.5757197301274735
+orange,yellow,0.0
+glass,stemless wine glass,0.07249749990681824
+bright,yellow-orange,0.0
+on the rim,on the rim,0.5757197301274735
+metal,metal,1.0
+slushies,slushies or frozen cocktails,0.061033220311973134
+red,red,1.0
+in a metal tray,in a metal tray,1.0
+chocolate,chocolate,1.0
+cup,plastic cup,0.06754436142034707
+brown,brown,1.0
+pink,red,0.0
+smoothie,pink smoothie,0.06754436142034707
+green,green,1.0
+on top of,on top of smoothie,0.43146827293898643
+chocolate,chocolate flavored,0.06754436142034707
+smoothie,chocolate smoothie,0.06754436142034707
+brown,brown,1.0
+green,light and dark brown,0.0
+pineapple,pineapple,1.0
+clear,clear,1.0
+smoothie,smoothie or milkshake,0.07249749990681824
+to the right,right of the smoothie,0.07258113984652705
+green,green,1.0
+smoothie,strawberry mint smoothie,0.07249749990681824
+strawberry,strawberry,1.0
+on top of,on top of drink,0.43146827293898643
+solid,soft and creamy,0.0
+sorbet,whipped cream,0.0
+pale,white,0.0
+off-white,creamy white,0.0
+rich,deep purple,0.0
+sorbet,sorbet or ice cream,0.061033220311973134
+purple,purple,1.0
+in the bowl,white bowl,0.04096772609215166
+blueberry,blueberries and blackberries,0.0
+resting,holding the food,0.0
+pale green,white,0.0
+golden-brown,golden brown,0.0
+crispy,crispy and airy,0.07249749990681824
+in the upper-left corner,upper left corner,0.05194672862155564
+blue,blue,1.0
+mushrooms,mushrooms,1.0
+scattered on the surface,top of the soup,0.061033220311973134
+spinach,spinach,1.0
+white,white,1.0
+soup,chili,0.0
+brown,brown,1.0
+green,green,1.0
+white,white,1.0
+reddish-brown,reddish-brown,1.0
+in the right half,right side,0.02484818193359921
+vegetables,potatoes and carrots,0.0
+orange,light yellow,0.0
+soup,soup,1.0
+bread,toasted bread,0.06754436142034707
+on top of,on a white plate,0.061033220311973134
+spaghetti,spaghetti,1.0
+red,red,1.0
+cheese,cheese,1.0
+around the perimeter,circular pattern,0.0
+reddish-brown,red,0.0
+spaghetti,spaghetti noodles,0.06754436142034707
+chunky,thick and chunky,0.07249749990681824
+light,yellow,0.0
+cheese,melted cheese,0.06754436142034707
+red,red,1.0
+in a casserole dish,center of the pan,0.0
+spaghetti,spaghetti,1.0
+scattered,scattered over the dish,0.061033220311973134
+meatballs,meatballs,1.0
+placed on top,top of spaghetti,0.07249749990681824
+blue,blue,1.0
+musubi,spam musubi,0.06754436142034707
+orange-red,reddish-pink,0.0
+around,around the spam,0.07249749990681824
+white rice,white,0.36787944117144233
+reddish-brown,dark red,0.0
+sandwich,sandwich,1.0
+glazed,dark brown and thick,0.0
+blue,blue,1.0
+light-brown,red,0.0
+burger,sandwich,0.0
+reddish-brown,red,0.0
+on top,top of chicken patty,0.061033220311973134
+spam,cheese,0.0
+green,green,1.0
+spinach,spinach,1.0
+white,white,1.0
+with a patterned rim,green leaves and blue,0.0
+onions,shaved parmesan cheese,0.0
+fresh,fresh and good quality,0.061033220311973134
+salad,serving bowl,0.0
+green,green,1.0
+white,white,1.0
+in a bowl,in a black bowl,0.18616487055295167
+green,dark green,0.06754436142034707
+spinach,kale chips,0.0
+haphazard,loose pile,0.0
+oily texture,crispy,0.0
+spinach,spinach leaves,0.06754436142034707
+green,green,1.0
+bowl,white bowl,0.06754436142034707
+with shallots,garlic and lemon,0.0
+green,green,1.0
+sprouts,brussels sprouts,0.06754436142034707
+blue,blue,1.0
+bacon,bacon,1.0
+on a white surface,on a white countertop,0.43146827293898643
+green,green,1.0
+sprouts,brussels sprouts,0.06754436142034707
+creamy,creamy,1.0
+overlapping,in a pan,0.0
+green,green,1.0
+sprouts,brussels sprouts,0.06754436142034707
+brown,dark brown,0.06754436142034707
+scattered across,loose pile,0.0
+yellow,yellow,1.0
+green,green,1.0
+sprouts,brussels sprouts,0.06754436142034707
+brown,white,0.0
+around the sprouts,bottom of the container,0.061033220311973134
+green,greenish-yellow,0.0
+brussels sprouts,brussels sprouts,0.2213885886251307
+white,multicolored,0.0
+brownish,black and brown,0.0
+in a bowl,white bowl,0.04096772609215166
+dispersed,mixed throughout the dish,0.0
+green,green,1.0
+bowl,in the bowl,0.07249749990681824
+yellowish-white,no spaghetti squash,0.0
+covering,melting and binding,0.0
+on top,on top of dish,0.16821895003341453
+black,black,1.0
+green,green,1.0
+squash,zucchini,0.0
+orange,vibrant red,0.0
+on a white plate,on a white plate,1.0
+yellow,vibrant yellow,0.06754436142034707
+squash,spaghetti squash,0.06754436142034707
+on the concave part,on a silver spoon,0.061033220311973134
+green,green,1.0
+green,dark green,0.06754436142034707
+yellow,yellow,1.0
+overlapping,staggered manner,0.0
+on the plate,on a white plate,0.07258113984652705
+orange-yellow,yellow,0.0
+squash,squash,1.0
+green,green and orange,0.07249749990681824
+charred,to be burnt,0.0
+in the center,baking sheet,0.0
+orange,orange,1.0
+squash,sweet potato,0.0
+blue,blue,1.0
+in the center-left,upper-left quadrant,0.0
+surrounding,around the steak,0.0
+steak,pork,0.0
+tan,light yellow,0.0
+brown,light brown,0.06754436142034707
+golden-brown,light brown,0.0
+crispy,crispy and golden brown,0.061033220311973134
+arranged,circular pattern,0.0
+bowl,middle of the plate,0.0
+white,white,1.0
+golden-brown,golden brown,0.0
+fish,cooked fish,0.06754436142034707
+white,white,1.0
+on the plate,on a plate,0.08621454270909737
+blue,blue,1.0
+golden-brown,no mushrooms in image,0.0
+green,green,1.0
+beneath the steaks,underneath the fish,0.07249749990681824
+reddish-brown,reddish-brown,1.0
+hamburger,ground beef,0.0
+potatoes,green beans,0.0
+throughout the stew,top of the soup,0.061033220311973134
+red,red,1.0
+stew,bowl of soup,0.0
+ham,ham,1.0
+green,green and white,0.07249749990681824
+on the left,on top of lettuce,0.061033220311973134
+brown,brown,1.0
+scattered,evenly distributed throughout,0.0
+orange,orange,1.0
+white,white,1.0
+brown,pink,0.0
+chicken,chicken,1.0
+orange,orange,1.0
+on the left side,upper-left corner,0.0
+brown,reddish-brown,0.0
+tomatoes,tomatoes,1.0
+meat,ground beef,0.0
+on top,on top of soup,0.16821895003341453
+yellow,yellow,1.0
+yellow,yellow,1.0
+atop the center,on top of chili,0.0
+orange-brown,golden brown,0.0
+white,white,1.0
+on the surface,middle of the dish,0.061033220311973134
+translucent,caramelized golden-brown,0.0
+savory,savory sweet and umami,0.061033220311973134
+vegetables,vegetable stir-fry,0.0
+green,green,1.0
+around the top,upper right,0.0
+yellow,red yellow and orange,0.061033220311973134
+pink,light pink,0.06754436142034707
+strawberries,strawberries,1.0
+displaying,staggered formation,0.0
+red,red,1.0
+on top,on top,0.2213885886251307
+red,red,1.0
+strawberries,strawberry,0.0
+bright,red and gold,0.0
+on a white paper liner,on a glass dish,0.13100905001347277
+red,red,1.0
+strawberries,strawberries,1.0
+brown,dark brown or black,0.061033220311973134
+on the bottom,on the bottom,0.5757197301274735
+red,red,1.0
+strawberries,strawberries,1.0
+sliced,sliced,1.0
+on the upper side,upper left side,0.06177541927786947
+white,white,1.0
+red,red,1.0
+strawberries,strawberries,1.0
+clustered,overlapping each other,0.0
+juicy,glazed and shiny,0.0
+red,deep red,0.06754436142034707
+strawberry,strawberries,0.0
+glass,margarita glass,0.06754436142034707
+bright,deep red hue,0.0
+on the plate,on the white plate,0.18616487055295167
+chestnut,almond,0.0
+brown,golden brown,0.06754436142034707
+toasted,golden-brown,0.0
+yellow,white or light yellow,0.061033220311973134
+brown,dark brown,0.06754436142034707
+scattered,at top and back,0.0
+dish,baking dish,0.06754436142034707
+white,white,1.0
+throughout the dish,upper-left corner,0.0
+brown,brown,1.0
+herbs,fresh herbs,0.06754436142034707
+baking,thanksgiving,0.0
+white,white,1.0
+scattered,seemingly random pattern,0.0
+brown,light brown,0.06754436142034707
+in the center,in the baking dish,0.16821895003341453
+powdered,coarse and slightly rough,0.0
+glass,glass,1.0
+vegetarian,yes it is,0.0
+sushi,sushi,1.0
+black,black,1.0
+on the plate,black tray,0.0
+green,green,1.0
+swordfish,white fish,0.0
+atop,on top of chicken,0.0
+red,red,1.0
+pitcher,glass pitcher,0.06754436142034707
+on a tablecloth,on a saucer,0.21177974141341938
+orange,orange,1.0
+cabbage,cabbage,1.0
+green,green,1.0
+carrot,carrots,0.0
+on top,on top of salad,0.16821895003341453
+red,red,1.0
+tacos,tacos,1.0
+golden-brown,yellow,0.0
+spilling,being squeezed out,0.0
+on a red plate,on a red tray,0.43146827293898643
+brown,dark brown,0.06754436142034707
+plate,mashed potatoes,0.0
+on top,on a piece of fish,0.0456496931223525
+topping,mango and avocado salsa,0.0
+tacos,tacos,1.0
+red,red,1.0
+on plate,on a plate,0.08621454270909737
+green,green,1.0
+tacos,mexican-style taco sandwich,0.0
+golden-brown,not visible,0.0
+red,red,1.0
+behind,no other tacos,0.0
+brown,light and dark brown,0.061033220311973134
+taffy,caramel candy,0.0
+white,white,1.0
+orange,brown or caramel,0.0
+across a white surface,white surface,0.08144431026514741
+tamale,tamale,1.0
+yellow,yellow,1.0
+on a white plate,on a plate,0.16793545727180179
+golden-brown,golden,0.0
+taquitos,bread,0.0
+brown,light golden brown,0.07249749990681824
+tan,orange,0.0
+taquitos,enchilada,0.0
+orange,orange,1.0
+scattered over,on top,0.0
+wooden,wood,0.0
+yellow,light brown,0.0
+plate,on a paper plate,0.061033220311973134
+white,white,1.0
+toasted,crunchy and golden brown,0.0
+on a plate,background left,0.0
+golden brown,not visible,0.0
+tater tots,potatoes,0.0
+white,white,1.0
+over the tater tots,over the top,0.15174681566793558
+orange,light brown,0.0
+glass,a glass,0.06754436142034707
+scattered,circular pattern,0.0
+brown,light brown,0.06754436142034707
+on top,left side of glass,0.0
+amber,light yellow-green,0.0
+tea,hot tea,0.06754436142034707
+lemon,lemon slice,0.06754436142034707
+green,green,1.0
+on the surface,on top of cup,0.061033220311973134
+mug,glass mug,0.06754436142034707
+beige,white,0.0
+on a white tiled surface,on a countertop,0.10873134470594509
+tea,milk,0.0
+glass,a glass,0.06754436142034707
+tan,light yellow,0.0
+in the center,left side,0.0
+Hot,hot,0.0
+Tea,tea,0.0
+Amber,brown,0.0
+Resting on a saucer,on a saucer,0.41252121275142684
+Ginger,earl grey,0.0
+clear,clear,1.0
+green,green,1.0
+reddish-pink,red or pinkish,0.0
+to the left,left side of board,0.061033220311973134
+brown,light brown,0.06754436142034707
+chicken,chicken,1.0
+white,white,1.0
+white,white,1.0
+tenderloins,pork,0.0
+reddish-brown,reddish-brown,1.0
+drizzled,brushing drizzling spooning basting,0.0
+on top,on top of meat,0.16821895003341453
+pink,light pink,0.06754436142034707
+pork,pork tenderloin,0.06754436142034707
+dark brown,dark brown or black,0.16821895003341453
+seared,grilled and caramelized,0.0
+from the bottom left,lower-left portion,0.0
+golden,light brown,0.0
+chicken,chicken,1.0
+brown,brown,1.0
+piled on top,on top of chicken,0.16821895003341453
+green,green,1.0
+white,light brown,0.0
+tilapia,tilapia,1.0
+golden-brown,golden brown,0.0
+to the left,behind the fish,0.07249749990681824
+textured,rough crunchy texture,0.0
+white,white,1.0
+red,red,1.0
+on top,on top of bread,0.16821895003341453
+ice cream,panna cotta,0.0
+located inside,foreground of the image,0.0
+tofu,matcha green tea,0.0
+creamy,pale yellow color,0.0
+scooped,in a glass jar,0.0
+tofu,tofu,1.0
+red,red,1.0
+golden-brown,light brown,0.0
+eggplant,zucchini,0.0
+Agedashi,gyoza,0.0
+brown,brown,1.0
+scattered,circular pattern,0.0
+tan,white,0.0
+shifted to the left,center of the plate,0.061033220311973134
+green,green,1.0
+scattered,scattered throughout the dish,0.061033220311973134
+orange,light brown,0.0
+tofu,fish,0.0
+resting between,on the rice,0.0
+rice,white rice,0.06754436142034707
+scattered,circular pattern,0.0
+brown,dark brown,0.06754436142034707
+scattered,in small chunks,0.0
+broccoli,broccoli,1.0
+green,green,1.0
+tofu,tofu,1.0
+blue,blue,1.0
+on the left side,left side of plate,0.16821895003341453
+golden-brown,golden brown,0.0
+decorative,white and blue bowl,0.0
+tofu,tofu,1.0
+blue,white,0.0
+on the upper left,upper left corner,0.15174681566793558
+mushrooms,green onions,0.0
+red,red,1.0
+tomatoes,tomato,0.0
+white,white,1.0
+closer to,bottom left,0.0
+green,green,1.0
+red,red,1.0
+tomatoes,tomatoes onions jalapeños,0.07249749990681824
+yellow,dark brown/black,0.0
+tomato,cheese,0.0
+transparent,glass baking dish,0.0
+orange,golden yellow,0.0
+gluten-free,possibly cross-contaminated,0.0
+yellow,light golden,0.0
+on the plate,on a black plate,0.07258113984652705
+brown,darker brown,0.06754436142034707
+white,white,1.0
+meringue,whipped cream or meringue,0.061033220311973134
+browned,made of nuts,0.0
+amber-colored,light orange,0.0
+on a dark surface,black plate,0.0
+white,white,1.0
+tortes,battenberg cakes,0.0
+copper-colored,brown,0.0
+on a plate,on a glass plate,0.18616487055295167
+green,white,0.0
+mousse,lime curd,0.0
+white,white,1.0
+brown,light brown,0.06754436142034707
+on top of,on top of cake,0.43146827293898643
+plum,peaches,0.0
+round,square-shaped,0.0
+yellow,golden brown,0.0
+white,white,1.0
+over the surface,top of the tart,0.061033220311973134
+yellow,light beige,0.0
+tortellini,pappardelle or fettuccine,0.0
+orange,orange,1.0
+tortellini,tortellini,1.0
+yellow,yellow,1.0
+red,red,1.0
+on an orange plate,in a bowl,0.0
+blue,light blue,0.06754436142034707
+tortellini,tortellini,1.0
+green,green,1.0
+powdered,rough and uneven,0.0
+yellow,orange,0.0
+brown,brown,1.0
+in the center,in a bowl,0.07249749990681824
+yellow-tan,yellow,0.0
+tortillas,corn tortillas,0.06754436142034707
+stacked,in a basket,0.0
+round,round but not perfectly,0.061033220311973134
+tan,light tan,0.06754436142034707
+tortillas,flatbread,0.0
+blue,multicolored,0.0
+on top of,on a colorful napkin,0.061033220311973134
+tortilla,fried tortilla,0.06754436142034707
+brown,brown,1.0
+green,green,1.0
+on top,middle of the taco,0.0
+white,white,1.0
+golden-brown,light golden,0.0
+meat,tater tots,0.0
+on top of,on top of tots,0.43146827293898643
+scattered,loose cluster,0.0
+marshmallows,marshmallows,1.0
+congealed,chewy and crunchy,0.0
+on wrinkled sheet,on parchment paper,0.07249749990681824
+creamy,smooth and creamy,0.07249749990681824
+trifle,banana pudding parfait,0.0
+yellow,yellow,1.0
+on top,top of the trifle,0.061033220311973134
+brown,brown,1.0
+golden-brown,beige,0.0
+cake,cake,1.0
+red,red,1.0
+with whipped topping,whipped cream,0.04096772609215166
+dessert,trifle dish,0.0
+reddish-brown,brown,0.0
+Tri-Tip,beef,0.0
+white,white,1.0
+on a plate,left side,0.0
+yellow-brown,golden brown,0.0
+large,relatively large,0.06754436142034707
+fish,salmon,0.0
+orange,pink,0.0
+on the right,right side of plate,0.061033220311973134
+fish,fish dish,0.06754436142034707
+yellow,yellow,1.0
+on the platter,on a white plate,0.061033220311973134
+fillets,fish lemon herbs garlic,0.0
+dark,brown,0.0
+brown,brown,1.0
+in a box,red container,0.0
+white,white,1.0
+white,white,1.0
+chocolate,chocolate,1.0
+brown,brown,1.0
+on a plate,on a white plate,0.18616487055295167
+truffles,cookie dough ball,0.0
+brown,light brown,0.06754436142034707
+studded,smooth and glossy,0.0
+at the top,on the top,0.21177974141341938
+strawberry-filled,red filling,0.0
+truffles,chocolate covered cookies,0.0
+brown,dark brown,0.06754436142034707
+with a darker brown,dark red,0.0
+circular,circular,1.0
+yellow,yellow or off-white,0.07249749990681824
+tuna,tuna,1.0
+creamy,creamy and velvety,0.07249749990681824
+on the top of casserole,on top of casserole,0.3610854011224141
+white,white,1.0
+white,blue,0.0
+green,light green,0.06754436142034707
+melted,golden brown,0.0
+in a white baking dish,white baking dish,0.2955843652122688
+creamy,creamy and slightly thickened,0.061033220311973134
+Turkey,no meat visible,0.0
+yellow,light yellow,0.06754436142034707
+mushrooms,mushrooms,1.0
+in a dish,front left burner,0.0
+brownish-orange,brownish,0.0
+turkey,turkey,1.0
+scattered,fairly evenly distributed,0.0
+green,brown green and orange,0.061033220311973134
+on the surface,top of the turkey,0.061033220311973134
+white,white,1.0
+blueberry,blueberries,0.0
+golden-brown,golden brown,0.0
+scattered,circular pattern,0.0
+red,red and black,0.07249749990681824
+square,square,1.0
+carrots,carrots,1.0
+on top,in the center,0.0
+golden-brown,light brown,0.0
+veal,chicken,0.0
+white,light yellow,0.0
+on the plate,on a white plate,0.07258113984652705
+drizzled,pouring it over,0.0
+white,white,1.0
+vegetables,roasted vegetables salad,0.07249749990681824
+red,red,1.0
+on a plate,center of the plate,0.061033220311973134
+brown,golden-brown,0.0
+Wellington,savory pastry,0.0
+dark blue,black,0.0
+green,green,1.0
+vegetables,vegetables,1.0
+scattered,random pattern,0.0
+on a black grill pan,on a grill pan,0.18527477532266828
+glazed,deep purple color,0.0
+reddish-brown,dark red,0.0
+around the base,around the venison,0.21177974141341938
+blackberries,blackberries,1.0
+brown,no venison,0.0
+venison,roast beef,0.0
+gravy,brown gravy,0.06754436142034707
+green,green,1.0
+on the plate,on a green plate,0.07258113984652705
+golden-brown,light brown,0.0
+venison,chicken,0.0
+on a plate,in a white bowl,0.061033220311973134
+overlapping,in a bowl,0.0
+salad,a salad,0.06754436142034707
+green,green,1.0
+in the salad,in the salad,0.5757197301274735
+blueberries,blueberries,1.0
+brown,dark brown or black,0.061033220311973134
+reflecting,reflecting off the surface,0.061033220311973134
+pitcher,glass pitcher,0.06754436142034707
+vinaigrette,balsamic vinegar,0.0
+in the foreground,foreground centered,0.04096772609215166
+vinaigrette,vinaigrette,1.0
+wooden,wooden surface,0.06754436142034707
+yellow-brown,light yellow,0.0
+jar,glass jar,0.06754436142034707
+wooden,wooden surface,0.06754436142034707
+on a wooden surface,center of the image,0.0
+green,green,1.0
+scattered,scattered throughout the salad,0.061033220311973134
+red,red,1.0
+tomato,pomegranate seeds,0.0
+above the middle,center of the salad,0.061033220311973134
+golden-brown,golden brown,0.0
+waffles,waffles,1.0
+white,white,1.0
+darker,golden hues,0.0
+on a white plate,on a white plate,1.0
+golden,golden brown,0.06754436142034707
+brown,brown,1.0
+on the left,left side,0.04096772609215166
+red,red,1.0
+waffle,waffle,1.0
+red,red,1.0
+on the waffle,on the left side,0.16821895003341453
+green,green,1.0
+Awesome,cooked and lightly seasoned,0.0
+Walleye,cod tilapia or mahi-mahi,0.0
+tan,white with light yellowish-orange,0.0
+red,red,1.0
+watermelon,watermelon,1.0
+white,white,1.0
+on top,on top of watermelon,0.16821895003341453
+green,green,1.0
+pink,pink,1.0
+watermelon,watermelon,1.0
+red,green,0.0
+clear,purple,0.0
+orange,orange,1.0
+wedges,wedge-shaped,0.0
+golden-brown,golden brown,0.0
+on plate,in an orange bowl,0.0
+herbs,salt crystals,0.0
+brown,red,0.0
+white,white,1.0
+fries,french fries,0.06754436142034707
+orange,lemon twists,0.0
+glasses,tall elegant glass,0.0
+amber,golden yellow,0.0
+on the tray,on a gold tray,0.07258113984652705
+metallic,metal,0.0
+wings,chicken wings,0.06754436142034707
+orange,orange,1.0
+in the center,bottom half of image,0.0
+saucy,crispy and crunchy,0.0
+cauliflower,cauliflower,1.0
+golden brown,light brown,0.06754436142034707
+scattered across,random pattern,0.0
+plate,blue plate,0.06754436142034707
+golden-brown,golden brown,0.0
+wontons,fried dumpling,0.0
+crispy,golden brown and crispy,0.061033220311973134
+bowl,a bowl,0.06754436142034707
+in the bowl,in a bowl,0.08621454270909737
+green,green,1.0
+brownish,brown,0.0
+on the lower right,lower right corner,0.15174681566793558
+cilantro,cilantro,1.0
+tan,light brown,0.0
+wraps,halves of a burrito,0.0
+corn,corn,1.0
+pink,pink,1.0
+on the plate,in the burrito,0.07249749990681824
+spinach,spinach,1.0
+yellow,yellow,1.0
+orange,orange,1.0
+yams,carrots,0.0
+glistening,shiny caramelized glaze,0.0
+on top of,on top,0.13427896671164932
+green,green,1.0
+orange,orange in color,0.07249749990681824
+yams,sweet potato,0.0
+scattered,overlapping each other,0.0
+white,white,1.0
+on a white surface,on a white surface,1.0
+white,white,1.0
+brown,golden brown,0.06754436142034707
+blueberries,blueberries,1.0
+creamy,smooth and creamy,0.07249749990681824
+yogurt,yogurt,1.0
+red,red,1.0
+on top,left side of bowl,0.0
+blue,blue,1.0
+raspberries,raspberries,1.0
+blue,black,0.0
+ziti,ziti,1.0
+reddish-orange,red,0.0
+reddish-brown,brown,0.0
+spaghetti,zucchini noodles,0.0
+throughout the entire pan,in a single pan,0.061033220311973134
+yellow,green and yellow,0.07249749990681824
+zucchini,zucchini,1.0
+black,red,0.0
+in the center,center of the plate,0.07258113984652705
