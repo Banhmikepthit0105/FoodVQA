@@ -64,17 +64,20 @@ processed = []
 for index, row in df_result.iterrows():
     processed.append(row['Image'])
 
+extentions = ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG']
+
 for index, row in df.iterrows():
     if row['Image'] in processed:
         continue
 
-    image_filename = row['Image'] + ".jpg"
-
-
-    image_path = os.path.join(image_dir, image_filename)
-    print(image_path)
+    for ext in extentions:
+        image_filename = row['Image'] + ext
+        image_path = os.path.join(image_dir, image_filename)
+        if os.path.isfile(image_path):
+            break
 
     if not os.path.isfile(image_path):
+        print(f"Image file '{image_path}' not found. Skipping this row.")
         continue
     
     base_width = 480
