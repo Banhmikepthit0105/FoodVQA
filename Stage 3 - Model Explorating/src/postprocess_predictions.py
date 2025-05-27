@@ -14,25 +14,22 @@ genai.configure(api_key=key)
 model = genai.GenerativeModel('models/gemini-2.0-flash-001')
 LLM_name = str(input("Enter the model name: ")).strip()
 
-def constraint(answer, predict):
+def constraint(question, predict):
     prompt = (
-        'You are a helpful assistant.\n'
-
-        'Your task is to extract the words from the generated text of "Predict" that is as close as possible in meaning to the ground truth text of "Answer".\n'
-
-        'If there are words in "Predict" that is an exact match with "Answer", return those words as extracted words.\n'
-
-        'The length of the extracted words must only 5 words or less.\n'
-
-        'In case you can not find words that are remotely close in meaning, the extracted words should at least match the ground truth words in type. For example, if the ground truth are adjectives then the extracted words must also be adjectives.\n'
-
-        'Respond with only the extracted words and nothing else.\n'
-
-        f'Predict: {predict}\n'
-
-        f'Answer: {answer}'
+        "You are a helpful VQA assistant.\n"
+        "Your task is to extract a single, most relevant answer to the question, based on the given prediction text.\n"
+        "The answer must:\n"
+        "- Directly address the question's intent\n"
+        "- Contain no more than 5 words\n"
+        "- Be written entirely in lowercase letters\n"
+        "- Not include any commas, lists, or explanations\n"
+        "- Be concise and natural, like a typical VQA answer (e.g., 'red shirt', 'top left', 'enchiladas', 'golden-brown', etc.)\n"
+        "- If multiple candidates appear in the prediction, select the one most relevant to the question\n"
+        "- Respond with only the final answer and nothing else\n\n"
+        f"Question: {question}\n"
+        f"Predict: {predict}\n"
     )
-    
+
     response = model.generate_content([prompt])
 
     return response.text.strip() 
@@ -63,7 +60,8 @@ def main():
             print(f"{row['Image']} {row['Question']}")
             continue
 
-        output = constraint(row['Answer'], row['Predict'])
+        # output = constraint(row['Answer'], row['Predict'])
+        output = constraint(row['Question'], row['Predict'])
         
         print(_, output)
 
